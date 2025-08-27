@@ -1,0 +1,85 @@
+/* custom.css */
+.btn-primary,
+.btn-default,
+.search-btn,
+.toggle-btn,
+.search-widget fieldset .largesearch-btn,
+.navbar-default .navbar-nav > li > a.active:after,
+.navbar-default .navbar-nav > li > a::after,
+.panel.sidebar-menu .panel-heading h1,
+.panel.sidebar-menu .panel-heading h2,
+.panel.sidebar-menu .panel-heading h3,
+.panel.sidebar-menu .panel-heading h4,
+.panel.sidebar-menu .panel-heading h5 {
+    background-color: #03ac11 !important;
+    border-color: #03ac11 !important;
+    color: #fff !important;
+}
+
+.properties-page .proerty-th .proerty-price,
+.proerty-th-list .proerty-price,
+.property-features ul li a::after {
+    color: #0066cc !important;
+}
+
+.nav-button.login {
+    background-color: #03ac11 !important;
+    margin-right: 5px; /* biar sama, atau bisa kamu ubah juga */
+}
+
+.slider-content h2 {
+    font-size: 40px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    color: #03ac11;
+    font-weight: 500;
+}
+
+.count-item h5 {
+    font: 500 15px "Open Sans", sans-serif;
+    padding: 2px 15px;
+    text-transform: uppercase;
+    margin: 0px;
+    border-left: 2px solid #03ac11;
+    border-right: 2px solid #03ac11;
+    display: inline-block;
+}
+
+.footer-title-line {
+    width: 100px;
+    height: 2px;
+    background: #03ac11;
+    margin: 0px 0px 33px;
+    position: relative;
+    top: -2px;
+}
+
+.footer-blog .blg-entry h6 a {
+    font-size: 13px;
+    text-transform: capitalize;
+    font-weight: 600;
+    color: #03ac11;
+}
+
+blockquote cite a[href="property.html"] {
+    color: #fafafa;
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 24px;
+    border-left: 21px solid #72e046;
+    border-left-width: 5px;
+    border-left-style: solid;
+    border-left-color: #03ac11;
+    background-color: rgba(15, 15, 15, 0.205);
+}
+
+.slider-content p {
+    font-size: 14px;
+    margin-bottom: 60px;
+    color: rgb(212, 240, 214);
+}
