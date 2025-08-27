@@ -1,5 +1,3 @@
-
-
 <!-- Javascript Font Awesome pro -->
 <script src="https://raw.githack.com/mrbudbud/fontawesome-pro/master/src/js/all.min.js"></script>
 <!-- jQuery -->
@@ -17,5 +15,7 @@
 
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
 <script src="{{ asset('LTE/dist/js/pages/dashboard2.js') }}"></script>
+
+
 
 @stack('script')

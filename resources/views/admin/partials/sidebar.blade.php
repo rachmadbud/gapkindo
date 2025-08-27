@@ -44,6 +44,15 @@
                     </ul>
                 </li>
 
+                <li class="nav-item">
+                    <a href="{{ route('admin.news') }}" class="nav-link">
+                        <i class="nav-icon fad fa-newspaper"></i>
+                        <p>
+                            News
+                        </p>
+                    </a>
+                </li>
+
             </ul>
 
         </nav>
