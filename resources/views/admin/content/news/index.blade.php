@@ -137,38 +137,74 @@
                                     data-target="#modal-inputpcs">
                                     <i class="far fa-arrow-alt-to-bottom"></i> Input Item
                                 </button>
-                                <form action="" method="post">
+                                <form action="{{ route('admin.newsInsert') }}" method="post" enctype="multipart/form-data">
                                     @csrf
                                     <div class="modal fade" id="modal-inputpcs">
                                         <div class="modal-dialog modal-lg">
                                             <div class="modal-content">
-                                                <div class="modal-header">
-                                                    <h4 class="modal-title">Input Pcs</h4>
-                                                    <button type="button" class="close" data-dismiss="modal"
-                                                        aria-label="Close">
-                                                        <span aria-hidden="true">&times;</span>
-                                                    </button>
-                                                </div>
-                                                <div class="modal-body">
-                                                    <div class="row">
-                                                        <div class="col-6">
-                                                            <label for="namaBarang" class="col-form-label">Kode
-                                                                Barang</label>
-                                                            <input type="text" id="kode_barang" name="kode_barang"
-                                                                class="form-control " placeholder="contoh: K001">
-
-                                                            <span class="invalid-feedback" role="alert">
-                                                                <strong></strong>
-                                                            </span>
+                                                <!-- general form elements -->
+                                                <!-- Horizontal Form -->
+                                                <div class="card card-success">
+                                                    <div class="card-header">
+                                                        <h3 class="card-title">Input News</h3>
+                                                    </div>
+                                                    <!-- /.card-header -->
+                                                    <!-- form start -->
+                                                    <div class="card-body">
+                                                        <div class="form-group row">
+                                                            <label for="inputTitle"
+                                                                class="col-sm-2 col-form-label">Title</label>
+                                                            <div class="col-sm-10">
+                                                                <input type="text" name="title"
+                                                                    class="form-control @error('title') is-invalid @enderror"
+                                                                    id="title" placeholder="Title">
+                                                            </div>
                                                         </div>
-                                                        <div class="col-6">
-                                                            <label for="satuan" class="col-form-label">Nama Barang</label>
-                                                            <input type="text" id="nama_barang" name="nama_barang"
-                                                                class="form-control " placeholder="contoh: Item A">
-
+                                                        <div class="form-group row">
+                                                            <label for="inputContent"
+                                                                class="col-sm-2 col-form-label">Content</label>
+                                                            <div class="col-sm-10">
+                                                                <textarea type="text" name="content" class="form-control @error('content') is-invalid @enderror" id="inputEmail3"
+                                                                    placeholder="Content"></textarea>
+                                                            </div>
                                                         </div>
+                                                        <div class="form-group row">
+                                                            <label for="inputSource"
+                                                                class="col-sm-2 col-form-label">Source</label>
+                                                            <div class="col-sm-10">
+                                                                <input type="text" name="source"
+                                                                    class="form-control @error('content') is-invalid @enderror"
+                                                                    id="inputEmail3" placeholder="example: xxxx.com">
+                                                            </div>
+                                                        </div>
+                                                        <div class="form-group row">
+                                                            <label for="inputImage"
+                                                                class="col-sm-2 col-form-label">Image</label>
+                                                            <div class="col-sm-10">
+                                                                <div class="custom-file">
+                                                                    <input type="file" name="img"
+                                                                        class="custom-file-input" id="exampleInputFile"
+                                                                        accept="image/*">
+                                                                    <label class="custom-file-label"
+                                                                        for="exampleInputFile">Choose file</label>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-12">
+                                                            <div class="mt-3">
+                                                                <center>
+                                                                    <img id="previewImage" src="#"
+                                                                        alt="Preview Gambar"
+                                                                        class="img-fluid rounded shadow-sm"
+                                                                        style="max-height: 500px; display: none;">
+                                                                </center>
+                                                            </div>
+                                                        </div>
+
+
                                                     </div>
                                                 </div>
+                                                <!-- /.card -->
                                                 <div class="modal-footer justify-content-between">
                                                     <button type="button" class="btn btn-default"
                                                         data-dismiss="modal">Close</button>
@@ -368,6 +404,31 @@
             @if (session('error'))
                 toastr.error("{{ session('error') }}");
             @endif
+        });
+    </script>
+
+    <script>
+        document.getElementById("exampleInputFile").addEventListener("change", function(event) {
+            const file = event.target.files[0];
+            const preview = document.getElementById("previewImage");
+            const label = event.target.nextElementSibling; // ambil elemen <label class="custom-file-label">
+
+            if (file) {
+                // tampilkan nama file di label
+                label.textContent = file.name;
+
+                // preview gambar
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    preview.src = e.target.result;
+                    preview.style.display = "block";
+                };
+                reader.readAsDataURL(file);
+            } else {
+                label.textContent = "Choose file";
+                preview.src = "#";
+                preview.style.display = "none";
+            }
         });
     </script>
 @endpush

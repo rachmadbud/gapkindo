@@ -56,7 +56,7 @@ $(document).ready(function () {
         items: 3
 
     });
-    $("#testimonial-slider").owlCarousel({
+    $(".testimonial-slider").owlCarousel({
         navigation: false, // Show next and prev buttons
         slideSpeed: 100,
         pagination: true,
@@ -95,7 +95,7 @@ $(document).ready(function () {
             if (curval <= 1007) {
                 $('#counter').text(curval + 1);
             }
-            if (curval1 <= 1280) {
+            if (curval1 <= 9) {
                 $('#counter1').text(sdf_FTS((curval1 + 20), 0, ' '));
             }
             if (curval2 <= 145) {

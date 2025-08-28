@@ -37,15 +37,35 @@ class NewsController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $request->validate([
+            'title' => 'required',
+            'content' => 'required',
+            'img' => 'required|image|mimes:jpeg,png,jpg,gif,svg|max:2048',
+        ]);
+
+        $imageName = time() . '.' . $request->img->extension();
+        $request->img->move(public_path('guest/assets/img/news'), $imageName);
+
+        $data = [
+            'title' => $request->title,
+            'content' => $request->content,
+            'image' => $imageName,
+            'source'  => !empty($request->source) ? $request->source : 'unknown',
+            'created_at' => now(),
+        ];
+
+        $this->modelNews->insertData($data);
+
+        // return redirect()->route('admin.news')->with('success', 'News created successfully.');
+        return 'berhasil';
     }
 
     /**
      * Display the specified resource.
      */
-    public function show(string $id)
+    public function show($id)
     {
-        //
+        return $id;
     }
 
     /**

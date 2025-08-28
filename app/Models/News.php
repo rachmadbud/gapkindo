@@ -17,4 +17,17 @@ class News extends Model
         $data = DB::table('news')->orderBy('created_at', 'desc')->get();
         return $data;
     }
+
+    public function insertData($data)
+    {
+        $insert = DB::table('news')->insert($data);
+
+        return $insert;
+    }
+
+    public function getDataById($id)
+    {
+        $data = DB::table('news')->where('id', $id)->first();
+        return $data;
+    }
 }

@@ -8,7 +8,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>GAPKINNDO | Home page</title>
+    <title>@yield('title')</title>
     <meta name="description" content="GARO is a real-estate template">
     <meta name="author" content="Kimarotec">
     <meta name="keyword" content="html5, css, bootstrap, property, real-estate theme , bootstrap template">
@@ -36,6 +36,10 @@
     <link rel="stylesheet" href="{{ asset('guest/assets/css/style.css') }}">
     <link rel="stylesheet" href="{{ asset('guest/assets/css/responsive.css') }}">
     <link rel="stylesheet" href="{{ asset('guest/assets/css/custom.css') }}">
+
+    <!-- CSS Font Awesome pro -->
+    <link rel="stylesheet" href="https://raw.githack.com/mrbudbud/fontawesome-pro/master/src/css/all.css">
+
 </head>
 
 <body>

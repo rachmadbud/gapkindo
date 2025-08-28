@@ -83,3 +83,14 @@ blockquote {
     margin-bottom: 60px;
     color: rgb(212, 240, 214);
 }
+
+.row-centered {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* rata tengah */
+  gap: 20px; /* jarak antar kolom */
+}
+
+.row-centered > div {
+  flex: 0 0 auto; /* biar ukuran kolom tidak dipaksa */
+}

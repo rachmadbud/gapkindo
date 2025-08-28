@@ -6,3 +6,4 @@ Route::get('/', function () {
 })->name('dashboard');
 
 Route::get('news', 'Admin\\NewsController@index')->name('news');
+Route::post('news/insert', 'Admin\\NewsController@store')->name('newsInsert');

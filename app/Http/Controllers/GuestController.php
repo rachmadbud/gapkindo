@@ -17,4 +17,12 @@ class GuestController extends Controller
 
         return view('guest.index', ['dataNews' => $dataNews]);
     }
+
+    public function detailNews($id)
+    {
+        $idNews = app(\App\Helpers\Helper::class)->dekrip($id);
+        return view('guest.detail-news', [
+            'dataNews' => $this->modelNews->getDataById($idNews)
+        ]);
+    }
 }
