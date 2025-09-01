@@ -12,23 +12,23 @@ class ComposerStaticInitf5e8cc33caad0fca5d13b2d2e02d99e3
         'e69f7f6ee287b969198c3c9d6777bd38' => __DIR__ . '/..' . '/symfony/polyfill-intl-normalizer/bootstrap.php',
         '320cde22f66dd4f5d3fd621d3e88b98f' => __DIR__ . '/..' . '/symfony/polyfill-ctype/bootstrap.php',
         '8825ede83f2f289127722d4e842cf7e8' => __DIR__ . '/..' . '/symfony/polyfill-intl-grapheme/bootstrap.php',
-        'b6b991a57620e2fb6b2f66f03fe9ddc2' => __DIR__ . '/..' . '/symfony/string/Resources/functions.php',
         'f598d06aa772fa33d905e87be6398fb1' => __DIR__ . '/..' . '/symfony/polyfill-intl-idn/bootstrap.php',
+        'b6b991a57620e2fb6b2f66f03fe9ddc2' => __DIR__ . '/..' . '/symfony/string/Resources/functions.php',
         '667aeda72477189d0494fecd327c3641' => __DIR__ . '/..' . '/symfony/var-dumper/Resources/functions/dump.php',
-        '662a729f963d39afe703c9d9b7ab4a8c' => __DIR__ . '/..' . '/symfony/polyfill-php83/bootstrap.php',
         'a4a119a56e50fbb293281d9a48007e0e' => __DIR__ . '/..' . '/symfony/polyfill-php80/bootstrap.php',
+        '662a729f963d39afe703c9d9b7ab4a8c' => __DIR__ . '/..' . '/symfony/polyfill-php83/bootstrap.php',
         '35a6ad97d21e794e7e22a17d806652e4' => __DIR__ . '/..' . '/nunomaduro/termwind/src/Functions.php',
-        '3bd81c9b8fcc150b69d8b63b4d2ccf23' => __DIR__ . '/..' . '/spatie/flare-client-php/src/helpers.php',
         '09f6b20656683369174dd6fa83b7e5fb' => __DIR__ . '/..' . '/symfony/polyfill-uuid/bootstrap.php',
         'a1105708a18b76903365ca1c4aa61b02' => __DIR__ . '/..' . '/symfony/translation/Resources/functions.php',
         '47e1160838b5e5a10346ac4084b58c23' => __DIR__ . '/..' . '/laravel/prompts/src/helpers.php',
-        '6124b4c8570aa390c21fafd04a26c69f' => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy/deep_copy.php',
         'e39a8b23c42d4e1452234d762b03835a' => __DIR__ . '/..' . '/ramsey/uuid/src/functions.php',
+        '3bd81c9b8fcc150b69d8b63b4d2ccf23' => __DIR__ . '/..' . '/spatie/flare-client-php/src/helpers.php',
         '265b4faa2b3a9766332744949e83bf97' => __DIR__ . '/..' . '/laravel/framework/src/Illuminate/Collections/helpers.php',
         'c7a3c339e7e14b60e06a2d7fcce9476b' => __DIR__ . '/..' . '/laravel/framework/src/Illuminate/Events/functions.php',
         'f57d353b41eb2e234b26064d63d8c5dd' => __DIR__ . '/..' . '/laravel/framework/src/Illuminate/Filesystem/functions.php',
         'f0906e6318348a765ffb6eb24e0d0938' => __DIR__ . '/..' . '/laravel/framework/src/Illuminate/Foundation/helpers.php',
         '58571171fd5812e6e447dce228f52f4d' => __DIR__ . '/..' . '/laravel/framework/src/Illuminate/Support/helpers.php',
+        '6124b4c8570aa390c21fafd04a26c69f' => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy/deep_copy.php',
         'a1cfe24d14977df6878b9bf804af2d1c' => __DIR__ . '/..' . '/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php',
         'ec07570ca5a812141189b1fa81503674' => __DIR__ . '/..' . '/phpunit/phpunit/src/Framework/Assert/Functions.php',
         '320163ac6b93aebe3dc25b60a0533d56' => __DIR__ . '/..' . '/spatie/laravel-ignition/src/helpers.php',
@@ -46,8 +46,13 @@ class ComposerStaticInitf5e8cc33caad0fca5d13b2d2e02d99e3
             'Whoops\\' => 7,
             'Webmozart\\Assert\\' => 17,
         ),
+        'V' => 
+        array (
+            'VildanBina\\LaravelAutoTranslation\\' => 34,
+        ),
         'T' => 
         array (
+            'TikToken\\' => 9,
             'TijsVerkoyen\\CssToInlineStyles\\' => 31,
             'Tests\\' => 6,
             'Termwind\\' => 9,
@@ -181,6 +186,14 @@ class ComposerStaticInitf5e8cc33caad0fca5d13b2d2e02d99e3
         'Webmozart\\Assert\\' => 
         array (
             0 => __DIR__ . '/..' . '/webmozart/assert/src',
+        ),
+        'VildanBina\\LaravelAutoTranslation\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/vildanbina/laravel-auto-translation/src',
+        ),
+        'TikToken\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/mehrab-wj/tiktoken-php/src',
         ),
         'TijsVerkoyen\\CssToInlineStyles\\' => 
         array (
@@ -515,6 +528,7 @@ class ComposerStaticInitf5e8cc33caad0fca5d13b2d2e02d99e3
         'App\\Http\\Middleware\\TrustHosts' => __DIR__ . '/../..' . '/app/Http/Middleware/TrustHosts.php',
         'App\\Http\\Middleware\\TrustProxies' => __DIR__ . '/../..' . '/app/Http/Middleware/TrustProxies.php',
         'App\\Http\\Middleware\\VerifyCsrfToken' => __DIR__ . '/../..' . '/app/Http/Middleware/VerifyCsrfToken.php',
+        'App\\Http\\Middleware\\lang' => __DIR__ . '/../..' . '/app/Http/Middleware/lang.php',
         'App\\Models\\News' => __DIR__ . '/../..' . '/app/Models/News.php',
         'App\\Providers\\AppServiceProvider' => __DIR__ . '/../..' . '/app/Providers/AppServiceProvider.php',
         'App\\Providers\\AuthServiceProvider' => __DIR__ . '/../..' . '/app/Providers/AuthServiceProvider.php',
@@ -5997,8 +6011,18 @@ class ComposerStaticInitf5e8cc33caad0fca5d13b2d2e02d99e3
         'TijsVerkoyen\\CssToInlineStyles\\Css\\Property\\Property' => __DIR__ . '/..' . '/tijsverkoyen/css-to-inline-styles/src/Css/Property/Property.php',
         'TijsVerkoyen\\CssToInlineStyles\\Css\\Rule\\Processor' => __DIR__ . '/..' . '/tijsverkoyen/css-to-inline-styles/src/Css/Rule/Processor.php',
         'TijsVerkoyen\\CssToInlineStyles\\Css\\Rule\\Rule' => __DIR__ . '/..' . '/tijsverkoyen/css-to-inline-styles/src/Css/Rule/Rule.php',
+        'TikToken\\Encoder' => __DIR__ . '/..' . '/mehrab-wj/tiktoken-php/src/Encoder.php',
         'UnhandledMatchError' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/UnhandledMatchError.php',
         'ValueError' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/ValueError.php',
+        'VildanBina\\LaravelAutoTranslation\\AutoTranslationsServiceProvider' => __DIR__ . '/..' . '/vildanbina/laravel-auto-translation/src/AutoTranslationsServiceProvider.php',
+        'VildanBina\\LaravelAutoTranslation\\Commands\\ScanTextCommand' => __DIR__ . '/..' . '/vildanbina/laravel-auto-translation/src/Commands/ScanTextCommand.php',
+        'VildanBina\\LaravelAutoTranslation\\Commands\\TranslateCommand' => __DIR__ . '/..' . '/vildanbina/laravel-auto-translation/src/Commands/TranslateCommand.php',
+        'VildanBina\\LaravelAutoTranslation\\Contracts\\TranslationDriver' => __DIR__ . '/..' . '/vildanbina/laravel-auto-translation/src/Contracts/TranslationDriver.php',
+        'VildanBina\\LaravelAutoTranslation\\Drivers\\ChatGPTDriver' => __DIR__ . '/..' . '/vildanbina/laravel-auto-translation/src/Drivers/ChatGPTDriver.php',
+        'VildanBina\\LaravelAutoTranslation\\Drivers\\DeepLDriver' => __DIR__ . '/..' . '/vildanbina/laravel-auto-translation/src/Drivers/DeepLDriver.php',
+        'VildanBina\\LaravelAutoTranslation\\Drivers\\GoogleTranslateDriver' => __DIR__ . '/..' . '/vildanbina/laravel-auto-translation/src/Drivers/GoogleTranslateDriver.php',
+        'VildanBina\\LaravelAutoTranslation\\Services\\TranslationEngineService' => __DIR__ . '/..' . '/vildanbina/laravel-auto-translation/src/Services/TranslationEngineService.php',
+        'VildanBina\\LaravelAutoTranslation\\TranslationWorkflowService' => __DIR__ . '/..' . '/vildanbina/laravel-auto-translation/src/TranslationWorkflowService.php',
         'Webmozart\\Assert\\Assert' => __DIR__ . '/..' . '/webmozart/assert/src/Assert.php',
         'Webmozart\\Assert\\InvalidArgumentException' => __DIR__ . '/..' . '/webmozart/assert/src/InvalidArgumentException.php',
         'Webmozart\\Assert\\Mixin' => __DIR__ . '/..' . '/webmozart/assert/src/Mixin.php',

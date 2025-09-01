@@ -17,10 +17,7 @@
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-12">
 
                 <blockquote><cite><a href="property.html">ASSOSIASI PERUSAHAAN KARET INDONESIA</a></cite>
-                    <p>Perusahaan Karet Indonesia (GAPKINDO) adalah asosiasi perusahaan-perusahaan Indonesia yang
-                        bergerak di industri karet alam. Tujuan GAPKINDO adalah untuk mengembangkan dan meningkatkan
-                        produksi, pengolahan, dan pemasaran karet alam Indonesia sebagai salah satu komoditas ekspor
-                        utama Indonesia.
+                    <p>{{ trans('global.p') }}
                     </p>
                 </blockquote>
             </div>

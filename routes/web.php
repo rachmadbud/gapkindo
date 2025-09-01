@@ -1,9 +1,19 @@
 <?php
 
+use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\Route;
 
 
 Route::get('/', 'GuestController@index')->name('guest.index');
+
+Route::get('/lang/{locale}', function (string $locale) {
+  if (! in_array($locale, ['en', 'id'])) {
+    abort(400);
+  }
+
+  App::setLocale($locale);
+  return redirect('/')->withCookie(cookie()->forever('locale', $locale));
+})->name('langSwitch');
 // Route::get('/', function () {
 //   return view('guest.layouts.master');
 // })->name('guest.index');
@@ -11,6 +21,14 @@ Route::get('/', 'GuestController@index')->name('guest.index');
 Route::get('/comming-soon', function () {
   return view('guest.comming-soon');
 })->name('soon');
+
+Route::get('/berita', 'GuestController@berita')->name('berita');
+
+Route::get('/kontak', function () {
+  return view('guest.kontak');
+})->name('kontak');
+
+
 
 Auth::routes();
 

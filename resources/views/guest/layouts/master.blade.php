@@ -9,7 +9,6 @@
 
 @include('guest.partials.nav')
 
-
 @yield('content')
 
 <!-- Footer area-->
@@ -38,9 +37,9 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6 wow fadeInRight animated">
+                <div class="col-md-2 col-sm-6 wow fadeInRight animated">
                     <div class="single-footer">
-                        <h4>Tautan cepat</h4>
+                        <h4>Tautan</h4>
                         <div class="footer-title-line"></div>
                         <ul class="footer-menu">
                             <li><a href="{{ route('soon') }}">Soon</a> </li>
@@ -106,12 +105,18 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6 wow fadeInRight animated">
+                <div class="col-md-4 col-sm-6 wow fadeInRight animated">
                     <div class="single-footer news-letter">
-                        <h4>Stay in touch</h4>
+                        <h4>Sekretariat GAPKINDO</h4>
                         <div class="footer-title-line"></div>
-                        <p>Lorem ipsum dolor sit amet, nulla suscipit similique quisquam molestias. Vel unde,
-                            blanditiis.</p>
+                        <ul class="footer-menu">
+                            <li><a href="{{ route('soon') }}">Direktur Eksekutif</a> </li>
+                        </ul>
+                        <p>Erwin Tunas</p>
+                        <ul class="footer-menu">
+                            <li><a href="{{ route('soon') }}">Asisten Direktur Eksekutif 1</a> </li>
+                        </ul>
+                        <p>Uhendi Haris</p>
 
                         <form>
                             <div class="input-group">

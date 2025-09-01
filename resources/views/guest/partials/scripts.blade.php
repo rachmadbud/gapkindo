@@ -16,6 +16,8 @@
 
 <script src="{{ asset('guest/assets/js/main.js') }}"></script>
 
+@stack('scripts')
+
 </body>
 
 </html>

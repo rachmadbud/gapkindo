@@ -25,4 +25,11 @@ class GuestController extends Controller
             'dataNews' => $this->modelNews->getDataById($idNews)
         ]);
     }
+
+    public function berita()
+    {
+        $dataNews = $this->modelNews->getData();
+
+        return view('guest.berita', ['dataNews' => $dataNews]);
+    }
 }
