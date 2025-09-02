@@ -16,7 +16,7 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-12">
 
-                <blockquote><cite><a href="property.html">ASSOSIASI PERUSAHAAN KARET INDONESIA</a></cite>
+                <blockquote><cite><a href="property.html">GABUNGAN PERUSAHAAN KARET INDONESIA</a></cite>
                     <p>{{ trans('global.p') }}
                     </p>
                 </blockquote>

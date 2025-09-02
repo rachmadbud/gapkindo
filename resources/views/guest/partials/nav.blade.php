@@ -1,4 +1,4 @@
-<nav class="navbar navbar-default ">
+<nav class="navbar navbar-default my-2">
     <div class="container">
         <!-- Brand and toggle get grouped for   better mobile display -->
         <div class="navbar-header">
@@ -8,8 +8,8 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/"><img src="{{ asset('guest/assets/img/logo-gapkindo.jpg') }}"
-                    style="width:80px; height:70px;" alt=""></a> <br>
+            <a class="navbar-brand" href="/"><img src="{{ asset('guest/assets/img/logo2.jpg') }}"
+                    style="width:150px; height:49px;" alt=""></a> <br>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
