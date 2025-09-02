@@ -304,7 +304,7 @@
             <div class="row">
                 <div class="col-md-10 col-md-offset-1 col-sm-12 text-center page-title">
                     <!-- /.feature title -->
-                    <h2>Secretariat GAPKINDO</h2>
+                    <h2>Sekretariat GAPKINDO</h2>
                 </div>
             </div>
             <div class="row-centered">
