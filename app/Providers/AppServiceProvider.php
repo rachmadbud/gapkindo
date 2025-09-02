@@ -4,6 +4,9 @@ namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
+use Illuminate\Support\Facades\View;
+use Illuminate\Support\Facades\DB;
+
 class AppServiceProvider extends ServiceProvider
 {
     /**
@@ -23,6 +26,9 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        //
+        View::composer('*', function ($view) {
+            $news = DB::table('news')->orderBy('created_at', 'desc')->take(3)->get();
+            $view->with('newsFooter', $news);
+        });
     }
 }
