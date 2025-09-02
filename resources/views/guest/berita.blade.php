@@ -7,7 +7,7 @@
         <div class="container">
             <div class="row">
                 <div class="page-head-content">
-                    <h1 class="page-title">HALAMAN BERITA</h1>
+                    <h1 class="page-title">HALAMAN News</h1>
                 </div>
             </div>
         </div>
