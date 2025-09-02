@@ -54,8 +54,7 @@
                             <div class="row">
                                 <div class="col-md-10 col-md-offset-1 col-sm-12 text-center page-title">
                                     <!-- /.feature title -->
-                                    <h2>GAP
-                                        KINDO </h2>
+                                    <h2>GAPKINDO</h2>
                                 </div>
                             </div>
                         </div>
@@ -65,18 +64,18 @@
                             <div class="row">
                                 <div class="col-xs-6 m-padding">
                                     <div class="welcome-estate">
-                                        <div class="welcome-icon">
+                                        {{-- <div class="welcome-icon">
                                             <i class="pe-7s-home pe-4x"></i>
                                         </div>
-                                        <h3>Any property</h3>
+                                        <h3>Any property</h3> --}}
                                     </div>
                                 </div>
                                 <div class="col-xs-6 m-padding">
                                     <div class="welcome-estate">
-                                        <div class="welcome-icon">
+                                        {{-- <div class="welcome-icon">
                                             <i class="pe-7s-users pe-4x"></i>
                                         </div>
-                                        <h3>More Clients</h3>
+                                        <h3>More Clients</h3> --}}
                                     </div>
                                 </div>
 
@@ -87,18 +86,18 @@
 
                                 <div class="col-xs-6 m-padding">
                                     <div class="welcome-estate">
-                                        <div class="welcome-icon">
+                                        {{-- <div class="welcome-icon">
                                             <i class="pe-7s-notebook pe-4x"></i>
                                         </div>
-                                        <h3>Easy to use</h3>
+                                        <h3>Easy to use</h3> --}}
                                     </div>
                                 </div>
                                 <div class="col-xs-6 m-padding">
                                     <div class="welcome-estate">
-                                        <div class="welcome-icon">
+                                        {{-- <div class="welcome-icon">
                                             <i class="pe-7s-help2 pe-4x"></i>
                                         </div>
-                                        <h3>Any help </h3>
+                                        <h3>Any help </h3> --}}
                                     </div>
                                 </div>
 
