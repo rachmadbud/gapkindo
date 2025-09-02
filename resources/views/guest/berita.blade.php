@@ -1,6 +1,6 @@
 @extends('guest.layouts.master')
 
-@section('title', 'Kontak | GAPKINDO')
+@section('title', 'Berita | GAPKINDO')
 
 @section('content')
     <div class="page-head">
