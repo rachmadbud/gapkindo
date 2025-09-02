@@ -20,7 +20,7 @@
         <p style="font-size: 20px; color: #666; margin-bottom: 30px;">
             Our website is under construction. Stay tuned for something amazing!
         </p>
-        <a href="{{ route('/') }}" class="btn btn-default">Home</a>
+        <a href="{{ url('/') }}" class="btn btn-default">Home</a>
 
     </div>
 
