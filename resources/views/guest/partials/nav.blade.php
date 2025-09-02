@@ -21,25 +21,42 @@
                     data-wow-delay="0.48s">Submit</button>
             </div> --}}
             <ul class="main-nav nav navbar-nav navbar-right">
-                <li class="dropdown ymm-sw " data-wow-delay="0.1s">
+                <li class="wow fadeInDown" data-wow-delay="0.1s">
                     <a href="{{ url('/') }}">Home</a>
                 </li>
-                <li class="dropdown ymm-sw " data-wow-delay="0.1s">
+                <li class="wow fadeInDown " data-wow-delay="0.1s">
                     <a href="{{ route('berita') }}">Berita</a>
                 </li>
-
-                <li class="wow fadeInDown" data-wow-delay="0.5s"><a href="{{ route('kontak') }}">Kontak</a></li>
-                <li class="dropdown ymm-sw " data-wow-delay="0.1s">
-                    <a href="index.html" class="dropdown-toggle " data-toggle="dropdown" data-hover="dropdown"
-                        data-delay="200">{{ trans('global.lang') }}<b class="caret"></b></a>
-                    <ul class="dropdown-menu navbar-nav">
-                        @foreach (['en' => 'English', 'id' => 'Indonesia'] as $lang => $language)
-                            <li>
-                                <a href="{{ route('langSwitch', $lang) }}">{{ $language }}</a>
-                            </li>
-                        @endforeach
-                    </ul>
+                <li class="wow fadeInDown " data-wow-delay="0.1s">
+                    <a href="{{ route('galeri') }}">Galeri</a>
                 </li>
+                <li class="dropdown ymm-sw " data-wow-delay="0.1s">
+                    <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
+                        data-delay="200">Daftar <b class="caret"></b></a>
+                    <ul class="dropdown-menu navbar-nav">
+                        <li>
+                            <a href="{{ route('soon') }}">Daftar Anggota (TPP)</a>
+                        </li>
+                        <li>
+                            <a href="{{ route('soon') }}">Daftar Cabang</a>
+                        </li>
+                </li>
+
+            </ul>
+            </li>
+
+            <li class="wow fadeInDown" data-wow-delay="0.5s"><a href="{{ route('kontak') }}">Kontak</a></li>
+            <li class="dropdown ymm-sw " data-wow-delay="0.1s">
+                <a href="index.html" class="dropdown-toggle " data-toggle="dropdown" data-hover="dropdown"
+                    data-delay="200">{{ trans('global.lang') }}<b class="caret"></b></a>
+                <ul class="dropdown-menu navbar-nav">
+                    @foreach (['en' => 'English', 'id' => 'Indonesia'] as $lang => $language)
+                        <li>
+                            <a href="{{ route('langSwitch', $lang) }}">{{ $language }}</a>
+                        </li>
+                    @endforeach
+                </ul>
+            </li>
             </ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->

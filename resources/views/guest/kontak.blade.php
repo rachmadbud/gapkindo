@@ -48,7 +48,9 @@
                         </div>
                         <!-- /.row -->
                         <hr>
-                        <div id="map"></div>
+
+                        <div id="map" style="width:100%; height:400px;"></div>
+
                         <hr>
                         <h2>Contact form</h2>
                         <form>
@@ -96,3 +98,23 @@
         </div>
     </div>
 @endsection
+
+@push('scripts')
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // Buat map di div #map
+            var map = L.map('map').setView([-6.1741661609779435, 106.8111734503309], 13);
+
+            // Tambahkan tile dari OpenStreetMap
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 19,
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
+
+            L.marker([-6.1741661609779435, 106.8111734503309])
+                .addTo(map)
+                .bindPopup("<b>GAPKINDO</b><br>Jakarta Pusat.")
+                .openPopup();
+        });
+    </script>
+@endpush

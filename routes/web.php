@@ -44,6 +44,11 @@ Route::get('/comming-soon', function () {
 
 Route::get('/berita', 'GuestController@berita')->name('berita');
 
+
+Route::get('/galeri', function () {
+  return view('guest.comming-soon');
+})->name('galeri');
+
 Route::get('/kontak', function () {
   return view('guest.kontak');
 })->name('kontak');
