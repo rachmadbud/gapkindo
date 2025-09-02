@@ -11,15 +11,14 @@
     <title>@yield('title')</title>
     <meta name="description" content="GAPKINDO - Gabungan Perusahaan Karet Indonesia">
     <meta name="author" content="Sekretariat GAPKINDO">
-    <meta name="keyword" content="GAPKINDO - Gabungan Perusahaan Karet Indonesia>
-    <meta name="viewport"
-        content="width=device-width, initial-scale=1">
+    <meta name="keyword" content="GAPKINDO - Gabungan Perusahaan Karet Indonesia">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800' rel='stylesheet' type='text/css'>
 
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ asset('guest/assets/img/icon/logo-gapkindo.ico') }}" type="image/x-icon">
+    <link rel="icon" href="{{ asset('guest/assets/img/icon/logo-gapkindo.ico') }}" type="image/x-icon">
 
     <link rel="stylesheet" href="{{ asset('guest/assets/css/normalize.css') }}">
     <link rel="stylesheet" href="{{ asset('guest/assets/css/font-awesome.min.css') }}">
