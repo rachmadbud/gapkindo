@@ -92,13 +92,14 @@
                                     <div class="clear">
                                         <div class="col-xs-4 col-sm-4 dealer-face">
                                             <a href="">
-                                                <img src="assets/img/client-face1.png" class="img-circle">
+                                                <img src="{{ asset('guest/assets/img/logo-gapkindo.jpg') }}"
+                                                    class="img-circle">
                                             </a>
                                         </div>
                                         <div class="col-xs-8 col-sm-8 ">
                                             <h3 class="dealer-name">
-                                                <a href="">Nathan James</a>
-                                                <span>Real Estate Agent</span>
+                                                <a href="">Sekretariat</a>
+                                                <span>GAPKINDO</span>
                                             </h3>
                                             <div class="dealer-social-media">
                                                 <a class="twitter" target="_blank" href="">
@@ -123,12 +124,12 @@
 
                                     <div class="clear">
                                         <ul class="dealer-contacts">
-                                            <li><i class="pe-7s-map-marker strong"> </i> 9089 your adress her</li>
-                                            <li><i class="pe-7s-mail strong"> </i> email@yourcompany.com</li>
-                                            <li><i class="pe-7s-call strong"> </i> +1 908 967 5906</li>
+                                            <li><i class="pe-7s-map-marker strong"> </i>Jl. Cideng Barat No.62-A 14,
+                                                RT.14/RW.2, Cideng, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus
+                                                Ibukota Jakarta 10150</li>
+                                            <li><i class="pe-7s-mail strong"> </i> gapkindo.pusat@gmail.com,</li>
+                                            <li><i class="pe-7s-call strong"> </i>(62-21) 3846811, 3500368</li>
                                         </ul>
-                                        <p>Duis mollis blandit tempus porttitor curabiturDuis mollis blandit tempus
-                                            porttitor curabitur , est non…</p>
                                     </div>
 
                                 </div>
