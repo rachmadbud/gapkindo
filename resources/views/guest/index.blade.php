@@ -352,7 +352,8 @@
                     <div class="col-md-6 col-sm-10 col-sm-offset-1 col-md-offset-0 col-xs-12">
 
                         <div class="col-xs-12">
-                            <p class="asks-call">ADA PERTANYAAN? TELPON : <span class="strong"> (62-21) 3846811,
+                            <p class="asks-call">{{ __('global.HAVEQUESTIONS?CALL') }} : <span class="strong"> (62-21)
+                                    3846811,
                                     3500368</span>
                             </p>
                         </div>

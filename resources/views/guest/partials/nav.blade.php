@@ -22,30 +22,31 @@
             </div> --}}
             <ul class="main-nav nav navbar-nav navbar-right">
                 <li class="wow fadeInDown" data-wow-delay="0.1s">
-                    <a href="{{ url('/') }}">Home</a>
+                    <a href="{{ url('/') }}">{{ __('global.home') }}</a>
                 </li>
                 <li class="wow fadeInDown " data-wow-delay="0.1s">
-                    <a href="{{ route('berita') }}">Berita</a>
+                    <a href="{{ route('berita') }}">{{ __('global.news') }}</a>
                 </li>
                 <li class="wow fadeInDown " data-wow-delay="0.1s">
-                    <a href="{{ route('galeri') }}">Galeri</a>
+                    <a href="{{ route('galeri') }}">{{ __('global.galeri') }}</a>
                 </li>
                 <li class="dropdown ymm-sw " data-wow-delay="0.1s">
                     <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
-                        data-delay="200">Daftar <b class="caret"></b></a>
+                        data-delay="200">{{ __('global.daftar') }} <b class="caret"></b></a>
                     <ul class="dropdown-menu navbar-nav">
                         <li>
-                            <a href="{{ route('soon') }}">Daftar Anggota (TPP)</a>
+                            <a href="{{ route('anggotaTpp') }}">{{ __('global.anggota') }} (TPP)</a>
                         </li>
                         <li>
-                            <a href="{{ route('soon') }}">Daftar Cabang</a>
+                            <a href="{{ route('soon') }}">{{ __('global.cabang') }}</a>
                         </li>
                 </li>
 
             </ul>
             </li>
 
-            <li class="wow fadeInDown" data-wow-delay="0.5s"><a href="{{ route('kontak') }}">Kontak</a></li>
+            <li class="wow fadeInDown" data-wow-delay="0.5s"><a
+                    href="{{ route('kontak') }}">{{ __('global.kontak') }}</a></li>
             <li class="dropdown ymm-sw " data-wow-delay="0.1s">
                 <a href="index.html" class="dropdown-toggle " data-toggle="dropdown" data-hover="dropdown"
                     data-delay="200">{{ trans('global.lang') }}<b class="caret"></b></a>

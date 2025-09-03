@@ -3,7 +3,7 @@
         'name' => 'laravel/laravel',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '779fa0ac49bb4f4bb19096069706470d75c2721c',
+        'reference' => 'a63e6d26f35cbb229734704d540fd5afb1f3d689',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -99,6 +99,15 @@
             'install_path' => __DIR__ . '/../egulias/email-validator',
             'aliases' => array(),
             'dev_requirement' => false,
+        ),
+        'fakerphp/faker' => array(
+            'pretty_version' => 'v1.24.1',
+            'version' => '1.24.1.0',
+            'reference' => 'e0ee18eb1e6dc3cda3ce9fd97e5a0689a88a64b5',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../fakerphp/faker',
+            'aliases' => array(),
+            'dev_requirement' => true,
         ),
         'filp/whoops' => array(
             'pretty_version' => '2.18.4',
@@ -346,7 +355,7 @@
         'laravel/laravel' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '779fa0ac49bb4f4bb19096069706470d75c2721c',
+            'reference' => 'a63e6d26f35cbb229734704d540fd5afb1f3d689',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

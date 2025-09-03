@@ -11,9 +11,8 @@
 .panel.sidebar-menu .panel-heading h3,
 .panel.sidebar-menu .panel-heading h4,
 .panel.sidebar-menu .panel-heading h5 {
-    background-color: #03ac11 !important;
     border-color: #03ac11 !important;
-    color: #fff !important;
+    color: #0e1b10 !important;
 }
 
 .properties-page .proerty-th .proerty-price,
@@ -93,4 +92,24 @@ blockquote {
 
 .row-centered > div {
   flex: 0 0 auto; /* biar ukuran kolom tidak dipaksa */
+}
+
+/* Atur tulisan tabel lebih hitam dan terang */
+table {
+  color: #111; /* teks lebih hitam */
+  font-weight: 600; /* agak bold agar lebih jelas */
+}
+
+table th {
+  color: #000; /* header tabel lebih pekat */
+  font-weight: 700;
+  background-color: #f5f5f5; /* biar header kontras */
+}
+
+table td {
+  color: #222; /* isi tabel lebih gelap dari default */
+}
+
+table tr:hover td {
+  background-color: #fafafa; /* efek hover biar interaktif */
 }

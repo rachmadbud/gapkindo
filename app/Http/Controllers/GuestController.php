@@ -9,6 +9,7 @@ class GuestController extends Controller
     public function __construct()
     {
         $this->modelNews = new \App\Models\News();
+        $this->modelTpp = new \App\Models\Tpp();
     }
 
     public function index()
@@ -31,5 +32,11 @@ class GuestController extends Controller
         $dataNews = $this->modelNews->getData();
 
         return view('guest.berita', ['dataNews' => $dataNews]);
+    }
+
+    public function anggotaTpp()
+    {
+        $dataTpp = $this->modelTpp->getData();
+        return view('guest.anggotaTPP', ['dataTpp' => $dataTpp]);
     }
 }

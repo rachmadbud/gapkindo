@@ -53,7 +53,7 @@ Route::get('/kontak', function () {
   return view('guest.kontak');
 })->name('kontak');
 
-
+Route::get('/anggotaTpp', 'GuestController@anggotaTpp')->name('anggotaTpp');
 
 Auth::routes();
 

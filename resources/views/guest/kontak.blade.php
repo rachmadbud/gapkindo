@@ -7,7 +7,7 @@
         <div class="container">
             <div class="row">
                 <div class="page-head-content">
-                    <h1 class="page-title">HALAMAN KONTAK</h1>
+                    <h1 class="page-title">{{ __('global.titleKontak') }}</h1>
                 </div>
             </div>
         </div>
@@ -22,7 +22,7 @@
                     <div class="" id="contact1">
                         <div class="row">
                             <div class="col-sm-4">
-                                <h3><i class="fa fa-map-marker"></i> Alamat</h3>
+                                <h3><i class="fa fa-map-marker"></i> {{ __('global.Alamat') }}</h3>
                                 <p>Jl. Cideng Barat No.62-A 14, RT.14/RW.2, Cideng, <br>
                                     Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10150
                                     <br>
@@ -31,13 +31,13 @@
                             </div>
                             <!-- /.col-sm-4 -->
                             <div class="col-sm-4">
-                                <h3><i class="fa fa-phone"></i> PUSAT PANGGILAN</h3>
+                                <h3><i class="fa fa-phone"></i>{{ __('global.PusatPanggilan') }}</h3>
                                 <p class="text-muted">Kami sarankan Anda menggunakan bentuk komunikasi elektronik.</p>
                                 <p><strong> (62-21) 3846811, 3500368</strong></p>
                             </div>
                             <!-- /.col-sm-4 -->
                             <div class="col-sm-4">
-                                <h3><i class="fa fa-envelope"></i>Dukungan elektronik</h3>
+                                <h3><i class="fa fa-envelope"></i>{{ __('global.DukunganElektronik') }}</h3>
                                 <p class="text-muted">Jangan ragu untuk menulis email kepada kami atau menggunakan sistem
                                     tiket elektronik kami.</p>
                                 <ul>

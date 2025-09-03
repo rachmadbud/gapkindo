@@ -20,7 +20,7 @@
 
                 <div class="col-md-3 col-sm-6 wow fadeInRight animated">
                     <div class="single-footer">
-                        <h4>Tentang Kami</h4>
+                        <h4>{{ __('global.tentangKami') }}</h4>
                         <div class="footer-title-line"></div>
 
                         <img src="{{ asset('guest/assets/img/logo-gapkindo.jpg') }}" alt="" class="wow pulse"
@@ -39,7 +39,7 @@
                 </div>
                 <div class="col-md-2 col-sm-6 wow fadeInRight animated">
                     <div class="single-footer">
-                        <h4>Tautan</h4>
+                        <h4>{{ __('global.tautan') }}</h4>
                         <div class="footer-title-line"></div>
                         <ul class="footer-menu">
                             <li><a href="{{ route('soon') }}">Soon</a> </li>
@@ -51,7 +51,7 @@
                 </div>
                 <div class="col-md-3 col-sm-6 wow fadeInRight animated">
                     <div class="single-footer">
-                        <h4>Last News</h4>
+                        <h4>{{ __('global.lastNews') }}</h4>
                         <div class="footer-title-line"></div>
                         <ul class="footer-blog">
                             @foreach ($newsFooter as $item)
@@ -79,7 +79,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 wow fadeInRight animated">
                     <div class="single-footer news-letter">
-                        <h4>Sekretariat GAPKINDO</h4>
+                        <h4>{{ __('global.sekretariat') }} GAPKINDO</h4>
                         <div class="footer-title-line"></div>
                         <ul class="footer-menu">
                             <li><a href="{{ route('soon') }}">Direktur Eksekutif</a> </li>

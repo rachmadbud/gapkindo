@@ -20,4 +20,53 @@ return [
   'KabidKeuangan' => 'Vice Chairman Finance',
   'Anggota' => 'Member',
   'pengurus' => 'Governing Board',
+
+  /*
+    |--------------------------------------------------------------------------
+    | NavBar Language Lines
+    |--------------------------------------------------------------------------
+    |
+    */
+  'home' => 'Home',
+  'about' => 'About',
+  'kontak' => 'Contact',
+  'news' => 'News',
+  'galeri' => 'Galery',
+  'daftar' => 'List',
+  'anggota' => 'Member',
+  'cabang' => 'Branch',
+
+  'HAVEQUESTIONS?CALL' => 'HAVE QUESTIONS? CALL',
+
+  /*
+    |--------------------------------------------------------------------------
+    | Footer
+    |--------------------------------------------------------------------------
+    |
+    */
+
+  'tentangKami' => 'About Us',
+  'tautan' => 'Links',
+  'lastNews' => 'Last News',
+  'sekretariat' => 'Secretariat',
+
+  /*
+  |--------------------------------------------------------------------------
+  | HALAMAN KONTAK
+  |--------------------------------------------------------------------------
+  |
+  */
+  'titleKontak' => 'CONTACT PAGE',
+  'Alamat' => 'Address',
+  'PusatPanggilan' => 'CALL CENTER',
+  'DukunganElektronik' => 'ELECTRONIC SUPPORT',
+
+  /*
+  |--------------------------------------------------------------------------
+  | AnggotaTpp
+  |--------------------------------------------------------------------------
+  |
+  */
+  'anggotaTpp' => 'TPP Members',
+  'Search' => 'Search',
 ];

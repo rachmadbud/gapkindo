@@ -22,4 +22,56 @@ return [
   'Anggota' => 'Anggota',
   'pengurus' => 'Dewan Pengurus',
 
+
+
+  /*
+    |--------------------------------------------------------------------------
+    | NavBar Language Lines
+    |--------------------------------------------------------------------------
+    |
+    */
+  'home' => 'Beranda',
+  'about' => 'Tentang',
+  'kontak' => 'Kontak',
+  'news' => 'Berita',
+  'galeri' => 'Galeri',
+  'daftar' => 'Daftar',
+  'anggota' => 'Anggota',
+  'cabang' => 'Cabang',
+
+  'HAVEQUESTIONS?CALL' => 'PUNYA PERTANYAAN? HUBUNGI',
+
+  /*
+    |--------------------------------------------------------------------------
+    | Footer
+    |--------------------------------------------------------------------------
+    |
+    */
+
+  'tentangKami' => 'Tentang Kami',
+  'tautan' => 'Tautan',
+  'lastNews' => 'Berita Terbaru',
+  'sekretariat' => 'Sekretariat',
+
+  /*
+  |--------------------------------------------------------------------------
+  | HALAMAN KONTAK
+  |--------------------------------------------------------------------------
+  |
+  */
+
+  'titleKontak' => 'HALAMAN KONTAK',
+  'Alamat' => 'Alamat',
+  'PusatPanggilan' => 'PUSAT PANGGILAN',
+  'DukunganElektronik' => 'DUKUNGAN ELEKTRONIK',
+
+  /*
+  |--------------------------------------------------------------------------
+  | AnggotaTpp
+  |--------------------------------------------------------------------------
+  |
+  */
+  'anggotaTpp' => 'Anggota TPP',
+  'Search' => 'Cari',
+
 ];
