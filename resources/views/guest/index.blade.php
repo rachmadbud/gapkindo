@@ -116,8 +116,8 @@
             <div class="row">
                 <div class="col-md-10 col-md-offset-1 col-sm-12 text-center page-title">
                     <!-- /.feature title -->
-                    <h2>Badan Pengawas</h2>
-                    <p>Masa Bakti 2025 - 2028</p>
+                    {{-- <h2>{{ trans('global.Advisors') }}</h2> --}}
+                    <p>2025 - 2028</p>
                 </div>
             </div>
             <div class="row-centered">
@@ -131,7 +131,7 @@
                             <div class="item-entry overflow">
                                 <h5><a href="{{ route('soon') }}">MARTINUS S SINARYA </a></h5>
                                 <div class="dot-hr"></div>
-                                <span class="pull-left"><b>KETUA</b> </span>
+                                <span class="pull-left"><b>{{ trans('global.ketua') }}</b> </span>
                                 <span class="proerty-price pull-right"></span>
                             </div>
                         </div>
@@ -149,7 +149,7 @@
                             <div class="item-entry overflow">
                                 <h5><a href="{{ route('soon') }}">RYANTO WISNUARDHI</a></h5>
                                 <div class="dot-hr"></div>
-                                <span class="pull-left"><b>ANGGOTA</b></span>
+                                <span class="pull-left"><b>{{ trans('global.Anggota') }}</b></span>
                                 <span class="proerty-price pull-right"></span>
                             </div>
                         </div>
@@ -164,7 +164,7 @@
                             <div class="item-entry overflow">
                                 <h5><a href="{{ route('soon') }}">MOAGRAHA-GUNAWAN</a></h5>
                                 <div class="dot-hr"></div>
-                                <span class="pull-left"><b>ANGGOTA</b></span>
+                                <span class="pull-left"><b>{{ trans('global.Anggota') }}</b></span>
                                 <span class="proerty-price pull-right"></span>
                             </div>
                         </div>
@@ -180,7 +180,7 @@
                             <div class="item-entry overflow">
                                 <h5><a href="{{ route('soon') }}">SANTO-SUMONO</a></h5>
                                 <div class="dot-hr"></div>
-                                <span class="pull-left"><b>ANGGOTA</b></span>
+                                <span class="pull-left"><b>{{ trans('global.Anggota') }}</b></span>
                                 <span class="proerty-price pull-right"></span>
                             </div>
                         </div>
@@ -196,7 +196,7 @@
                             <div class="item-entry overflow">
                                 <h5><a href="{{ route('soon') }}">VINCENTIUS-OEI</a></h5>
                                 <div class="dot-hr"></div>
-                                <span class="pull-left"><b>ANGGOTA</b></span>
+                                <span class="pull-left"><b>{{ trans('global.Anggota') }}</b></span>
                                 <span class="proerty-price pull-right"></span>
                             </div>
                         </div>
@@ -209,8 +209,8 @@
             <div class="row">
                 <div class="col-md-10 col-md-offset-1 col-sm-12 text-center page-title">
                     <!-- /.feature title -->
-                    <h2>Badan Pengurus GAPKINDO</h2>
-                    <p>Masa Bakti 2025 - 2028</p>
+                    <h2>{{ trans('global.pengurus') }} Of GAPKINDO</h2>
+                    <p>2025 - 2028</p>
                 </div>
             </div>
             <div class="row-centered">
@@ -224,7 +224,7 @@
                             <div class="item-entry overflow">
                                 <h5><a href="{{ route('soon') }}">ALEX KURNIAWAN EDY </a></h5>
                                 <div class="dot-hr"></div>
-                                <span class="pull-left"><b>KETUA UMUM</b> </span>
+                                <span class="pull-left"><b>{{ trans('global.ketua') }}</b> </span>
                                 <span class="proerty-price pull-right"></span>
                             </div>
                         </div>
@@ -243,7 +243,8 @@
                             <div class="item-entry overflow">
                                 <h5><a href="{{ route('soon') }}">TIMMIE MELVIN</a></h5>
                                 <div class="dot-hr"></div>
-                                <span class="pull-left"><b>SEKERTARIS UMUM & KABID KEUANGAN</b></span>
+                                <span class="pull-left"><b>{{ trans('global.SekUm') }} &
+                                        {{ trans('global.KabidKeuangan') }}</b></span>
                                 <span class="proerty-price pull-right"></span>
                             </div>
                         </div>
@@ -258,7 +259,7 @@
                             <div class="item-entry overflow">
                                 <h5><a href="{{ route('soon') }}">VARGO GUNAWAN</a></h5>
                                 <div class="dot-hr"></div>
-                                <span class="pull-left"><b>KABID ORGANISASI & BENDAHARA </b></span>
+                                <span class="pull-left"><b>{{ trans('global.bendahara') }}</b></span>
                                 <span class="proerty-price pull-right"></span>
                             </div>
                         </div>
@@ -268,13 +269,14 @@
                         <div class="box-two proerty-item">
                             <div class="item-thumb">
                                 <a href="{{ route('soon') }}"><img
-                                        src="{{ asset('guest/assets/img/demo/ERIKSON-GINTING.png') }}"></a>
+                                        src="{{ asset('guest/assets/img/demo/VINCENTIUS-OEI.png') }}"></a>
 
                             </div>
                             <div class="item-entry overflow">
-                                <h5><a href="{{ route('soon') }}">ERIKSON GINTING</a></h5>
+                                <h5><a href="{{ route('soon') }}">VINCENTIUS OEI Kok Sen</a></h5>
                                 <div class="dot-hr"></div>
-                                <span class="pull-left"><b>KETUA BIDANG PRODUKSI</b></span>
+                                <span class="pull-left"><b>{{ trans('global.KabidProduksi') }} &
+                                        {{ trans('global.KabidOrganisasi') }}</b></span>
                                 <span class="proerty-price pull-right"></span>
                             </div>
                         </div>
@@ -290,7 +292,7 @@
                             <div class="item-entry overflow">
                                 <h5><a href="{{ route('soon') }}">WIDYANTOKO-SUMARLIN</a></h5>
                                 <div class="dot-hr"></div>
-                                <span class="pull-left"><b>WIDYANTOKO-SUMARLIN</b></span>
+                                <span class="pull-left"><b>{{ trans('global.KeBidPemasaran') }}</b></span>
                                 <span class="proerty-price pull-right"></span>
                             </div>
                         </div>
