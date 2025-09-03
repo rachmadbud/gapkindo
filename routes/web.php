@@ -38,6 +38,14 @@ Route::get('/seed-admin', function () {
   return 'AdminUserSeeder sudah dijalankan!';
 });
 
+Route::get('/seed-tpp', function () {
+  Artisan::call('db:seed', [
+    '--class' => 'Database\\Seeders\TppUserSeeder',
+    '--force' => true,
+  ]);
+  return 'AdminUserSeeder sudah dijalankan!';
+});
+
 Route::get('/comming-soon', function () {
   return view('guest.comming-soon');
 })->name('soon');
