@@ -14,7 +14,7 @@ class Tpp extends Model
 
     public function getData()
     {
-        $data = DB::table('tpps')->get();
+        $data = DB::table('tpp')->get();
         return $data;
     }
 }
