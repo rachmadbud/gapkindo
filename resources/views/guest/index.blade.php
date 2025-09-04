@@ -238,6 +238,22 @@
                         <div class="box-two proerty-item">
                             <div class="item-thumb">
                                 <a href="{{ route('soon') }}"><img
+                                        src="{{ asset('guest/assets/img/demo/VARGO-GUNAWAN.png') }}"></a>
+                            </div>
+                            <div class="item-entry overflow">
+                                <h5><a href="{{ route('soon') }}">VARGO GUNAWAN</a></h5>
+                                <div class="dot-hr"></div>
+                                <span class="pull-left"><b> {{ trans('global.KabidOrganisasi') }}
+                                        & {{ trans('global.bendahara') }} </b></span>
+                                <span class="proerty-price pull-right"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6 col-md-3 p0">
+                        <div class="box-two proerty-item">
+                            <div class="item-thumb">
+                                <a href="{{ route('soon') }}"><img
                                         src="{{ asset('guest/assets/img/demo/TIMMIE-MELVIN.png') }}"></a>
                             </div>
                             <div class="item-entry overflow">
@@ -254,29 +270,13 @@
                         <div class="box-two proerty-item">
                             <div class="item-thumb">
                                 <a href="{{ route('soon') }}"><img
-                                        src="{{ asset('guest/assets/img/demo/VARGO-GUNAWAN.png') }}"></a>
-                            </div>
-                            <div class="item-entry overflow">
-                                <h5><a href="{{ route('soon') }}">VARGO GUNAWAN</a></h5>
-                                <div class="dot-hr"></div>
-                                <span class="pull-left"><b>{{ trans('global.bendahara') }}</b></span>
-                                <span class="proerty-price pull-right"></span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-6 col-md-3 p0">
-                        <div class="box-two proerty-item">
-                            <div class="item-thumb">
-                                <a href="{{ route('soon') }}"><img
-                                        src="{{ asset('guest/assets/img/demo/VINCENTIUS-OEI.png') }}"></a>
+                                        src="{{ asset('guest/assets/img/demo/ERIKSON-GINTING.png') }}"></a>
 
                             </div>
                             <div class="item-entry overflow">
-                                <h5><a href="{{ route('soon') }}">VINCENTIUS OEI Kok Sen</a></h5>
+                                <h5><a href="{{ route('soon') }}">ERIKSON GINTING</a></h5>
                                 <div class="dot-hr"></div>
-                                <span class="pull-left"><b>{{ trans('global.KabidProduksi') }} &
-                                        {{ trans('global.KabidOrganisasi') }}</b></span>
+                                <span class="pull-left"><b>{{ trans('global.KabidProduksi') }}</b></span>
                                 <span class="proerty-price pull-right"></span>
                             </div>
                         </div>
