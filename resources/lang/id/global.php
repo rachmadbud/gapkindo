@@ -73,6 +73,10 @@ return [
   */
   'anggotaTpp' => 'Anggota TPP',
   'Search' => 'Cari',
+  // tabel
+  'KodeTpp' => 'Kode TPP',
+  'NamaPerusahaan' => 'Nama Perusahaan',
+  'Cabang' => 'Cabang',
 
   /*
   |--------------------------------------------------------------------------

@@ -7,7 +7,7 @@
         <div class="container">
             <div class="row">
                 <div class="page-head-content">
-                    <h1 class="page-title">Anggota TPP </h1>
+                    <h1 class="page-title">{{ __('global.anggotaTpp') }}</h1>
                 </div>
             </div>
         </div>
@@ -32,9 +32,9 @@
                             <table class="table table-bordered ">
                                 <thead>
                                     <tr>
-                                        <th>Kode Tpp</th>
-                                        <th>Perusahaan</th>
-                                        <th>Cabang</th>
+                                        <th>{{ __('global.KodeTpp') }}</th>
+                                        <th>{{ __('global.NamaPerusahaan') }}</th>
+                                        <th>{{ __('global.Cabang') }}</th>
                                     </tr>
                                 </thead>
                                 <tbody id="tableBody">

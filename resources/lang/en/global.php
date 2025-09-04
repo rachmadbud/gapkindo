@@ -69,6 +69,11 @@ return [
   */
   'anggotaTpp' => 'TPP Members',
   'Search' => 'Search',
+  // tabel
+  'KodeTpp' => 'TPP Code',
+  'NamaPerusahaan' => 'Company Name',
+  'Cabang' => 'Branch',
+
 
   /*
   |--------------------------------------------------------------------------
@@ -83,5 +88,7 @@ return [
 
   'direkturEksekutif' => 'Executive Director',
   'asistenDirekturEksekutif1' => 'Assistant Executive Director 1',
+
+
 
 ];
