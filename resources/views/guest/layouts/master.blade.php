@@ -25,10 +25,7 @@
 
                         <img src="{{ asset('guest/assets/img/logo-gapkindo.jpg') }}" alt="" class="wow pulse"
                             data-wow-delay="1s">
-                        <p>Perusahaan Karet Indonesia (GAPKINDO) adalah asosiasi perusahaan-perusahaan Indonesia yang
-                            bergerak di industri karet alam. Tujuan GAPKINDO adalah untuk mengembangkan dan meningkatkan
-                            produksi, pengolahan, dan pemasaran karet alam Indonesia sebagai salah satu komoditas ekspor
-                            utama Indonesia..</p>
+                        <p>{{ __('global.pfooter') }}</p>
                         <ul class="footer-adress">
                             <li><i class="pe-7s-map-marker strong"> </i> Jl. Cideng Barat No.62-A 14, RT.14/RW.2,
                                 Cideng, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10150</li>
@@ -82,11 +79,11 @@
                         <h4>{{ __('global.sekretariat') }} GAPKINDO</h4>
                         <div class="footer-title-line"></div>
                         <ul class="footer-menu">
-                            <li><a href="{{ route('soon') }}">Direktur Eksekutif</a> </li>
+                            <li><a href="{{ route('soon') }}">{{ __('global.direkturEksekutif') }}</a> </li>
                         </ul>
                         <p>Erwin Tunas</p>
                         <ul class="footer-menu">
-                            <li><a href="{{ route('soon') }}">Asisten Direktur Eksekutif 1</a> </li>
+                            <li><a href="{{ route('soon') }}">{{ __('global.asistenDirekturEksekutif1') }}</a> </li>
                         </ul>
                         <p>Uhendi Haris</p>
 

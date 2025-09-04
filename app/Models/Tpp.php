@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\DB;
 class Tpp extends Model
 {
     use HasFactory;
-    protected $table = 'tpps';
+    protected $table = 'tpp';
     protected $fillable = ['kode_tpp', 'perusahaan', 'cabang'];
 
     public function getData()

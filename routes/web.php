@@ -17,9 +17,14 @@ Route::get('/lang/{locale}', function (string $locale) {
 // Route::get('/', function () {
 //   return view('guest.layouts.master');
 // })->name('guest.index');
+
 Route::get('/migrate', function () {
-  Artisan::call('migrate:fresh', ['--force' => true]);
-  return 'Migration sudah dijalankan!';
+  Artisan::call('migrate:fresh', [
+    '--seed' => true,   // tambahkan untuk jalankan seeder
+    '--force' => true,  // supaya bisa dijalankan di production
+  ]);
+
+  return 'Migration fresh + seed sudah dijalankan!';
 });
 
 Route::get('/seed-roles', function () {
@@ -38,13 +43,6 @@ Route::get('/seed-admin', function () {
   return 'AdminUserSeeder sudah dijalankan!';
 });
 
-Route::get('/seed-tpp', function () {
-  Artisan::call('db:seed', [
-    '--class' => 'Database\\Seeders\TppUserSeeder',
-    '--force' => true,
-  ]);
-  return 'AdminUserSeeder sudah dijalankan!';
-});
 
 Route::get('/comming-soon', function () {
   return view('guest.comming-soon');

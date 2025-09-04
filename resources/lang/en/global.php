@@ -69,4 +69,19 @@ return [
   */
   'anggotaTpp' => 'TPP Members',
   'Search' => 'Search',
+
+  /*
+  |--------------------------------------------------------------------------
+  | pfooter
+  |--------------------------------------------------------------------------
+  |
+  */
+  'pfooter' => 'The Indonesian Rubber Association (GAPKINDO) is an association of Indonesian companies
+                            engaged in the natural rubber industry. GAPKINDO\'s goal is to develop and improve
+                            production, processing and marketing of Indonesian natural rubber as an export commodity
+                            main Indonesian.',
+
+  'direkturEksekutif' => 'Executive Director',
+  'asistenDirekturEksekutif1' => 'Assistant Executive Director 1',
+
 ];

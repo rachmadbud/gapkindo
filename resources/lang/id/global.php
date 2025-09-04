@@ -74,4 +74,18 @@ return [
   'anggotaTpp' => 'Anggota TPP',
   'Search' => 'Cari',
 
+  /*
+  |--------------------------------------------------------------------------
+  | Footer
+  |--------------------------------------------------------------------------
+  |
+  */
+  'pfooter' => 'Perusahaan Karet Indonesia (GAPKINDO) adalah asosiasi perusahaan-perusahaan Indonesia yang
+                            bergerak di industri karet alam. Tujuan GAPKINDO adalah untuk mengembangkan dan meningkatkan
+                            produksi, pengolahan, dan pemasaran karet alam Indonesia sebagai salah satu komoditas ekspor
+                            utama Indonesia.',
+
+  'direkturEksekutif' => 'Direktur Eksekutif',
+  'asistenDirekturEksekutif1' => 'Asisten Direktur Eksekutif 1',
+
 ];
