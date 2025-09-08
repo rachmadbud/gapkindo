@@ -87,19 +87,8 @@
                         </ul>
                         <p>Uhendi Haris</p>
 
-                        <form>
-                            <div class="input-group">
-                                <input class="form-control" type="text" placeholder="E-mail ... ">
-                                <span class="input-group-btn">
-                                    <button class="btn btn-primary subscribe" type="button"><i
-                                            class="pe-7s-paper-plane pe-2x"></i></button>
-                                </span>
-                            </div>
-                            <!-- /input-group -->
-                        </form>
-
                         <div class="social pull-right">
-                            <ul>
+                            {{-- <ul>
                                 <li><a class="wow fadeInUp animated" href="https://twitter.com/kimarotec"><i
                                             class="fa fa-twitter"></i></a></li>
                                 <li><a class="wow fadeInUp animated" href="https://www.facebook.com/kimarotec"
@@ -110,7 +99,7 @@
                                         data-wow-delay="0.4s"><i class="fa fa-instagram"></i></a></li>
                                 <li><a class="wow fadeInUp animated" href="https://instagram.com/kimarotec"
                                         data-wow-delay="0.6s"><i class="fa fa-dribbble"></i></a></li>
-                            </ul>
+                            </ul> --}}
                         </div>
                     </div>
                 </div>
