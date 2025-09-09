@@ -52,6 +52,14 @@
                         </p>
                     </a>
                 </li>
+                <li class="nav-item">
+                    <a href="{{ route('admin.cabang') }}" class="nav-link">
+                        <i class="nav-icon fal fa-code-branch"></i>
+                        <p>
+                            Cabang
+                        </p>
+                    </a>
+                </li>
 
             </ul>
 

@@ -38,7 +38,7 @@
                             <a href="{{ route('anggotaTpp') }}">{{ __('global.anggota') }} (TPP)</a>
                         </li>
                         <li>
-                            <a href="{{ route('soon') }}">{{ __('global.cabang') }}</a>
+                            <a href="{{ route('cabang') }}">{{ __('global.cabang') }}</a>
                         </li>
                 </li>
 

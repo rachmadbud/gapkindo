@@ -39,4 +39,9 @@ class GuestController extends Controller
         $dataTpp = $this->modelTpp->getData();
         return view('guest.anggotaTPP', ['dataTpp' => $dataTpp]);
     }
+
+    public function cabang()
+    {
+        return view('guest.cabang');
+    }
 }

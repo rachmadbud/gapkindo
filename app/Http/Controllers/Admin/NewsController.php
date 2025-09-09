@@ -56,8 +56,7 @@ class NewsController extends Controller
 
         $this->modelNews->insertData($data);
 
-        // return redirect()->route('admin.news')->with('success', 'News created successfully.');
-        return 'berhasil';
+        return redirect()->route('admin.news')->with('success', 'News created successfully.');
     }
 
     /**

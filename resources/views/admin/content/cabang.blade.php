@@ -1,7 +1,16 @@
 @extends('admin.template')
-@section('title', 'News')
+@section('title', 'Admin | Cabang')
 @section('content')
 
+    @if ($errors->any())
+        <div class="alert alert-danger">
+            <ul>
+                @foreach ($errors->all() as $error)
+                    <li>{{ $error }}</li>
+                @endforeach
+            </ul>
+        </div>
+    @endif
     @if (session('success'))
         <div class="alert alert-success">
             {{ session('success') }}
@@ -13,12 +22,12 @@
         <div class="container-fluid">
             <div class="row mb-2">
                 <div class="col-sm-6">
-                    <h1>News</h1>
+                    <h1>Cabang</h1>
                 </div>
                 <div class="col-sm-6">
                     <ol class="breadcrumb float-sm-right">
                         <li class="breadcrumb-item"><a href="#">Admin</a></li>
-                        <li class="breadcrumb-item active">News</li>
+                        <li class="breadcrumb-item active">Cabang</li>
                     </ol>
                 </div>
             </div>
@@ -29,7 +38,7 @@
         <div class="container-fluid">
             <div class="card">
                 <div class="card-header">
-                    <h3 class="card-title">News</h3>
+                    <h3 class="card-title">Cabang</h3>
                 </div>
 
 
@@ -38,112 +47,14 @@
                     <table id="example1" class="table table-bordered table-striped">
                         <div class="row">
                             <div class="col-">
-                                {{-- <button type="button" class="btn btn-default" data-toggle="modal"
-                                    data-target="#modal-inputPack">
-                                    <i class="far fa-arrow-alt-to-bottom"></i> Input
-                                    Pack
-                                </button>
-                                <form action="{{ route('admin.inputBarangPackPost') }}" method="post">
-                                    @csrf
-                                    <div class="modal fade" id="modal-inputPack">
-                                        <div class="modal-dialog modal-lg">
-                                            <div class="modal-content">
-                                                <div class="modal-header">
-                                                    <h4 class="modal-title">Input Pack</h4>
-                                                    <button type="button" class="close" data-dismiss="modal"
-                                                        aria-label="Close">
-                                                        <span aria-hidden="true">&times;</span>
-                                                    </button>
-                                                </div>
-                                                <div class="modal-body">
-                                                    <div class="row">
-                                                        <div class="col-3">
-                                                            <label for="namaBarang" class="col-form-label">Nama
-                                                                Barang</label>
-                                                            <input type="text" id="nama_barang" name="nama_barang"
-                                                                class="form-control @error('nama_barang') is-invalid @enderror"
-                                                                placeholder=".col-3">
-                                                            @error('nama_barang')
-                                                                <span class="invalid-feedback" role="alert">
-                                                                    <strong>{{ $message }}</strong>
-                                                                </span>
-                                                            @enderror
-                                                        </div>
-                                                        <div class="col-3">
-                                                            <label for="namaBarang" class="col-form-label">Satuan</label>
-                                                            <input type="text" id="satuan" name="satuan"
-                                                                class="form-control @error('satuan') is-invalid @enderror"
-                                                                placeholder=".col-3" value="Pack" readonly>
-
-                                                        </div>
-                                                        <div class="col-3">
-                                                            <label for="jmlhPack" class="col-form-label">Jumlah Pack</label>
-                                                            <input type="number" placeholder="Jumlah Pack" id="jmlhpack"
-                                                                name="jmlhpack"
-                                                                class="form-control my-1 @error('jmlhpack') is-invalid @enderror"
-                                                                oninput="hitungTotal()">
-                                                            @error('jmlhpack')
-                                                                <span class="invalid-feedback" role="alert">
-                                                                    <strong>{{ $message }}</strong>
-                                                                </span>
-                                                            @enderror
-                                                        </div>
-                                                        <div class="col-3">
-                                                            <label for="pcsDariPack" class="col-form-label">Jumlah Pcs per
-                                                                Pack</label>
-                                                            <input type="number" placeholder="Jumlah Pcs per Pack"
-                                                                class="form-control my-1 @error('jmlhpack') is-invalid @enderror"
-                                                                id="jmlhpcspack" name="jmlhpcspack" oninput="hitungTotal()">
-                                                            @error('jmlhpcspack')
-                                                                <span class="invalid-feedback" role="alert">
-                                                                    <strong>{{ $message }}</strong>
-                                                                </span>
-                                                            @enderror
-                                                        </div>
-                                                    </div>
-                                                    <div class="row">
-                                                        <div class="col">
-                                                        </div>
-                                                        <div class="col-6">
-                                                        </div>
-                                                        <div class="col">
-                                                            <br>
-                                                            <label for="namaBarang" class="col-form-label">Total</label>
-                                                            <input type="text" placeholder="Total Pcs"
-                                                                class="form-control my-1" id="totalPcs" name="totalPcs"
-                                                                readonly>
-                                                        </div>
-                                                    </div>
-                                                    <div class="row">
-                                                        <div class="col-sm-12">
-                                                            <!-- textarea -->
-                                                            <div class="form-group">
-                                                                <label>Keterangan</label>
-                                                                <textarea class="form-control" rows="3" name="keterangan" placeholder="Enter ..."></textarea>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="modal-footer justify-content-between">
-                                                    <button type="button" class="btn btn-default"
-                                                        data-dismiss="modal">Close</button>
-                                                    <button type="submit" class="btn btn-primary">Simpan</button>
-                                                </div>
-                                            </div>
-                                            <!-- /.modal-content -->
-                                        </div>
-                                        <!-- /.modal-dialog -->
-                                    </div>
-                                </form> --}}
-                                <!-- /.modal -->
                             </div>
                             <div class="col-">
                                 <!-- /.modal -->
                                 <button type="button" class="btn btn-default" data-toggle="modal"
                                     data-target="#modal-inputpcs">
-                                    <i class="far fa-arrow-alt-to-bottom"></i> Input Item
+                                    <i class="far fa-arrow-alt-to-bottom"></i> Input Cabang
                                 </button>
-                                <form action="{{ route('admin.newsInsert') }}" method="post" enctype="multipart/form-data">
+                                <form action="{{ route('admin.cabangPost') }}" method="post" enctype="multipart/form-data">
                                     @csrf
                                     <div class="modal fade" id="modal-inputpcs">
                                         <div class="modal-dialog modal-lg">
@@ -152,35 +63,62 @@
                                                 <!-- Horizontal Form -->
                                                 <div class="card card-success">
                                                     <div class="card-header">
-                                                        <h3 class="card-title">Input News</h3>
+                                                        <h3 class="card-title">Input Cabang</h3>
                                                     </div>
                                                     <!-- /.card-header -->
                                                     <!-- form start -->
                                                     <div class="card-body">
                                                         <div class="form-group row">
                                                             <label for="inputTitle"
-                                                                class="col-sm-2 col-form-label">Title</label>
+                                                                class="col-sm-2 col-form-label">Propinsi</label>
                                                             <div class="col-sm-10">
-                                                                <input type="text" name="title"
-                                                                    class="form-control @error('title') is-invalid @enderror"
-                                                                    id="title" placeholder="Title">
+                                                                <input type="text" name="propinsi"
+                                                                    class="form-control @error('propinsi') is-invalid @enderror"
+                                                                    id="propinsi" placeholder="Propinsi">
                                                             </div>
                                                         </div>
                                                         <div class="form-group row">
                                                             <label for="inputContent"
-                                                                class="col-sm-2 col-form-label">Content</label>
+                                                                class="col-sm-2 col-form-label">Alamat</label>
                                                             <div class="col-sm-10">
-                                                                <textarea type="text" name="content" class="form-control @error('content') is-invalid @enderror" id="inputEmail3"
-                                                                    placeholder="Content"></textarea>
+                                                                <textarea type="text" name="alamat" class="form-control @error('alamat') is-invalid @enderror" id="alamat"
+                                                                    placeholder="alamat"></textarea>
                                                             </div>
                                                         </div>
                                                         <div class="form-group row">
-                                                            <label for="inputSource"
-                                                                class="col-sm-2 col-form-label">Source</label>
+                                                            <label for="inputtlp"
+                                                                class="col-sm-2 col-form-label">Tlp</label>
                                                             <div class="col-sm-10">
-                                                                <input type="text" name="source"
-                                                                    class="form-control @error('content') is-invalid @enderror"
-                                                                    id="inputEmail3" placeholder="example: xxxx.com">
+                                                                <input type="text" name="tlpn"
+                                                                    class="form-control @error('tlpn') is-invalid @enderror"
+                                                                    id="tlpn" placeholder="example: 09874637823">
+                                                            </div>
+                                                        </div>
+                                                        <div class="form-group row">
+                                                            <label for="inputemail"
+                                                                class="col-sm-2 col-form-label">Email</label>
+                                                            <div class="col-sm-10">
+                                                                <input type="email" name="email"
+                                                                    class="form-control @error('email') is-invalid @enderror"
+                                                                    id="email" placeholder="example: 09874637823">
+                                                            </div>
+                                                        </div>
+                                                        <div class="form-group row">
+                                                            <label for="inputemail"
+                                                                class="col-sm-2 col-form-label">Ketua</label>
+                                                            <div class="col-sm-10">
+                                                                <input type="text" name="ketua"
+                                                                    class="form-control @error('ketua') is-invalid @enderror"
+                                                                    id="ketua" placeholder="Ketua">
+                                                            </div>
+                                                        </div>
+                                                        <div class="form-group row">
+                                                            <label for="inputemail"
+                                                                class="col-sm-2 col-form-label">Sekertaris</label>
+                                                            <div class="col-sm-10">
+                                                                <input type="text" name="sekertaris"
+                                                                    class="form-control @error('sekertaris') is-invalid @enderror"
+                                                                    id="sekertaris" placeholder="Sekertaris">
                                                             </div>
                                                         </div>
                                                         <div class="form-group row">
@@ -224,63 +162,61 @@
                                 </form>
                                 <!-- /.modal -->
                             </div>
-                            <div class="col-3">
-                            </div>
                         </div>
 
                         <thead>
                             <tr>
                                 <th>-</th>
-                                <th>Title</th>
-                                <th>Image</th>
-                                <th>Content</th>
-                                <th>Source</th>
-                                <th>time</th>
+                                <th>img</th>
+                                <th>Prorinsi</th>
+                                <th>alamat</th>
+                                <th>No Tlp</th>
+                                <th>Email</th>
+                                <th>Ketua</th>
+                                <th>Sekertaris</th>
+                                <th></th>
                             </tr>
                         </thead>
                         <tbody>
-                            @foreach ($dataNews as $news)
+                            @foreach ($dataCabang as $item)
                                 <tr>
-                                    <td> {{ date('d-m-Y', strtotime($news->created_at)) }}</td>
-                                    <td>{{ $news->title }}</td>
-                                    <td><img src="{{ asset('images/news/' . $news->image) }}" alt=""
-                                            style="width: 150px"></td>
-                                    <td>{{ $news->content }}</td>
-                                    <td>{{ $news->source }}</td>
+                                    <td>{{ $loop->iteration }}</td>
+                                    <td><img src="{{ asset('guest/assets/img/cabang/' . $item->img) }}"
+                                            style="width: 50px" alt="no image"></td>
+                                    <td>{{ $item->propinsi }}</td>
+                                    <td>{{ $item->alamat }}</td>
+                                    <td>{{ $item->tlpn }}</td>
+                                    <td>{{ $item->email }}</td>
+                                    <td>{{ $item->ketua }}</td>
+                                    <td>{{ $item->sekertaris }}</td>
                                     <td>
                                         <!-- Button trigger modal -->
                                         <button type="button" class="badge badge-danger" data-toggle="modal"
-                                            data-target="#edit{{ $news->id }}">Hapus
+                                            data-target="#Hapus{{ $item->id }}">Hapus
                                         </button>
                                         <!-- Modal -->
-                                        <div class="modal fade" id="edit{{ $news->id }}" tabindex="-1"
+                                        <div class="modal fade" id="Hapus{{ $item->id }}" tabindex="-1"
                                             aria-labelledby="exampleModalLabel" aria-hidden="true">
                                             <div class="modal-dialog">
                                                 <div class="modal-content">
                                                     <div class="modal-header">
                                                         <h5 class="modal-title" id="exampleModalLabel">
-                                                            <p class="text-muted">Edit: <b></b> </p>
+                                                            <p class="text-muted">Yakin hapus..? <b></b> </p>
                                                         </h5>
                                                         <button type="button" class="close" data-dismiss="modal"
                                                             aria-label="Close">
                                                             <span aria-hidden="true">&times;</span>
                                                         </button>
                                                     </div>
-                                                    <form action="" method="post">
+                                                    <form
+                                                        action="{{ route('admin.hapus', app(\App\Helpers\Helper::class)->enkrip($item->id)) }}"
+                                                        method="post">
                                                         @csrf
-                                                        <div class="modal-body">
-                                                            <input type="text" name="id_barang" value="" hidden>
-                                                            <label for="jumlah" class="col-form-label">Jumlah</label>
-                                                            <input type="number" id="jumlah_barang" name="jumlah_barang"
-                                                                class="form-control " placeholder="contoh: 12">
-                                                            <span class="invalid-feedback" role="alert">
-                                                                <strong></strong>
-                                                            </span>
-                                                        </div>
+                                                        <input type="text" name="id" value="" hidden>
                                                         <div class="modal-footer">
                                                             <button type="button" class="btn btn-secondary"
                                                                 data-dismiss="modal">Close</button>
-                                                            <button type="submit" class="btn btn-primary">Save
+                                                            <button type="submit" class="btn btn-primary">Ya
                                                             </button>
                                                         </div>
                                                     </form>
@@ -319,6 +255,7 @@
                                     </td>
                                 </tr>
                             @endforeach
+                            {{-- enforeach --}}
                         </tbody>
                     </table>
                 </div>

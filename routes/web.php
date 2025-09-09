@@ -61,6 +61,8 @@ Route::get('/kontak', function () {
 
 Route::get('/anggotaTpp', 'GuestController@anggotaTpp')->name('anggotaTpp');
 
+Route::get('/cabang', 'GuestController@cabang')->name('cabang');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
