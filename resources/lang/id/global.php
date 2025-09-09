@@ -91,5 +91,6 @@ return [
 
   'direkturEksekutif' => 'Direktur Eksekutif',
   'asistenDirekturEksekutif1' => 'Asisten Direktur Eksekutif 1',
+  'cabang' => 'Cabang',
 
 ];

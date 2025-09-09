@@ -10,6 +10,7 @@ class GuestController extends Controller
     {
         $this->modelNews = new \App\Models\News();
         $this->modelTpp = new \App\Models\Tpp();
+        $this->modelCabang = new \App\Models\Cabang();
     }
 
     public function index()
@@ -42,6 +43,7 @@ class GuestController extends Controller
 
     public function cabang()
     {
-        return view('guest.cabang');
+        $data = $this->modelCabang->getData();
+        return view('guest.cabang', ['data' => $data]);
     }
 }

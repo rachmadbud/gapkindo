@@ -89,6 +89,7 @@ return [
   'direkturEksekutif' => 'Executive Director',
   'asistenDirekturEksekutif1' => 'Assistant Executive Director 1',
 
+  'cabang' => 'Branch',
 
 
 ];
