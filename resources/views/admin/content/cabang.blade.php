@@ -169,9 +169,6 @@
                                 <th>-</th>
                                 <th>img</th>
                                 <th>Prorinsi</th>
-                                <th>alamat</th>
-                                <th>No Tlp</th>
-                                <th>Email</th>
                                 <th>Ketua</th>
                                 <th>Sekertaris</th>
                                 <th></th>
@@ -184,9 +181,6 @@
                                     <td><img src="{{ asset('guest/assets/img/cabang/' . $item->img) }}"
                                             style="width: 50px" alt="no image"></td>
                                     <td>{{ $item->propinsi }}</td>
-                                    <td>{{ $item->alamat }}</td>
-                                    <td>{{ $item->tlpn }}</td>
-                                    <td>{{ $item->email }}</td>
                                     <td>{{ $item->ketua }}</td>
                                     <td>{{ $item->sekertaris }}</td>
                                     <td>
