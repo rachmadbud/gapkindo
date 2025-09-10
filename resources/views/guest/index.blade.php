@@ -333,7 +333,7 @@
                                         src="{{ asset('guest/assets/img/demo/UHENDI-HARIS.png') }}"></a>
                             </div>
                             <div class="item-entry overflow">
-                                <h5><a href="{{ route('soon') }}">UHENDI-HARIS </a></h5>
+                                <h5><a href="{{ route('soon') }}">UHENDI HARIS </a></h5>
                                 <div class="dot-hr"></div>
                                 <span class="pull-left"><b>ASISTEN EKSEKUTIF DIREKTUR</b> </span>
                                 <span class="proerty-price pull-right"></span>
