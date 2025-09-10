@@ -45,9 +45,6 @@
                                         alt="Example blog post alt">
                                 </a>
                             </div>
-                            <p class="intro">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
-                                turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet,
-                                ante.</p>
                             <p class="read-more">
                                 <a href="{{ route('detailGaleri', app(\App\Helpers\Helper::class)->enkrip($item->id)) }}"
                                     class="btn btn-default btn-border">{{ __('global.read') }}</a>
