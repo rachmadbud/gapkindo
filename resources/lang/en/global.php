@@ -21,6 +21,7 @@ return [
   'KabidKeuangan' => 'Vice Chairman Finance',
   'Anggota' => 'Member',
   'pengurus' => 'Governing Board',
+  'penasehat' => 'Supervisors',
 
   /*
     |--------------------------------------------------------------------------
@@ -91,6 +92,9 @@ return [
   'asistenDirekturEksekutif1' => 'Assistant Executive Director 1',
 
   'cabang' => 'Branch',
+
+  'galery' => 'Galery',
+  'read' => 'Read More',
 
 
 ];

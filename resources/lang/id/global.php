@@ -22,6 +22,7 @@ return [
   'KabidKeuangan' => 'Ketua Bidang Keuangan',
   'Anggota' => 'Anggota',
   'pengurus' => 'Dewan Pengurus',
+  'penasehat' => 'Dewan Penasehat',
 
 
 
@@ -93,5 +94,8 @@ utama Indonesia.',
   'direkturEksekutif' => 'Direktur Eksekutif',
   'asistenDirekturEksekutif1' => 'Asisten Direktur Eksekutif 1',
   'cabang' => 'Cabang',
+
+  'galery' => 'Galeri',
+  'read' => 'Baca Selengkapnya',
 
 ];

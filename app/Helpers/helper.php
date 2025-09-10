@@ -17,4 +17,10 @@ class Helper
     $dekripString = Crypt::decryptString($id);
     return $dekripString;
   }
+
+  // format date
+  public function formatDate($date)
+  {
+    return date('d M Y', strtotime($date));
+  }
 }

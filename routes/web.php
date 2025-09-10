@@ -50,11 +50,6 @@ Route::get('/comming-soon', function () {
 
 Route::get('/berita', 'GuestController@berita')->name('berita');
 
-
-Route::get('/galeri', function () {
-  return view('guest.comming-soon');
-})->name('galeri');
-
 Route::get('/kontak', function () {
   return view('guest.kontak');
 })->name('kontak');
@@ -62,6 +57,11 @@ Route::get('/kontak', function () {
 Route::get('/anggotaTpp', 'GuestController@anggotaTpp')->name('anggotaTpp');
 
 Route::get('/cabang', 'GuestController@cabang')->name('cabang');
+
+Route::get('/galeri', 'GuestController@galery')->name('galeri');
+Route::get('/galeri/{id}', function ($id) {
+  return $id;
+})->name('detailGaleri');
 
 Auth::routes();
 

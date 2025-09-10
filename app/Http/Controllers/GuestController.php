@@ -11,6 +11,7 @@ class GuestController extends Controller
         $this->modelNews = new \App\Models\News();
         $this->modelTpp = new \App\Models\Tpp();
         $this->modelCabang = new \App\Models\Cabang();
+        $this->modelGalery = new \App\Models\Galery();
     }
 
     public function index()
@@ -45,5 +46,11 @@ class GuestController extends Controller
     {
         $data = $this->modelCabang->getData();
         return view('guest.cabang', ['data' => $data]);
+    }
+
+    public function galery()
+    {
+        $data = $this->modelGalery->getData();
+        return view('guest.galery', ['data' => $data]);
     }
 }

@@ -116,7 +116,7 @@
             <div class="row">
                 <div class="col-md-10 col-md-offset-1 col-sm-12 text-center page-title">
                     <!-- /.feature title -->
-                    {{-- <h2>{{ trans('global.Advisors') }}</h2> --}}
+                    <h2>{{ trans('global.penasehat') }}</h2>
                     <p>2025 - 2028</p>
                 </div>
             </div>
