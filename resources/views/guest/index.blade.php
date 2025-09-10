@@ -290,7 +290,7 @@
 
                             </div>
                             <div class="item-entry overflow">
-                                <h5><a href="{{ route('soon') }}">WIDYANTOKO-SUMARLIN</a></h5>
+                                <h5><a href="{{ route('soon') }}">WIDYANTOKO SUMARLIN</a></h5>
                                 <div class="dot-hr"></div>
                                 <span class="pull-left"><b>{{ trans('global.KeBidPemasaran') }}</b></span>
                                 <span class="proerty-price pull-right"></span>
