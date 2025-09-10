@@ -14,7 +14,7 @@
     <!-- End page header -->
 
     <!-- property area -->
-    <div class="content-area single-property" style="background-color: #FCFCFC;">&nbsp;
+    <div class="content-area single-property parallax-bg">&nbsp;
         <div class="container">
 
             <div class="clearfix padding-top-40">

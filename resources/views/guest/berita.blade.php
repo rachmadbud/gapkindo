@@ -7,7 +7,7 @@
         <div class="container">
             <div class="row">
                 <div class="page-head-content">
-                    <h1 class="page-title">HALAMAN News</h1>
+                    <h1 class="page-title">{{ __('global.news') }}</h1>
                 </div>
             </div>
         </div>
@@ -15,7 +15,7 @@
     <!-- End page header -->
 
     <!-- property area -->
-    <div class="content-area recent-property padding-top-40" style="background-color: #FFF;">
+    <div class="content-area recent-property padding-top-40 parallax-bg">
         <div class="container">
             <div class="row">
                 <div class="proerty-th">
@@ -25,15 +25,17 @@
                                 <div class="item-thumb">
                                     <a
                                         href="{{ route('detail.news', app(\App\Helpers\Helper::class)->enkrip($news->id)) }}">
-                                        <img src="{{ asset('guest/assets/img/news/' . $news->image) }}" style="width: 50px"
-                                            alt="no image">asd
+                                        <img src="{{ asset('guest/assets/img/news/' . $news->image) }}" style="width: 550px"
+                                            alt="no image">
                                     </a>
 
                                 </div>
                                 <div class="item-entry overflow">
-                                    <h5><a
-                                            href="{{ route('detail.news', app(\App\Helpers\Helper::class)->enkrip($news->id)) }}">{{ $news->title }}
-                                        </a></h5>
+                                    <h5>
+                                        <a href="{{ route('detail.news', app(\App\Helpers\Helper::class)->enkrip($news->id)) }}"
+                                            title="{{ $news->title }}">{{ \Illuminate\Support\Str::limit($news->title, 40) }}
+                                        </a>
+                                    </h5>
                                     <div class="dot-hr"></div>
                                     <span class="pull-left"><b><i class="fas fa-calendar-alt"></i> :
                                             {{ date('d-m-Y', strtotime($news->created_at)) }}</b>

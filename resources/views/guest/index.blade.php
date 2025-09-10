@@ -3,7 +3,7 @@
 @section('content')
     @include('guest.partials.slider')
     <!-- property area -->
-    <div class="content-area home-area-1 recent-property" style="background-color:#FCFCFC; padding-bottom: 55px;">
+    <div class="content-area home-area-1 recent-property parallax-bg">
         <div class="container">
             <div class="row">
                 <div class="col-md-10 col-md-offset-1 col-sm-12 text-center page-title">
@@ -20,8 +20,7 @@
                         <div class="col-sm-6 col-md-4 p0">
                             <div class="box-two proerty-item">
                                 <div class="item-thumb">
-                                    <a
-                                        href="{{ route('detail.news', app(\App\Helpers\Helper::class)->enkrip($news->id)) }}">
+                                    <a href="{{ route('detail.news', app(\App\Helpers\Helper::class)->enkrip($news->id)) }}">
                                         <img src="{{ asset('guest/assets/img/news/' . $news->image) }}">
                                     </a>
 
@@ -111,7 +110,7 @@
 
 
     <!--TESTIMONIALS -->
-    <div class="testimonial-area recent-property" style="background-color: #FCFCFC; padding-bottom: 15px;">
+    <div class="testimonial-area recent-property parallax-bg">
         <div class="container">
             <div class="row">
                 <div class="col-md-10 col-md-offset-1 col-sm-12 text-center page-title">

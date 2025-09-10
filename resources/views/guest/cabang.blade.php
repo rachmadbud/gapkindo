@@ -15,7 +15,7 @@
     <!-- End page header -->
 
     <!-- property area -->
-    <div class="content-area recent-property padding-top-40" style="background-color: #FFF;">
+    <div class="content-area recent-property padding-top-40 parallax-bg">
         <div class="container">
             <div class="row">
                 @foreach ($data as $item)

@@ -23,7 +23,7 @@
                         <h4>{{ __('global.tentangKami') }}</h4>
                         <div class="footer-title-line"></div>
 
-                        <img src="{{ asset('guest/assets/img/logo-gapkindo.jpg') }}" alt="" class="wow pulse"
+                        <img src="{{ asset('guest/assets/img/logo-secondary.png') }}" alt="" class="wow pulse"
                             data-wow-delay="1s">
                         <p>{{ __('global.pfooter') }}</p>
                         <ul class="footer-adress">

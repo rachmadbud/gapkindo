@@ -12,7 +12,7 @@
 .panel.sidebar-menu .panel-heading h4,
 .panel.sidebar-menu .panel-heading h5 {
     border-color: #03ac11 !important;
-    color: #0e1b10 !important;
+    color: #e29506 !important;
 }
 
 .properties-page .proerty-th .proerty-price,
@@ -113,3 +113,15 @@ table td {
 table tr:hover td {
   background-color: #fafafa; /* efek hover biar interaktif */
 }
+
+.navbar-nav > li > a:hover{
+    color: #e40c0c;
+    background-color: transparent;
+}
+
+.text-white{
+    color: #FFF;
+}
+
+
+

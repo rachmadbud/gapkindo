@@ -15,14 +15,14 @@
     <!-- End page header -->
 
     <!-- property area -->
-    <div class="content-area blog-page padding-top-40" style="background-color: #FCFCFC; padding-bottom: 55px;">
+    <div class="content-area blog-page padding-top-40 parallax-bg">
         <div class="container">
             <div class="row">
                 <div class="blog-lst col-md-10 pl0">
                     @foreach ($data as $item)
                         <section class="post">
                             <div class="text-center padding-b-50">
-                                <h2 class="wow fadeInLeft animated">{{ $item->title }}</h2>
+                                <h2 class="wow fadeInLeft animated text-white">{{ $item->title }}</h2>
                                 <div class="title-line wow fadeInRight animated"></div>
                             </div>
 

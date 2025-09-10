@@ -16,6 +16,15 @@
 
 <script src="{{ asset('guest/assets/js/main.js') }}"></script>
 
+<script>
+    $(function() {
+        $('[title]').tooltip({
+            placement: 'bottom',
+            trigger: 'hover',
+            container: 'body'
+        });
+    })
+</script>
 @stack('scripts')
 
 </body>

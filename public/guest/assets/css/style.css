@@ -53,7 +53,7 @@ p{
     line-height: 1.6180em;
 }
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, .h1 small, .h2 small, .h3 small, .h4 small, .h5 small, .h6 small, h1 .small, h2 .small, h3 .small, h4 .small, h5 .small, h6 .small, .h1 .small, .h2 .small, .h3 .small, .h4 .small, .h5 .small, .h6 .small {
-    color: #999999;
+    color: #030303;
     font-weight: 300;
     line-height: 1;
 }
@@ -690,20 +690,31 @@ label small{
 
 
 .navbar-default .navbar-nav > li > a{
-    color: #929292;
+    color: #DBE4C9;
     font-size: 16px;
     font-weight: 400;
     text-transform: capitalize;
     position: relative;
 
 }
+
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
-    color: #929292;
+    color: #ffdd57;
     background-color: transparent;
 }
 .navbar-nav > li > a {
     padding-right: 20px;
     padding-left: 20px;
+}
+ .navbar-default .navbar-nav > li > a {
+    padding-right: 20px;
+    padding-left: 20px;
+    color: #ffffff; /* warna teks normal */
+    transition: color 0.3s, background-color 0.3s;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #ffdd57; /* kuning lembut saat hover */
 }
 
 .navbar-default .navbar-nav > li > a.active:after{
@@ -767,25 +778,19 @@ label small{
     margin-bottom: 0px;
     min-height: 100px;
 }
-.navbar-default {
-    background-image: none;
-    background-color: #fff;
-    background-repeat: repeat-x;
-    border-radius: 4px;
-    box-shadow: none;
-}
 .navbar .container{
     padding-top: 15px
 }
 .navbar-default {
     background-image: none;
-    background-color: #FFF;
+    background-image: linear-gradient(to right, #0f5132, #8AA624); 
     background-repeat: repeat-x;
     border-radius: 0px;
     box-shadow: none;
     border-left: none;
     border-right: none;
 }
+
 .nav-tabs > li > a{
     color: #666;
     font-weight: 300;
@@ -800,6 +805,7 @@ label small{
     font-weight: 700;
     outline: none;
 }
+
 /*!
  * Yamm!3
  * Yet another megamenu for Bootstrap 3
@@ -847,7 +853,7 @@ label small{
     margin: inherit;
     list-style: outside none none;
     font-size: inherit;
-    background-color: #FFF;
+    background: linear-gradient(to right, #0f5132, #8AA624);
     border: 0px solid rgba(0, 0, 0, 0);
     border-radius: 0px;
     box-shadow: 0px 0.5px 1px #CECECE;
@@ -857,6 +863,7 @@ label small{
     clear: both;
     height: 50px;
 }
+
 .navbar-default .ymm-sw .navbar-nav a::after {
     bottom: 5px;
     background-color: #FFF;
@@ -1094,6 +1101,33 @@ page-header
     position: relative;
     min-height: 140px;
 }
+
+/* background-image: url("../../assets/img/gradient-minimalist-background_23-2149974325.jpg"); */
+.parallax-bg {
+  position: relative;
+  background-image: url("../../assets/img/gradient-minimalist-background_23-2149974325.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.parallax-bg::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(146, 143, 143, 0.4); /* putih semi transparan */
+  z-index: 0;
+}
+
+.parallax-bg > * {
+  position: relative;
+  z-index: 1; /* konten di atas overlay */
+}
+
+
+
 .page-head-content {
     padding-top: 52px;
     padding-bottom: 52px;
@@ -1107,7 +1141,7 @@ page-header
     letter-spacing: 2px;
 }
 .content-area{
-    background-color: #FCFCFC; padding-bottom: 55px;
+    background-color: #fcfcfc; padding-bottom: 55px;
 }
 .layout-switcher a{
     font-size: 25px;
@@ -1372,6 +1406,7 @@ Asside widgets CSS
     font-weight: 300;
     text-transform: uppercase;
     letter-spacing: 4px;
+    color: #202020;
 }
 .page-title h2 span{
     color: #00ADEF
@@ -1380,6 +1415,7 @@ Asside widgets CSS
     font-size: 18px;
     padding: 10px 20% 25px;
     line-height: 27px;
+    color: #202020;
 }
 
 .pagination {
@@ -2287,7 +2323,7 @@ Welcom
     z-index: 1000;
 }
 .welcome_text .page-title h2 {
-    color: #9B9B9B;
+    color: #0a0a0a;
     text-transform: uppercase;
     background-color: #FFF;
     position: absolute;
@@ -2539,7 +2575,7 @@ padding-bottom: 15px;
     letter-spacing: 0.08em;
 }
 .blog-page  .post .author-category, #blog-homepage .post .author-category {
-    color: #999;
+    color: #ffffff;
     text-transform: uppercase;
     font-weight: 300;
     letter-spacing: 0.08em;
@@ -2805,7 +2841,8 @@ color: #535353;
 }
 .footer{
 padding: 0px 0px 60px;
-background: rgba(255, 255, 255, 0.89) none repeat scroll 0% 0%;
+/* background: rgba(255, 255, 255, 0.89) none repeat scroll 0% 0%; */
+background: rgba(219, 228, 201, 0.92); /* 0.7 = 70% opacity */
 }
 .footer ul li i { 
     padding-right: 10px;
