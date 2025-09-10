@@ -243,7 +243,7 @@
                                 <tr>
                                     <td> {{ date('d-m-Y', strtotime($news->created_at)) }}</td>
                                     <td>{{ $news->title }}</td>
-                                    <td><img src="{{ asset('images/news/' . $news->image) }}" alt=""
+                                    <td><img src="{{ asset('guest/assets/img/news/' . $news->image) }}" alt=""
                                             style="width: 150px"></td>
                                     <td>{{ $news->content }}</td>
                                     <td>{{ $news->source }}</td>

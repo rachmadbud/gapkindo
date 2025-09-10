@@ -25,8 +25,8 @@
                                 <div class="item-thumb">
                                     <a
                                         href="{{ route('detail.news', app(\App\Helpers\Helper::class)->enkrip($news->id)) }}">
-                                        <img src="{{ asset('guest/assets/img/news/' . $news->image) }}"
-                                            style="height: 200px; width: 100%; object-fit: cover;" alt="">
+                                        <img src="{{ asset('guest/assets/img/news/' . $news->image) }}" style="width: 50px"
+                                            alt="no image">asd
                                     </a>
 
                                 </div>

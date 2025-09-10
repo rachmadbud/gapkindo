@@ -162,7 +162,7 @@
                                         src="{{ asset('guest/assets/img/demo/MOAGRAHA-GUNAWAN.png') }}"></a>
                             </div>
                             <div class="item-entry overflow">
-                                <h5><a href="{{ route('soon') }}">MOAGRAHA-GUNAWAN</a></h5>
+                                <h5><a href="{{ route('soon') }}">MOAGRAHA GUNAWAN</a></h5>
                                 <div class="dot-hr"></div>
                                 <span class="pull-left"><b>{{ trans('global.Anggota') }}</b></span>
                                 <span class="proerty-price pull-right"></span>
@@ -178,7 +178,7 @@
 
                             </div>
                             <div class="item-entry overflow">
-                                <h5><a href="{{ route('soon') }}">SANTO-SUMONO</a></h5>
+                                <h5><a href="{{ route('soon') }}">SANTO SUMONO</a></h5>
                                 <div class="dot-hr"></div>
                                 <span class="pull-left"><b>{{ trans('global.Anggota') }}</b></span>
                                 <span class="proerty-price pull-right"></span>
@@ -194,7 +194,7 @@
 
                             </div>
                             <div class="item-entry overflow">
-                                <h5><a href="{{ route('soon') }}">VINCENTIUS-OEI</a></h5>
+                                <h5><a href="{{ route('soon') }}">VINCENTIUS OEI</a></h5>
                                 <div class="dot-hr"></div>
                                 <span class="pull-left"><b>{{ trans('global.Anggota') }}</b></span>
                                 <span class="proerty-price pull-right"></span>

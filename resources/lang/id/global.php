@@ -14,12 +14,12 @@ return [
   'lang' => 'Bahasa Indonesia',
 
   'SekUm' => 'Sekretaris Umum',
-  'KabidOrganisasi' => 'Kepala Bidang Organisasi',
-  'KabidProduksi' => 'Kepala Bidang Produksi',
+  'KabidOrganisasi' => 'Ketua Bidang Organisasi',
+  'KabidProduksi' => 'Ketua Bidang Produksi',
   'bendahara' => 'Bendahara',
-  'KeBidPemasaran' => 'Kepala Bidang Pemasaran',
-  'ketua' => 'Ketua Umum',
-  'KabidKeuangan' => 'Kepala Bidang Keuangan',
+  'KeBidPemasaran' => 'Ketua Bidang Pemasaran',
+  'ketua' => 'Ketua',
+  'KabidKeuangan' => 'Ketua Bidang Keuangan',
   'Anggota' => 'Anggota',
   'pengurus' => 'Dewan Pengurus',
 
@@ -86,9 +86,9 @@ return [
   |
   */
   'pfooter' => 'Perusahaan Karet Indonesia (GAPKINDO) adalah asosiasi perusahaan-perusahaan Indonesia yang
-                            bergerak di industri karet alam. Tujuan GAPKINDO adalah untuk mengembangkan dan meningkatkan
-                            produksi, pengolahan, dan pemasaran karet alam Indonesia sebagai salah satu komoditas ekspor
-                            utama Indonesia.',
+  bergerak di industri karet alam. Tujuan GAPKINDO adalah untuk mengembangkan dan meningkatkan
+  produksi, pengolahan, dan pemasaran karet alam Indonesia sebagai salah satu komoditas ekspor
+utama Indonesia.',
 
   'direkturEksekutif' => 'Direktur Eksekutif',
   'asistenDirekturEksekutif1' => 'Asisten Direktur Eksekutif 1',
