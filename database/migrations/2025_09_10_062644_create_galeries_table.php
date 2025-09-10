@@ -20,7 +20,7 @@ return new class extends Migration
             $table->timestamps();
         });
 
-        DB::table('tpp')->insert(
+        DB::table('galeries')->insert(
             [
                 'title' => 'KONGRES XX',
                 'image' => 'kongres.jpg',
