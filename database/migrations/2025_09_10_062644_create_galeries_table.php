@@ -23,7 +23,7 @@ return new class extends Migration
         DB::table('galeries')->insert(
             [
                 'title' => 'KONGRES XX',
-                'image' => 'kongres.jpg',
+                'image' => 'kongresXX.jpg',
                 'at' => 'NUSA DUA, BALI',
                 'created_at' => '2025-08-20 06:26:44',
                 'updated_at' => '2025-09-10 15:50:14',
