@@ -2,6 +2,7 @@
 
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Schema;
 
 return new class extends Migration
@@ -18,6 +19,16 @@ return new class extends Migration
             $table->string('at');
             $table->timestamps();
         });
+
+        DB::table('tpp')->insert(
+            [
+                'title' => 'KONGRES XX',
+                'image' => 'kongres.jpg',
+                'at' => 'NUSA DUA, BALI',
+                'created_at' => '2025-08-20 06:26:44',
+                'updated_at' => '2025-09-10 15:50:14',
+            ]
+        );
     }
 
     /**
