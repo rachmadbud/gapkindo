@@ -90,6 +90,7 @@ return [
   bergerak di industri karet alam. Tujuan GAPKINDO adalah untuk mengembangkan dan meningkatkan
   produksi, pengolahan, dan pemasaran karet alam Indonesia sebagai salah satu komoditas ekspor
 utama Indonesia.',
+  // assad
 
   'direkturEksekutif' => 'Direktur Eksekutif',
   'asistenDirekturEksekutif1' => 'Asisten Direktur Eksekutif 1',
