@@ -68,7 +68,7 @@
                                     <span class="col-xs-6 col-sm-8 col-md-8 add-d-entry">{{ $dataCabang->email }}</span>
                                 </li>
                                 <li>
-                                    <span class="col-xs-6 col-sm-4 col-md-4 add-d-title">Ketua</span>
+                                    <span class="col-xs-6 col-sm-4 col-md-4 add-d-title">{{ __('global.ketua') }}</span>
                                     <span class="col-xs-6 col-sm-8 col-md-8 add-d-entry">{{ $dataCabang->ketua }}</span>
                                 </li>
                                 <li>
