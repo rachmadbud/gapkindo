@@ -9,7 +9,7 @@
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="/"><img src="{{ asset('guest/assets/img/logo2.png') }}"
-                    style="width:150px; height:49px;" alt=""></a> <br>
+                    style="width:150px; height:53px;" alt=""></a> <br>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->

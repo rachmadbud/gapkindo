@@ -146,7 +146,7 @@
                                         src="{{ asset('guest/assets/img/demo/RYANTO WISNUARDHI.png') }}"></a>
                             </div>
                             <div class="item-entry overflow">
-                                <h5><a href="{{ route('soon') }}">RYANTO WISNUARDHI</a></h5>
+                                <h5><a href="{{ route('soon') }}">RYANTO WISNUARDHY</a></h5>
                                 <div class="dot-hr"></div>
                                 <span class="pull-left"><b>{{ trans('global.Anggota') }}</b></span>
                                 <span class="proerty-price pull-right"></span>
