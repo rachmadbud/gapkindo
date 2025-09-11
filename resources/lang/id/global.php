@@ -98,4 +98,8 @@ utama Indonesia.',
   'galery' => 'Galeri',
   'read' => 'Baca Selengkapnya',
 
+  'sumber' => 'Sumber',
+  'deskripsi' => 'Deskripsi',
+  'detail' => 'Detail'
+
 ];

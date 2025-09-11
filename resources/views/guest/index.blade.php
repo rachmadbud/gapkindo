@@ -26,8 +26,8 @@
 
                                 </div>
                                 <div class="item-entry overflow">
-                                    <h5><a
-                                            href="{{ route('detail.news', app(\App\Helpers\Helper::class)->enkrip($news->id)) }}">{{ $news->title }}
+                                    <h5><a href="{{ route('detail.news', app(\App\Helpers\Helper::class)->enkrip($news->id)) }}"
+                                            title="{{ $news->title }}">{{ \Illuminate\Support\Str::limit($news->title, 40) }}
                                         </a></h5>
                                     <div class="dot-hr"></div>
                                     <span class="pull-left"><b><i class="fas fa-calendar-alt"></i> :

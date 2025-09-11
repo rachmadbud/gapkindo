@@ -122,6 +122,12 @@ table tr:hover td {
 .text-white{
     color: #FFF;
 }
+.text-black{
+  /* warna text diubah jadi hitam */
+  color: #0f0f0f !important;
+
+}
+
 
 
 

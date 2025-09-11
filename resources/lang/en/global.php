@@ -96,5 +96,8 @@ return [
   'galery' => 'Galery',
   'read' => 'Read More',
 
+  'sumber' => 'Source',
+  'deskripsi' => 'Description',
+  'detail' => 'Details'
 
 ];

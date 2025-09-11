@@ -47,16 +47,16 @@
                         <!-- .property-meta -->
 
                         <div class="section">
-                            <h4 class="s-property-title">Description</h4>
+                            <h4 class="s-property-title">{{ __('global.deskripsi') }}</h4>
                             <div class="s-property-content">
-                                <p class="text-justify">{{ $dataNews->content }}</p>
+                                <p class="text-black text-justify">{{ $dataNews->content }}</p>
                             </div>
                         </div>
                         <!-- End description area  -->
 
                         <div class="section additional-details">
 
-                            <h4 class="s-property-title">Additional Details</h4>
+                            <h4 class="s-property-title">{{ __('global.detail') }}</h4>
 
                             <ul class="additional-details-list clearfix">
                                 <li>
@@ -64,14 +64,8 @@
                                     <span
                                         class="col-xs-6 col-sm-8 col-md-8 add-d-entry">{{ date('d-m', strtotime($dataNews->created_at)) }}</span>
                                 </li>
-
                                 <li>
-                                    <span class="col-xs-6 col-sm-4 col-md-4 add-d-title">Built In</span>
-                                    <span
-                                        class="col-xs-6 col-sm-8 col-md-8 add-d-entry">{{ date('Y', strtotime($dataNews->created_at)) }}</span>
-                                </li>
-                                <li>
-                                    <span class="col-xs-6 col-sm-4 col-md-4 add-d-title">Source</span>
+                                    <span class="col-xs-6 col-sm-4 col-md-4 add-d-title">{{ __('global.sumber') }}</span>
                                     <span class="col-xs-6 col-sm-8 col-md-8 add-d-entry">{{ $dataNews->source }}</span>
                                 </li>
 

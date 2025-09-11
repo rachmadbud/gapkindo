@@ -46,8 +46,8 @@
                                 </a>
                             </div>
                             <p class="read-more">
-                                <a href="{{ route('detailGaleri', app(\App\Helpers\Helper::class)->enkrip($item->id)) }}"
-                                    class="btn btn-default btn-border">{{ __('global.read') }}</a>
+                                {{-- <a href="{{ route('detailGaleri', app(\App\Helpers\Helper::class)->enkrip($item->id)) }}"
+                                    class="btn btn-default btn-border">{{ __('global.read') }}</a> --}}
                             </p>
                         </section>
                     @endforeach
