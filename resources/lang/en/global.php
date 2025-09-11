@@ -100,5 +100,8 @@ return [
   'deskripsi' => 'Description',
   'detail' => 'Details',
   'regulasi' => 'Regulation',
+  'sekretaris' => 'Secretary',
+
+  'tanggal' => 'Date',
 
 ];

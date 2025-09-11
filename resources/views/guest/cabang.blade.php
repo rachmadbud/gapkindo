@@ -23,7 +23,8 @@
                         <div class="col-sm-6 col-md-4 p0 my-2">
                             <div class="box-two proerty-item">
                                 <div class="item-thumb">
-                                    <a href="{{ route('soon') }}">
+                                    <a
+                                        href="{{ route('detail-cabanag', app(\App\Helpers\Helper::class)->enkrip($item->id)) }}">
                                         <img src="{{ asset('guest/assets/img/cabang/' . $item->img) }}"
                                             style="height: 200px; width: 100%; object-fit: cover;" alt="">
                                     </a>

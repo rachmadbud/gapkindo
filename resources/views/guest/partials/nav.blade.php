@@ -64,7 +64,7 @@
 
                 <li class="dropdown ymm-sw " data-wow-delay="0.1s">
                     <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
-                        data-delay="200">{{ __('global.daftar') }} <b class="caret"></b></a>
+                        data-delay="200">{{ __('global.anggota') }} <b class="caret"></b></a>
                     <ul class="dropdown-menu navbar-nav">
                         <li>
                             <a href="{{ route('anggotaTpp') }}">{{ __('global.anggota') }} (TPP)</a>

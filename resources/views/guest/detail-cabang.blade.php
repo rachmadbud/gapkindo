@@ -1,12 +1,12 @@
 @extends('guest.layouts.master')
-@section('title', 'Detail News | GAPKINDO')
+@section('title', 'Detail | GAPKINDO')
 
 @section('content')
     <div class="page-head">
         <div class="container">
             <div class="row">
                 <div class="page-head-content">
-                    <h1 class="page-title">{{ $dataNews->title }} </h1>
+                    <h1 class="page-title">asd </h1>
                 </div>
             </div>
         </div>
@@ -33,8 +33,8 @@
                                 </div>
 
                                 <ul id="" class=" list-unstyled cS-hidden">
-                                    <li data-thumb="{{ asset('guest/assets/img/news/' . $dataNews->image) }}">
-                                        <img src="{{ asset('guest/assets/img/news/' . $dataNews->image) }}" />
+                                    <li data-thumb="">
+                                        <img src="{{ asset('guest/assets/img/cabang/' . $dataCabang->img) }}" />
                                     </li>
                                 </ul>
                             </div>
@@ -47,9 +47,9 @@
                         <!-- .property-meta -->
 
                         <div class="section">
-                            <h4 class="s-property-title">{{ __('global.deskripsi') }}</h4>
+                            <h4 class="s-property-title">{{ $dataCabang->propinsi }}</h4>
                             <div class="s-property-content">
-                                <p class="text-black text-justify">{{ $dataNews->content }}</p>
+                                <p class="text-black text-justify"></p>
                             </div>
                         </div>
                         <!-- End description area  -->
@@ -60,13 +60,22 @@
 
                             <ul class="additional-details-list clearfix">
                                 <li>
-                                    <span class="col-xs-6 col-sm-4 col-md-4 add-d-title">{{ __('global.tanggal') }}</span>
-                                    <span
-                                        class="col-xs-6 col-sm-8 col-md-8 add-d-entry">{{ date('d-m', strtotime($dataNews->created_at)) }}</span>
+                                    <span class="col-xs-6 col-sm-4 col-md-4 add-d-title">{{ __('global.Alamat') }}</span>
+                                    <span class="col-xs-6 col-sm-8 col-md-8 add-d-entry">{{ $dataCabang->alamat }}</span>
                                 </li>
                                 <li>
-                                    <span class="col-xs-6 col-sm-4 col-md-4 add-d-title">{{ __('global.sumber') }}</span>
-                                    <span class="col-xs-6 col-sm-8 col-md-8 add-d-entry">{{ $dataNews->source }}</span>
+                                    <span class="col-xs-6 col-sm-4 col-md-4 add-d-title">Email</span>
+                                    <span class="col-xs-6 col-sm-8 col-md-8 add-d-entry">{{ $dataCabang->email }}</span>
+                                </li>
+                                <li>
+                                    <span class="col-xs-6 col-sm-4 col-md-4 add-d-title">Ketua</span>
+                                    <span class="col-xs-6 col-sm-8 col-md-8 add-d-entry">{{ $dataCabang->ketua }}</span>
+                                </li>
+                                <li>
+                                    <span
+                                        class="col-xs-6 col-sm-4 col-md-4 add-d-title">{{ __('global.sekretaris') }}</span>
+                                    <span
+                                        class="col-xs-6 col-sm-8 col-md-8 add-d-entry">{{ $dataCabang->sekertaris }}</span>
                                 </li>
 
                             </ul>

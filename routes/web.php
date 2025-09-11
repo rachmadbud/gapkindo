@@ -57,6 +57,7 @@ Route::get('/kontak', function () {
 Route::get('/anggotaTpp', 'GuestController@anggotaTpp')->name('anggotaTpp');
 
 Route::get('/cabang', 'GuestController@cabang')->name('cabang');
+Route::get('/cabang/{id}', 'GuestController@detailCabang')->name('detail-cabanag');
 
 Route::get('/galeri', 'GuestController@galery')->name('galeri');
 Route::get('/galeri/{id}', function ($id) {

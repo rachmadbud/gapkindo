@@ -55,4 +55,10 @@ class Cabang extends Model
         return redirect()->route('admin.cabang')
             ->with('error', 'Cabang not found.');
     }
+
+    public function getDataById($id)
+    {
+        $data = DB::table('cabangs')->where('id', $id)->first();
+        return $data;
+    }
 }

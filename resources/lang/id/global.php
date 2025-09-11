@@ -103,4 +103,7 @@ utama Indonesia.',
   'detail' => 'Detail',
   'regulasi' => 'Regulasi',
 
+  'sekretaris' => 'Sekretaris',
+  'tanggal' => 'Tanggal',
+
 ];

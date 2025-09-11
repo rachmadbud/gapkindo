@@ -58,4 +58,12 @@ class GuestController extends Controller
     {
         return view('guest.regulasi');
     }
+
+    public function detailCabang($id)
+    {
+        $idCabang = app(\App\Helpers\Helper::class)->dekrip($id);
+        return view('guest.detail-cabang', [
+            'dataCabang' => $this->modelCabang->getDataById($idCabang)
+        ]);
+    }
 }
