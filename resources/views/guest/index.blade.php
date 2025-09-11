@@ -318,7 +318,7 @@
                             <div class="item-entry overflow">
                                 <h5><a href="{{ route('soon') }}">Erwin Tunas</a></h5>
                                 <div class="dot-hr"></div>
-                                <span class="pull-left"><b>ERWIN-TUNAS</b> </span>
+                                <span class="pull-left"><b>Direktur Eksekutif</b> </span>
                                 <span class="proerty-price pull-right"></span>
                             </div>
                         </div>
