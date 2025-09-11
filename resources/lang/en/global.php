@@ -98,6 +98,7 @@ return [
 
   'sumber' => 'Source',
   'deskripsi' => 'Description',
-  'detail' => 'Details'
+  'detail' => 'Details',
+  'regulasi' => 'Regulation',
 
 ];

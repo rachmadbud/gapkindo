@@ -100,6 +100,7 @@ utama Indonesia.',
 
   'sumber' => 'Sumber',
   'deskripsi' => 'Deskripsi',
-  'detail' => 'Detail'
+  'detail' => 'Detail',
+  'regulasi' => 'Regulasi',
 
 ];

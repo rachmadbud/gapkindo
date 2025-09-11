@@ -53,4 +53,9 @@ class GuestController extends Controller
         $data = $this->modelGalery->getData();
         return view('guest.galery', ['data' => $data]);
     }
+
+    public function regulasi()
+    {
+        return view('guest.regulasi');
+    }
 }

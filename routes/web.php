@@ -63,6 +63,8 @@ Route::get('/galeri/{id}', function ($id) {
   return view('guest.comming-soon');
 })->name('detailGaleri');
 
+Route::get('/regulasi', 'GuestController@regulasi')->name('regulasi');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');

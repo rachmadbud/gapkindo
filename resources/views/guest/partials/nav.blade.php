@@ -24,12 +24,44 @@
                 <li class="wow fadeInDown" data-wow-delay="0.1s">
                     <a href="{{ url('/') }}">{{ __('global.home') }}</a>
                 </li>
-                <li class="wow fadeInDown " data-wow-delay="0.1s">
-                    <a href="{{ route('berita') }}">{{ __('global.news') }}</a>
+                <li class="dropdown ymm-sw " data-wow-delay="0.1s">
+                    <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
+                        data-delay="200">Media <b class="caret"></b></a>
+                    <ul class="dropdown-menu navbar-nav">
+                        <li>
+                            <a href="{{ route('galeri') }}">{{ __('global.galeri') }}</a>
+                        </li>
+                        <li>
+                            <a href="{{ route('berita') }}">{{ __('global.news') }}</a>
+                        </li>
+                    </ul>
                 </li>
-                <li class="wow fadeInDown " data-wow-delay="0.1s">
-                    <a href="{{ route('galeri') }}">{{ __('global.galeri') }}</a>
+                <li class="dropdown ymm-sw " data-wow-delay="0.1s">
+                    <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
+                        data-delay="200">{{ __('global.regulasi') }} <b class="caret"></b></a>
+                    <ul class="dropdown-menu navbar-nav">
+                        <li>
+                            <a href="https://www.ekon.go.id/" target="_blank">KEMENTERIAN KOORDINATOR BIDANG
+                                PEREKONOMIAN</a>
+                        </li>
+                        <li>
+                            <a href="https://www.pertanian.go.id/" target="_blank">KEMENTERIAN PERTANIAN</a>
+                        </li>
+                        <li>
+                            <a href="https://kemenperin.go.id/" target="_blank">KEMENTERIAN PERINDUSTRIAN</a>
+                        </li>
+                        <li>
+                            <a href="https://dephub.go.id/" target="_blank">KEMENTERIAN PERHUBUNGAN</a>
+                        </li>
+                        <li>
+                            <a href="https://kadin.id/" target="_blank">KADIN INDONESIA</a>
+                        </li>
+                        <li>
+                            <a href="https://www.kemenkeu.go.id/home" target="_blank">KEMENTERIAN KEUANGAN</a>
+                        </li>
+                    </ul>
                 </li>
+
                 <li class="dropdown ymm-sw " data-wow-delay="0.1s">
                     <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
                         data-delay="200">{{ __('global.daftar') }} <b class="caret"></b></a>
@@ -43,7 +75,6 @@
                 </li>
 
             </ul>
-            </li>
 
             <li class="wow fadeInDown" data-wow-delay="0.5s"><a
                     href="{{ route('kontak') }}">{{ __('global.kontak') }}</a></li>
