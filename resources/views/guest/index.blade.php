@@ -115,7 +115,7 @@
             <div class="row">
                 <div class="col-md-10 col-md-offset-1 col-sm-12 text-center page-title">
                     <!-- /.feature title -->
-                    <h2>{{ trans('global.penasehat') }}</h2>
+                    <h2>{{ trans('global.badanPengawas') }}</h2>
                     <p>2025 - 2028</p>
                 </div>
             </div>
@@ -208,7 +208,7 @@
             <div class="row">
                 <div class="col-md-10 col-md-offset-1 col-sm-12 text-center page-title">
                     <!-- /.feature title -->
-                    <h2>{{ trans('global.pengurus') }} Of GAPKINDO</h2>
+                    <h2>{{ trans('global.badanPengurus') }}</h2>
                     <p>2025 - 2028</p>
                 </div>
             </div>
@@ -318,7 +318,7 @@
                             <div class="item-entry overflow">
                                 <h5><a href="{{ route('soon') }}">Erwin Tunas</a></h5>
                                 <div class="dot-hr"></div>
-                                <span class="pull-left"><b>Direktur Eksekutif</b> </span>
+                                <span class="pull-left"><b>{{ __('global.direkturEksekutif') }}</b> </span>
                                 <span class="proerty-price pull-right"></span>
                             </div>
                         </div>
@@ -334,7 +334,8 @@
                             <div class="item-entry overflow">
                                 <h5><a href="{{ route('soon') }}">UHENDI HARIS </a></h5>
                                 <div class="dot-hr"></div>
-                                <span class="pull-left"><b>ASISTEN EKSEKUTIF DIREKTUR</b> </span>
+                                <span class="pull-left"><b>{{ __('global.asistenDirekturEksekutif') }} & <br>
+                                        {{ __('global.manajerKantor') }}</b> </span>
                                 <span class="proerty-price pull-right"></span>
                             </div>
                         </div>

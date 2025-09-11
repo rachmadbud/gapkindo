@@ -11,14 +11,17 @@ return [
   'failed' => 'These credentials do not match our records.',
   'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
 
+  'badanPengawas' => 'Board of Commissioners',
+  'badanPengurus' => 'board of Directors',
+
   'lang' => 'English Lang',
   'SekUm' => 'Secretary General',
-  'KabidOrganisasi' => 'Vice Chairman Organization',
-  'KabidProduksi' => 'Vice Chairman Production',
+  'KabidOrganisasi' => 'Vice Chairman for Organization',
+  'KabidProduksi' => 'Vice Chairman for Production',
   'bendahara' => 'Treasurer',
-  'KeBidPemasaran' => 'Vice Chairman Commerce',
+  'KeBidPemasaran' => 'Vice Chairman for Commerce',
   'ketua' => 'Chairman',
-  'KabidKeuangan' => 'Vice Chairman Finance',
+  'KabidKeuangan' => 'Vice Chairman for Finance',
   'Anggota' => 'Member',
   'pengurus' => 'Governing Board',
   'penasehat' => 'Supervisors',
@@ -89,7 +92,8 @@ return [
                             main Indonesian.',
 
   'direkturEksekutif' => 'Executive Director',
-  'asistenDirekturEksekutif1' => 'Assistant Executive Director 1',
+  'asistenDirekturEksekutif' => 'Assistant Executive Director',
+  'manajerKantor' => 'Office Manager',
 
   'cabang' => 'Branch',
 

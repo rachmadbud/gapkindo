@@ -92,8 +92,13 @@ return [
 utama Indonesia.',
   // assad
 
+  'badanPengawas' => 'Badan Pengawas',
+  'badanPengurus' => 'Badan Pengurus',
+
   'direkturEksekutif' => 'Direktur Eksekutif',
-  'asistenDirekturEksekutif1' => 'Asisten Direktur Eksekutif 1',
+  'asistenDirekturEksekutif' => 'Asisten Direktur Eksekutif',
+  'manajerKantor' => 'Manajer Kantor',
+
   'cabang' => 'Cabang',
 
   'galery' => 'Galeri',

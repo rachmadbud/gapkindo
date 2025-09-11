@@ -6,7 +6,7 @@
         <div class="container">
             <div class="row">
                 <div class="page-head-content">
-                    <h1 class="page-title">asd </h1>
+                    <h1 class="page-title">{{ __('global.cabang') }}</h1>
                 </div>
             </div>
         </div>
