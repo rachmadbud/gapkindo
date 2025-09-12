@@ -30,7 +30,7 @@
                             <li><i class="pe-7s-map-marker strong"> </i> Jl. Cideng Barat No.62-A 14, RT.14/RW.2,
                                 Cideng, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10150</li>
                             <li><i class="pe-7s-mail strong"> </i> gapkindo.pusat@gmail.com</li>
-                            <li><i class="pe-7s-call strong"> </i> (62-21) 3846811, 3500368</li>
+                            <li><i class="pe-7s-call strong"> </i> (62-21) 301510, 3501511, 3846813</li>
                         </ul>
                     </div>
                 </div>
@@ -83,7 +83,7 @@
                         </ul>
                         <p>Erwin Tunas</p>
                         <ul class="footer-menu">
-                            <li><a href="{{ route('soon') }}">{{ __('global.asistenDirekturEksekutif1') }}</a> </li>
+                            <li><a href="{{ route('soon') }}">{{ __('global.asistenDirekturEksekutif') }}</a> </li>
                         </ul>
                         <p>Uhendi Haris</p>
 
