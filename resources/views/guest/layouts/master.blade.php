@@ -14,41 +14,46 @@
 <!-- Footer area-->
 <div class="footer-area">
 
-    <div class=" footer">
+    <div class="footer">
         <div class="container">
             <div class="row">
 
                 <div class="col-md-3 col-sm-6 wow fadeInRight animated">
                     <div class="single-footer">
-                        <h4>{{ __('global.tentangKami') }}</h4>
+                        <h3>{{ __('global.tentangKami') }}</h3>
                         <div class="footer-title-line"></div>
 
-                        <img src="{{ asset('guest/assets/img/logo-secondary.png') }}" alt="" class="wow pulse"
+                        <img src="{{ asset('guest/assets/img/logo-gapkindo.jpg') }}" alt="" class="wow pulse"
                             data-wow-delay="1s">
                         <p>{{ __('global.pfooter') }}</p>
                         <ul class="footer-adress">
-                            <li><i class="pe-7s-map-marker strong"> </i> Jl. Cideng Barat No.62-A 14, RT.14/RW.2,
-                                Cideng, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10150</li>
+                            <li><i class="pe-7s-map-marker strong"> </i> Jl. Cideng Barat No.62-A, RT.14/RW.2,
+                                Cideng, Kecamatan Gambir, Kota Jakarta Pusat, DKI Jakarta 10150</li>
                             <li><i class="pe-7s-mail strong"> </i> gapkindo.pusat@gmail.com</li>
-                            <li><i class="pe-7s-call strong"> </i> (62-21) 301510, 3501511, 3846813</li>
+                            <li><i class="pe-7s-call strong"> </i> (62-21) 3501510, 3501511, 3846813</li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-md-2 col-sm-6 wow fadeInRight animated">
                     <div class="single-footer">
-                        <h4>{{ __('global.tautan') }}</h4>
+                        <h3>{{ __('global.tautan') }}</h3>
                         <div class="footer-title-line"></div>
-                        <ul class="footer-menu">
-                            <li><a href="{{ route('soon') }}">Soon</a> </li>
-                            <li><a href="{{ route('soon') }}">Contact us</a></li>
-                            <li><a href="{{ route('soon') }}">fqa</a> </li>
-                            <li><a href="{{ route('soon') }}">Terms </a> </li>
+                        <ul class=" footer-menu">
+                            <li style="text-decoration: antiquewhite;"><a href="https://www.ekon.go.id/"
+                                    target="_blank">KEMENTERIAN
+                                    KOORDINATOR BIDANG
+                                    PEREKONOMIAN</a></li>
+                            <li><a href="https://www.pertanian.go.id/" target="_blank">KEMENTERIAN PERTANIAN</a></li>
+                            <li><a href="https://kemenperin.go.id/" target="_blank">KEMENTERIAN PERINDUSTRIAN</a></li>
+                            <li><a href="https://dephub.go.id/" target="_blank">KEMENTERIAN PERHUBUNGAN</a></li>
+                            <li><a href="https://kadin.id/" target="_blank">KADIN INDONESIA</a></li>
+                            <li><a href="https://www.kemenkeu.go.id/home" target="_blank">KEMENTERIAN KEUANGAN</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 wow fadeInRight animated">
                     <div class="single-footer">
-                        <h4>{{ __('global.lastNews') }}</h4>
+                        <h3>{{ __('global.lastNews') }}</h3>
                         <div class="footer-title-line"></div>
                         <ul class="footer-blog">
                             @foreach ($newsFooter as $item)
@@ -76,7 +81,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 wow fadeInRight animated">
                     <div class="single-footer news-letter">
-                        <h4>{{ __('global.sekretariat') }} GAPKINDO</h4>
+                        <h3>GAPKINDO {{ __('global.sekretariat') }} </h3>
                         <div class="footer-title-line"></div>
                         <ul class="footer-menu">
                             <li><a href="{{ route('soon') }}">{{ __('global.direkturEksekutif') }}</a> </li>

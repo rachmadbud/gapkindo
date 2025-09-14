@@ -11,8 +11,8 @@ return [
   'failed' => 'These credentials do not match our records.',
   'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
 
-  'badanPengawas' => 'Board of Commissioners',
-  'badanPengurus' => 'board of Directors',
+  'badanPengawas' => 'Supervisory Board',
+  'badanPengurus' => 'Governing Board',
 
   'lang' => 'English Lang',
   'SekUm' => 'Secretary General',
@@ -53,7 +53,7 @@ return [
   'tentangKami' => 'About Us',
   'tautan' => 'Links',
   'lastNews' => 'Last News',
-  'sekretariat' => 'Secretariat',
+  'sekretariat' => 'SECRETARIAT',
 
   /*
   |--------------------------------------------------------------------------
@@ -103,8 +103,8 @@ return [
   'sumber' => 'Source',
   'deskripsi' => 'Description',
   'detail' => 'Details',
-  'regulasi' => 'Regulation',
-  'sekretaris' => 'Secretary',
+  'regulasi' => 'Link',
+  'sekretaris' => 'Secretary General',
 
   'tanggal' => 'Date',
 

@@ -4,8 +4,7 @@ return [
 
   'hello' => 'Halo',
   'h1' => 'GABUNGAN PERUSAHAAN KARET INDONESIA',
-  'p' => 'Gabungan Perusahaan Karet Indonesia (GAPKINDO) adalah asosiasi perusahaan-perusahaan Indonesia yang
-                        bergerak di industri karet alam. Tujuan GAPKINDO adalah untuk mengembangkan dan meningkatkan
+  'p' => ' Gabungan Perusahaan Karet Indonesia (GAPKINDO) adalah asosiasi yang bergerak di industri karet alam. Tujuan GAPKINDO adalah untuk mengembangkan dan meningkatkan
                         produksi, pengolahan, dan pemasaran karet alam Indonesia sebagai salah satu komoditas ekspor
                         utama Indonesia.',
   'failed' => 'These credentials do not match our records.',
@@ -53,7 +52,7 @@ return [
   'tentangKami' => 'Tentang Kami',
   'tautan' => 'Tautan',
   'lastNews' => 'Berita Terbaru',
-  'sekretariat' => 'Sekretariat',
+  'sekretariat' => 'SEKRETARIAT',
 
   /*
   |--------------------------------------------------------------------------
@@ -86,10 +85,9 @@ return [
   |--------------------------------------------------------------------------
   |
   */
-  'pfooter' => 'Perusahaan Karet Indonesia (GAPKINDO) adalah asosiasi perusahaan-perusahaan Indonesia yang
-  bergerak di industri karet alam. Tujuan GAPKINDO adalah untuk mengembangkan dan meningkatkan
-  produksi, pengolahan, dan pemasaran karet alam Indonesia sebagai salah satu komoditas ekspor
-utama Indonesia.',
+  'pfooter' => 'Gabungan Perusahaan Karet Indonesia (GAPKINDO) adalah asosiasi yang bergerak di industri karet alam. Tujuan GAPKINDO adalah untuk mengembangkan dan meningkatkan
+                        produksi, pengolahan, dan pemasaran karet alam Indonesia sebagai salah satu komoditas ekspor
+                        utama Indonesia.',
   // assad
 
   'badanPengawas' => 'Badan Pengawas',
@@ -107,9 +105,7 @@ utama Indonesia.',
   'sumber' => 'Sumber',
   'deskripsi' => 'Deskripsi',
   'detail' => 'Detail',
-  'regulasi' => 'Regulasi',
-
-  'sekretaris' => 'Sekretaris',
+  'regulasi' => 'Tautan',
   'tanggal' => 'Tanggal',
 
 ];

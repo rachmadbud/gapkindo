@@ -11,8 +11,8 @@
 .panel.sidebar-menu .panel-heading h3,
 .panel.sidebar-menu .panel-heading h4,
 .panel.sidebar-menu .panel-heading h5 {
-    border-color: #03ac11 !important;
-    color: #e29506 !important;
+    border-color: #128803 !important;
+    /* color: #e29506 !important; */
 }
 
 .properties-page .proerty-th .proerty-price,
@@ -26,13 +26,40 @@
     margin-right: 5px; /* biar sama, atau bisa kamu ubah juga */
 }
 
-.slider-content h2 {
+/* .slider-content h2 {
     font-size: 40px;
     margin-bottom: 20px;
     text-transform: uppercase;
     color: #03ac11;
     font-weight: 500;
+} */
+
+blockquote {
+    background: rgba(0, 0, 0, 0.5); /* hitam transparan 50% */
+    padding: 20px 30px; /* ruang dalam */
+    border-radius: 10px; /* sudut melengkung */
+    color: #fff; /* biar teks tetap jelas terlihat */
+    max-width: 800px; /* opsional: atur lebar */
+    margin: auto; /* center di tengah */
 }
+
+blockquote cite a {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  text-decoration:rgb(212, 240, 214);
+  text-decoration: none;
+  font-style: normal;
+}
+
+blockquote p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #fffcfc;
+  line-height: 1.6;
+}
+
 
 .count-item h5 {
     font: 500 15px "Open Sans", sans-serif;
@@ -60,27 +87,26 @@
     color: #03ac11;
 }
 
-blockquote cite a[href="property.html"] {
-    color: #fafafa;
-    font-weight: normal;
-    text-decoration: underline;
+blockquote cite a {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 23px;
+    /* bisa diatur besar kecilnya */
+    font-weight: 600;
+    /* atur tebal tipisnya */
+    color: #ffffff;
+    /* atur warna */
+    /* warna teks */
 }
 
-blockquote {
-    padding: 10px 20px;
-    margin: 0 0 20px;
-    font-size: 24px;
-    border-left: 21px solid #72e046;
-    border-left-width: 5px;
-    border-left-style: solid;
-    border-left-color: #03ac11;
-    background-color: rgba(15, 15, 15, 0.205);
+blockquote cite a:hover {
+    color: #f5dada;
+    /* tetap merah saat di-hover */
 }
 
 .slider-content p {
-    font-size: 14px;
+    font-size: 18px;
     margin-bottom: 60px;
-    color: rgb(212, 240, 214);
+    color: rgb(252, 252, 252);
 }
 
 .row-centered {

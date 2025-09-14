@@ -746,7 +746,8 @@ label small{
     margin-right: 20px
 }
 .navbar-brand {
-
+    padding-top: 10px;   /* jarak dari atas */
+  /* padding-bottom: 10px;  */
 }
 .main-nav {
     padding-top: 10px;
@@ -783,7 +784,7 @@ label small{
 }
 .navbar-default {
     background-image: none;
-    background-image: linear-gradient(to right, #0f5132, #8AA624); 
+    background-image: linear-gradient(to right, #013300, #013300); 
     background-repeat: repeat-x;
     border-radius: 0px;
     box-shadow: none;
@@ -1105,7 +1106,6 @@ page-header
 /* background-image: url("../../assets/img/gradient-minimalist-background_23-2149974325.jpg"); */
 .parallax-bg {
   position: relative;
-  background-image: url("../../assets/img/gradient-minimalist-background_23-2149974325.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -1117,7 +1117,7 @@ page-header
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(146, 143, 143, 0.4); /* putih semi transparan */
+  background: rgba(255, 254, 254, 0.4); /* putih semi transparan */
   z-index: 0;
 }
 
@@ -2836,13 +2836,13 @@ padding-bottom: 15px;
 /*FOOOTER*/
 .footer-area{
 border-top: 1px solid #D1D1D1;
-background: #555 url("../../assets/img/bg-footer.jpg") repeat scroll 0% 0%;
-color: #535353;
+background: #045f01 url("../../assets/img/bg-footer.jpg") repeat scroll 0% 0%;
+color: #fffcfc;
 }
 .footer{
 padding: 0px 0px 60px;
 /* background: rgba(255, 255, 255, 0.89) none repeat scroll 0% 0%; */
-background: rgba(219, 228, 201, 0.92); /* 0.7 = 70% opacity */
+background: rgba(3, 88, 0, 0.92); /* 0.7 = 70% opacity */
 }
 .footer ul li i { 
     padding-right: 10px;

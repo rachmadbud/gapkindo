@@ -1,15 +1,15 @@
-<nav class="navbar navbar-default my-1">
+<nav class="navbar navbar-default my-2">
     <div class="container">
         <!-- Brand and toggle get grouped for   better mobile display -->
-        <div class="navbar-header">
+        <div class="navbar-header my-2">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/"><img src="{{ asset('guest/assets/img/logo2.png') }}"
-                    style="width:150px; height:53px;" alt=""></a> <br>
+            <a class="" href="/"><img src="{{ asset('guest/assets/img/logo-gapkindo.jpg') }}"
+                    style="width:73px; height:76px; margin-buttom:10px;" alt=""></a> <br>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -22,11 +22,11 @@
             </div> --}}
             <ul class="main-nav nav navbar-nav navbar-right">
                 <li class="wow fadeInDown" data-wow-delay="0.1s">
-                    <a href="{{ url('/') }}">{{ __('global.home') }}</a>
+                    <a href="{{ url('/') }}" style="font-size: 23px">{{ __('global.home') }}</a>
                 </li>
                 <li class="dropdown ymm-sw " data-wow-delay="0.1s">
                     <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
-                        data-delay="200">Media <b class="caret"></b></a>
+                        data-delay="200" style="font-size: 23px">Media <b class="caret"></b></a>
                     <ul class="dropdown-menu navbar-nav">
                         <li>
                             <a href="{{ route('galeri') }}">{{ __('global.galeri') }}</a>
@@ -38,7 +38,7 @@
                 </li>
                 <li class="dropdown ymm-sw " data-wow-delay="0.1s">
                     <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
-                        data-delay="200">{{ __('global.regulasi') }} <b class="caret"></b></a>
+                        data-delay="200" style="font-size: 23px">{{ __('global.regulasi') }} <b class="caret"></b></a>
                     <ul class="dropdown-menu navbar-nav">
                         <li>
                             <a href="https://www.ekon.go.id/" target="_blank">KEMENTERIAN KOORDINATOR BIDANG
@@ -64,7 +64,7 @@
 
                 <li class="dropdown ymm-sw " data-wow-delay="0.1s">
                     <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
-                        data-delay="200">{{ __('global.anggota') }} <b class="caret"></b></a>
+                        data-delay="200" style="font-size: 23px">{{ __('global.anggota') }} <b class="caret"></b></a>
                     <ul class="dropdown-menu navbar-nav">
                         <li>
                             <a href="{{ route('anggotaTpp') }}">{{ __('global.anggota') }} (TPP)</a>
@@ -76,11 +76,11 @@
 
             </ul>
 
-            <li class="wow fadeInDown" data-wow-delay="0.5s"><a
-                    href="{{ route('kontak') }}">{{ __('global.kontak') }}</a></li>
+            <li class="wow fadeInDown" data-wow-delay="0.5s"><a href="{{ route('kontak') }}"
+                    style="font-size: 23px">{{ __('global.kontak') }}</a></li>
             <li class="dropdown ymm-sw " data-wow-delay="0.1s">
-                <a href="index.html" class="dropdown-toggle " data-toggle="dropdown" data-hover="dropdown"
-                    data-delay="200">{{ trans('global.lang') }}<b class="caret"></b></a>
+                <a href="index.html" style="font-size: 23px" class="dropdown-toggle " data-toggle="dropdown"
+                    data-hover="dropdown" data-delay="200">{{ trans('global.lang') }}<b class="caret"></b></a>
                 <ul class="dropdown-menu navbar-nav">
                     @foreach (['en' => 'English', 'id' => 'Indonesia'] as $lang => $language)
                         <li>
