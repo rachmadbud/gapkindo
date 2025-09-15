@@ -4,10 +4,7 @@ return [
 
   'hello' => 'Hello',
   'h1' => 'RUBBER ASSOCIATION OF INDONESIA',
-  'p' => "RUBBER ASSOCIATION OF INDONESIA (GAPKINDO) is an association of Indonesian companies
-                        engaged in the natural rubber industry. GAPKINDO's goal is to develop and improve
-                        production, processing and marketing of Indonesian natural rubber as an export commodity
-                        main Indonesian.",
+  'p' => "Gabungan Perusahaan Karet Indonesia or RUBBER ASSOCIATION OF INDONESIA is an association of Indonesian enterprise dealing with natural rubber industry. The objective of GAPKINDO is to develop and improve production, processing and marketing of Indonesia natural rubber as one of the main export commodity from Indonesia.",
   'failed' => 'These credentials do not match our records.',
   'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
 
