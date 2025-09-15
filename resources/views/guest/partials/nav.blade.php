@@ -26,6 +26,16 @@
                 </li>
                 <li class="dropdown ymm-sw " data-wow-delay="0.1s">
                     <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
+                        data-delay="200" style="font-size: 23px">{{ __('global.tentangKami') }} <b
+                            class="caret"></b></a>
+                    <ul class="dropdown-menu navbar-nav">
+                        <li>
+                            <a href="{{ route('sejarah') }}">{{ __('global.sejarah') }}</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="dropdown ymm-sw " data-wow-delay="0.1s">
+                    <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
                         data-delay="200" style="font-size: 23px">Media <b class="caret"></b></a>
                     <ul class="dropdown-menu navbar-nav">
                         <li>

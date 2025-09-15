@@ -109,4 +109,7 @@ return [
   'regulasi' => 'Tautan',
   'tanggal' => 'Tanggal',
 
+  'tentangKami' => 'Tentang Kami',
+  'sejarah' => 'Sejarah'
+
 ];

@@ -68,6 +68,8 @@ h1 .subtitle{
 p { 
     padding: 0px 0px 1em;
     margin:0;
+    color: #000;
+    text-align: justify;
 }
 a {
     color: #d27e04;

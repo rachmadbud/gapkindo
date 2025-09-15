@@ -66,6 +66,10 @@ Route::get('/galeri/{id}', function ($id) {
 
 Route::get('/regulasi', 'GuestController@regulasi')->name('regulasi');
 
+Route::get('/sejarah', function () {
+  return view('guest.sejarah');
+})->name('sejarah');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');

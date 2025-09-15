@@ -106,4 +106,7 @@ return [
 
   'tanggal' => 'Date',
 
+  'tentangKami' => 'About Us',
+  'sejarah' => 'History'
+
 ];
