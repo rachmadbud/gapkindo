@@ -38,8 +38,8 @@
                     <div class="single-footer">
                         <h3>{{ __('global.tautan') }}</h3>
                         <div class="footer-title-line"></div>
-                        <ul class=" footer-menu">
-                            <li style="text-decoration: antiquewhite;"><a href="https://www.ekon.go.id/"
+                        <ul class="footer-menu">
+                            <li style="text-decoration: rgb(223, 250, 215);"><a href="https://www.ekon.go.id/"
                                     target="_blank">KEMENTERIAN
                                     KOORDINATOR BIDANG
                                     PEREKONOMIAN</a></li>

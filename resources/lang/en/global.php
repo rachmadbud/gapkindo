@@ -113,8 +113,15 @@ return [
 
   'Penjelasan' => 'Explanation',
 
-  'penjelasanP1' => '
-  Explanation of the institutional migration of GAPKINDO The GAPKINDO Association is a transformation of the organization which was originally called the Indonesian Technical Specifications Rubber Entrepreneurs Association (PPKSTI), which was founded in 1971 (one thousand nine hundred and seventy two) to become the Association of Indonesian Rubber Producers (GAPKINDO), then changed its name in 1982 (one thousand nine hundred and eighty two) to become the Indonesian Rubber Entrepreneurs Association (GAPKINDO), then changed again in 1988 (one thousand nine hundred eighty two). eight) became the Association of Indonesian Katet Companies (GAPKINDO), and in 2016 (two thousand and twelve) changed to the GAPKINDO Association. To fulfill regulatory demands, it is necessary to migrate to a fully legal entity association format',
+  'penjelasanP1' => 'The GAPKINDO association is a transformation of
+                                an organization which was originally called the Indonesian Technical Specifications Rubber Entrepreneurs Association
+                                (PPKSTI) which was founded in 1971 (one thousand nine hundred and seventy two) became
+                                Association of Indonesian Rubber Producers (GAPKINDO), then changed its name in 1982 (1 thousand
+                                nine hundred and eighty two) became the Indonesian Rubber Entrepreneurs Association (GAPKINDO),
+                                then changed again in 1988 (one thousand nine hundred and eighty eight) to become
+                                Association of Indonesian Katet Companies (GAPKINDO), and in 2016 (two thousand and twelve)
+                                changed to the GAPKINDO Association. To fulfill regulatory demands, it is necessary
+                                migration to the format of a fully incorporated association was carried out',
 
   'penjelasanP2' => 'Changes to the Articles of Association and Bylaws of the GAPKINDO Association. The history of changes to the Dadar Budget and Household Budget from the assessment from 1971 (one thousand nine hundred and seventy one) to the GAPKINDO Association Extraordinary Conference in 2024 to adapt to the formal provisions of the Bukum Association is as follows:',
 

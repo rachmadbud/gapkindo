@@ -114,7 +114,7 @@ return [
   'gapkindoSekretariat' => 'GAPKINDO SEKRETARIAT',
 
   'Penjelasan' => 'Penjelasan',
-  'penjelasanP1' => 'Penjelasan migrasi kelembagaan GAPKINDO Perkumpulan GAPKINDO merupakan transformasi dari
+  'penjelasanP1' => 'Perkumpulan GAPKINDO merupakan transformasi dari
                                 organisasi yang pada mulanya bernama Persatuan Pengusaha Karet Spesifikasi Teknis Indonesia
                                 (PPKSTI) yang didirikan pada tahun 1971 ( seribu sembilan ratus tujuh puluh dua) menjadi
                                 Gabungan Produsen Karet Indonesia (GAPKINDO), kemudian berubah nama tahun 1982 (seribu

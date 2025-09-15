@@ -2869,6 +2869,7 @@ padding-top: 7px;
     line-height: 25px;
     font-size: 13px;
     padding-bottom: 20px;
+    color:rgba(213, 213, 213, 0.9)
 }
 .footer h4{
     color: #717171;
@@ -2914,17 +2915,22 @@ padding-top: 7px;
 ul.footer-adress li {
     margin-bottom: -4px;
 }
+
 .footer ul li a{
-color: #535353;
+color: #ffffff;
 font-weight: 500;
 text-transform: uppercase;
-font-size: 13px;
+font-size: 12px;
 }
 .footer ul li a:hover{
     color: #FDC600;
-    text-decoration: none;
+    /* text-decoration: none; */
 }
 .footer-menu li{
+  border-bottom: 1px solid rgba(255, 171, 0, 0.31);
+}
+
+.footer-menu i{
   border-bottom: 1px solid rgba(255, 171, 0, 0.31);
 }
 

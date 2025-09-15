@@ -60,7 +60,6 @@ blockquote p {
   line-height: 1.6;
 }
 
-
 .count-item h5 {
     font: 500 15px "Open Sans", sans-serif;
     padding: 2px 15px;
@@ -84,7 +83,12 @@ blockquote p {
     font-size: 13px;
     text-transform: capitalize;
     font-weight: 600;
-    color: #03ac11;
+    color: #ffffff;
+}
+
+.footer-menu li a {
+  color: #ffffff;              /* warna normal */
+       /* hilangkan underline */
 }
 
 blockquote cite a {
@@ -159,6 +163,15 @@ ul li {
   font-size: 16px;   
   color: black; /* warna teks hitam */
 }
+
+.single-footer,
+.single-footer h3,
+.single-footer ul li,
+.single-footer ul li a,
+.single-footer ul li span {
+  color: white !important; /* paksa semua teks jadi putih */
+}
+
 
 
 
