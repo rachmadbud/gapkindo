@@ -115,7 +115,7 @@
             <div class="row">
                 <div class="col-md-10 col-md-offset-1 col-sm-12 text-center page-title">
                     <!-- /.feature title -->
-                    <h2>{{ trans('global.badanPengawas') }}</h2>
+                    <h2 style="color: #028808;">{{ trans('global.badanPengawas') }}</h2>
                     <p class="text-center">2025 - 2028</p>
                 </div>
             </div>
@@ -208,7 +208,7 @@
             <div class="row">
                 <div class="col-md-10 col-md-offset-1 col-sm-12 text-center page-title">
                     <!-- /.feature title -->
-                    <h2>{{ trans('global.badanPengurus') }}</h2>
+                    <h2 style="color: #028808;">{{ trans('global.badanPengurus') }}</h2>
                     <p class="text-center">2025 - 2028</p>
                 </div>
             </div>
@@ -335,7 +335,7 @@
             <div class="row">
                 <div class="col-md-10 col-md-offset-1 col-sm-12 text-center page-title">
                     <!-- /.feature title -->
-                    <h2 style="text-decoration-color: #013300;">{{ __('global.gapkindoSekretariat') }}</h2>
+                    <h2 style="color: #028808;">{{ __('global.gapkindoSekretariat') }}</h2>
                 </div>
             </div>
             <div class="row-centered">
