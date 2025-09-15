@@ -694,9 +694,9 @@ label small{
 
 
 .navbar-default .navbar-nav > li > a{
-    color: #DBE4C9;
-    font-size: 16px;
-    font-weight: 400;
+    color: #510bdd;
+    font-size: 14px;
+    font-weight: 200;
     text-transform: capitalize;
     position: relative;
 
@@ -711,7 +711,7 @@ label small{
     padding-left: 20px;
 }
  .navbar-default .navbar-nav > li > a {
-    padding-right: 20px;
+    padding-right: 10px;
     padding-left: 20px;
     color: #ffffff; /* warna teks normal */
     transition: color 0.3s, background-color 0.3s;
