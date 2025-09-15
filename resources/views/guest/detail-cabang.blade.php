@@ -73,7 +73,7 @@
                                 </li>
                                 <li>
                                     <span
-                                        class="col-xs-6 col-sm-4 col-md-4 add-d-title">{{ __('global.sekretaris') }}</span>
+                                        class="col-xs-6 col-sm-4 col-md-4 add-d-title">{{ __('global.sekretarisEx') }}</span>
                                     <span
                                         class="col-xs-6 col-sm-8 col-md-8 add-d-entry">{{ $dataCabang->sekertaris }}</span>
                                 </li>

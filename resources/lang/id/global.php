@@ -98,6 +98,7 @@ return [
   'manajerKantor' => 'Manajer Kantor',
 
   'cabang' => 'Cabang',
+  'sekretarisEx' => 'Sekretaris Eksekutif',
 
   'galery' => 'Galeri',
   'read' => 'Baca Selengkapnya',
