@@ -26,14 +26,14 @@
 
                             <h1>{{ __('global.Penjelasan') }}</h1>
 
-                            <p>{{ __('global.penjelasanP1') }}</p>\
+                            <p>{{ __('global.penjelasanP1') }}</p>
 
-                            <p>{{ __('global.penjelasanP2') }}</p>
+                            {{-- <p>{{ __('global.penjelasanP2') }}</p>
                             <ul>
                                 <li>{{ __('global.penjelasanP2Li1') }}</li>
                                 <li>{{ __('global.penjelasanP2Li2') }}Kongres ke-II GAPKINDO pada tangga 11-09-1972 di
                                     Jakarta</li>
-                            </ul>
+                            </ul> --}}
 
                     </section>
 
