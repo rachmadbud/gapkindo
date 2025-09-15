@@ -116,7 +116,7 @@
                 <div class="col-md-10 col-md-offset-1 col-sm-12 text-center page-title">
                     <!-- /.feature title -->
                     <h2>{{ trans('global.badanPengawas') }}</h2>
-                    <p>2025 - 2028</p>
+                    <p class="text-center">2025 - 2028</p>
                 </div>
             </div>
             <div class="row-centered">
@@ -209,7 +209,7 @@
                 <div class="col-md-10 col-md-offset-1 col-sm-12 text-center page-title">
                     <!-- /.feature title -->
                     <h2>{{ trans('global.badanPengurus') }}</h2>
-                    <p>2025 - 2028</p>
+                    <p class="text-center">2025 - 2028</p>
                 </div>
             </div>
             <div class="row-centered">
