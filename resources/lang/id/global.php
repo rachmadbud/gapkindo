@@ -110,6 +110,7 @@ return [
   'tanggal' => 'Tanggal',
 
   'tentangKami' => 'Tentang Kami',
-  'sejarah' => 'Sejarah'
+  'sejarah' => 'Sejarah',
+  'gapkindoSekretariat' => 'GAPKINDO SEKRETARIAT'
 
 ];

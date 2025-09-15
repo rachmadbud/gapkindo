@@ -107,6 +107,8 @@ return [
   'tanggal' => 'Date',
 
   'tentangKami' => 'About Us',
-  'sejarah' => 'History'
+  'sejarah' => 'History',
+
+  'gapkindoSekretariat' => 'GAPKINDO SECRETARIAT'
 
 ];
