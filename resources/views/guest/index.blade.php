@@ -335,7 +335,7 @@
             <div class="row">
                 <div class="col-md-10 col-md-offset-1 col-sm-12 text-center page-title">
                     <!-- /.feature title -->
-                    <h2 style="text-decoration-color: #013300;">Sekretariat GAPKINDO</h2>
+                    <h2 style="text-decoration-color: #013300;">{{ __('global.gapkindoSekretariat') }}</h2>
                 </div>
             </div>
             <div class="row-centered">
