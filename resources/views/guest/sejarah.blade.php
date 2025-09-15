@@ -24,7 +24,7 @@
 
                         <div id="post-content" class="post-body single wow fadeInLeft animated">
 
-                            <h1>{{ __('global.Penjelasan') }}</h1>
+                            <p style="color: #028808; font-size: 28px; ">{{ __('global.Penjelasan') }}</p>
 
                             <p>{{ __('global.penjelasanP1') }}</p>
 
