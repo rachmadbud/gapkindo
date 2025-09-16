@@ -121,7 +121,7 @@ return [
 
   'penjelasanP2Li2' => 'GAPKINDO II Congress on 11-09-1972 in Jakarta',
 
-  'footerP' => 'RUBBER ASSOCIATION OF INDONESIA is an association of Indonesian enterprise dealing with natural rubber industry. The objective of GAPKINDO is to develop and improve production, processing and marketing of Indonesia natural rubber as one of the main export commodity from Indonesia.
+  'footerP' => 'Rubber Association OF Iindonesia is an association of Indonesian enterprise dealing with natural rubber industry. The objective of GAPKINDO is to develop and improve production, processing and marketing of Indonesia natural rubber as one of the main export commodity from Indonesia.
 
 '
 

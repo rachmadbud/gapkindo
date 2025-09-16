@@ -32,6 +32,9 @@
                         <li>
                             <a href="{{ route('sejarah') }}">{{ __('global.sejarah') }}</a>
                         </li>
+                        <li>
+                            <a href="{{ route('cabang') }}">{{ __('global.cabang') }}</a>
+                        </li>
                     </ul>
                 </li>
                 <li class="dropdown ymm-sw " data-wow-delay="0.1s">
@@ -78,9 +81,6 @@
                     <ul class="dropdown-menu navbar-nav">
                         <li>
                             <a href="{{ route('anggotaTpp') }}">{{ __('global.anggota') }} (TPP)</a>
-                        </li>
-                        <li>
-                            <a href="{{ route('cabang') }}">{{ __('global.cabang') }}</a>
                         </li>
                 </li>
 
