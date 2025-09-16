@@ -1,5 +1,5 @@
 @extends('guest.layouts.master')
-
+@section('title', 'Home | GAPKINDO')
 @section('content')
     @include('guest.partials.slider')
     <!-- property area -->
@@ -9,7 +9,6 @@
                 <div class="col-md-10 col-md-offset-1 col-sm-12 text-center page-title">
                     <!-- /.feature title -->
                     <h2>GAPKINDO NEWS</h2>
-
                 </div>
             </div>
 

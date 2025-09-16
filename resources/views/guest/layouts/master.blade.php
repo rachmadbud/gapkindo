@@ -126,9 +126,9 @@
         <div class="container">
             <div class="row">
                 <div class="pull-left">
-                    <span> (C) <a href="#">Sekretariat GAPKINDO</a> , 2025 </span>
+                    <span><a href="#">(C) Sekretariat GAPKINDO, 2025</a></span>
                 </div>
-                <div class="bottom-menu pull-right">
+                {{-- <div class="bottom-menu pull-right">
                     <ul>
                         <li><a class="wow fadeInUp animated" href="{{ '/' }}" data-wow-delay="0.2s">Home</a>
                         </li>
@@ -139,7 +139,7 @@
                         <li><a class="wow fadeInUp animated" href="{{ route('kontak') }}"
                                 data-wow-delay="0.6s">Contact</a></li>
                     </ul>
-                </div>
+                </div> --}}
             </div>
         </div>
     </div>

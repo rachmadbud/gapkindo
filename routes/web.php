@@ -51,7 +51,7 @@ Route::get('/comming-soon', function () {
 Route::get('/berita', 'GuestController@berita')->name('berita');
 
 Route::get('/kontak', function () {
-  return view('guest.kontak');
+  return view('guest.kontak2');
 })->name('kontak');
 
 Route::get('/anggotaTpp', 'GuestController@anggotaTpp')->name('anggotaTpp');

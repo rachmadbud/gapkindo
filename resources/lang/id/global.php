@@ -61,7 +61,7 @@ return [
   |
   */
 
-  'titleKontak' => 'HALAMAN KONTAK',
+  'titleKontak' => 'Hubungi Kami',
   'Alamat' => 'Alamat',
   'PusatPanggilan' => 'PUSAT PANGGILAN',
   'DukunganElektronik' => 'DUKUNGAN ELEKTRONIK',

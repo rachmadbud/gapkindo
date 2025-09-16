@@ -58,7 +58,7 @@ return [
   |--------------------------------------------------------------------------
   |
   */
-  'titleKontak' => 'CONTACT PAGE',
+  'titleKontak' => 'CONTACT US',
   'Alamat' => 'Address',
   'PusatPanggilan' => 'CALL CENTER',
   'DukunganElektronik' => 'ELECTRONIC SUPPORT',
