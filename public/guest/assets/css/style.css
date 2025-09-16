@@ -2284,19 +2284,19 @@ Welcom
     cursor: pointer;
 }
 .welcome-estate:hover .welcome-icon{
-    color:#FFF;
+    color:#29a005;
     border: 2px solid transparent;
-    background-color: #FDC600;
+    background-color: #95f76e;
 }
 
 .welcome_text{
     color:#FFF;
 }
 .welcome-estate{
-    background-color: #FFF;
+    background-color: #3cd844;
     padding: 35px 0px;
     text-align: center;
-    fill: #FFF;
+    fill: #d80f0f;
 }
 .welcome-estate h3 {
     font: 600 14px "Open Sans",sans-serif;
@@ -2316,7 +2316,7 @@ Welcom
     margin-right: 15px;
 }
 .welcome-circle{
-    background-color: #FFF;
+    background-color: #ffffff;
     display: inline-block;
     height: 50px;
     width: 50px;

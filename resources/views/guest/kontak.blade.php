@@ -23,7 +23,7 @@
                         <div class="row">
                             <div class="col-sm-4">
                                 <h3><i class="fa fa-map-marker"></i> {{ __('global.Alamat') }}</h3>
-                                <p>Jl. Cideng Barat No.62-A 14, RT.14/RW.2, Cideng, <br>
+                                <p>Jl. Cideng Barat No.62-A, RT.14/RW.2, Cideng, <br>
                                     Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10150
                                     <br>
                                     <strong>Indonesia</strong>

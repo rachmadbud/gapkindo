@@ -63,18 +63,20 @@
                             <div class="row">
                                 <div class="col-xs-6 m-padding">
                                     <div class="welcome-estate">
-                                        {{-- <div class="welcome-icon">
-                                            <i class="pe-7s-home pe-4x"></i>
+                                        <div class="welcome-icon">
+                                            <a href="{{ route('guest.index') }}"><i class="pe-7s-home pe-4x"></i></a>
                                         </div>
-                                        <h3>Any property</h3> --}}
+                                        <h3>{{ __('global.home') }}</h3>
                                     </div>
                                 </div>
                                 <div class="col-xs-6 m-padding">
                                     <div class="welcome-estate">
-                                        {{-- <div class="welcome-icon">
-                                            <i class="pe-7s-users pe-4x"></i>
+                                        <div class="welcome-icon">
+                                            <a href="{{ route('cabang') }}" target="_blank" rel="noopener noreferrer"><i
+                                                    class="pe-7s-users pe-4x"></i></a>
+
                                         </div>
-                                        <h3>More Clients</h3> --}}
+                                        <h3>{{ __('global.cabang') }}</h3>
                                     </div>
                                 </div>
 
@@ -85,18 +87,18 @@
 
                                 <div class="col-xs-6 m-padding">
                                     <div class="welcome-estate">
-                                        {{-- <div class="welcome-icon">
-                                            <i class="pe-7s-notebook pe-4x"></i>
+                                        <div class="welcome-icon">
+                                            <a href="{{ route('sejarah') }}"><i class="pe-7s-notebook pe-4x"></i></a>
                                         </div>
-                                        <h3>Easy to use</h3> --}}
+                                        <h3>{{ __('global.sejarah') }}</h3>
                                     </div>
                                 </div>
                                 <div class="col-xs-6 m-padding">
                                     <div class="welcome-estate">
-                                        {{-- <div class="welcome-icon">
-                                            <i class="pe-7s-help2 pe-4x"></i>
+                                        <div class="welcome-icon">
+                                            <a href="{{ route('kontak') }}"><i class="pe-7s-help2 pe-4x"></i></a>
                                         </div>
-                                        <h3>Any help </h3> --}}
+                                        <h3>{{ __('global.kontak') }}</h3>
                                     </div>
                                 </div>
 
