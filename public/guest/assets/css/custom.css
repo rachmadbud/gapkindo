@@ -164,13 +164,7 @@ ul li {
   color: black; /* warna teks hitam */
 }
 
-.single-footer,
-.single-footer h3,
-.single-footer ul li,
-.single-footer ul li a,
-.single-footer ul li span {
-  color: white !important; /* paksa semua teks jadi putih */
-}
+
 
 
 

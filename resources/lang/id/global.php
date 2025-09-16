@@ -120,8 +120,9 @@ return [
 
   'penjelasanP2Li1' => 'Kongres ke I PPKSTI pada tanggal 11-09-1972 (sebelas September tahun sembilanratustujuh puluh dua) sesuai Keputusan PPKSTI pada tanggal 24-05-1972 di Jakarta',
 
-  'penjelasanP2Li2' => 'Kongres ke-II GAPKINDO pada tangga 11-09-1972 di Jakarta'
+  'penjelasanP2Li2' => 'Kongres ke-II GAPKINDO pada tangga 11-09-1972 di Jakarta',
 
 
+  'footerP' => 'GAPKINDO adalah asosiasi yang bergerak di industri karet alam. Tujuan GAPKINDO adalah untuk mengembangkan dan meningkatkan produksi, pengolahan, dan pemasaran karet alam Indonesia sebagai salah satu komoditas ekspor utama Indonesia.'
 
 ];

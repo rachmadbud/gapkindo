@@ -25,12 +25,18 @@
 
                         <img src="{{ asset('guest/assets/img/logo-gapkindo.jpg') }}" alt="" class="wow pulse"
                             data-wow-delay="1s">
-                        <p>{{ __('global.pfooter') }}</p>
+                        <p>{{ __('global.footerP') }}</p>
                         <ul class="footer-adress">
-                            <li><i class="pe-7s-map-marker strong"> </i> Jl. Cideng Barat No.62-A, RT.14/RW.2,
-                                Cideng, Kecamatan Gambir, Kota Jakarta Pusat, DKI Jakarta 10150</li>
-                            <li><i class="pe-7s-mail strong"> </i> gapkindo.pusat@gmail.com</li>
-                            <li><i class="pe-7s-call strong"> </i> (62-21) 3501510, 3501511, 3846813</li>
+                            <li>
+                                <p> <i class="pe-7s-map-marker strong"></i>Jl. Cideng Barat No.62-A, RT.14/RW.2,
+                                    Cideng, Kecamatan Gambir, Kota Jakarta Pusat, DKI Jakarta 10150</p>
+                            </li>
+                            <li>
+                                <p><i class="pe-7s-mail strong"> </i> gapkindo.pusat@gmail.com</p>
+                            </li>
+                            <li>
+                                <p><i class="pe-7s-call strong"> </i> (62-21) 3501510, 3501511, 3846813</p>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -39,8 +45,7 @@
                         <h3>{{ __('global.tautan') }}</h3>
                         <div class="footer-title-line"></div>
                         <ul class="footer-menu">
-                            <li style="text-decoration: rgb(223, 250, 215);"><a href="https://www.ekon.go.id/"
-                                    target="_blank">KEMENTERIAN
+                            <li><a href="https://www.ekon.go.id/" target="_blank">KEMENTERIAN
                                     KOORDINATOR BIDANG
                                     PEREKONOMIAN</a></li>
                             <li><a href="https://www.pertanian.go.id/" target="_blank">KEMENTERIAN PERTANIAN</a></li>
@@ -84,11 +89,15 @@
                         <h3>GAPKINDO {{ __('global.sekretariat') }} </h3>
                         <div class="footer-title-line"></div>
                         <ul class="footer-menu">
-                            <li><a href="{{ route('soon') }}">{{ __('global.direkturEksekutif') }}</a> </li>
+                            <li>
+                                <p>{{ __('global.direkturEksekutif') }}</p>
+                            </li>
                         </ul>
                         <p>Erwin Tunas</p>
                         <ul class="footer-menu">
-                            <li><a href="{{ route('soon') }}">{{ __('global.asistenDirekturEksekutif') }}</a> </li>
+                            <li>
+                                <p>{{ __('global.asistenDirekturEksekutif') }}</p>
+                            </li>
                         </ul>
                         <p>Uhendi Haris</p>
 
