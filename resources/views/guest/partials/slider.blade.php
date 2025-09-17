@@ -10,8 +10,6 @@
 
             <div class="item"><img src="{{ asset('guest/assets/img/slide1/slide10/2.10.04_ba59a1d0.jpg') }}"
                     alt="GTA V"></div>
-            <div class="item"><img src="{{ asset('guest/assets/img/slide1/slide10/12.10.01_5b38efa9.jpg') }}"
-                    alt="GTA V"></div>
             <div class="item"><img src="{{ asset('guest/assets/img/slide1/slide10/12.10.01_56766b74.jpg') }}"
                     alt="GTA V">
             </div>
