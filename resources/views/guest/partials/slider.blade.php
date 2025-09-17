@@ -8,10 +8,22 @@
             <div class="item"><img src="{{ asset('guest/assets/img/slide1/1634091544930.jpg') }}" alt="GTA V">
             </div>
 
-            <div class="item"><img src="{{ asset('guest/assets/img/slide1/slide10/2.10.04_ba59a1d0.jpg') }}"
-                    alt="GTA V"></div>
+            <div class="item"><img src="{{ asset('guest/assets/img/slide1/slide10/7e7c685b.jpg') }}" alt="GTA V">
+            </div>
+
             <div class="item"><img src="{{ asset('guest/assets/img/slide1/slide10/12.10.01_56766b74.jpg') }}"
                     alt="GTA V">
+            </div>
+
+            <div class="item"><img src="{{ asset('guest/assets/img/slide1/slide10/2533657b.jpg') }}" alt="GTA V">
+            </div>
+
+            <div class="item"><img src="{{ asset('guest/assets/img/slide1/slide10/ddb4732c.jpg') }}" alt="GTA V">
+            </div>
+
+            <div class="item"><img src="{{ asset('guest/assets/img/slide1/slide10/79515b04.jpg') }}" alt="GTA V">
+            </div>
+            <div class="item"><img src="{{ asset('guest/assets/img/slide1/slide10/fea473f0.jpg') }}" alt="GTA V">
             </div>
             <div class="item"><img src="{{ asset('guest/assets/img/slide1/slide10/12.10.03_8edbfd7f.jpg') }}"
                     alt="GTA V">
