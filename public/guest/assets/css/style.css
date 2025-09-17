@@ -2934,6 +2934,50 @@ font-size: 10px;
   border-bottom: 1px solid rgba(255, 171, 0, 0.31);
 }
 
+.footer-section {
+  background: #055b05;   /* hijau pekat biar mirip screenshot */
+  padding: 20px;
+  color: white;
+  max-width: 400px; /* contoh, bisa dihapus */
+  font-family: Arial, sans-serif;
+}
+
+.footer-section h3 {
+  margin: 0 0 15px 0;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.footer-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer-menu li {
+  margin: 0;
+  padding: 8px 0; /* jarak antar orang */
+  border-bottom: 1px solid #ecf39e;
+}
+
+.footer-menu li:last-child {
+  border-bottom: none; /* hilangkan garis di paling bawah */
+}
+
+.footer-menu p {
+  margin: 0;
+  line-height: 1.4;
+}
+
+.footer-menu .name {
+  font-weight: bold;
+}
+
+.footer-menu .title {
+  font-style: italic;
+}
+
+
 .footer-copy span{
     margin-right: 20px; 
     font-size: 13px;

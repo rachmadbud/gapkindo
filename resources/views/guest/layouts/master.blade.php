@@ -28,14 +28,18 @@
                         <p>{{ __('global.footerP') }}</p>
                         <ul class="footer-adress">
                             <li>
-                                <p> <i class="pe-7s-map-marker strong"></i>Jl. Cideng Barat No.62-A, RT.14/RW.2,
+                                <p> <i class="pe-7s-map-marker strong" style="color: #ecf39e !important;"></i>Jl. Cideng
+                                    Barat No.62-A,
+                                    RT.14/RW.2,
                                     Cideng, Kecamatan Gambir, Kota Jakarta Pusat, DKI Jakarta 10150</p>
                             </li>
                             <li>
-                                <p><i class="pe-7s-mail strong"> </i> gapkindo.pusat@gmail.com</p>
+                                <p><i class="pe-7s-mail strong" style="color: #ecf39e !important;"> </i>
+                                    gapkindo.pusat@gmail.com</p>
                             </li>
                             <li>
-                                <p><i class="pe-7s-call strong"> </i> (62-21) 3501510, 3501511, 3846813</p>
+                                <p><i class="pe-7s-call strong" style="color: #ecf39e !important;"> </i> (62-21)
+                                    3501510, 3501511, 3846813</p>
                             </li>
                         </ul>
                     </div>
@@ -85,37 +89,20 @@
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 wow fadeInRight animated">
-                    <div class="single-footer news-letter">
-                        <h3>GAPKINDO {{ __('global.sekretariat') }} </h3>
-                        <div class="footer-title-line"></div>
+                    <div class="footer-section">
+                        <h3>GAPKINDO SECRETARIAT</h3>
                         <ul class="footer-menu">
                             <li>
-                                <p>{{ __('global.direkturEksekutif') }}</p>
+                                <p class="name">Erwin Tunas</p>
+                                <p class="title">Executive Director</p>
                             </li>
-                        </ul>
-                        <p>Erwin Tunas</p>
-                        <ul class="footer-menu">
                             <li>
-                                <p>{{ __('global.asistenDirekturEksekutif') }}</p>
+                                <p class="name">Uhendi Haris</p>
+                                <p class="title">Assistant Executive Director</p>
                             </li>
                         </ul>
-                        <p>Uhendi Haris</p>
-
-                        <div class="social pull-right">
-                            {{-- <ul>
-                                <li><a class="wow fadeInUp animated" href="https://twitter.com/kimarotec"><i
-                                            class="fa fa-twitter"></i></a></li>
-                                <li><a class="wow fadeInUp animated" href="https://www.facebook.com/kimarotec"
-                                        data-wow-delay="0.2s"><i class="fa fa-facebook"></i></a></li>
-                                <li><a class="wow fadeInUp animated" href="https://plus.google.com/kimarotec"
-                                        data-wow-delay="0.3s"><i class="fa fa-google-plus"></i></a></li>
-                                <li><a class="wow fadeInUp animated" href="https://instagram.com/kimarotec"
-                                        data-wow-delay="0.4s"><i class="fa fa-instagram"></i></a></li>
-                                <li><a class="wow fadeInUp animated" href="https://instagram.com/kimarotec"
-                                        data-wow-delay="0.6s"><i class="fa fa-dribbble"></i></a></li>
-                            </ul> --}}
-                        </div>
                     </div>
+
                 </div>
 
             </div>
