@@ -49,28 +49,74 @@
                         </li>
                     </ul>
                 </li>
-                <li class="dropdown ymm-sw " data-wow-delay="0.1s">
+                <li class="dropdown yamm-fw" data-wow-delay="0.4s">
                     <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
                         data-delay="200" style="font-size: 23px">{{ __('global.regulasi') }} <b class="caret"></b></a>
-                    <ul class="dropdown-menu navbar-nav">
+                    <ul class="dropdown-menu">
                         <li>
-                            <a href="https://www.ekon.go.id/" target="_blank">KEMENTERIAN KOORDINATOR BIDANG
-                                PEREKONOMIAN</a>
-                        </li>
-                        <li>
-                            <a href="https://www.pertanian.go.id/" target="_blank">KEMENTERIAN PERTANIAN</a>
-                        </li>
-                        <li>
-                            <a href="https://kemenperin.go.id/" target="_blank">KEMENTERIAN PERINDUSTRIAN</a>
-                        </li>
-                        <li>
-                            <a href="https://dephub.go.id/" target="_blank">KEMENTERIAN PERHUBUNGAN</a>
-                        </li>
-                        <li>
-                            <a href="https://kadin.id/" target="_blank">KADIN INDONESIA</a>
-                        </li>
-                        <li>
-                            <a href="https://www.kemenkeu.go.id/home" target="_blank">KEMENTERIAN KEUANGAN</a>
+                            <div class="yamm-content">
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <h5>Mitra Nasional</h5>
+                                        <ul>
+                                            <li>
+                                                <a href="https://www.ekon.go.id/" target="_blank">KEMENTERIAN
+                                                    KOORDINATOR BIDANG
+                                                    PEREKONOMIAN</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.pertanian.go.id/" target="_blank">KEMENTERIAN
+                                                    PERTANIAN</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://kemenperin.go.id/" target="_blank">KEMENTERIAN
+                                                    PERINDUSTRIAN</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://dephub.go.id/" target="_blank">KEMENTERIAN
+                                                    PERHUBUNGAN</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://kadin.id/" target="_blank">KADIN INDONESIA</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.kemenkeu.go.id/home" target="_blank">KEMENTERIAN
+                                                    KEUANGAN</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <h5>Mitra Internasional</h5>
+                                        <ul>
+                                            <li><a href="https://www.thainr.com/en/?" target="_blabk">The Thai Rubber
+                                                    Association</a>
+                                            <li><a href="https://www.lgm.gov.my/webv2/home" target="_blabk">Malaysian
+                                                    Rubber Board</a>
+                                            </li>
+                                            <li><a href="https://www.rtas.sg/" target="_blabk">Rubber Trade Association
+                                                    of Singapore</a>
+                                            </li>
+                                            <li><a href="https://www.vra.com.vn/gioi-thieu.html" target="_blabk">THE
+                                                    VIET NAM RUBBER ASSOCIATION</a>
+                                            </li>
+                                            <li><a href="https://www.anrpc.org/" target="_blabk">Association of Natural
+                                                    Rubber Producing Countries
+                                                    (ANRPC)</a>
+                                            </li>
+                                            <li><a href="https://ircorubber.com/about-us/" target="_blabk">International
+                                                    Rubber
+                                                    Consortium Limited (IRCo)</a>
+                                            </li>
+                                            <li><a href="https://sustainablenaturalrubber.org/" target="_blabk">Global
+                                                    Platform for Sustainable Natural Rubber</a>
+                                            </li>
+                                            <li><a href="https://www.sgx.com/" target="_blabk">Singapore Exchange</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- /.yamm-content -->
                         </li>
                     </ul>
                 </li>

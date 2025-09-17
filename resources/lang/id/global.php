@@ -111,7 +111,7 @@ return [
 
   'tentangKami' => 'Tentang Kami',
   'sejarah' => 'Sejarah',
-  'gapkindoSekretariat' => 'GAPKINDO SEKRETARIAT',
+  'gapkindoSekretariat' => 'SEKRETARIAT GAPKINDO',
 
   'Penjelasan' => 'Penjelasan',
   'penjelasanP1' => 'Perkumpulan GAPKINDO merupakan transformasi dari organisasi yang pada mulanya bernama Persatuan Pengusaha Karet Spesifikasi Teknis Indonesia (PPKSTI) yang didirikan pada tahun 1971 (seribu sembilan ratus tujuh puluh satu) yang kemudian berubah nama tahun 1972 (seribu sembilan ratus tujuh puluh dua) menjadi Gabungan Produsen Karet Indonesia (GAPKINDO), kemudian berubah nama tahun 1982 (seribu sembilan ratus delapan puluh dua) menjadi Gabungan Pengusaha Karet Indonesia (GAPKINDO), kemudian berubah kembali tahun 1988 (seribu sembilan ratus depalan puluh delapan) menjadi Gabungan Perusahaan Karet Indonesia (GAPKINDO), dan pada tahun 2016 (dua ribu enam belas) berubah menjadi Perkumpulan GAPKINDO, dalam rangka memenuhi tuntutan regulasi, dengan melakukan migrasi ke dalam format perkumpulan berbadan hukum. Saat ini GAPKINDO telah resmi terdaftar di Kementerian Hukum dan Hak Asasi Manusia dengan nomor AHU-00002.AH.02.02.2024, dan diaktakan oleh Primasari Kenconowati, SH',

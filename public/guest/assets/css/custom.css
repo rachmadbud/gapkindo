@@ -164,6 +164,10 @@ ul li {
   color: black; /* warna teks hitam */
 }
 
+.dropdown-menu1 {
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+}
 
 
 
