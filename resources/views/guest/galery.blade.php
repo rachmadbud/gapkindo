@@ -32,9 +32,9 @@
                                         At <a href="#">{{ $item->at }}</a>
                                     </p>
                                 </div>
-                                <div class="col-sm-6 right">
-                                    <p class="date-comments">
-                                        <a href="single.html"><i class="fa fa-calendar-o"></i>
+                                <div class="col-sm-6 ">
+                                    <p class="date-comments text-right">
+                                        <a href="#"><i class="fa fa-calendar-o"></i>
                                             {{ app(\App\Helpers\Helper::class)->formatDate($item->created_at) }}</a>
                                     </p>
                                 </div>

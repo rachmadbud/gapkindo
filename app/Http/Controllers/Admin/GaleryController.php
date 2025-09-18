@@ -60,16 +60,9 @@ class GaleryController extends Controller
         $dekripId = app(\App\Helpers\Helper::class)->dekrip($id);
 
         // cari data berdasarkan id, panggil juga table detail_galeri berdasarkan id_galery
-        $dataDetail = \Illuminate\Support\Facades\DB::table('galeries')
-            ->leftJoin('detail_galeri', 'galeries.id', '=', 'detail_galeri.id_galery')
-            ->select('galeries.*', 'detail_galeri.foto as foto_detail', 'detail_galeri.id as id_detail')
-            ->where('galeries.id', $dekripId)
-            ->get();
-        // dd($dataDetail);
+        $dataDetail = $this->modelGalery->getDataDetail($dekripId);
 
-        $dataGaleri = \Illuminate\Support\Facades\DB::table('galeries')
-            ->where('id', $dekripId)
-            ->first();
+        $dataGaleri = $this->modelGalery->getData()->where('id', $dekripId)->first();
 
         return view('admin.content.galery.detail', [
             'dataDetail' => $dataDetail,
@@ -93,5 +86,29 @@ class GaleryController extends Controller
         }
 
         return redirect()->back()->with('success', 'Data Berhasil Dihapus');
+    }
+
+    public function detailGeleryInsert(Request $request, $id)
+    {
+        // validasi
+        $request->validate([
+            'foto' => 'required|image|max:3048',
+        ]);
+
+        // upload image
+        $imageName = time() . '.' . $request->foto->extension();
+        $request->foto->move(public_path('guest/assets/img/galeri'), $imageName);
+
+        // simpan data ke database
+        $data = [
+            'id_galery' => $request->id_galery,
+            'foto' => $imageName,
+            'created_at' => now(),
+        ];
+
+
+        $this->modelGalery->insertDetailData($data);
+
+        return redirect()->back()->with('success', 'Data Berhasil Ditambahkan');
     }
 }

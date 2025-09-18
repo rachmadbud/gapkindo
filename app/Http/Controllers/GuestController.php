@@ -54,6 +54,17 @@ class GuestController extends Controller
         return view('guest.galery', ['data' => $data]);
     }
 
+    public function detailGalery($id)
+    {
+        $idGalery = app(\App\Helpers\Helper::class)->dekrip($id);
+
+        $data = $this->modelGalery->getDataDetail($idGalery);
+        $dataGaleri = $this->modelGalery->getData()->where('id', $idGalery)->first();
+
+        // dd($data);
+        return view('guest.detail-galery', ['data' => $data, 'dataGaleri' => $dataGaleri]);
+    }
+
     public function regulasi()
     {
         return view('guest.regulasi');

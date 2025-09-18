@@ -41,4 +41,22 @@ class Galery extends Model
         $stmtInsert = DB::table('galeries')->insert($data);
         return $stmtInsert;
     }
+
+    public function insertDetailData($data)
+    {
+        $stmtInsert = DB::table('detail_galeri')->insert($data);
+        return $stmtInsert;
+    }
+
+    public function getDataDetail($dekripId)
+    {
+        $data = \Illuminate\Support\Facades\DB::table('galeries')
+            ->leftJoin('detail_galeri', 'galeries.id', '=', 'detail_galeri.id_galery')
+            ->select('galeries.*', 'detail_galeri.foto as foto_detail', 'detail_galeri.id as id_detail')
+            ->where('galeries.id', $dekripId)
+            ->orderBy('detail_galeri.created_at', 'desc')
+            ->get();
+
+        return $data;
+    }
 }

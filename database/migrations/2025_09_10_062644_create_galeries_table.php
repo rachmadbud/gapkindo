@@ -20,15 +20,24 @@ return new class extends Migration
             $table->timestamps();
         });
 
-        DB::table('galeries')->insert(
+        DB::table('galeries')->insert([
             [
-                'title' => 'KONGRES XX',
-                'image' => 'KongresXX.jpg',
-                'at' => 'NUSA DUA, BALI',
-                'created_at' => '2025-08-20 06:26:44',
-                'updated_at' => '2025-09-10 15:50:14',
-            ]
-        );
+                'id' => 5,
+                'title' => 'Kongres XX GAPKINDO 2025',
+                'image' => '1758178963.jpg',
+                'at' => 'Nusa Dua , Bali',
+                'created_at' => null,
+                'updated_at' => null,
+            ],
+            [
+                'id' => 6,
+                'title' => 'GAPKINDO GALA DINNER 2025',
+                'image' => '1758180551.jpg',
+                'at' => 'Nusa Dua, Bali',
+                'created_at' => null,
+                'updated_at' => null,
+            ],
+        ]);
     }
 
     /**

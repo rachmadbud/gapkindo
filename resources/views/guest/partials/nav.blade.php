@@ -42,7 +42,7 @@
                         data-delay="200" style="font-size: 22px">Media <b class="caret"></b></a>
                     <ul class="dropdown-menu navbar-nav">
                         <li>
-                            <a href="{{ route('soon') }}">{{ __('global.galeri') }}</a>
+                            <a href="{{ route('galeri') }}">{{ __('global.galeri') }}</a>
                         </li>
                         <li>
                             <a href="{{ route('berita') }}">{{ __('global.news') }}</a>

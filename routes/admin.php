@@ -16,5 +16,6 @@ Route::get('/galery', 'Admin\\GaleryController@index')->name('galery');
 Route::post('/galery/{id}', 'Admin\\GaleryController@destroy')->name('destroy');
 Route::post('/galery', 'Admin\\GaleryController@store')->name('galeryPost');
 Route::get('/detail-galery/{id}', 'Admin\\GaleryController@detail')->name('detailGelery');
+Route::post('/detail-galery/{id}', 'Admin\\GaleryController@detailGeleryInsert')->name('detailGeleryInsert');
 // destroy galery detail
 Route::get('/destroyDetail/{id}', 'Admin\\GaleryController@destroyDetail')->name('destroyDetail');

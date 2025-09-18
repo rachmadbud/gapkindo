@@ -85,13 +85,16 @@
                         </div>
                         <div class="card-body">
                             <div class="row">
-                                <form action="" method="post">
+                                <form action="" method="post" enctype="multipart/form-data">
+                                    @csrf
                                     <div class="col-sm-12">
                                         <div class="form-group row">
-                                            <label for="inputImage" class="col-sm-2 col-form-label text">img</label>
+                                            <input type="text" name="id_galery" value="{{ $dataGaleri->id }}" hidden>
+                                            <label for="inputImage" class="col-sm-2 col-form-label text-dark"
+                                                style="color: #000 !important;">img</label>
                                             <div class="col-sm-10">
                                                 <div class="custom-file">
-                                                    <input type="file" name="image" class="custom-file-input"
+                                                    <input type="file" name="foto" class="custom-file-input"
                                                         id="exampleInputFile" accept="image/*">
                                                     <label class="custom-file-label" for="exampleInputFile">Choose
                                                         file</label>
@@ -119,63 +122,6 @@
                         <div class="card-header ">
                             <h4 class="card-title my-2">Koleksi</h4>
                             {{-- float-sm-right --}}
-                            <button type="button" class="btn btn-default float-sm-right" data-toggle="modal"
-                                data-target="#modal-inputpcs">
-                                <i class="far fa-arrow-alt-to-bottom"></i> Input Galeri
-                            </button>
-                            <form action="{{ route('admin.galeryPost') }}" method="post" enctype="multipart/form-data">
-                                @csrf
-                                <div class="modal fade" id="modal-inputpcs">
-                                    <div class="modal-dialog modal-lg">
-                                        <div class="modal-content">
-                                            <!-- general form elements -->
-                                            <!-- Horizontal Form -->
-                                            <div class="card card-primary">
-                                                <div class="card-header">
-                                                    <h3 class="card-title">Input Foto</h3>
-                                                </div>
-                                                <!-- /.card-header -->
-                                                <!-- form start -->
-                                                <div class="card-body">
-                                                    <div class="form-group row">
-                                                        <label for="inputImage"
-                                                            class="col-sm-2 col-form-label">Image</label>
-                                                        <div class="col-sm-10">
-                                                            <div class="custom-file">
-                                                                <input type="file" name="image"
-                                                                    class="custom-file-input" id="exampleInputFile2"
-                                                                    accept="image/*">
-                                                                <label class="custom-file-label"
-                                                                    for="exampleInputFile">Choose file</label>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-12">
-                                                        <div class="mt-3">
-                                                            <center>
-                                                                <img id="previewImage2" src="#" alt="Preview Gambar"
-                                                                    class="img-fluid rounded shadow-sm"
-                                                                    style="max-height: 500px; display: none;">
-                                                            </center>
-                                                        </div>
-                                                    </div>
-
-
-                                                </div>
-                                            </div>
-                                            <!-- /.card -->
-                                            <div class="modal-footer justify-content-between">
-                                                <button type="button" class="btn btn-default"
-                                                    data-dismiss="modal">Close</button>
-                                                <button type="submit" class="btn btn-primary">Simpan</button>
-                                            </div>
-                                        </div>
-                                        <!-- /.modal-content -->
-                                    </div>
-                                    <!-- /.modal-dialog -->
-                                </div>
-                            </form>
-                            <!-- /.modal -->
                         </div>
                         <div class="card-body">
                             <div class="row">
@@ -191,8 +137,7 @@
                                                 </a>
 
                                                 <!-- Overlay Icons -->
-                                                <div
-                                                    class="overlay-icons d-flex justify-content-center align-items-center">
+                                                <div class="overlay-icons d-flex justify-content-center align-items-center">
                                                     <!-- Eye -->
                                                     <a href="{{ asset('guest/assets/img/galeri/' . $item->foto_detail) }}"
                                                         target="_blank" data-toggle="lightbox" data-title="Preview"
@@ -261,6 +206,30 @@
 
             }
         }
+    </script>
+    <script>
+        document.getElementById("exampleInputFile").addEventListener("change", function(event) {
+            const file = event.target.files[0];
+            const preview = document.getElementById("previewImage");
+            const label = event.target.nextElementSibling; // ambil elemen <label class="custom-file-label">
+
+            if (file) {
+                // tampilkan nama file di label
+                label.textContent = file.name;
+
+                // preview gambar
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    preview.src = e.target.result;
+                    preview.style.display = "block";
+                };
+                reader.readAsDataURL(file);
+            } else {
+                label.textContent = "Choose file";
+                preview.src = "#";
+                preview.style.display = "none";
+            }
+        });
     </script>
     <script>
         document.getElementById("exampleInputFile").addEventListener("change", function(event) {

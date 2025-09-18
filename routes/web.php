@@ -60,9 +60,7 @@ Route::get('/cabang', 'GuestController@cabang')->name('cabang');
 Route::get('/cabang/{id}', 'GuestController@detailCabang')->name('detail-cabanag');
 
 Route::get('/galeri', 'GuestController@galery')->name('galeri');
-Route::get('/galeri/{id}', function ($id) {
-  return view('guest.comming-soon');
-})->name('detailGaleri');
+Route::get('/galeri/{id}', 'GuestController@detailGalery')->name('detailGaleri');
 
 Route::get('/regulasi', 'GuestController@regulasi')->name('regulasi');
 
