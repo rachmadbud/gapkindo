@@ -26,7 +26,7 @@
                     </a>
                 </li>
 
-                <li class="nav-item">
+                {{-- <li class="nav-item">
                     <a href="#" class="nav-link">
                         <i class="nav-icon fas fa-folders"></i>
                         <p>
@@ -42,7 +42,7 @@
                             </a>
                         </li>
                     </ul>
-                </li>
+                </li> --}}
 
                 <li class="nav-item">
                     <a href="{{ route('admin.news') }}" class="nav-link">
@@ -52,11 +52,21 @@
                         </p>
                     </a>
                 </li>
+
                 <li class="nav-item">
                     <a href="{{ route('admin.cabang') }}" class="nav-link">
                         <i class="nav-icon fal fa-code-branch"></i>
                         <p>
                             Cabang
+                        </p>
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a href="{{ route('admin.galery') }}" class="nav-link">
+                        <i class="nav-icon fas fa-folders"></i>
+                        <p>
+                            Galery
                         </p>
                     </a>
                 </li>

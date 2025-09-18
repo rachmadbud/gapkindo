@@ -90,7 +90,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 wow fadeInRight animated">
                     <div class="footer-section">
-                        <h3>GAPKINDO SECRETARIAT</h3>
+                        <h3>{{ __('global.gapkindoSekretariat') }}</h3>
                         <ul class="footer-menu">
                             <li>
                                 <p class="name">Erwin Tunas</p>
