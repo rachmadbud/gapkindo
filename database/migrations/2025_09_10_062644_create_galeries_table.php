@@ -26,7 +26,7 @@ return new class extends Migration
                 'title' => 'Kongres XX GAPKINDO 2025',
                 'image' => '1758178963.jpg',
                 'at' => 'Nusa Dua , Bali',
-                'created_at' => null,
+                'created_at' => '2025-08-20 00:02:05',
                 'updated_at' => null,
             ],
             [
@@ -34,7 +34,7 @@ return new class extends Migration
                 'title' => 'GAPKINDO GALA DINNER 2025',
                 'image' => '1758180551.jpg',
                 'at' => 'Nusa Dua, Bali',
-                'created_at' => null,
+                'created_at' => '2025-08-22 00:02:05',
                 'updated_at' => null,
             ],
         ]);
