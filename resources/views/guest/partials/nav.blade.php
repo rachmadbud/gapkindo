@@ -22,11 +22,11 @@
             </div> --}}
             <ul class="main-nav nav navbar-nav navbar-right">
                 <li class="wow fadeInDown" data-wow-delay="0.1s">
-                    <a href="{{ url('/') }}" style="font-size: 23px">{{ __('global.home') }}</a>
+                    <a href="{{ url('/') }}" style="font-size: 22px">{{ __('global.home') }}</a>
                 </li>
                 <li class="dropdown ymm-sw " data-wow-delay="0.1s">
                     <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
-                        data-delay="200" style="font-size: 23px">{{ __('global.tentangKami') }} <b
+                        data-delay="200" style="font-size: 22px">{{ __('global.tentangKami') }} <b
                             class="caret"></b></a>
                     <ul class="dropdown-menu navbar-nav">
                         <li>
@@ -39,10 +39,10 @@
                 </li>
                 <li class="dropdown ymm-sw " data-wow-delay="0.1s">
                     <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
-                        data-delay="200" style="font-size: 23px">Media <b class="caret"></b></a>
+                        data-delay="200" style="font-size: 22px">Media <b class="caret"></b></a>
                     <ul class="dropdown-menu navbar-nav">
                         <li>
-                            <a href="{{ route('galeri') }}">{{ __('global.galeri') }}</a>
+                            <a href="{{ route('soon') }}">{{ __('global.galeri') }}</a>
                         </li>
                         <li>
                             <a href="{{ route('berita') }}">{{ __('global.news') }}</a>
@@ -51,7 +51,7 @@
                 </li>
                 <li class="dropdown yamm-fw" data-wow-delay="0.4s">
                     <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
-                        data-delay="200" style="font-size: 23px">{{ __('global.regulasi') }} <b class="caret"></b></a>
+                        data-delay="200" style="font-size: 22px">{{ __('global.regulasi') }} <b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li>
                             <div class="yamm-content">
@@ -123,19 +123,19 @@
 
                 <li class="dropdown ymm-sw " data-wow-delay="0.1s">
                     <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
-                        data-delay="200" style="font-size: 23px">{{ __('global.anggota') }} <b class="caret"></b></a>
+                        data-delay="200" style="font-size: 22px">{{ __('global.anggota') }} <b class="caret"></b></a>
                     <ul class="dropdown-menu navbar-nav">
                         <li>
-                            <a href="{{ route('anggotaTpp') }}">{{ __('global.anggota') }} (TPP)</a>
+                            <a href="{{ route('soon') }}">{{ __('global.anggota') }} (TPP)</a>
                         </li>
                 </li>
 
             </ul>
 
             <li class="wow fadeInDown" data-wow-delay="0.5s"><a href="{{ route('kontak') }}"
-                    style="font-size: 23px">{{ __('global.kontak') }}</a></li>
+                    style="font-size: 22px">{{ __('global.kontak') }}</a></li>
             <li class="dropdown ymm-sw " data-wow-delay="0.1s">
-                <a href="index.html" style="font-size: 23px" class="dropdown-toggle " data-toggle="dropdown"
+                <a href="index.html" style="font-size: 22px" class="dropdown-toggle " data-toggle="dropdown"
                     data-hover="dropdown" data-delay="200">{{ trans('global.lang') }}<b class="caret"></b></a>
                 <ul class="dropdown-menu navbar-nav">
                     @foreach (['en' => 'English', 'id' => 'Indonesia'] as $lang => $language)

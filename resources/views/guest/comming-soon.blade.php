@@ -17,7 +17,7 @@
         <h2 class="coming-soon-title" style="font-size: 80px; font-weight: bold; margin-bottom: 20px; color: #333;">
             Coming Soon
         </h2>
-        <p style="font-size: 20px; color: #666; margin-bottom: 30px;">
+        <p style="font-size: 20px; color: #666; margin-bottom: 30px; text-align: center;">
             Our website is under construction. Stay tuned for something amazing!
         </p>
         <a href="{{ url('/') }}" class="btn btn-default">Home</a>

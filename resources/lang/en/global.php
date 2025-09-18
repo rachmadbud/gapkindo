@@ -31,7 +31,7 @@ return [
     */
   'home' => 'Home',
   'about' => 'About',
-  'kontak' => 'Contact',
+  'kontak' => 'Contact Us',
   'news' => 'News',
   'galeri' => 'Galery',
   'daftar' => 'List',

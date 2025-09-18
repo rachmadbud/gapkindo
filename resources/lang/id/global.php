@@ -33,7 +33,7 @@ return [
     */
   'home' => 'Beranda',
   'about' => 'Tentang',
-  'kontak' => 'Kontak',
+  'kontak' => 'Hubungi Kami',
   'news' => 'Berita',
   'galeri' => 'Galeri',
   'daftar' => 'Daftar',
