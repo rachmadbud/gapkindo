@@ -69,7 +69,7 @@ return [
   |--------------------------------------------------------------------------
   |
   */
-  'anggotaTpp' => 'TPP Members',
+  'anggota' => 'Members',
   'Search' => 'Search',
   // tabel
   'KodeTpp' => 'TPP Code',

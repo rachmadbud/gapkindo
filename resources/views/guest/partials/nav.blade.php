@@ -126,7 +126,7 @@
                         data-delay="200" style="font-size: 22px">{{ __('global.anggota') }} <b class="caret"></b></a>
                     <ul class="dropdown-menu navbar-nav">
                         <li>
-                            <a href="{{ route('soon') }}">{{ __('global.anggota') }} (TPP)</a>
+                            <a href="{{ route('anggota') }}">{{ __('global.anggota') }}</a>
                         </li>
                 </li>
 

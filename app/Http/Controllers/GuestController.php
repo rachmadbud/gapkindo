@@ -9,7 +9,6 @@ class GuestController extends Controller
     public function __construct()
     {
         $this->modelNews = new \App\Models\News();
-        $this->modelTpp = new \App\Models\Tpp();
         $this->modelCabang = new \App\Models\Cabang();
         $this->modelGalery = new \App\Models\Galery();
     }
@@ -38,8 +37,7 @@ class GuestController extends Controller
 
     public function anggotaTpp()
     {
-        $dataTpp = $this->modelTpp->getData();
-        return view('guest.anggotaTPP', ['dataTpp' => $dataTpp]);
+        return view('guest.anggotaTPP');
     }
 
     public function cabang()

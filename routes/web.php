@@ -1,5 +1,6 @@
 <?php
 
+use Illuminate\Routing\RouteGroup;
 use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\Route;
 
@@ -54,7 +55,14 @@ Route::get('/kontak', function () {
   return view('guest.kontak2');
 })->name('kontak');
 
-Route::get('/anggotaTpp', 'GuestController@anggotaTpp')->name('anggotaTpp');
+Route::get('/anggota', 'AnggotaController@index')->name('anggota');
+
+Route::get('/estate', 'AnggotaController@estate')->name('estate');
+Route::get('/centrifuged', 'AnggotaController@centrifuged')->name('centrifuged');
+Route::get('/rss-producers', 'AnggotaController@rssProducers')->name('rss-producers');
+Route::get('/tsr-producers', 'AnggotaController@tsrProducers')->name('tsr-producers');
+Route::get('/brownCrapeProducer', 'AnggotaController@brownCrapeProducer')->name('brown-crape-producer');
+Route::get('/traders', 'AnggotaController@traders')->name('traders');
 
 Route::get('/cabang', 'GuestController@cabang')->name('cabang');
 Route::get('/cabang/{id}', 'GuestController@detailCabang')->name('detail-cabanag');

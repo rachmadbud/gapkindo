@@ -6,15 +6,15 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\DB;
 
-class Tpp extends Model
+class Traders extends Model
 {
     use HasFactory;
-    protected $table = 'tpp';
-    protected $fillable = ['kode_tpp', 'perusahaan', 'cabang'];
+    protected $table = 'traders';
+    protected $fillable = [];
 
     public function getData()
     {
-        $data = DB::table('tpp')->get();
-        return $data;
+        $dataTraders = DB::table('traders')->paginate(10); // 10 data per halaman
+        return response()->json($dataTraders);
     }
 }
