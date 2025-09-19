@@ -61,7 +61,8 @@
                 item: 1,
                 thumbItem: 9,
                 slideMargin: 0,
-                speed: 500,
+                speed: 2500, // transisi antar slide 2.5 detik
+                pause: 4000, // jeda antar slide 6 detik
                 auto: true,
                 loop: true,
                 onSliderLoad: function() {
