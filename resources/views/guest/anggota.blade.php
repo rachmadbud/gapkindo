@@ -80,7 +80,7 @@
         }
 
         /* SUPAYA SELURUH BARIS BERUBAH WARNA PENUH saat hover:
-                                                                                                                                                                                                                                                                                                             apply background color ke setiap <td> pada tr:hover */
+                                                                                                                                                                                                                                                                                                                 apply background color ke setiap <td> pada tr:hover */
         tbody tr:hover td,
         tbody tr:focus td {
             background-color: var(--hover-color);
@@ -415,8 +415,8 @@
         <td>${(currentPage-1)*perPage + index + 1}</td>
         <td>${item.prov}</td>
         <td>${item.company}</td>
-        <td>${item.factory}</td>
-        <td>${item.rss_product}</td>
+        <td>${item.tsr_product}</td>
+        <td>${item.product_code}</td>
         <td>${item.page}</td> `
         });
 
