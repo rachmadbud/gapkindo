@@ -89,8 +89,9 @@
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 wow fadeInRight animated">
-                    <div class="footer-section">
+                    <div class="single-footer">
                         <h3>{{ __('global.gapkindoSekretariat') }}</h3>
+                        <div class="footer-title-line"></div>
                         <ul class="footer-menu">
                             <li>
                                 <p class="name">Erwin Tunas</p>
@@ -102,9 +103,7 @@
                             </li>
                         </ul>
                     </div>
-
                 </div>
-
             </div>
         </div>
     </div>
