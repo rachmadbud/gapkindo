@@ -17,7 +17,7 @@ return new class extends Migration
             $table->string('prov')->nullable();
             $table->string('company')->nullable();
             $table->string('product')->nullable();
-            $table->string('page')->nullable();
+            $table->string('email')->nullable();
             $table->timestamps();
         });
 
@@ -25,8 +25,7 @@ return new class extends Migration
             [
                 'prov' => 'Java',
                 'company' => 'NASIONAL BHIRAWA TAMA, PT',
-                'product' => 'Brown Crepe',
-                'page' => 85,
+                'email' => 'ptnslbt@yahoo.co.id',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],

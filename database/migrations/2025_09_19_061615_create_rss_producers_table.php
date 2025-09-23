@@ -16,9 +16,8 @@ return new class extends Migration
             $table->id();
             $table->string('prov', 100);
             $table->string('company', 255);
-            $table->integer('factory')->nullable();
             $table->string('rss_product', 100)->nullable();
-            $table->integer('page')->nullable();
+            $table->string('email')->nullable();
             $table->timestamps();
         });
 
@@ -26,72 +25,64 @@ return new class extends Migration
             [
                 'prov' => 'NORTH SUMATRA',
                 'company' => 'LONDON SUMATRA INDONESIA Tbk, PP PT',
-                'factory' => 1,
                 'rss_product' => 'RSS 1',
-                'page' => 6,
+                'email' => '(62-61) 4532300',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'NORTH SUMATRA',
                 'company' => 'PERKEBUNAN NUSANTARA IV REGIONAL 1, PT',
-                'factory' => 5,
                 'rss_product' => 'RSS (1, 2, 3)',
-                'page' => 9,
+                'email' => 'pengolahan@ptpn3.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'SOUTH SUMATRA',
                 'company' => 'PINAGO UTAMA Tbk, PT',
-                'factory' => 1,
                 'rss_product' => 'RSS 1',
-                'page' => 48,
+                'email' => 'hasan.tantri@gmail.com, ratna.sari@pinagoutama.com, helen.riana@pinagoutama.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'LAMPUNG',
                 'company' => 'PERKEBUNAN NUSANTARA I REGIONAL 7, PT',
-                'factory' => 5,
                 'rss_product' => 'RSS',
-                'page' => 58,
+                'email' => 'sekretariat@ptpn7.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'SOUTH-CENTRAL-EAST KALIMANTAN',
                 'company' => 'BRIDGESTONE KALIMANTAN PLANTATIONS, PT',
-                'factory' => 1,
                 'rss_product' => 'RSS (1 & 4)',
-                'page' => 72,
+                'email' => 't.sakoda@bskp.co.id',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'JAVA BRANCH',
                 'company' => 'PERKEBUNAN NUSANTARA I REGIONAL 2, PT',
-                'factory' => 6,
                 'rss_product' => 'RSS (1, 2, 3)',
-                'page' => 86,
+                'email' => 'pemasarannt8@gmail.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'JAVA BRANCH',
                 'company' => 'PERKEBUNAN NUSANTARA I REGIONAL 3, PT',
-                'factory' => 11,
                 'rss_product' => 'RSS (1, 2, & 4)',
-                'page' => 87,
+                'email' => 'skrh_reg3@ptpn1.co.id; pemasaran@ptpn09.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'JAVA BRANCH',
                 'company' => 'PERKEBENUN NUSANTARA I REGIONAL 5, PT',
-                'factory' => 11,
                 'rss_product' => 'RSS',
-                'page' => 87,
+                'email' => 'skrh_reg5@ptpn1.co.id; map_reg5@ptpn1.co.id',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],

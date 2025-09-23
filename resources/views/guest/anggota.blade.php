@@ -57,7 +57,10 @@
         }
 
         thead th {
-            background: var(--header-bg);
+            background: #067402;
+            /* abu-abu tua */
+            color: #ffffff;
+            /* teks putih */
             font-weight: 600;
             padding: 10px 12px;
             text-align: left;
@@ -80,7 +83,7 @@
         }
 
         /* SUPAYA SELURUH BARIS BERUBAH WARNA PENUH saat hover:
-                                                                                                                                                                                                                                                                                                                     apply background color ke setiap <td> pada tr:hover */
+                                                                                                                                                                                                                                                                                                                                                                             apply background color ke setiap <td> pada tr:hover */
         tbody tr:hover td,
         tbody tr:focus td {
             background-color: var(--hover-color);
@@ -168,7 +171,7 @@
                                             <th>No</th>
                                             <th>Branch</th>
                                             <th>Company</th>
-                                            <th>Page</th>
+                                            <th>Email</th>
                                         </tr>
                                     </thead>
                                     <tbody id="table-body-dataEstate">
@@ -188,7 +191,7 @@
                                             <th>No</th>
                                             <th>Branch</th>
                                             <th>Company</th>
-                                            <th>Page</th>
+                                            <th>Email</th>
                                         </tr>
                                     </thead>
                                     <tbody id="table-body-centrifuged">
@@ -208,9 +211,8 @@
                                             <th>No</th>
                                             <th>Branch</th>
                                             <th>Company</th>
-                                            <th>factory</th>
                                             <th>RSS Product</th>
-                                            <th>Page</th>
+                                            <th>Email</th>
                                         </tr>
                                     </thead>
                                     <tbody id="table-body-RssProducers">
@@ -232,7 +234,7 @@
                                             <th>Company</th>
                                             <th>TRS Product</th>
                                             <th>Product COde</th>
-                                            <th>Page</th>
+                                            <th>Email</th>
                                         </tr>
                                     </thead>
                                     <tbody id="table-body-TsrProducers">
@@ -248,8 +250,7 @@
                                             <th>No</th>
                                             <th>Branch</th>
                                             <th>Company</th>
-                                            <th>Product</th>
-                                            <th>Page</th>
+                                            <th>Email</th>
                                         </tr>
                                     </thead>
                                     <tbody id="table-body-brownCrapeProducer">
@@ -265,7 +266,7 @@
                                             <th>No</th>
                                             <th>Branch</th>
                                             <th>Company</th>
-                                            <th>Page</th>
+                                            <th>Email</th>
                                         </tr>
                                     </thead>
                                     <tbody id="table-body-traders">
@@ -377,7 +378,7 @@
         <td>${(currentPage-1)*perPage + index + 1}</td>
         <td>${item.prov}</td>
         <td>${item.company}</td>
-        <td>${item.page}</td> `
+        <td><a href="mailto:${item.email}">${item.email}</a></td> `
         });
 
         // centrifuged table
@@ -389,7 +390,7 @@
         <td>${(currentPage-1)*perPage + index + 1}</td>
         <td>${item.prov}</td>
         <td>${item.company}</td>
-        <td>${item.page}</td> `
+        <td><a href="mailto:${item.email}">${item.email}</a></td> `
         });
 
         // RssProducers table
@@ -401,9 +402,8 @@
         <td>${(currentPage-1)*perPage + index + 1}</td>
         <td>${item.prov}</td>
         <td>${item.company}</td>
-        <td>${item.factory}</td>
         <td>${item.rss_product}</td>
-        <td>${item.page}</td> `
+        <td><a href="mailto:${item.email}">${item.email}</a></td> `
         });
 
         // TsrProducers table
@@ -417,19 +417,19 @@
         <td>${item.company}</td>
         <td>${item.tsr_product}</td>
         <td>${item.product_code}</td>
-        <td>${item.page}</td> `
+        <td><a href="mailto:${item.email}">${item.email}</a></td> `
         });
 
         // brownCrapeProducer table
         setupPagination({
             tableBodyId: 'table-body-traders',
             paginationId: 'pagination-traders',
-            url: '/brownCrapeProducer',
+            url: '/traders',
             rowRenderer: (item, index, currentPage, perPage) => `
         <td>${(currentPage-1)*perPage + index + 1}</td>
         <td>${item.prov}</td>
-        <td>${item.product}</td>
-        <td>${item.page}</td> `
+        <td>${item.company}</td>
+        <td><a href="mailto:${item.email}">${item.email}</a></td> `
         });
 
         // traders table
@@ -441,7 +441,7 @@
         <td>${(currentPage-1)*perPage + index + 1}</td>
         <td>${item.prov}</td>
         <td>${item.company}</td>
-        <td>${item.page}</td> `
+        <td><a href="mailto:${item.email}">${item.email}</a></td> `
         });
     </script>
 

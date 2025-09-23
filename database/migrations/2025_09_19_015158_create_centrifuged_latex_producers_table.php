@@ -16,7 +16,7 @@ return new class extends Migration
             $table->id();
             $table->string('prov')->nullable();
             $table->string('company')->nullable();
-            $table->string('page')->nullable();
+            $table->string('email')->nullable();
             $table->timestamps();
         });
 
@@ -24,42 +24,42 @@ return new class extends Migration
             [
                 'prov' => 'North Sumatra',
                 'company' => 'BAKRIE SUMATERA PLANTATIONS Tbk, PT',
-                'page' => '2',
+                'email' => 'windy@bakriesumatera.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'North Sumatra',
                 'company' => 'PERKEBUNAN NUSANTARA IV REGIONAL 1, PT',
-                'page' => '9',
+                'email' => 'pengolahan@ptpn3.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'North Sumatra',
                 'company' => 'SRI SUMATERA SEJAHTERA, PT',
-                'page' => '13',
+                'email' => 'srisspt@yahoo.com, srisspt@gmail.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'South Sumatra',
                 'company' => 'SRITRANG LINGGA INDONESIA, PT',
-                'page' => '51',
+                'email' => 'www.sritranggroup.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'Lampung',
                 'company' => 'SILVA INHUTANI LAMPUNG, PT',
-                'page' => '59',
+                'email' => 'silva.jakarta@gmail.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'Jawa',
                 'company' => 'PERKEBUNAN NUSANTARA I REGIONAL 2, PT',
-                'page' => '86',
+                'email' => 'pemasarannt8@gmail.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],

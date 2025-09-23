@@ -16,7 +16,7 @@ return new class extends Migration
             $table->id();
             $table->string('prov')->nullable();
             $table->string('company')->nullable();
-            $table->string('page')->nullable();
+            $table->string('email')->nullable();
             $table->timestamps();
         });
 
@@ -25,91 +25,91 @@ return new class extends Migration
             [
                 'prov' => 'NORTH SUMATRA',
                 'company' => 'BUMI INDAWA NIAGA, PT',
-                'page' => 3,
+                'email' => 'parkjs@korindo.co.id, bumindawa@korindo.co.id,rusman@korindo.co.id',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'SOUTH SUMATRA',
                 'company' => 'BINTANG AGUNG PERSADA, PT',
-                'page' => 35,
+                'email' => '(62-711) 317388',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'SOUTH SUMATRA',
                 'company' => 'WARNA AGUNG SELATAN, PT',
-                'page' => 53,
+                'email' => 'warnaagungselatansha@gmail.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'JAVA',
                 'company' => 'AGRO LINO SEJAHTERA, PT',
-                'page' => 83,
+                'email' => '(62-21) 509 89300',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'JAVA',
                 'company' => 'BAJABANG INDONESIA, PT PP',
-                'page' => 83,
+                'email' => 'dadangkurnia@bajabang.co.id, rozakyes@gmail.com, sulaiman@bajabang.co.id',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'JAVA',
                 'company' => 'BITUNG GUNASEJAHTERA, PT',
-                'page' => 83,
+                'email' => 'bitung@cbn.net.id',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'JAVA',
                 'company' => 'JADI JAYA MAKMUR, CV',
-                'page' => 84,
+                'email' => 'jamaksmg@gmail.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'JAVA',
                 'company' => 'JAYA ASRI NIAGA, PT',
-                'page' => 84,
+                'email' => 'info@jayaasri.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'JAVA',
                 'company' => 'MERIDIAN JATI INDONESIA, PT',
-                'page' => 85,
+                'email' => 'marketing@meridianjati.co.id, logistic@meridianjati.co.id',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'JAVA',
                 'company' => 'NUSA ALAM RUBBER, PT',
-                'page' => 86,
+                'email' => 'pt.nusaalamrubber@gmail.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'JAVA',
                 'company' => 'SEMESTA JAYA LESTARIE , CV',
-                'page' => 88,
+                'email' => 'putera_semesta@hotmail.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'JAVA',
                 'company' => 'TRIKARYA SEMESTA, PT',
-                'page' => 89,
+                'email' => '3karyasemesta@gmail.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'prov' => 'JAVA',
                 'company' => 'WILSON TUNGGAL PERKASA, PT',
-                'page' => 89,
+                'email' => 'sales1@pt-wilson.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
