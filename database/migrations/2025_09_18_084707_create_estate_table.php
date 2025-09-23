@@ -102,7 +102,7 @@ return new class extends Migration
             [
                 'prov' => 'South-Central-East Kalimantan',
                 'company' => 'BRIDGESTONE KALIMANTAN PLANTATIONS, PT',
-                'email' => '72',
+                'email' => 't.sakoda@bskp.co.id',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
