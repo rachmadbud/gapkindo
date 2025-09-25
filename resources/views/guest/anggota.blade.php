@@ -83,7 +83,7 @@
         }
 
         /* SUPAYA SELURUH BARIS BERUBAH WARNA PENUH saat hover:
-                                                                                                                                                                                                                                                                                                                                                                             apply background color ke setiap <td> pada tr:hover */
+                                                                                                                                                                                                                                                                                                                                                                                                 apply background color ke setiap <td> pada tr:hover */
         tbody tr:hover td,
         tbody tr:focus td {
             background-color: var(--hover-color);
@@ -232,9 +232,9 @@
                                             <th>No</th>
                                             <th>Branch</th>
                                             <th>Company</th>
-                                            <th>TRS Product</th>
-                                            <th>Product COde</th>
-                                            <th>Email</th>
+                                            <th>Product Type</th>
+                                            <th>Producers Code</th>
+                                            <th>Mailing Address</th>
                                         </tr>
                                     </thead>
                                     <tbody id="table-body-TsrProducers">

@@ -620,7 +620,7 @@ return new class extends Migration
                 'company' => 'PINAGO UTAMA Tbk, PT',
                 'tsr_product' => 'SIR (5, 10, 20), RSS1',
                 'product_code' => 'SFK',
-                'email' => 'hasan.tantri@gmail.com, ratna.sari@pinagoutama.com,helen.riana@pinagoutama.com',
+                'email' => 'hasan.tantri@gmail.com', //  ratna.sari@pinagoutama.com,helen.riana@pinagoutama.com
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
@@ -810,7 +810,7 @@ return new class extends Migration
                 'company' => 'BINTANG BORNEO PERSADA, PT',
                 'tsr_product' => 'SIR (10, 20, 10CV, 20CV)',
                 'product_code' => 'KCA',
-                'email' => ': trading-i@southlandglobal.com, merly@bintangborneo.com',
+                'email' => 'trading-i@southlandglobal.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
