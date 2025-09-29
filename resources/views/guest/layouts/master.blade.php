@@ -5,8 +5,6 @@
 </div>
 <!-- Body content -->
 
-@include('guest.partials.header')
-
 @include('guest.partials.nav')
 
 @yield('content')
