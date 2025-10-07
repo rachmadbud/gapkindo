@@ -244,7 +244,8 @@
                                 <div class="item-entry overflow">
                                     <h5><a href="{{ route('soon') }}">TIMMIE MELVIN</a></h5>
                                     <div class="dot-hr"></div>
-                                    <span class="pull-left"><b> {{ trans('global.SekUm') }}</b></span>
+                                    <span class="pull-left"><b> {{ trans('global.SekUm') }} /
+                                            {{ trans('global.KabidKeuangan') }}</b></span>
                                     <span class="proerty-price pull-right"></span>
                                 </div>
                             </div>
@@ -260,23 +261,8 @@
                                 <div class="item-entry overflow">
                                     <h5><a href="{{ route('soon') }}">VARGO GUNAWAN</a></h5>
                                     <div class="dot-hr"></div>
-                                    <span class="pull-left"><b> {{ trans('global.KabidOrganisasi') }}</b></span>
-                                    <span class="proerty-price pull-right"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="proerty-th">
-                        <div class="col-sm-6 col-md-12 p0">
-                            <div class="box-two proerty-item">
-                                <div class="item-thumb">
-                                    <a href="{{ route('soon') }}"><img
-                                            src="{{ asset('guest/assets/img/demo/TIMMIE-MELVIN.png') }}"></a>
-                                </div>
-                                <div class="item-entry overflow">
-                                    <h5><a href="{{ route('soon') }}">TIMMIE MELVIN</a></h5>
-                                    <div class="dot-hr"></div>
-                                    <span class="pull-left"><b> {{ trans('global.KabidKeuangan') }}</b></span>
+                                    <span class="pull-left"><b> {{ trans('global.KabidOrganisasi') }} /
+                                            {{ trans('global.bendahara') }}</b></span>
                                     <span class="proerty-price pull-right"></span>
                                 </div>
                             </div>
@@ -309,22 +295,6 @@
                                     <h5><a href="{{ route('soon') }}">I. WIDYANTOKO SUMARLIN</a></h5>
                                     <div class="dot-hr"></div>
                                     <span class="pull-left"><b> {{ trans('global.KeBidPemasaran') }}</b></span>
-                                    <span class="proerty-price pull-right"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="proerty-th">
-                        <div class="col-sm-6 col-md-12 p0">
-                            <div class="box-two proerty-item">
-                                <div class="item-thumb">
-                                    <a href="{{ route('soon') }}"><img
-                                            src="{{ asset('guest/assets/img/demo/VARGO-GUNAWAN.png') }}"></a>
-                                </div>
-                                <div class="item-entry overflow">
-                                    <h5><a href="{{ route('soon') }}">VARGO GUNAWAN</a></h5>
-                                    <div class="dot-hr"></div>
-                                    <span class="pull-left"><b> {{ trans('global.bendahara') }}</b></span>
                                     <span class="proerty-price pull-right"></span>
                                 </div>
                             </div>
