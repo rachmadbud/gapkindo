@@ -65,6 +65,7 @@ return [
   'Alamat' => 'Alamat',
   'PusatPanggilan' => 'PUSAT PANGGILAN',
   'DukunganElektronik' => 'DUKUNGAN ELEKTRONIK',
+  'email' => 'Email',
 
   /*
   |--------------------------------------------------------------------------
@@ -123,6 +124,20 @@ return [
   'penjelasanP2Li2' => 'Kongres ke-II GAPKINDO pada tangga 11-09-1972 di Jakarta',
 
 
-  'footerP' => 'GAPKINDO adalah asosiasi yang bergerak di industri karet alam. Tujuan GAPKINDO adalah untuk mengembangkan dan meningkatkan produksi, pengolahan, dan pemasaran karet alam Indonesia sebagai salah satu komoditas ekspor utama Indonesia.'
+  'footerP' => 'GAPKINDO adalah Perkumpulan yang bergerak dalam bidang industri primer karet alam. GAPKINDO bertujuan untuk mengembangkan serta meningkatkan usaha perkaretan, baik secara kuantitatif maupun kualitatif ditinjau dari segi produksi, pengolahan, dan pemasarannya sebagai salah satu komoditas ekspor utama Indonesia',
 
+  /*
+  |--------------------------------------------------------------------------
+  | Cabang
+  |--------------------------------------------------------------------------
+  |
+  */
+  'sekretCabangSumUt' => 'Sekretariat GAPKINDO Cabang Sumatera Utara',
+  'sekretCabangJambi' => 'Sekretariat GAPKINDO Cabang Jambi',
+  'sekretCabangBengkulu' => 'Sekretariat GAPKINDO Cabang Bengkulu',
+  'sekretCabangSumSel' => 'Sekretariat GAPKINDO Cabang Sumatera Selatan',
+  'sekretCabangLampung' => 'Sekretariat GAPKINDO Cabang Lampung',
+  'sekretCabangKalimantanBarat' => 'Sekretariat GAPKINDO Cabang Kalimantan Barat',
+  'sekretCabangKalSelTengTim' => 'Sekretariat GAPKINDO Cabang Kalimantan Selatan-Tengah-Timur',
+  'sekretCabangJawa' => 'Sekretariat GAPKINDO Cabang Jawa',
 ];

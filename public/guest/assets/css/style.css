@@ -2116,7 +2116,7 @@ single property page
 }
 .add-d-title {
     font-weight: 600;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     background-color: #A5A5A5;
     margin: 0px;
     color: #FFF;

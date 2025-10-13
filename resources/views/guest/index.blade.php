@@ -235,7 +235,7 @@
             <div class="row">
                 <div class="row-centered">
                     <div class="proerty-th">
-                        <div class="col-sm-6 col-md-12 p0">
+                        <div class="col-sm-8 col-md-12 p0">
                             <div class="box-two proerty-item">
                                 <div class="item-thumb">
                                     <a href="{{ route('soon') }}"><img
@@ -252,7 +252,7 @@
                         </div>
                     </div>
                     <div class="proerty-th">
-                        <div class="col-sm-6 col-md-12 p0">
+                        <div class="col-sm-8 col-md-12 p0">
                             <div class="box-two proerty-item">
                                 <div class="item-thumb">
                                     <a href="{{ route('soon') }}"><img
@@ -269,7 +269,7 @@
                         </div>
                     </div>
                     <div class="proerty-th">
-                        <div class="col-sm-6 col-md-12 p0">
+                        <div class="col-sm-8 col-md-12 p0">
                             <div class="box-two proerty-item">
                                 <div class="item-thumb">
                                     <a href="{{ route('soon') }}"><img
@@ -285,7 +285,7 @@
                         </div>
                     </div>
                     <div class="proerty-th">
-                        <div class="col-sm-6 col-md-12 p0">
+                        <div class="col-sm-8 col-md-12 p0">
                             <div class="box-two proerty-item">
                                 <div class="item-thumb">
                                     <a href="{{ route('soon') }}"><img

@@ -62,6 +62,7 @@ return [
   'Alamat' => 'Address',
   'PusatPanggilan' => 'CALL CENTER',
   'DukunganElektronik' => 'ELECTRONIC SUPPORT',
+  'email' => 'Email',
 
   /*
   |--------------------------------------------------------------------------
@@ -93,7 +94,7 @@ return [
   'manajerKantor' => 'Office Manager',
 
   'cabang' => 'Branch',
-  'sekretarisEx' => 'executive secretary',
+  'sekretarisEx' => 'Executive secretary',
 
   'galery' => 'Galery',
   'read' => 'Read More',
@@ -121,8 +122,22 @@ return [
 
   'penjelasanP2Li2' => 'GAPKINDO II Congress on 11-09-1972 in Jakarta',
 
-  'footerP' => 'Rubber Association OF Iindonesia is an association of Indonesian enterprise dealing with natural rubber industry. The objective of GAPKINDO is to develop and improve production, processing and marketing of Indonesia natural rubber as one of the main export commodity from Indonesia.
+  'footerP' => 'GAPKINDO or Rubber Association OF Iindonesia is an association of Indonesian enterprise dealing with the primary industry of natural rubber. The objective of GAPKINDO is to develop and improve production, processing and marketing of Indonesia natural rubber as one of the main export commodity from Indonesia.',
 
-'
 
+  /*
+  |--------------------------------------------------------------------------
+  | Cabang
+  |--------------------------------------------------------------------------
+  |
+  */
+
+  'sekretCabangSumUt' => 'GAPKINDO Secretariat For North Sumatera Branch',
+  'sekretCabangJambi' => 'GAPKINDO Secretariat For Jambi Branch',
+  'sekretCabangBengkulu' => 'GAPKINDO Secretariat For Bengkulu Branch',
+  'sekretCabangSumSel' => 'GAPKINDO Secretariat For South Sumatera Branch',
+  'sekretCabangLampung' => 'GAPKINDO Secretariat For Lampung Branch',
+  'sekretCabangKalimantanBarat' => 'GAPKINDO Secretariat For West Kalimantan Branch',
+  'sekretCabangKalSelTengTim' => 'GAPKINDO Secretariat For South-Central-East Kalimantan Branch',
+  'sekretCabangJawa' => 'GAPKINDO Secretariat For Java Branch',
 ];

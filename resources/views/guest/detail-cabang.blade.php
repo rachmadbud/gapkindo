@@ -42,7 +42,6 @@
                     </div>
 
                     <br>
-                    <br>
                     <div class="single-property-wrapper">
                         <!-- .property-meta -->
 
@@ -56,7 +55,24 @@
 
                         <div class="section additional-details">
 
-                            <h4 class="s-property-title">{{ __('global.detail') }}</h4>
+                            {{-- <h4 class="s-property-title">{{ __('global.sekretCabangJam') }}</h4> --}}
+                            @if ($dataCabang->propinsi == 'Kalimantan Selatan-Tengah-Timur')
+                                <h4 class="s-property-title">{{ __('global.sekretCabangKalSelTengTim') }}</h4>
+                            @elseif ($dataCabang->propinsi == 'Kalimantan Barat')
+                                <h4 class="s-property-title">{{ __('global.sekretCabangKalimantanBarat') }}</h4>
+                            @elseif ($dataCabang->propinsi == 'Lampung')
+                                <h4 class="s-property-title">{{ __('global.sekretCabangLampung') }}</h4>
+                            @elseif ($dataCabang->propinsi == 'Jawa')
+                                <h4 class="s-property-title">{{ __('global.sekretCabangJawa') }}</h4>
+                            @elseif ($dataCabang->propinsi == 'Sumatera Selatan')
+                                <h4 class="s-property-title">{{ __('global.sekretCabangSumSel') }}</h4>
+                            @elseif ($dataCabang->propinsi == 'Bengkulu')
+                                <h4 class="s-property-title">{{ __('global.sekretCabangBengkulu') }}</h4>
+                            @elseif ($dataCabang->propinsi == 'Jambi')
+                                <h4 class="s-property-title">{{ __('global.sekretCabangJambi') }}</h4>
+                            @elseif ($dataCabang->propinsi == 'Sumatera Utara')
+                                <h4 class="s-property-title">{{ __('global.sekretCabangSumUt') }}</h4>
+                            @endif
 
                             <ul class="additional-details-list clearfix">
                                 <li>
@@ -64,7 +80,7 @@
                                     <span class="col-xs-6 col-sm-8 col-md-8 add-d-entry">{{ $dataCabang->alamat }}</span>
                                 </li>
                                 <li>
-                                    <span class="col-xs-6 col-sm-4 col-md-4 add-d-title">Email</span>
+                                    <span class="col-xs-6 col-sm-4 col-md-4 add-d-title">{{ __('global.email') }}</span>
                                     <span class="col-xs-6 col-sm-8 col-md-8 add-d-entry">{{ $dataCabang->email }}</span>
                                 </li>
                                 <li>
