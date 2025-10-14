@@ -94,7 +94,7 @@ return [
   'manajerKantor' => 'Office Manager',
 
   'cabang' => 'Branch',
-  'sekretarisEx' => 'Executive secretary',
+  'sekretarisEx' => 'Executive Secretary',
 
   'galery' => 'Galery',
   'read' => 'Read More',
