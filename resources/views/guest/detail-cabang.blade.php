@@ -77,10 +77,10 @@
                             <ul class="additional-details-list clearfix">
                                 <li>
                                     <span class="col-xs-6 col-sm-4 col-md-4 add-d-title">{{ __('global.Alamat') }}</span>
-                                    <span class="col-xs-6 col-sm-8 col-md-8 add-d-entry">{{ $dataCabang->alamat }}</span>
+                                    <span class="col-xs-6 col-sm-8 col-md-8 add-d-entry">{!! nl2br($dataCabang->alamat) !!}</span>
                                 </li>
                                 <li>
-                                    <span class="col-xs-6 col-sm-4 col-md-4 add-d-title">Tel</span>
+                                    <span class="col-xs-6 col-sm-4 col-md-4 add-d-title">Tel./Fax</span>
                                     <span class="col-xs-6 col-sm-8 col-md-8 add-d-entry">{{ $dataCabang->tlpn }}</span>
                                 </li>
                                 <li>

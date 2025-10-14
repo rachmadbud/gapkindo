@@ -32,7 +32,8 @@ return new class extends Migration
             ['propinsi' => 'Sumatera Selatan', 'alamat' => 'Jl. Hang Tuah No.10, Palembang 30135, Palembang – Indonesia', 'tlpn' => '(62-711) 352095, (62-711) 352095', 'email' => 'gapkindo.palembang@gmail.com', 'img' => '1757398617.jpg', 'ketua' => 'ALEX KURNIAWAN EDY', 'sekertaris' => 'DR. IR. H.NURAHMADI, M.S', 'created_at' => now(), 'updated_at' => now()],
             ['propinsi' => 'Bengkulu', 'alamat' => 'Jl. Semeru No. 14, Kota Bengkulu, 38225 - indonesia', 'tlpn' => '(62-736) 345010', 'email' => 'rusbandibandot@yahoo.co.id', 'img' => '1757398747.png', 'ketua' => 'BUDIMAN SUTANTO', 'sekertaris' => 'RUSBANDI', 'created_at' => now(), 'updated_at' => now()],
             ['propinsi' => 'Jambi', 'alamat' => 'Jl. Bhayangkara No.40 Talang Banjar 36142 Jambi – Indonesia', 'tlpn' => '(62-741) 3061742', 'email' => 'gapkindo.jambi@gmail.com', 'img' => '1757398273.jpg', 'ketua' => 'GUSNAR SUNARDI', 'sekertaris' => 'ANDRI FAIZAL', 'created_at' => now(), 'updated_at' => now()],
-            ['propinsi' => 'Sumatera Utara', 'alamat' => 'Komplek Taman Tomang Elok Blok I No.41/156, Jl. Jend. Gatot Subroto, Sei Sikambing, Medan 20122 – Indonesia', 'tlpn' => '(62-61) 8468819', 'email' => 'gapkindosu.office@gmail.com', 'img' => '1757398024.gif', 'ketua' => 'ISHAK LEONO', 'sekertaris' => 'DR. IR. EDY IRWANSYAH, M.SI', 'created_at' => now(), 'updated_at' => now()],
+            ['propinsi' => 'Sumatera Utara', 'alamat' => 'Komplek Taman Tomang Elok Blok I No.41/156,' . PHP_EOL .
+                'Jl. Jend. Gatot Subroto, Sei Sikambing,' . PHP_EOL . ' Medan 20122 – Indonesia', 'tlpn' => '(62-61) 8468819', 'email' => 'gapkindosu.office@gmail.com', 'img' => '1757398024.gif', 'ketua' => 'ISHAK LEONO', 'sekertaris' => 'DR. IR. EDY IRWANSYAH, M.SI', 'created_at' => now(), 'updated_at' => now()],
         ]);
     }
 
