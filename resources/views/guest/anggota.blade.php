@@ -83,7 +83,7 @@
         }
 
         /* SUPAYA SELURUH BARIS BERUBAH WARNA PENUH saat hover:
-                                                                                                                                                                                                                                                                                                                                                                                                                                     apply background color ke setiap <td> pada tr:hover */
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                             apply background color ke setiap <td> pada tr:hover */
         tbody tr:hover td,
         tbody tr:focus td {
             background-color: var(--hover-color);
@@ -191,9 +191,9 @@
                                     <thead>
                                         <tr>
                                             <th>No</th>
-                                            <th>Branch</th>
-                                            <th>Company</th>
-                                            <th>Email</th>
+                                            <th>{{ __('global.cabang') }}</th>
+                                            <th>{{ __('global.perusahaan') }}</th>
+                                            <th>{{ __('global.email') }}</th>
                                         </tr>
                                     </thead>
                                     <tbody id="table-body-centrifuged">
@@ -211,10 +211,10 @@
                                     <thead>
                                         <tr>
                                             <th>No</th>
-                                            <th>Branch</th>
-                                            <th>Company</th>
-                                            <th>RSS Product</th>
-                                            <th>Email</th>
+                                            <th>{{ __('global.cabang') }}</th>
+                                            <th>{{ __('global.perusahaan') }}</th>
+                                            <th>{{ __('global.rss producers') }}</th>
+                                            <th>{{ __('global.email') }}</th>
                                         </tr>
                                     </thead>
                                     <tbody id="table-body-RssProducers">
@@ -232,11 +232,11 @@
                                     <thead>
                                         <tr>
                                             <th>No</th>
-                                            <th>Branch</th>
-                                            <th>Company</th>
-                                            <th>Product Type</th>
-                                            <th>Producers Code</th>
-                                            <th>Mailing Address</th>
+                                            <th>{{ __('global.cabang') }}</th>
+                                            <th>{{ __('global.perusahaan') }}</th>
+                                            <th>{{ __('global.productType') }}</th>
+                                            <th>{{ __('global.producersCode') }}</th>
+                                            <th>{{ __('global.email') }}</th>
                                         </tr>
                                     </thead>
                                     <tbody id="table-body-TsrProducers">
@@ -250,9 +250,9 @@
                                     <thead>
                                         <tr>
                                             <th>No</th>
-                                            <th>Branch</th>
-                                            <th>Company</th>
-                                            <th>Email</th>
+                                            <th>{{ __('global.cabang') }}</th>
+                                            <th>{{ __('global.perusahaan') }}</th>
+                                            <th>{{ __('global.email') }}</th>
                                         </tr>
                                     </thead>
                                     <tbody id="table-body-brownCrapeProducer">
@@ -266,9 +266,9 @@
                                     <thead>
                                         <tr>
                                             <th>No</th>
-                                            <th>Branch</th>
-                                            <th>Company</th>
-                                            <th>Email</th>
+                                            <th>{{ __('global.cabang') }}</th>
+                                            <th>{{ __('global.perusahaan') }}</th>
+                                            <th>{{ __('global.email') }}</th>
                                         </tr>
                                     </thead>
                                     <tbody id="table-body-traders">

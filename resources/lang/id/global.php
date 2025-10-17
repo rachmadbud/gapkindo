@@ -79,7 +79,6 @@ return [
   // tabel
   'KodeTpp' => 'Kode TPP',
   'NamaPerusahaan' => 'Nama Perusahaan',
-  'Cabang' => 'Cabang',
 
   /*
   |--------------------------------------------------------------------------
@@ -163,5 +162,7 @@ return [
   'tsr' => 'Produsen TSR',
   'brown' => 'Produsen Brown Crepe',
   'traders' => 'Trader/Broker/Perwakilan Pembeli',
+  'productType' => 'Tipe Produk',
+  'producersCode' => 'Kode Produsen',
 
 ];

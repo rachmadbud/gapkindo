@@ -76,7 +76,6 @@ return [
   // tabel
   'KodeTpp' => 'TPP Code',
   'NamaPerusahaan' => 'Company Name',
-  'Cabang' => 'Branch',
 
 
   /*
@@ -163,6 +162,8 @@ return [
   'tsr' => 'TSR Producers',
   'brown' => 'Brown Crepe Producers',
   'traders' => 'Traders/Brokers/Buyers Representatives',
+  'productType' => 'Product Type',
+  'producersCode' => 'Producers Code',
 
 
 ];
