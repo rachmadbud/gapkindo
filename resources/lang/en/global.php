@@ -154,6 +154,8 @@ return [
     'South-Central-East Kalimantan' => 'South, Central, East Kalimantan',
     'Jawa' => 'Java',
     'West Kalimantan' => 'West Kalimantan',
+    'south sumatra' => 'South Sumatra',
+
   ],
 
   'estate' => 'Estate',

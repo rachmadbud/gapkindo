@@ -118,6 +118,7 @@ class AnggotaController extends Controller
                     'id' => $item->id,
                     'prov' => $translated,
                     'company' => $item->company,
+                    'rss_product' => $item->rss_product,
                     'email' => $item->email,
                 ];
             }),
@@ -150,6 +151,8 @@ class AnggotaController extends Controller
                     'id' => $item->id,
                     'prov' => $translated,
                     'company' => $item->company,
+                    'tsr_product' => $item->tsr_product,
+                    'product_code' => $item->product_code,
                     'email' => $item->email,
                 ];
             }),

@@ -154,6 +154,8 @@ return [
     'South-Central-East Kalimantan' => 'Kalimantan Selatan-Tengah-Timur',
     'Jawa' => 'Jawa',
     'West Kalimantan' => 'Kalimantan Barat',
+    'South Sumatra' => 'Sumatera Selatan',
+
   ],
 
   'estate' => 'Perkebunan',

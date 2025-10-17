@@ -94,11 +94,11 @@
                         <ul class="footer-menu">
                             <li>
                                 <p class="name">Erwin Tunas</p>
-                                <p class="title">Executive Director</p>
+                                <p class="title">{{ __('global.direkturEksekutif') }}</p>
                             </li>
                             <li>
                                 <p class="name">Uhendi Haris</p>
-                                <p class="title">Assistant Executive Director</p>
+                                <p class="title">{{ __('global.asistenDirekturEksekutif') }}</p>
                             </li>
                         </ul>
                     </div>
