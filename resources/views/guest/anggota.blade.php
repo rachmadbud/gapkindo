@@ -83,7 +83,7 @@
         }
 
         /* SUPAYA SELURUH BARIS BERUBAH WARNA PENUH saat hover:
-                                                                                                                                                                                                                                                                                                                                                                                                                             apply background color ke setiap <td> pada tr:hover */
+                                                                                                                                                                                                                                                                                                                                                                                                                                     apply background color ke setiap <td> pada tr:hover */
         tbody tr:hover td,
         tbody tr:focus td {
             background-color: var(--hover-color);

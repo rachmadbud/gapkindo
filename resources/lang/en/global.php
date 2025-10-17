@@ -38,7 +38,6 @@ return [
   'anggota' => 'Member',
   'cabang' => 'Branch',
   'perusahaan' => 'Company',
-  'email' => 'Email',
 
   'HAVEQUESTIONS?CALL' => 'HAVE QUESTIONS? CALL',
 

@@ -40,7 +40,6 @@ return [
   'anggota' => 'Anggota',
   'cabang' => 'Cabang',
   'perusahaan' => 'Perusahaan',
-  'email' => 'Alamat Email',
 
   'HAVEQUESTIONS?CALL' => 'PUNYA PERTANYAAN? HUBUNGI',
 
@@ -67,7 +66,7 @@ return [
   'Alamat' => 'Alamat',
   'PusatPanggilan' => 'PUSAT PANGGILAN',
   'DukunganElektronik' => 'DUKUNGAN ELEKTRONIK',
-  'email' => 'Email',
+  'email' => 'Alamat Email',
 
   /*
   |--------------------------------------------------------------------------
