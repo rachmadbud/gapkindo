@@ -14,7 +14,6 @@ class Estate extends Model
 
     public function getData()
     {
-        $dataEstate = DB::table('estate')->paginate(10); // 10 data per halaman
-        return response()->json($dataEstate);
+        return DB::table('estate')->paginate(10); // 10 data per halaman
     }
 }

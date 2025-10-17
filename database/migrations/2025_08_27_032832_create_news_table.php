@@ -87,23 +87,17 @@ return new class extends Migration
             [
                 'id' => 21,
                 'title' => 'Pemerintah Indonesia Berkomitmen Terus Stabilkan Harga Karet dan Inisiatif Bursa Karet Regional',
-                'content' => "Sektor Industri Karet Alam mengalami penurunan pasokan produksi karet alam dalam negeri sejak tahun 2017. Akibatnya, total ekspor produk karet alam mengalami penurunan.
+                'content' => "Indonesia, Thailand, dan Malaysia yang tergabung dalam Dewan Tripartit Karet Internasional atau ITRC berkomitmen menjaga harga karet alam internasional. Indonesia juga tengah menginisiasi pembentukan bursa karet regional.
 
-                Direktur Eksekutif Gabungan Perusahaan Karet Indonesia (GAPKINDO), Erwin Tunas, mengatakan penurunan ekspor rata-rata tahunan mencapai 10%. Penurunan ini diprediksi akan berlanjut tahun ini.
+Untuk memperkuat posisi negara-negara produsen karet di ASEAN, ketiga negara tersebut akan terus membujuk Vietnam bergabung dalam ITRC dan Konsorsium Karet Internasional atau IRCo. Di sisi lain, IRCo mengusulkan tambahan modal sebesar 8,54 juta dollar AS untuk menggulirkan berbagai program dan kegiatan periode 2024-2027.
 
-                Ekspor karet memang telah menurun, sehingga rata-rata hampir mencapai 10% setiap tahun sejak 2017. Untuk pertama kalinya pada tahun 2017, Indonesia mengekspor sekitar 3,3 juta ton; pada tahun 2022, angkanya akan turun menjadi sekitar 2,1 juta ton, yang diprediksi akan sulit dipertahankan dan bahkan menurun.  Mungkin penurunannya bisa 10 % lagi atau sekitar 1,
-                8 juta ton,
-                ujar Erwin saat ditemui MNC Portal di Hotel Borobudur, Jakarta Pusat, Rabu (21/6/2023).
+Sejumlah poin itu mengemuka dalam Diseminasi Hasil Analisis Badan Kebijakan Perdagangan (BKPerdag) Tahun 2023 ”Penguatan Implementasi Kebijakan Perdagangan untuk Mendorong Peningkatan Kinerja Perdagangan” yang digelar secara hibrida, Rabu (17/5/2023). Dalam kegiatan itu dipaparkan pula hasil analisis bertajuk ”Dukungan Biaya dan Manfaat Keikutsertaan Indonesia dalam IRCo”.
 
-                Lebih lanjut dikatakannya, karena Indonesia tidak mampu memenuhi perjanjian kontrak ekspor dengan kondisi pasokan dalam negeri saat ini, maka mau tidak mau harus mengimpor karet dari negara lain agar kebutuhan industri dalam negeri tetap terpenuhi dan perjanjian kontrak dapat dilanjutkan.
+Kepala Badan Kebijakan Perdagangan (BKPerdag) Kementerian Perdagangan Kasan Muhri, Rabu (17/5/2023), mengatakan, hingga kini ITRC yang beranggotakan Indonesia, Malaysia, dan Thailand terus menjaga harga karet dunia tidak turun. Hal itu dilakukan melalui Skema Kesepakatan Tonase Ekspor (Agreed Export Tonnage Scheme/AETS) atau mekanisme mengurangi ekspor karet berbasis alokasi ekspor.
 
-                Jumlah karet yang diimpor setiap tahun mencapai 100 ribu ton. Erwin menjelaskan bahwa posisi kontrak tidak sesuai karena sistem kontraknya jangka panjang, sehingga perusahaan selalu membuat kontrak jangka panjang, yang berarti kami sudah terikat dengan pembeli; misalnya, kami harus memenuhi kontrak ekspor pada bulan Juli, Agustus, dan September yang telah disepakati.
-
-                Menurutnya, penandatanganan kontrak harus dilakukan pada bulan April agar bisa sampai Desember. Ketika kami melihat ternyata di bulan Oktober, apa yang kami pikir bisa kami penuhi ternyata tidak ada, kami otomatis mencari kontrak atau impor lain.
-
-                Erwin menambahkan bahwa negara-negara pemasok karet untuk Indonesia beragam, tetapi sebagian besar berasal dari Afrika. Meskipun demikian, ia menilai ketergantungan Indonesia terhadap Afrika hanya dapat diharapkan untuk waktu yang singkat karena banyak industri dari Tiongkok telah berinvestasi di Afrika, sehingga produksi karet di Afrika secara tidak langsung akan dipasok ke Tiongkok. Namun, di masa mendatang, hal ini tidak dapat diharapkan untuk pasokan jangka panjang karena banyak industri di Tiongkok juga berinvestasi langsung di sana (Afrika) untuk mengolahnya menjadi produk industri untuk tujuan ekspor, pungkasnya.",
+”Skema ini tidak semata berorientasi pada bisnis ekspor karet, tetapi juga pada kesejahteraan petani karet di setiap negara produsen karet anggota ITRC. Bagi petani karet Indonesia, pohon karet ibarat mesin anjungan tunai mandiri. Setiap kali membutuhkan uang, petani karet akan mendatangi pohon karet untuk menyadap getah karet,” katanya.",
                 'image' => '1756341755.jpg',
-                'source' => 'Kompas',
+                'source' => 'Kompas.id',
                 'created_at' => '2025-08-27 17:42:35',
                 'updated_at' => null,
             ],

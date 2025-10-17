@@ -14,7 +14,6 @@ class RssProducers extends Model
 
     public function getData()
     {
-        $dataRssProducers = DB::table('rss_producers')->paginate(10); // 10 data per halaman
-        return response()->json($dataRssProducers);
+        return DB::table('rss_producers')->paginate(10); // 10 data per halaman
     }
 }

@@ -53,7 +53,7 @@
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-12">
 
                     <blockquote><cite><a href="#">{{ __('global.h1') }}</a></cite>
-                        <p>{{ trans('global.p') }}
+                        <p>{{ trans('global.footerP') }}
                         </p>
                     </blockquote>
                 </div>

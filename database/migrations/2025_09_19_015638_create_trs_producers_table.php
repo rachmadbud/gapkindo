@@ -1057,7 +1057,7 @@ return new class extends Migration
             // Java group
             [
                 'id' => 104,
-                'prov' => 'South-Central-East Kalimantan',
+                'prov' => 'Jawa',
                 'company' => 'BITUNG GUNASEJAHTERA, PT',
                 'tsr_product' => 'SIR (10, 20)',
                 'product_code' => 'DAN',
@@ -1067,7 +1067,7 @@ return new class extends Migration
             ],
             [
                 'id' => 105,
-                'prov' => 'South-Central-East Kalimantan',
+                'prov' => 'Jawa',
                 'company' => 'INDO JAVA RUBBER PLANTING Co, PT',
                 'tsr_product' => 'SIR (3L, 5, 10, 20)',
                 'product_code' => 'DAO',
@@ -1077,7 +1077,7 @@ return new class extends Migration
             ],
             [
                 'id' => 106,
-                'prov' => 'South-Central-East Kalimantan',
+                'prov' => 'Jawa',
                 'company' => 'JADI JAYA MAKMUR, CV',
                 'tsr_product' => 'SIR 20',
                 'product_code' => 'DAU',
@@ -1087,7 +1087,7 @@ return new class extends Migration
             ],
             [
                 'id' => 107,
-                'prov' => 'South-Central-East Kalimantan',
+                'prov' => 'Jawa',
                 'company' => 'KALIDUREN ESTATES, PT',
                 'tsr_product' => 'SIR (10, 20)',
                 'product_code' => 'DAR',

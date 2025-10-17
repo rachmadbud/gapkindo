@@ -6,7 +6,6 @@
         <div class="container">
             <div class="row">
                 <div class="page-head-content">
-                    <h1 class="page-title">{{ $dataNews->title }} </h1>
                 </div>
             </div>
         </div>
@@ -47,7 +46,7 @@
                         <!-- .property-meta -->
 
                         <div class="section">
-                            <h4 class="s-property-title">{{ __('global.deskripsi') }}</h4>
+                            <h4 class="s-property-title">{{ $dataNews->title }}</h4>
                             <div class="s-property-content">
                                 <p class="text-black text-justify">{{ $dataNews->content }}</p>
                             </div>
@@ -62,7 +61,7 @@
                                 <li>
                                     <span class="col-xs-6 col-sm-4 col-md-4 add-d-title">{{ __('global.tanggal') }}</span>
                                     <span
-                                        class="col-xs-6 col-sm-8 col-md-8 add-d-entry">{{ date('d-m', strtotime($dataNews->created_at)) }}</span>
+                                        class="col-xs-6 col-sm-8 col-md-8 add-d-entry">{{ date('d-m-y', strtotime($dataNews->created_at)) }}</span>
                                 </li>
                                 <li>
                                     <span class="col-xs-6 col-sm-4 col-md-4 add-d-title">{{ __('global.sumber') }}</span>

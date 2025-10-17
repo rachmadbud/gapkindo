@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Str;
 
 class AnggotaController extends Controller
 {
@@ -28,32 +29,193 @@ class AnggotaController extends Controller
         return view('guest.anggota');
     }
 
-    public function estate()
+    public function estate(Request $request)
     {
-        return $dataEstate = $this->modelEstate->getData();
+        $locale = app()->getLocale();
+        $dataEstate = $this->modelEstate->getData();
+
+        return response()->json([
+            'current_page' => $dataEstate->currentPage(),
+            'last_page' => $dataEstate->lastPage(),
+            'per_page' => $dataEstate->perPage(),
+            'data' => $dataEstate->map(function ($item) use ($locale) {
+
+                // Ambil provinsi mentah
+                $provKey = $item->prov;
+
+                // Coba terjemahkan dari global.php -> province
+                $translated = trans('global.province.' . $provKey, [], $locale);
+
+                // Kalau tidak ada translasi, pakai aslinya
+                if ($translated === 'global.province.' . $provKey) {
+                    $translated = $provKey;
+                }
+
+                return [
+                    'id' => $item->id,
+                    'prov' => $translated,
+                    'company' => $item->company,
+                    'email' => $item->email,
+                ];
+            }),
+        ]);
     }
     public function centrifuged()
     {
-        return $dataCentrifuged = $this->modelCentrifuged->getData();
+        $locale = app()->getLocale();
+
+        $dataCentrifuged = $this->modelCentrifuged->getData();
+        return response()->json([
+            'current_page' => $dataCentrifuged->currentPage(),
+            'last_page' => $dataCentrifuged->lastPage(),
+            'per_page' => $dataCentrifuged->perPage(),
+            'data' => $dataCentrifuged->map(function ($item) use ($locale) {
+
+                // Ambil provinsi mentah
+                $provKey = $item->prov;
+
+                // Coba terjemahkan dari global.php -> province
+                $translated = trans('global.province.' . $provKey, [], $locale);
+
+                // Kalau tidak ada translasi, pakai aslinya
+                if ($translated === 'global.province.' . $provKey) {
+                    $translated = $provKey;
+                }
+
+                return [
+                    'id' => $item->id,
+                    'prov' => $translated,
+                    'company' => $item->company,
+                    'email' => $item->email,
+                ];
+            }),
+        ]);
     }
 
     public function rssProducers()
     {
-        return $dataRss = $this->modelRss->getData();
+        $locale = app()->getLocale();
+
+        $dataRss = $this->modelRss->getData();
+        return response()->json([
+            'current_page' => $dataRss->currentPage(),
+            'last_page' => $dataRss->lastPage(),
+            'per_page' => $dataRss->perPage(),
+            'data' => $dataRss->map(function ($item) use ($locale) {
+
+                // Ambil provinsi mentah
+                $provKey = $item->prov;
+
+                // Coba terjemahkan dari global.php -> province
+                $translated = trans('global.province.' . $provKey, [], $locale);
+
+                // Kalau tidak ada translasi, pakai aslinya
+                if ($translated === 'global.province.' . $provKey) {
+                    $translated = $provKey;
+                }
+
+                return [
+                    'id' => $item->id,
+                    'prov' => $translated,
+                    'company' => $item->company,
+                    'email' => $item->email,
+                ];
+            }),
+        ]);
     }
 
     public function tsrProducers()
     {
-        return $dataTsrProducers = $this->modelTsrProducers->getData();
+        $locale = app()->getLocale();
+
+        $dataTsrProducers = $this->modelTsrProducers->getData();
+        return response()->json([
+            'current_page' => $dataTsrProducers->currentPage(),
+            'last_page' => $dataTsrProducers->lastPage(),
+            'per_page' => $dataTsrProducers->perPage(),
+            'data' => $dataTsrProducers->map(function ($item) use ($locale) {
+
+                // Ambil provinsi mentah
+                $provKey = $item->prov;
+
+                // Coba terjemahkan dari global.php -> province
+                $translated = trans('global.province.' . $provKey, [], $locale);
+
+                // Kalau tidak ada translasi, pakai aslinya
+                if ($translated === 'global.province.' . $provKey) {
+                    $translated = $provKey;
+                }
+
+                return [
+                    'id' => $item->id,
+                    'prov' => $translated,
+                    'company' => $item->company,
+                    'email' => $item->email,
+                ];
+            }),
+        ]);
     }
 
     public function brownCrapeProducer()
     {
-        return $dataBrownCrapeProducer = $this->modelBrownCrapeProducer->getData();
+        $locale = app()->getLocale();
+        $dataBrownCrapeProducer = $this->modelBrownCrapeProducer->getData();
+        return response()->json([
+            'current_page' => $dataBrownCrapeProducer->currentPage(),
+            'last_page' => $dataBrownCrapeProducer->lastPage(),
+            'per_page' => $dataBrownCrapeProducer->perPage(),
+            'data' => $dataBrownCrapeProducer->map(function ($item) use ($locale) {
+
+                // Ambil provinsi mentah
+                $provKey = $item->prov;
+
+                // Coba terjemahkan dari global.php -> province
+                $translated = trans('global.province.' . $provKey, [], $locale);
+
+                // Kalau tidak ada translasi, pakai aslinya
+                if ($translated === 'global.province.' . $provKey) {
+                    $translated = $provKey;
+                }
+
+                return [
+                    'id' => $item->id,
+                    'prov' => $translated,
+                    'company' => $item->company,
+                    'email' => $item->email,
+                ];
+            }),
+        ]);
     }
 
     public function traders()
     {
-        return $dataTraders = $this->modelTraders->getData();
+        $locale = app()->getLocale();
+
+        $dataTraders = $this->modelTraders->getData();
+        return response()->json([
+            'current_page' => $dataTraders->currentPage(),
+            'last_page' => $dataTraders->lastPage(),
+            'per_page' => $dataTraders->perPage(),
+            'data' => $dataTraders->map(function ($item) use ($locale) {
+
+                // Ambil provinsi mentah
+                $provKey = $item->prov;
+
+                // Coba terjemahkan dari global.php -> province
+                $translated = trans('global.province.' . $provKey, [], $locale);
+
+                // Kalau tidak ada translasi, pakai aslinya
+                if ($translated === 'global.province.' . $provKey) {
+                    $translated = $provKey;
+                }
+
+                return [
+                    'id' => $item->id,
+                    'prov' => $translated,
+                    'company' => $item->company,
+                    'email' => $item->email,
+                ];
+            }),
+        ]);
     }
 }

@@ -14,7 +14,6 @@ class Centrifuged extends Model
 
     public function getData()
     {
-        $dataCentrifuged = DB::table('centrifuged_latex_producers')->paginate(10); // 10 data per halaman
-        return response()->json($dataCentrifuged);
+        return DB::table('centrifuged_latex_producers')->paginate(10); // 10 data per 
     }
 }

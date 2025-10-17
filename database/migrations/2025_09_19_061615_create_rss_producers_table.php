@@ -23,7 +23,7 @@ return new class extends Migration
 
         DB::table('rss_producers')->insert([
             [
-                'prov' => 'NORTH SUMATRA',
+                'prov' => 'North Sumatra',
                 'company' => 'LONDON SUMATRA INDONESIA Tbk, PP PT',
                 'rss_product' => 'RSS 1',
                 'email' => '(62-61) 4532300',
@@ -31,7 +31,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'prov' => 'NORTH SUMATRA',
+                'prov' => 'North Sumatra',
                 'company' => 'PERKEBUNAN NUSANTARA IV REGIONAL 1, PT',
                 'rss_product' => 'RSS (1, 2, 3)',
                 'email' => 'pengolahan@ptpn3.com',
@@ -39,7 +39,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'prov' => 'SOUTH SUMATRA',
+                'prov' => 'South Sumatra',
                 'company' => 'PINAGO UTAMA Tbk, PT',
                 'rss_product' => 'RSS 1',
                 'email' => 'hasan.tantri@gmail.com, ratna.sari@pinagoutama.com, helen.riana@pinagoutama.com',
@@ -55,7 +55,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'prov' => 'SOUTH-CENTRAL-EAST KALIMANTAN',
+                'prov' => 'South-Central-East Kalimantan',
                 'company' => 'BRIDGESTONE KALIMANTAN PLANTATIONS, PT',
                 'rss_product' => 'RSS (1 & 4)',
                 'email' => 't.sakoda@bskp.co.id',
@@ -63,7 +63,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'prov' => 'JAVA BRANCH',
+                'prov' => 'Jawa',
                 'company' => 'PERKEBUNAN NUSANTARA I REGIONAL 2, PT',
                 'rss_product' => 'RSS (1, 2, 3)',
                 'email' => 'pemasarannt8@gmail.com',
@@ -71,7 +71,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'prov' => 'JAVA BRANCH',
+                'prov' => 'Jawa',
                 'company' => 'PERKEBUNAN NUSANTARA I REGIONAL 3, PT',
                 'rss_product' => 'RSS (1, 2, & 4)',
                 'email' => 'skrh_reg3@ptpn1.co.id; pemasaran@ptpn09.com',
@@ -79,7 +79,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'prov' => 'JAVA BRANCH',
+                'prov' => 'Jawa',
                 'company' => 'PERKEBENUN NUSANTARA I REGIONAL 5, PT',
                 'rss_product' => 'RSS',
                 'email' => 'skrh_reg5@ptpn1.co.id; map_reg5@ptpn1.co.id',

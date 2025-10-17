@@ -1,19 +1,24 @@
 <?php
 
+use App\Http\Controllers\AnggotaController;
 use Illuminate\Routing\RouteGroup;
 use Illuminate\Support\Facades\App;
+use Illuminate\Support\Facades\Redirect;
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Session;
 
 
 Route::get('/', 'GuestController@index')->name('guest.index');
 
-Route::get('/lang/{locale}', function (string $locale) {
-  if (! in_array($locale, ['en', 'id'])) {
+
+Route::get('/change-language/{locale}', function ($locale) {
+  if (!in_array($locale, ['en', 'id'])) {
     abort(400);
   }
 
   App::setLocale($locale);
-  return redirect('/')->withCookie(cookie()->forever('locale', $locale));
+  Cookie::queue('locale', $locale, 525600); // simpan 1 tahun
+  return Redirect::back();
 })->name('langSwitch');
 // Route::get('/', function () {
 //   return view('guest.layouts.master');
@@ -75,6 +80,7 @@ Route::get('/regulasi', 'GuestController@regulasi')->name('regulasi');
 Route::get('/sejarah', function () {
   return view('guest.sejarah');
 })->name('sejarah');
+
 
 Auth::routes();
 

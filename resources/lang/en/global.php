@@ -37,6 +37,8 @@ return [
   'daftar' => 'List',
   'anggota' => 'Member',
   'cabang' => 'Branch',
+  'perusahaan' => 'Company',
+  'email' => 'Email',
 
   'HAVEQUESTIONS?CALL' => 'HAVE QUESTIONS? CALL',
 
@@ -140,4 +142,28 @@ return [
   'sekretCabangKalimantanBarat' => 'GAPKINDO Secretariat For West Kalimantan Branch',
   'sekretCabangKalSelTengTim' => 'GAPKINDO Secretariat For South-Central-East Kalimantan Branch',
   'sekretCabangJawa' => 'GAPKINDO Secretariat For Java Branch',
+
+  /*
+  |--------------------------------------------------------------------------
+  | Anggota
+  |--------------------------------------------------------------------------
+  |
+  */
+  'province' => [
+    'North Sumatra' => 'North Sumatra',
+    'Bengkulu' => 'Bengkulu',
+    'Lampung' => 'Lampung',
+    'South-Central-East Kalimantan' => 'South, Central, East Kalimantan',
+    'Jawa' => 'Java',
+    'West Kalimantan' => 'West Kalimantan',
+  ],
+
+  'estate' => 'Estate',
+  'Centrifuged Latex Producers' => 'Centrifuged Latex Producers',
+  'rss producers' => 'RSS Producers',
+  'tsr' => 'TSR Producers',
+  'brown' => 'Brown Crepe Producers',
+  'traders' => 'Traders/Brokers/Buyers Representatives',
+
+
 ];

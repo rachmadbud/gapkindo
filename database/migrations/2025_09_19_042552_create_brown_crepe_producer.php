@@ -23,7 +23,7 @@ return new class extends Migration
 
         DB::table('brown_crepe_producer')->insert([
             [
-                'prov' => 'Java',
+                'prov' => 'Jawa',
                 'company' => 'NASIONAL BHIRAWA TAMA, PT',
                 'email' => 'ptnslbt@yahoo.co.id',
                 'created_at' => now(),

@@ -14,7 +14,6 @@ class Traders extends Model
 
     public function getData()
     {
-        $dataTraders = DB::table('traders')->paginate(10); // 10 data per halaman
-        return response()->json($dataTraders);
+        return $dataTraders = DB::table('traders')->paginate(10);
     }
 }

@@ -134,18 +134,23 @@
 
             <li class="wow fadeInDown" data-wow-delay="0.5s"><a href="{{ route('kontak') }}"
                     style="font-size: 22px">{{ __('global.kontak') }}</a></li>
-            <li class="dropdown ymm-sw " data-wow-delay="0.1s">
-                <a href="index.html" style="font-size: 22px" class="dropdown-toggle " data-toggle="dropdown"
-                    data-hover="dropdown" data-delay="200">{{ trans('global.lang') }}<b class="caret"></b></a>
+            <li class="dropdown ymm-sw" data-wow-delay="0.1s">
+                <a href="#" style="font-size: 22px" class="dropdown-toggle" data-toggle="dropdown"
+                    data-hover="dropdown" data-delay="200">
+                    {{ __('global.lang') }} <b class="caret"></b>
+                </a>
                 <ul class="dropdown-menu navbar-nav">
                     @foreach (['en' => 'English', 'id' => 'Indonesia'] as $lang => $language)
                         <li>
-                            <a href="{{ route('langSwitch', $lang) }}">{{ $language }}</a>
+                            <a href="{{ route('langSwitch', $lang) }}"
+                                class="{{ app()->getLocale() === $lang ? 'active' : '' }}">
+                                {{ $language }}
+                            </a>
                         </li>
                     @endforeach
                 </ul>
             </li>
-            </ul>
+
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
 </nav>

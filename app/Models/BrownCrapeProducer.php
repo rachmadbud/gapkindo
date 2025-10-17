@@ -14,7 +14,6 @@ class BrownCrapeProducer extends Model
 
     public function getData()
     {
-        $dataBrownCrapeProducers = DB::table('brown_crepe_producer')->paginate(10); // 10 data per halaman
-        return response()->json($dataBrownCrapeProducers);
+        return $dataBrownCrapeProducers = DB::table('brown_crepe_producer')->paginate(10);
     }
 }

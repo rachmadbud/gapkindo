@@ -90,6 +90,7 @@
                     <div class="single-footer">
                         <h3>{{ __('global.gapkindoSekretariat') }}</h3>
                         <div class="footer-title-line"></div>
+                        {{-- FFA600 --}}
                         <ul class="footer-menu">
                             <li>
                                 <p class="name">Erwin Tunas</p>

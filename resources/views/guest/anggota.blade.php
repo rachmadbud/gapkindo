@@ -83,7 +83,7 @@
         }
 
         /* SUPAYA SELURUH BARIS BERUBAH WARNA PENUH saat hover:
-                                                                                                                                                                                                                                                                                                                                                                                                 apply background color ke setiap <td> pada tr:hover */
+                                                                                                                                                                                                                                                                                                                                                                                                                             apply background color ke setiap <td> pada tr:hover */
         tbody tr:hover td,
         tbody tr:focus td {
             background-color: var(--hover-color);
@@ -155,13 +155,15 @@
                             {{-- TAB --}}
                             <!-- Menu Tabs -->
                             <div class="tab-buttons">
-                                <button class="tab-btn active text-black" data-target="tab1">ESTATE</button>
-                                <button class="tab-btn text-black" data-target="tab2">CENTRIFUGED LATEX PRODUCERS</button>
-                                <button class="tab-btn text-black" data-target="tab3">RSS PRODUCERS</button>
-                                <button class="tab-btn text-black" data-target="tab4">TSR PRODUCERS</button>
-                                <button class="tab-btn text-black" data-target="tab5">BROWN CREPE PRODUCER</button>
-                                <button class="tab-btn text-black" data-target="tab6">TRADERS /BROKER/BUYER
-                                    REPRESENTATIVES</button>
+                                <button class="tab-btn active text-black"
+                                    data-target="tab1">{{ __('global.estate') }}</button>
+                                <button class="tab-btn text-black"
+                                    data-target="tab2">{{ __('global.Centrifuged Latex Producers') }}</button>
+                                <button class="tab-btn text-black"
+                                    data-target="tab3">{{ __('global.rss producers') }}</button>
+                                <button class="tab-btn text-black" data-target="tab4">{{ __('global.tsr') }}</button>
+                                <button class="tab-btn text-black" data-target="tab5">{{ __('global.brown') }}</button>
+                                <button class="tab-btn text-black" data-target="tab6">{{ __('global.traders') }}</button>
                             </div>
 
                             <div id="tab1" class="tab-content active">
@@ -169,9 +171,9 @@
                                     <thead>
                                         <tr>
                                             <th>No</th>
-                                            <th>Branch</th>
-                                            <th>Company</th>
-                                            <th>Email</th>
+                                            <th>{{ __('global.cabang') }}</th>
+                                            <th>{{ __('global.perusahaan') }}</th>
+                                            <th>{{ __('global.email') }}</th>
                                         </tr>
                                     </thead>
                                     <tbody id="table-body-dataEstate">
