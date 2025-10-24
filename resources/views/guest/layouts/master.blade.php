@@ -24,22 +24,28 @@
                         <img src="{{ asset('guest/assets/img/logo-gapkindo.jpg') }}" alt="" class="wow pulse"
                             data-wow-delay="1s">
                         <p>{{ __('global.footerP') }}</p>
-                        <ul class="footer-adress">
+                        <ul class="footer-address">
                             <li>
-                                <p> <i class="pe-7s-map-marker strong" style="color: #ecf39e !important;"></i>Jl. Cideng
-                                    Barat No.62-A,
-                                    RT.14/RW.2,
-                                    Cideng, Kecamatan Gambir, Kota Jakarta Pusat, DKI Jakarta 10150</p>
+                                <div class="address-item">
+                                    <img src="{{ asset('guest/assets/img/placeholder.png') }}" alt="maps">
+                                    <p>Jl. Cideng Barat No.62-A, RT.14/RW.2, Cideng, Kecamatan Gambir, Kota Jakarta
+                                        Pusat, DKI Jakarta 10150</p>
+                                </div>
                             </li>
                             <li>
-                                <p><i class="pe-7s-mail strong" style="color: #ecf39e !important;"> </i>
-                                    gapkindo.pusat@gmail.com</p>
+                                <div class="address-item">
+                                    <img src="{{ asset('guest/assets/img/email.png') }}" alt="email">
+                                    <p>gapkindo.pusat@gmail.com</p>
+                                </div>
                             </li>
                             <li>
-                                <p><i class="pe-7s-call strong" style="color: #ecf39e !important;"> </i> (62-21)
-                                    3501510, 3501511, 3846813</p>
+                                <div class="address-item">
+                                    <img src="{{ asset('guest/assets/img/phone.png') }}" alt="phone">
+                                    <p>(62-21) 3501510, 3501511, 3846813</p>
+                                </div>
                             </li>
                         </ul>
+
                     </div>
                 </div>
                 <div class="col-md-2 col-sm-6 wow fadeInRight animated">
