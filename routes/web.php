@@ -81,6 +81,10 @@ Route::get('/sejarah', function () {
   return view('guest.sejarah');
 })->name('sejarah');
 
+Route::get('/excel', function () {
+  return view('guest.excel');
+})->name('');
+
 
 Auth::routes();
 
