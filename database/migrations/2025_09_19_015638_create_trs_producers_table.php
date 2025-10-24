@@ -34,7 +34,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 2,
+                'id' => 3,
                 'prov' => 'North Sumatra',
                 'company' => 'BRIDGESTONE SUMATRA RUBBER ESTATE, PT',
                 'tsr_product' => 'SIR (3WF, SIR LoV, 10, 20)',
@@ -44,7 +44,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 3,
+                'id' => 5,
                 'prov' => 'North Sumatra',
                 'company' => 'DARMASINDO INTI KARET, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -54,7 +54,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 4,
+                'id' => 6,
                 'prov' => 'North Sumatra',
                 'company' => 'KAPUAS BESAR, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -64,7 +64,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 5,
+                'id' => 7,
                 'prov' => 'North Sumatra',
                 'company' => 'KIRANA SAPTA, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -74,7 +74,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 6,
+                'id' => 8,
                 'prov' => 'North Sumatra',
                 'company' => 'LONDON SUMATRA INDONESIA Tbk, PT (Sungai Rumbiya, Palangisang)',
                 'tsr_product' => 'SIR (3C60, 3L, 10, 20)',
