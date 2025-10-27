@@ -26,7 +26,7 @@ return new class extends Migration
                 'prov' => 'North Sumatra',
                 'company' => 'LONDON SUMATRA INDONESIA Tbk, PP PT',
                 'rss_product' => 'RSS 1',
-                'email' => '(62-61) 4532300',
+                'email' => 'https://www.londonsumatra.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],

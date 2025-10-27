@@ -67,7 +67,7 @@ return new class extends Migration
             [
                 'prov' => 'South Sumatra',
                 'company' => 'LONDON SUMATRA INDONESIA, Tbk, PT',
-                'email' => 'http://www.londonsumatra.com',
+                'email' => '(62-711) 351035',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],

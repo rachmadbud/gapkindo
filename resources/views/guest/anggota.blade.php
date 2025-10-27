@@ -14,22 +14,40 @@
 
         .tab-buttons {
             display: flex;
+            flex-wrap: wrap;
+            /* ini yang paling penting buat mobile */
             gap: 10px;
             margin-bottom: 10px;
         }
 
         .tab-buttons button {
-            padding: 8px 16px;
+            padding: 10px 14px;
             border: 1px solid #ccc;
             background: #f5f5f5;
             cursor: pointer;
             font-weight: 600;
-            /* bikin agak tebal */
+            flex: 1 1 auto;
+            /* tombol bisa melar dan menyesuaikan lebar */
+            text-align: center;
+            border-radius: 6px;
         }
 
+        /* biar warna aktif tetap konsisten */
         .tab-buttons button.active {
             background: #008000;
             color: white;
+        }
+
+        /* tambahan untuk layar kecil */
+        @media (max-width: 480px) {
+            .tab-buttons {
+                gap: 6px;
+            }
+
+            .tab-buttons button {
+                font-size: 12px;
+                padding: 8px 10px;
+            }
         }
 
         .tab-content {
@@ -83,7 +101,7 @@
         }
 
         /* SUPAYA SELURUH BARIS BERUBAH WARNA PENUH saat hover:
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                             apply background color ke setiap <td> pada tr:hover */
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 apply background color ke setiap <td> pada tr:hover */
         tbody tr:hover td,
         tbody tr:focus td {
             background-color: var(--hover-color);
@@ -280,29 +298,6 @@
                         </div>
                     </div>
                 </div>
-
-
-                {{-- <div class="blog-asside-right col-md-3">
-
-                    <div class="panel panel-default sidebar-menu wow  fadeInRight animated">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">{{ __('global.Search') }}</h3>
-                        </div>
-                        <div class="panel-body">
-                            <div class="input-group">
-                                <input class="form-control" placeholder="Search" type="text" id="searchInput">
-                                <span class="input-group-btn">
-                                    <button type="submit" class="btn btn-smal">
-                                        <i class="fa fa-search"></i>
-                                    </button>
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="proerty-th">
-
-                </div> --}}
             </div>
         </div>
     </div>

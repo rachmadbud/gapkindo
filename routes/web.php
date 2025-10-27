@@ -5,6 +5,7 @@ use Illuminate\Routing\RouteGroup;
 use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\Redirect;
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\Session;
 
 
@@ -31,6 +32,14 @@ Route::get('/migrate', function () {
   ]);
 
   return 'Migration fresh + seed sudah dijalankan!';
+});
+
+Route::get('/optimize-app', function () {
+  Artisan::call('config:cache');
+  Artisan::call('route:cache');
+  Artisan::call('view:cache');
+
+  return "✅ Artisan optimize commands executed successfully!";
 });
 
 Route::get('/seed-roles', function () {

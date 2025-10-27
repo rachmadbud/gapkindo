@@ -139,7 +139,7 @@ return new class extends Migration
                 'prov' => 'North Sumatra',
                 'company' => 'POTENSI BUMI SAKTI, PT',
                 'tsr_product' => 'SIR 20',
-                'product_code' => null,
+                'product_code' => '',
                 'email' => 'rudi@potensibumisakti.co.id',
                 'created_at' => now(),
                 'updated_at' => now(),
