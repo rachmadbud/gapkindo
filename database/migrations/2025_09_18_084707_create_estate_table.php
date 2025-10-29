@@ -109,7 +109,7 @@ return new class extends Migration
             [
                 'prov' => 'South-Central-East Kalimantan',
                 'company' => 'JOHNLIN AGRO MANDIRI, PT',
-                'email' => '',
+                'email' => 'khairnas0399"gmail.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
@@ -158,7 +158,7 @@ return new class extends Migration
             [
                 'prov' => 'Jawa',
                 'company' => 'PERKEBUNAN NUSANTARA I  REGIONAL 5, PT',
-                'email' => '',
+                'email' => 'skrh_reg@ptpn1.co.id',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
