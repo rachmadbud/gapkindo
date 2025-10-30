@@ -17,7 +17,7 @@ return [
   'KabidProduksi' => 'Ketua Bidang Produksi',
   'bendahara' => 'Bendahara',
   'KeBidPemasaran' => 'Ketua Bidang Pemasaran',
-  'ketua' => 'Ketua',
+  'ketua' => 'Ketua Umum',
   'KabidKeuangan' => 'Ketua Bidang Keuangan',
   'Anggota' => 'Anggota',
   'pengurus' => 'Dewan Pengurus',
