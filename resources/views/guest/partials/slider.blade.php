@@ -23,9 +23,6 @@
             <div class="item"><img src="{{ asset('guest/assets/img/slide1/slideNew/6.jpg') }}" alt="GTA V">
             </div>
 
-            <div class="item"><img src="{{ asset('guest/assets/img/slide1/slideNew/7.jpg') }}" alt="GTA V">
-            </div>
-
             <div class="item"><img src="{{ asset('guest/assets/img/slide1/slideNew/8.jpg') }}" alt="GTA V">
             </div>
 
