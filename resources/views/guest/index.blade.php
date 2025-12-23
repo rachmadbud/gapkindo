@@ -219,7 +219,7 @@
                         <div class="box-two proerty-item ">
                             <div class="item-thumb ">
                                 <a href="{{ route('soon') }}"><img
-                                        src="{{ asset('guest/assets/img/demo/Alex-IMG.png') }}"></a>
+                                        src="{{ asset('guest/assets/img/demo/alex-img.png') }}"></a>
                             </div>
                             <div class="item-entry overflow">
                                 <h5><a href="{{ route('soon') }}">ALEX KURNIAWAN EDY </a></h5>
