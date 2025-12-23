@@ -219,7 +219,7 @@
                         <div class="box-two proerty-item ">
                             <div class="item-thumb ">
                                 <a href="{{ route('soon') }}"><img
-                                        src="{{ asset('guest/assets/img/demo/ALEX-KURNIAWAN -EDY.png') }}"></a>
+                                        src="{{ asset('guest/assets/img/demo/Alex-IMG.png') }}"></a>
                             </div>
                             <div class="item-entry overflow">
                                 <h5><a href="{{ route('soon') }}">ALEX KURNIAWAN EDY </a></h5>
@@ -239,7 +239,7 @@
                             <div class="box-two proerty-item">
                                 <div class="item-thumb">
                                     <a href="{{ route('soon') }}"><img
-                                            src="{{ asset('guest/assets/img/demo/TIMMIE-MELVIN.png') }}"></a>
+                                            src="{{ asset('guest/assets/img/demo/timmie-img.png') }}"></a>
                                 </div>
                                 <div class="item-entry overflow">
                                     <h5><a href="{{ route('soon') }}">TIMMIE MELVIN</a></h5>
@@ -256,7 +256,7 @@
                             <div class="box-two proerty-item">
                                 <div class="item-thumb">
                                     <a href="{{ route('soon') }}"><img
-                                            src="{{ asset('guest/assets/img/demo/VARGO-GUNAWAN.png') }}"></a>
+                                            src="{{ asset('guest/assets/img/demo/vargo-img.png') }}"></a>
                                 </div>
                                 <div class="item-entry overflow">
                                     <h5><a href="{{ route('soon') }}">VARGO GUNAWAN</a></h5>
@@ -273,7 +273,7 @@
                             <div class="box-two proerty-item">
                                 <div class="item-thumb">
                                     <a href="{{ route('soon') }}"><img
-                                            src="{{ asset('guest/assets/img/demo/ERIKSON-GINTING.png') }}"></a>
+                                            src="{{ asset('guest/assets/img/demo/edrikson-img.png') }}"></a>
                                 </div>
                                 <div class="item-entry overflow">
                                     <h5><a href="{{ route('soon') }}">ERIKSON GINTING</a></h5>
@@ -289,7 +289,7 @@
                             <div class="box-two proerty-item">
                                 <div class="item-thumb">
                                     <a href="{{ route('soon') }}"><img
-                                            src="{{ asset('guest/assets/img/demo/WIDYANTOKO-SUMARLIN.png') }}"></a>
+                                            src="{{ asset('guest/assets/img/demo/widiyantoko-img.png') }}"></a>
                                 </div>
                                 <div class="item-entry overflow">
                                     <h5><a href="{{ route('soon') }}">I. WIDYANTOKO SUMARLIN</a></h5>
