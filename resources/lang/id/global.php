@@ -12,6 +12,7 @@ return [
 
   'lang' => 'Bahasa Indonesia',
 
+  'Ketuaaja' => 'Ketua',
   'SekUm' => 'Sekretaris Umum',
   'KabidOrganisasi' => 'Ketua Bidang Organisasi',
   'KabidProduksi' => 'Ketua Bidang Produksi',

@@ -11,6 +11,7 @@ return [
   'badanPengawas' => 'Supervisory Board',
   'badanPengurus' => 'Governing Board',
 
+  'Ketuaaja' => 'Chairman',
   'lang' => 'English Lang',
   'SekUm' => 'Secretary General',
   'KabidOrganisasi' => 'Vice Chairman for Organization',

@@ -131,7 +131,7 @@
                             <div class="item-entry overflow">
                                 <h5><a href="{{ route('soon') }}">MARTINUS S SINARYA </a></h5>
                                 <div class="dot-hr"></div>
-                                <span class="pull-left"><b>{{ trans('global.ketua') }}</b> </span>
+                                <span class="pull-left"><b>{{ trans('global.Ketuaaja') }}</b> </span>
                                 <span class="proerty-price pull-right"></span>
                             </div>
                         </div>
@@ -194,7 +194,7 @@
 
                             </div>
                             <div class="item-entry overflow">
-                                <h5><a href="{{ route('soon') }}">VINCENTIUS OEI</a></h5>
+                                <h5><a href="{{ route('soon') }}">VINCENTIUS OEI KOK SEN</a></h5>
                                 <div class="dot-hr"></div>
                                 <span class="pull-left"><b>{{ trans('global.Anggota') }}</b></span>
                                 <span class="proerty-price pull-right"></span>
