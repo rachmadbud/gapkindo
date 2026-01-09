@@ -303,6 +303,165 @@
                 </div>
             </div>
 
+            <br>
+
+            <div class="row my-4">
+                <div class="proerty-th">
+                    <div class="col-12 col-sm-6 col-md-3">
+                        <div class="box-two proerty-item my-2">
+                            <div class="item-thumb">
+                                <a href="{{ route('soon') }}">
+                                    <img src="{{ asset('guest/assets/img/cabang/ketua/IshakLeono-sumut.png') }}">
+                                </a>
+                            </div>
+                            <div class="item-entry overflow text-center">
+                                <h5><a href="{{ route('soon') }}">ISHAK LEONO</a></h5>
+                                <div class="dot-hr"></div>
+                                <span class=""><b>Sumatera Utara</b></span>
+                                <span class="proerty-price"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="proerty-th">
+                    <div class="col-12 col-sm-6 col-md-3">
+                        <div class="box-two proerty-item my-2">
+                            <div class="item-thumb">
+                                <a href="{{ route('soon') }}">
+                                    <img src="{{ asset('guest/assets/img/cabang/ketua/Gusnar Sunardi - Jambi.png') }}"
+                                        width="50">
+                                </a>
+                            </div>
+                            <div class="item-entry overflow text-center">
+                                <h5><a href="{{ route('soon') }}">Gusnar Sunardi</a></h5>
+                                <div class="dot-hr"></div>
+                                <span class=""><b>Jambi</b></span>
+                                <span class="proerty-price"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="proerty-th">
+                    <div class="col-12 col-sm-6 col-md-3">
+                        <div class="box-two proerty-item my-2">
+                            <div class="item-thumb">
+                                <a href="{{ route('soon') }}">
+                                    <img
+                                        src="{{ asset('guest/assets/img/cabang/ketua/Budiman Sutanto - Bengkulu.png') }}">
+                                </a>
+                            </div>
+                            <div class="item-entry overflow text-center">
+                                <h5><a href="{{ route('soon') }}">Budiman Sutanto</a></h5>
+                                <div class="dot-hr"></div>
+                                <span class=""><b>Bengkulu</b></span>
+                                <span class="proerty-price"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="proerty-th">
+                    <div class="col-12 col-sm-6 col-md-3">
+                        <div class="box-two proerty-item my-2">
+                            <div class="item-thumb">
+                                <a href="{{ route('soon') }}">
+                                    <img src="{{ asset('guest/assets/img/cabang/ketua/Irwan Mualim - Sumsel.png') }}">
+                                </a>
+                            </div>
+                            <div class="item-entry overflow text-center">
+                                <h5><a href="{{ route('soon') }}">Irwan Mualim</a></h5>
+                                <div class="dot-hr"></div>
+                                <span class=""><b>Sumatera Selatan</b></span>
+                                <span class="proerty-price"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <br>
+
+            <div class="row my-4">
+                <div class="proerty-th">
+                    <div class="col-12 col-sm-6 col-md-3">
+                        <div class="box-two proerty-item my-2">
+                            <div class="item-thumb">
+                                <a href="{{ route('soon') }}">
+                                    <img src="{{ asset('guest/assets/img/cabang/ketua/userDefault.png') }}">
+                                </a>
+                            </div>
+                            <div class="item-entry overflow text-center">
+                                <h5><a href="{{ route('soon') }}">Tedi Noviandi</a></h5>
+                                <div class="dot-hr"></div>
+                                <span class=""><b>Lampung</b></span>
+                                <span class="proerty-price"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="proerty-th">
+                    <div class="col-12 col-sm-6 col-md-3">
+                        <div class="box-two proerty-item my-2">
+                            <div class="item-thumb">
+                                <a href="{{ route('soon') }}">
+                                    <img src="{{ asset('guest/assets/img/cabang/ketua/Arif - Kalbar.png') }}"
+                                        width="50">
+                                </a>
+                            </div>
+                            <div class="item-entry overflow text-center">
+                                <h5><a href="{{ route('soon') }}">Arif</a></h5>
+                                <div class="dot-hr"></div>
+                                <span class=""><b>Kalimantan Barat</b></span>
+                                <span class="proerty-price"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="proerty-th">
+                    <div class="col-12 col-sm-6 col-md-3">
+                        <div class="box-two proerty-item my-2">
+                            <div class="item-thumb">
+                                <a href="{{ route('soon') }}">
+                                    <img src="{{ asset('guest/assets/img/cabang/ketua/userDefault.png') }}">
+
+                                </a>
+                            </div>
+                            <div class="item-entry overflow text-center">
+                                <h5><a href="{{ route('soon') }}">Andreas Winata</a></h5>
+                                <div class="dot-hr"></div>
+                                <span class=""><b>Kalimantan Selatan-Tengah-Timur</b></span>
+                                <span class="proerty-price"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="proerty-th">
+                    <div class="col-12 col-sm-6 col-md-3">
+                        <div class="box-two proerty-item my-2">
+                            <div class="item-thumb">
+                                <a href="{{ route('soon') }}">
+                                    <img src="{{ asset('guest/assets/img/cabang/ketua/Anthonya M. Saputera - Jawa') }}">
+                                </a>
+                            </div>
+                            <div class="item-entry overflow text-center">
+                                <h5><a href="{{ route('soon') }}">Anthonya M Saputra</a></h5>
+                                <div class="dot-hr"></div>
+                                <span class=""><b>Jawa </b></span>
+                                <span class="proerty-price"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+
             <div class="row">
                 <div class="col-md-10 col-md-offset-1 col-sm-12 text-center page-title">
                     <!-- /.feature title -->
