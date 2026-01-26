@@ -168,5 +168,6 @@ return [
   'productType' => 'Product Type',
   'producersCode' => 'Producers Code',
 
+  'publikasi' => 'Publications',
 
 ];

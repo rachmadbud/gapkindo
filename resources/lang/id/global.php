@@ -168,4 +168,6 @@ return [
   'productType' => 'Tipe Produk',
   'producersCode' => 'Kode Produsen',
 
+  'publikasi' => 'Publikasi',
+
 ];

@@ -71,6 +71,15 @@
                     </a>
                 </li>
 
+                <li class="nav-item">
+                    <a href="{{ route('admin.publikasi') }}" class="nav-link">
+                        <i class="nav-icon fad fa-newspaper"></i>
+                        <p>
+                            Publikasi
+                        </p>
+                    </a>
+                </li>
+
             </ul>
 
         </nav>

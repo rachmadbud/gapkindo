@@ -25,13 +25,19 @@ Route::get('/change-language/{locale}', function ($locale) {
 //   return view('guest.layouts.master');
 // })->name('guest.index');
 
-Route::get('/migrate', function () {
-  Artisan::call('migrate:fresh', [
-    '--seed' => true,   // tambahkan untuk jalankan seeder
-    '--force' => true,  // supaya bisa dijalankan di production
-  ]);
+// Route::get('/migrate', function () {
+//   Artisan::call('migrate:fresh', [
+//     '--seed' => true,   // tambahkan untuk jalankan seeder
+//     '--force' => true,  // supaya bisa dijalankan di production
+//   ]);
 
-  return 'Migration fresh + seed sudah dijalankan!';
+//   return 'Migration fresh + seed sudah dijalankan!';
+// });
+Route::get('/migrate', function () {
+  abort_unless(app()->environment('local'), 403);
+
+  Artisan::call('migrate', ['--force' => true]);
+  return 'Migration sudah dijalankan!';
 });
 
 Route::get('/optimize-app', function () {
@@ -42,21 +48,21 @@ Route::get('/optimize-app', function () {
   return "✅ Artisan optimize commands executed successfully!";
 });
 
-Route::get('/seed-roles', function () {
-  Artisan::call('db:seed', [
-    '--class' => 'Database\\Seeders\\RolesTableSeeder',
-    '--force' => true,
-  ]);
-  return 'RolesTableSeeder sudah dijalankan!';
-});
+// Route::get('/seed-roles', function () {
+//   Artisan::call('db:seed', [
+//     '--class' => 'Database\\Seeders\\RolesTableSeeder',
+//     '--force' => true,
+//   ]);
+//   return 'RolesTableSeeder sudah dijalankan!';
+// });
 
-Route::get('/seed-admin', function () {
-  Artisan::call('db:seed', [
-    '--class' => 'Database\\Seeders\\AdminUserSeeder',
-    '--force' => true,
-  ]);
-  return 'AdminUserSeeder sudah dijalankan!';
-});
+// Route::get('/seed-admin', function () {
+//   Artisan::call('db:seed', [
+//     '--class' => 'Database\\Seeders\\AdminUserSeeder',
+//     '--force' => true,
+//   ]);
+//   return 'AdminUserSeeder sudah dijalankan!';
+// });
 
 
 Route::get('/comming-soon', function () {
@@ -93,6 +99,8 @@ Route::get('/sejarah', function () {
 Route::get('/excel', function () {
   return view('guest.excel');
 })->name('');
+
+Route::get('/publikasi1', 'PublikasiController@index')->name('publikasi');
 
 
 Auth::routes();

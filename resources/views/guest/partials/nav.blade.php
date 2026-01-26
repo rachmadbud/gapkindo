@@ -47,6 +47,9 @@
                         <li>
                             <a href="{{ route('berita') }}">{{ __('global.news') }}</a>
                         </li>
+                        <li>
+                            <a href="{{ route('publikasi1') }}">{{ __('global.publikasi') }}</a>
+                        </li>
                     </ul>
                 </li>
                 <li class="dropdown yamm-fw" data-wow-delay="0.4s">

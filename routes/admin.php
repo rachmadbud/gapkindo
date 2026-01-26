@@ -19,3 +19,7 @@ Route::get('/detail-galery/{id}', 'Admin\\GaleryController@detail')->name('detai
 Route::post('/detail-galery/{id}', 'Admin\\GaleryController@detailGeleryInsert')->name('detailGeleryInsert');
 // destroy galery detail
 Route::get('/destroyDetail/{id}', 'Admin\\GaleryController@destroyDetail')->name('destroyDetail');
+
+Route::get('publikasi', 'Admin\\PublikasiController@index')->name('publikasi');
+Route::post('publikasi/insert', 'Admin\\PublikasiController@store')->name('publikasiInsert');
+Route::post('destroyPublikasi/{id}', 'Admin\\PublikasiController@destroy')->name('destroyPublikasi');
