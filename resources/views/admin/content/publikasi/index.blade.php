@@ -7,6 +7,15 @@
             {{ session('success') }}
         </div>
     @endif
+    @if ($errors->any())
+        <div class="alert alert-danger">
+            <ul>
+                @foreach ($errors->all() as $error)
+                    <li>{{ $error }}</li>
+                @endforeach
+            </ul>
+        </div>
+    @endif
 
     <!-- Content Header (Page header) -->
     <section class="content-header">
@@ -175,6 +184,11 @@
                                                                     class="form-control @error('judul') is-invalid @enderror"
                                                                     id="judul" placeholder="Judul">
                                                             </div>
+                                                            @error('judul')
+                                                                <div class="invalid-feedback">
+                                                                    {{ $message }}
+                                                                </div>
+                                                            @enderror
                                                         </div>
                                                         <div class="form-group row">
                                                             <label for="inputTitle"
@@ -184,6 +198,7 @@
                                                                     class="form-control @error('lampiran') is-invalid @enderror"
                                                                     id="lampiran" placeholder="Lampiran">
                                                             </div>
+
                                                         </div>
                                                     </div>
                                                 </div>

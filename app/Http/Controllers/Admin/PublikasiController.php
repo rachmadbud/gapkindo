@@ -36,6 +36,8 @@ class PublikasiController extends Controller
 
         $file = $request->file('lampiran');
 
+        // dd(request()->all());
+
         // ambil ekstensi asli
         $extension = $file->getClientOriginalExtension();
 
