@@ -80,11 +80,11 @@
                                                     PERHUBUNGAN</a>
                                             </li>
                                             <li>
-                                                <a href="https://kadin.id/" target="_blank">KADIN INDONESIA</a>
-                                            </li>
-                                            <li>
                                                 <a href="https://www.kemenkeu.go.id/home" target="_blank">KEMENTERIAN
                                                     KEUANGAN</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://kadin.id/" target="_blank">KADIN INDONESIA</a>
                                             </li>
                                         </ul>
                                     </div>
