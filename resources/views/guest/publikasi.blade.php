@@ -38,7 +38,7 @@
                                     </h5>
                                     <div class="dot-hr"></div>
                                     <span class="pull-left"><b><i class="fas fa-calendar-alt"></i>
-                                            {{ $item->created_at }}</b>
+                                            {{ date('d-m-Y', strtotime($item->created_at)) }}</b>
                                     </span>
                                     <span class="proerty-price pull-right">*</span>
                                 </div>
