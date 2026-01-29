@@ -59,8 +59,8 @@
                             <li><a href="https://www.pertanian.go.id/" target="_blank">KEMENTERIAN PERTANIAN</a></li>
                             <li><a href="https://kemenperin.go.id/" target="_blank">KEMENTERIAN PERINDUSTRIAN</a></li>
                             <li><a href="https://dephub.go.id/" target="_blank">KEMENTERIAN PERHUBUNGAN</a></li>
-                            <li><a href="https://kadin.id/" target="_blank">KADIN INDONESIA</a></li>
                             <li><a href="https://www.kemenkeu.go.id/home" target="_blank">KEMENTERIAN KEUANGAN</a></li>
+                            <li><a href="https://kadin.id/" target="_blank">KADIN INDONESIA</a></li>
                         </ul>
                     </div>
                 </div>
