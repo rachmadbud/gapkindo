@@ -390,7 +390,7 @@
                         <div class="box-two proerty-item my-2">
                             <div class="item-thumb">
                                 <a href="{{ route('soon') }}">
-                                    <img src="{{ asset('guest/assets/img/cabang/ketua/userDefault.png') }}">
+                                    <img src="{{ asset('guest/assets/img/demo/tedi1.jpg') }}">
                                 </a>
                             </div>
                             <div class="item-entry overflow text-center">
