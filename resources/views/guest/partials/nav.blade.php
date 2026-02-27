@@ -22,11 +22,11 @@
             </div> --}}
             <ul class="main-nav nav navbar-nav navbar-right">
                 <li class="wow fadeInDown" data-wow-delay="0.1s">
-                    <a href="{{ url('/') }}" style="font-size: 22px">{{ __('global.home') }}</a>
+                    <a href="{{ url('/') }}" style="font-size: 20px">{{ __('global.home') }}</a>
                 </li>
                 <li class="dropdown ymm-sw " data-wow-delay="0.1s">
                     <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
-                        data-delay="200" style="font-size: 22px">{{ __('global.tentangKami') }} <b
+                        data-delay="200" style="font-size: 20px">{{ __('global.tentangKami') }} <b
                             class="caret"></b></a>
                     <ul class="dropdown-menu navbar-nav">
                         <li>
@@ -39,7 +39,7 @@
                 </li>
                 <li class="dropdown ymm-sw " data-wow-delay="0.1s">
                     <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
-                        data-delay="200" style="font-size: 22px">Media <b class="caret"></b></a>
+                        data-delay="200" style="font-size: 20px">Media <b class="caret"></b></a>
                     <ul class="dropdown-menu navbar-nav">
                         <li>
                             <a href="{{ route('galeri') }}">{{ __('global.galeri') }}</a>
@@ -54,7 +54,7 @@
                 </li>
                 <li class="dropdown yamm-fw" data-wow-delay="0.4s">
                     <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
-                        data-delay="200" style="font-size: 22px">{{ __('global.regulasi') }} <b class="caret"></b></a>
+                        data-delay="200" style="font-size: 20px">{{ __('global.regulasi') }} <b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li>
                             <div class="yamm-content">
@@ -126,7 +126,7 @@
 
                 <li class="dropdown ymm-sw " data-wow-delay="0.1s">
                     <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
-                        data-delay="200" style="font-size: 22px">{{ __('global.anggota') }} <b class="caret"></b></a>
+                        data-delay="200" style="font-size: 20px">{{ __('global.anggota') }} <b class="caret"></b></a>
                     <ul class="dropdown-menu navbar-nav">
                         <li>
                             <a href="{{ route('anggota') }}">{{ __('global.anggota') }}</a>
@@ -138,7 +138,7 @@
             <li class="wow fadeInDown" data-wow-delay="0.5s"><a href="{{ route('kontak') }}"
                     style="font-size: 22px">{{ __('global.kontak') }}</a></li>
             <li class="dropdown ymm-sw" data-wow-delay="0.1s">
-                <a href="#" style="font-size: 22px" class="dropdown-toggle" data-toggle="dropdown"
+                <a href="#" style="font-size: 20px" class="dropdown-toggle" data-toggle="dropdown"
                     data-hover="dropdown" data-delay="200">
                     {{ __('global.lang') }} <b class="caret"></b>
                 </a>
