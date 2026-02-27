@@ -1,0 +1,127 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #dcdcdc;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.login-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-box {
+    width: 380px;
+    background: #fff;
+    border-radius: 6px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+}
+
+.login-header {
+    text-align: center;
+    padding: 20px;
+    font-size: 22px;
+    border-bottom: 1px solid #eee;
+}
+
+.login-body {
+    padding: 25px;
+}
+
+.form-group {
+    margin-bottom: 18px;
+}
+
+.form-control {
+    width: 100%;
+    height: 45px;
+    padding: 10px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+.form-control:focus {
+    outline: none;
+    border-color: #1877f2;
+}
+
+/* PASSWORD */
+.password-wrapper {
+    position: relative;
+    width: 100%;
+}
+
+.password-wrapper input {
+    padding-right: 45px; /* ruang icon */
+}
+
+.toggle-password {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 45px;
+    height: 45px; /* samakan dengan tinggi input */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: #777;
+}
+
+.toggle-password:hover {
+    color: #1877f2;
+}
+
+.btn-login {
+    width: 100%;
+    padding: 10px;
+    background: #1877f2;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn-login:hover {
+    background: #0f5fd1;
+}
+
+.text-danger {
+    color: red;
+    font-size: 13px;
+}
+
+.password-wrapper {
+    position: relative;
+    width: 100%;
+}
+
+.password-wrapper input {
+    width: 100%;
+    padding: 10px 45px 10px 12px; /* kanan lebih besar */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.toggle-password {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 45px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: #777;
+}
+
+.toggle-password:hover {
+    color: #1877f2;
+}
