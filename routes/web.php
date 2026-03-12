@@ -100,7 +100,7 @@ Route::get('/excel', function () {
   return view('guest.excel');
 })->name('');
 
-Route::get('/publikasi1', 'PublikasiController@index')->name('publikasi1');
+// Route::get('/publikasi1', 'PublikasiController@index')->name('publikasi1');
 
 
 Auth::routes();
