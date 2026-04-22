@@ -1,26 +1,18 @@
 <?php
 
-use Illuminate\Database\Migrations\Migration;
-use Illuminate\Database\Schema\Blueprint;
-use Illuminate\Support\Facades\DB;
-use Illuminate\Support\Facades\Schema;
+namespace Database\Seeders;
 
-return new class extends Migration
+use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class RssProducerSeeder extends Seeder
 {
     /**
-     * Run the migrations.
+     * Run the database seeds.
      */
-    public function up(): void
+    public function run(): void
     {
-        Schema::create('rss_producers', function (Blueprint $table) {
-            $table->id();
-            $table->string('prov', 100);
-            $table->string('company', 255);
-            $table->string('rss_product', 100)->nullable();
-            $table->string('email')->nullable();
-            $table->timestamps();
-        });
-
         DB::table('rss_producers')->insert([
             [
                 'prov' => 'North Sumatra',
@@ -74,8 +66,7 @@ return new class extends Migration
                 'prov' => 'Jawa',
                 'company' => 'PERKEBUNAN NUSANTARA I REGIONAL 3, PT',
                 'rss_product' => 'RSS (1, 3, & 4)',
-                'email' => 'skrh_reg3@ptpn1.co.id ; pemasaran@ptpn09.com
-',
+                'email' => 'skrh_reg3@ptpn1.co.id ; pemasaran@ptpn09.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
@@ -89,12 +80,4 @@ return new class extends Migration
             ],
         ]);
     }
-
-    /**
-     * Reverse the migrations.
-     */
-    public function down(): void
-    {
-        Schema::dropIfExists('rss_producers');
-    }
-};
+}
