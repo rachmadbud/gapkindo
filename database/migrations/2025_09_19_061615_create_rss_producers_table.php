@@ -73,8 +73,9 @@ return new class extends Migration
             [
                 'prov' => 'Jawa',
                 'company' => 'PERKEBUNAN NUSANTARA I REGIONAL 3, PT',
-                'rss_product' => 'RSS (1, 2, & 4)',
-                'email' => 'skrh_reg3@ptpn1.co.id; pemasaran@ptpn09.com',
+                'rss_product' => 'RSS (1, 3, & 4)',
+                'email' => 'skrh_reg3@ptpn1.co.id ; pemasaran@ptpn09.com
+',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],

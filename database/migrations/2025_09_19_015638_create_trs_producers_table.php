@@ -24,7 +24,7 @@ return new class extends Migration
 
         DB::table('trs_producers')->insert([
             [
-                'id' => 1,
+
                 'prov' => 'North Sumatra',
                 'company' => 'ANUGRAH SIBOLGA LESTARI, PT',
                 'tsr_product' => 'SIR (10, 20, 10 VK60, 20 VK60)',
@@ -34,7 +34,18 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 3,
+
+                'prov' => 'North Sumatra',
+                'company' => 'BAKRIE SUMATERA PLANTATION, PT',
+                'tsr_product' => 'SIR (10, 20, 3L, 3CV, 10 VK, 20 VK)',
+                'product_code' => 'SFU',
+                'email' => 'wind@bakriesumatera.com',
+                'created_at' => now(),
+                'updated_at' => now(),
+            ],
+
+            [
+
                 'prov' => 'North Sumatra',
                 'company' => 'BRIDGESTONE SUMATRA RUBBER ESTATE, PT',
                 'tsr_product' => 'SIR (3WF, SIR LoV, 10, 20)',
@@ -44,7 +55,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 5,
+
                 'prov' => 'North Sumatra',
                 'company' => 'DARMASINDO INTI KARET, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -54,7 +65,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 6,
+
                 'prov' => 'North Sumatra',
                 'company' => 'KAPUAS BESAR, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -64,7 +75,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 7,
+
                 'prov' => 'North Sumatra',
                 'company' => 'KIRANA SAPTA, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -74,7 +85,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 8,
+
                 'prov' => 'North Sumatra',
                 'company' => 'LONDON SUMATRA INDONESIA Tbk, PT (Sungai Rumbiya, Palangisang)',
                 'tsr_product' => 'SIR (3C60, 3L, 10, 20)',
@@ -84,7 +95,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 9,
+
                 'prov' => 'North Sumatra',
                 'company' => 'MADJIN CRUMB RUBBER FACTORY, PT',
                 'tsr_product' => 'SIR 20',
@@ -94,7 +105,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 10,
+
                 'prov' => 'North Sumatra',
                 'company' => 'NUSIRA, PT',
                 'tsr_product' => 'SIR (10, 20, 20VK)',
@@ -104,7 +115,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 11,
+
                 'prov' => 'North Sumatra',
                 'company' => 'PANTJA SURYA, PT',
                 'tsr_product' => 'SIR 20',
@@ -115,17 +126,27 @@ return new class extends Migration
             ],
 
             [
-                'id' => 12,
+
                 'prov' => 'North Sumatra',
                 'company' => 'PERKEBUNAN NUSANTARA IV REGIONAL 1, PT (Gunung Para)',
                 'tsr_product' => 'SIR 20, 10,RSS ',
                 'product_code' => 'SCS',
+                'email' => 'pengolahan@ptpn3.com',
+                'created_at' => now(),
+                'updated_at' => now(),
+            ],
+            [
+
+                'prov' => 'North Sumatra',
+                'company' => 'PERKEBUNAN NUSANTARA IV REGIONAL 3, PT',
+                'tsr_product' => 'SIR 20, 10,RSS ',
+                'product_code' => 'SES',
                 'email' => 'pemasaran.ptpn5@gmail.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
-                'id' => 14,
+
                 'prov' => 'North Sumatra',
                 'company' => 'POLYKENCANA RAYA, PT',
                 'tsr_product' => 'SIR (10, 10CV, 20, 20CV)',
@@ -135,7 +156,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 15,
+
                 'prov' => 'North Sumatra',
                 'company' => 'POTENSI BUMI SAKTI, PT',
                 'tsr_product' => 'SIR 20',
@@ -145,29 +166,49 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 16,
+
+                'prov' => 'North Sumatra',
+                'company' => 'PT Prima Indo Rubber',
+                'tsr_product' => 'SIR 20',
+                'product_code' => 'SHX',
+                'email' => 'primaindorubber.pt@gmail.com',
+                'created_at' => now(),
+                'updated_at' => now(),
+            ],
+            [
+
+                'prov' => 'North Sumatra',
+                'company' => 'PRIMA INDO RUBBER, PT',
+                'tsr_product' => 'SIR 20',
+                'product_code' => 'SHX',
+                'email' => 'primaindorubber.pt@gmail.com',
+                'created_at' => now(),
+                'updated_at' => now(),
+            ],
+            [
+
                 'prov' => 'North Sumatra',
                 'company' => 'RUBBER HOCK LIE-RANTAU PRAPAT, PT',
                 'tsr_product' => 'SIR (10, 20)',
                 'product_code' => 'SCM',
-                'email' => 'hocklie.expordepmt@gmail.com, hockliemdn@gmail.com',
+                'email' => 'hocklie.expordepmt@gmail.com; hockliemdn@gmail.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
-                'id' => 17,
+
                 'prov' => 'North Sumatra',
                 'company' => 'RUBBER HOCK LIE-SUNGGAL, PT',
                 'tsr_product' => 'SIR (10, 20)',
                 'product_code' => 'SDH',
-                'email' => 'hocklie.expordepmt@gmail.com, hockliemdn@gmail.com',
+                'email' => 'hocklie.expordepmt@gmail.com; hockliemdn@gmail.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
-                'id' => 18,
+
                 'prov' => 'North Sumatra',
-                'company' => 'SOCFIN INDONESIA SOCFINDO PT (Tanah Besih, Aek Pemienke)',
+                'company' => 'SOCFIN INDONESIA PT ',
                 'tsr_product' => 'SIR (3CV, 10)',
                 'product_code' => 'SBU-SDM',
                 'email' => 'head_office@socfindo.co.id',
@@ -175,7 +216,17 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 20,
+
+                'prov' => 'North Sumatra',
+                'company' => 'Sri Sumatra Sejahtera, PT',
+                'tsr_product' => 'SIR (3CV, 10)',
+                'product_code' => 'LATEX',
+                'email' => 'srisspt@yahoo.com, srisspt@gmail.com',
+                'created_at' => now(),
+                'updated_at' => now(),
+            ],
+            [
+
                 'prov' => 'North Sumatra',
                 'company' => 'VIRGINIA INDONESIA RUBBER COMPANY, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -185,7 +236,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 21,
+
                 'prov' => 'North Sumatra',
                 'company' => 'WIPOLIMEX RAYA, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -195,7 +246,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 22,
+
                 'prov' => 'North Sumatra',
                 'company' => 'PERKEBUNAN NUSANTARA IV REGIONAL 3, PT',
                 'tsr_product' => 'SIR 20',
@@ -205,7 +256,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 23,
+
                 'prov' => 'North Sumatra',
                 'company' => 'POLY BANGKINANG RAYA, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -215,7 +266,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 24,
+
                 'prov' => 'North Sumatra',
                 'company' => 'PULAU BINTAN DJAYA, PT',
                 'tsr_product' => 'SIR (5, 10, 10VK, 20, 20VK)',
@@ -225,7 +276,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 25,
+
                 'prov' => 'North Sumatra',
                 'company' => 'TIRTA SARI SURYA, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -235,7 +286,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 26,
+
                 'prov' => 'North Sumatra',
                 'company' => 'ABAISIAT RAYA, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -245,7 +296,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 27,
+
                 'prov' => 'North Sumatra',
                 'company' => 'FAMILI RAYA, PT',
                 'tsr_product' => 'SIR 20',
@@ -255,7 +306,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 28,
+
                 'prov' => 'North Sumatra',
                 'company' => 'KILANG LIMA GUNUNG, PT',
                 'tsr_product' => 'SIR 20',
@@ -265,7 +316,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 29,
+
                 'prov' => 'North Sumatra',
                 'company' => 'TELUK LUAS, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -275,17 +326,17 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 30,
+
                 'prov' => 'Jambi',
                 'company' => 'ANEKA BUMI PRATAMA, PT',
                 'tsr_product' => 'SIR (10, 20)',
                 'product_code' => 'SFY',
-                'email' => 'abp.ga@ptabp.co.id ',
+                'email' => 'abp.ga@ptabp.co.id',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
-                'id' => 31,
+
                 'prov' => 'Jambi',
                 'company' => 'ANUGRAH BUNGO LESTARI, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -295,7 +346,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 32,
+
                 'prov' => 'Jambi',
                 'company' => 'DJAMBI WARAS, PT',
                 'tsr_product' => 'SIR (10, 20, 20VK)',
@@ -305,7 +356,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 33,
+
                 'prov' => 'Jambi',
                 'company' => 'DJAMBI WARAS JUJUHAN, PT',
                 'tsr_product' => 'SIR (10, 20, 20VK)',
@@ -315,47 +366,47 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 34,
+
                 'prov' => 'Jambi',
                 'company' => 'HEVEA GE, PT',
                 'tsr_product' => 'SIR (10, 20)',
                 'product_code' => 'SGB',
-                'email' => '(62-21) 6907249',
+                'email' => '-',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
-                'id' => 35,
+
                 'prov' => 'Jambi',
                 'company' => 'HOK TONG, PT',
                 'tsr_product' => 'SIR (10, 20)',
                 'product_code' => 'SCL',
-                'email' => '(62-741) 34090 ',
+                'email' => '-',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
-                'id' => 36,
+
                 'prov' => 'Jambi',
                 'company' => 'KARET BATIN DELAPAN, PT',
                 'tsr_product' => 'SIR (10, 20)',
                 'product_code' => 'SHB',
-                'email' => 'SHB@karetbatin8.com',
+                'email' => 'SHB@karetbatin8.com, admin@karetbatin8.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
-                'id' => 37,
+
                 'prov' => 'Jambi',
                 'company' => 'REMCO RUBBER INDONESIA, PT',
                 'tsr_product' => 'SIR (10, 20)',
                 'product_code' => 'SBG',
-                'email' => '(62-741) 581980, 581981',
+                'email' => '-',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
-                'id' => 38,
+
                 'prov' => 'Jambi',
                 'company' => 'STAR RUBBER, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -365,7 +416,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 39,
+
                 'prov' => 'Bengkulu',
                 'company' => 'BUKIT ANGKASA MAKMUR, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -375,7 +426,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 40,
+
                 'prov' => 'Bengkulu',
                 'company' => 'PAMOR GANDA, PT',
                 'tsr_product' => 'SIR (3CV, 10, 20)',
@@ -385,7 +436,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 41,
+
                 'prov' => 'South Sumatra',
                 'company' => 'ANEKA BUMI PRATAMA, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -395,7 +446,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 42,
+
                 'prov' => 'South Sumatra',
                 'company' => 'ASA RUBBER, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -405,17 +456,17 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 43,
+
                 'prov' => 'South Sumatra',
                 'company' => 'BINTANG AGUNG PERSADA, PT',
                 'tsr_product' => 'SIR (10, 20)',
                 'product_code' => 'SGX',
-                'email' => 'enquiry@bintanggasing.com',
+                'email' => 'info@kiranamegatara.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
-                'id' => 44,
+
                 'prov' => 'South Sumatra',
                 'company' => 'BINTANG GASING PERSADA, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -425,7 +476,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 45,
+
                 'prov' => 'South Sumatra',
                 'company' => 'BUMI BELITI ABADI, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -435,7 +486,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 46,
+
                 'prov' => 'South Sumatra',
                 'company' => 'FAJAR BERSERI, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -445,7 +496,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 47,
+
                 'prov' => 'South Sumatra',
                 'company' => 'GADJAH RUKU, PT',
                 'tsr_product' => 'SIR (5, 10, 20)',
@@ -455,7 +506,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 48,
+
                 'prov' => 'South Sumatra',
                 'company' => 'HEVEA MK I, PT',
                 'tsr_product' => 'SIR (10, 20, 10VK, 20VK)',
@@ -465,7 +516,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 49,
+
                 'prov' => 'South Sumatra',
                 'company' => 'HEVEA MK II, PT',
                 'tsr_product' => 'SIR (10, 20, 10VK, 20VK)',
@@ -475,7 +526,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 50,
+
                 'prov' => 'South Sumatra',
                 'company' => 'HOK TONG I, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -485,7 +536,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 51,
+
                 'prov' => 'South Sumatra',
                 'company' => 'HOKTONG II, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -495,17 +546,17 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 52,
+
                 'prov' => 'South Sumatra',
                 'company' => 'KIRANA MUSI PERSADA, PT',
                 'tsr_product' => 'SIR (10, 20)',
                 'product_code' => 'SFN',
-                'email' => '(62-714) 322690',
+                'email' => 'info@kiranamegatara.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
-                'id' => 53,
+
                 'prov' => 'South Sumatra',
                 'company' => 'KIRANA PERMATA, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -515,17 +566,17 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 54,
+
                 'prov' => 'South Sumatra',
                 'company' => 'KIRANA WINDU, PT',
                 'tsr_product' => 'SIR (10, 20)',
                 'product_code' => 'SFW',
-                'email' => '(62-733) 4100202',
+                'email' => 'info@kiranamegatara.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
-                'id' => 55,
+
                 'prov' => 'South Sumatra',
                 'company' => 'KARINI UTAMA, PT',
                 'tsr_product' => 'SIR 20',
@@ -535,7 +586,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 56,
+
                 'prov' => 'South Sumatra',
                 'company' => 'LINGGA DJAJA, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -545,17 +596,17 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 57,
+
                 'prov' => 'South Sumatra',
                 'company' => 'LONDON SUMATRA INDONESIA Tbk, PP PT',
                 'tsr_product' => 'SIR (3CV, 3L, 10, 20)',
                 'product_code' => 'SGD',
-                'email' => '62-711 351035',
+                'email' => '-',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
-                'id' => 58,
+
                 'prov' => 'South Sumatra',
                 'company' => 'MARDEC MUSI LESTARI, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -565,7 +616,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 59,
+
                 'prov' => 'South Sumatra',
                 'company' => 'PANCASAMUDERA SIMPATI, PT',
                 'tsr_product' => 'SIR 20',
@@ -575,17 +626,17 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 60,
+
                 'prov' => 'South Sumatra',
                 'company' => 'PINAGO UTAMA Tbk, PT',
                 'tsr_product' => 'SIR (5, 10, 20), RSS1',
                 'product_code' => 'SFK',
-                'email' => 'hasan.tantri@gmail.com', //  ratna.sari@pinagoutama.com,helen.riana@pinagoutama.com
+                'email' => 'hasan.tantri@gmail.com, ratna.sari@pinagoutama.com', //  ratna.sari@pinagoutama.com,helen.riana@pinagoutama.com
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
-                'id' => 61,
+
                 'prov' => 'South Sumatra',
                 'company' => 'PRASIDHA ANEKA NIAGA Tbk UNIT I, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -595,7 +646,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 62,
+
                 'prov' => 'South Sumatra',
                 'company' => 'PRASIDHA ANEKA NIAGA Tbk UNIT II, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -605,7 +656,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 63,
+
                 'prov' => 'South Sumatra',
                 'company' => 'REMCO RUBBER INDONESIA, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -615,7 +666,17 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 64,
+
+                'prov' => 'South Sumatra',
+                'company' => 'Sri Trang Lingga Indonesia, PT',
+                'tsr_product' => 'SIR (10, 20)',
+                'product_code' => 'SFZ',
+                'email' => 'www.sritranggroup.com',
+                'created_at' => now(),
+                'updated_at' => now(),
+            ],
+            [
+
                 'prov' => 'South Sumatra',
                 'company' => 'SUNAN RUBBER, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -625,7 +686,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 65,
+
                 'prov' => 'South Sumatra',
                 'company' => 'WARNA AGUNG SELATAN, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -635,7 +696,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 66,
+
                 'prov' => 'Lampung',
                 'company' => 'INDOLATEX JAYA ABADI, PT',
                 'tsr_product' => 'SIR 20',
@@ -645,17 +706,17 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 67,
+
                 'prov' => 'Lampung',
                 'company' => 'KOMERING JAYA PERDANA, PT',
                 'tsr_product' => 'SIR (10, 20)',
                 'product_code' => 'SGH',
-                'email' => 'ptindolatex1@gmail.com',
+                'email' => 'info@kiranamegatara.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
-                'id' => 68,
+
                 'prov' => 'Lampung',
                 'company' => 'MARDEC SIGER WAY KANAN, PT',
                 'tsr_product' => 'SIR 20',
@@ -664,8 +725,9 @@ return new class extends Migration
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
+
             [
-                'id' => 69,
+
                 'prov' => 'Lampung',
                 'company' => 'MENGGALA BERSERI, PT',
                 'tsr_product' => 'SIR 20',
@@ -675,7 +737,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 70,
+
                 'prov' => 'Lampung',
                 'company' => 'PERKEBUNAN NUSANTARA I REGIONAL 7, PT (Pematang Kiwah, Tulung Buyut, Tabenan, Baturaja, Padang Pelawi, Way Berulu',
                 'tsr_product' => '(SIR, 20, 10, 3L, 3WF)',
@@ -685,7 +747,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 77,
+
                 'prov' => 'Lampung',
                 'company' => 'RUBBER JAYA LAMPUNG, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -695,7 +757,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 78,
+
                 'prov' => 'Lampung',
                 'company' => 'WAYKANDIS, PT',
                 'tsr_product' => 'SIR 20',
@@ -705,17 +767,17 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 79,
+
                 'prov' => 'West Kalimantan',
                 'company' => 'BINTANG BORNEO PERSADA, PT',
                 'tsr_product' => 'SIR (10, 20, 10CV, 20CV)',
                 'product_code' => 'KCA',
-                'email' => 'trading-i@southlandglobal.com',
+                'email' => 'trading-i@southlandglobal.com,  merly@bintangborneo.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
-                'id' => 80,
+
                 'prov' => 'West Kalimantan',
                 'company' => 'GMG SENTOSA, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -725,7 +787,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 81,
+
                 'prov' => 'West Kalimantan',
                 'company' => 'HOK TONG, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -735,7 +797,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 82,
+
                 'prov' => 'West Kalimantan',
                 'company' => 'KOTA NIAGA RAYA, PT',
                 'tsr_product' => 'SIR 20',
@@ -745,17 +807,17 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 83,
+
                 'prov' => 'West Kalimantan',
                 'company' => 'NEW KALBAR PROCESSORS, PT',
                 'tsr_product' => 'SIR 20',
                 'product_code' => 'KBC',
-                'email' => '(62-561) 736643; 749326 ',
+                'email' => 'info@kiranamegatara.com',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
-                'id' => 84,
+
                 'prov' => 'West Kalimantan',
                 'company' => 'STAR RUBBER, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -765,7 +827,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 85,
+
                 'prov' => 'West Kalimantan',
                 'company' => 'SUMBER ALAM, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -775,7 +837,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 86,
+
                 'prov' => 'West Kalimantan',
                 'company' => 'SUMBER DJANTIN, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -785,7 +847,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 87,
+
                 'prov' => 'West Kalimantan',
                 'company' => 'SUMBER DJANTIN UNIT SAMBAS, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -795,7 +857,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 88,
+
                 'prov' => 'West Kalimantan',
                 'company' => 'SUMBER DJANTIN UNIT SANGGAU, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -805,7 +867,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 89,
+
                 'prov' => 'South-Central-East Kalimantan',
                 'company' => 'BORNEO MAKMUR LESTARI, PT',
                 'tsr_product' => 'SIR (10, 20, 20 Mixture)',
@@ -815,7 +877,17 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 90,
+
+                'prov' => 'South-Central-East Kalimantan',
+                'company' => 'PT Bumi Asri Pasamman',
+                'tsr_product' => 'SIR (10, 20)',
+                'product_code' => 'KBK',
+                'email' => 'bap_jkt@yahoo.com,  bap_btk@yahoo.co.id',
+                'created_at' => now(),
+                'updated_at' => now(),
+            ],
+            [
+
                 'prov' => 'South-Central-East Kalimantan',
                 'company' => 'BUMI ASRI PASAMAN, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -825,7 +897,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 91,
+
                 'prov' => 'South-Central-East Kalimantan',
                 'company' => 'BUMI BORNEO ABADI, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -835,7 +907,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 92,
+
                 'prov' => 'South-Central-East Kalimantan',
                 'company' => 'BUMI JAYA, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -845,7 +917,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 93,
+
                 'prov' => 'South-Central-East Kalimantan',
                 'company' => 'DARMA KALIMANTAN JAYA, PT',
                 'tsr_product' => 'SIR (10, 20), Compound',
@@ -855,7 +927,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 94,
+
                 'prov' => 'South-Central-East Kalimantan',
                 'company' => 'INSAN BONAFIDE, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -865,7 +937,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 95,
+
                 'prov' => 'South-Central-East Kalimantan',
                 'company' => 'JHONLIN AGRO MANDIRI, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -875,7 +947,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 96,
+
                 'prov' => 'South-Central-East Kalimantan',
                 'company' => 'KAHAYAN BERSERI, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -885,7 +957,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 97,
+
                 'prov' => 'South-Central-East Kalimantan',
                 'company' => 'KARIAS TABING KENCANA, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -895,7 +967,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 98,
+
                 'prov' => 'South-Central-East Kalimantan',
                 'company' => 'KARYA SEJATI, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -905,7 +977,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 99,
+
                 'prov' => 'South-Central-East Kalimantan',
                 'company' => 'KINTAP JAYA WATTINDO, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -915,7 +987,7 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 100,
+
                 'prov' => 'South-Central-East Kalimantan',
                 'company' => 'MULTI KUSUMA CEMERLANG, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -925,7 +997,6 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 101,
                 'prov' => 'South-Central-East Kalimantan',
                 'company' => 'NUSANTARA BATULICIN, PT',
                 'tsr_product' => 'SIR 20',
@@ -935,7 +1006,6 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 102,
                 'prov' => 'South-Central-East Kalimantan',
                 'company' => 'SAMPIT INTERNATIONAL, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -945,7 +1015,6 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 103,
                 'prov' => 'South-Central-East Kalimantan',
                 'company' => 'WILSON LAUTAN KARET, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -956,7 +1025,6 @@ return new class extends Migration
             ],
             // Java group
             [
-                'id' => 104,
                 'prov' => 'Jawa',
                 'company' => 'BITUNG GUNASEJAHTERA, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -966,7 +1034,6 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 105,
                 'prov' => 'Jawa',
                 'company' => 'INDO JAVA RUBBER PLANTING Co, PT',
                 'tsr_product' => 'SIR (3L, 5, 10, 20)',
@@ -976,7 +1043,6 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 106,
                 'prov' => 'Jawa',
                 'company' => 'JADI JAYA MAKMUR, CV',
                 'tsr_product' => 'SIR 20',
@@ -986,7 +1052,6 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 107,
                 'prov' => 'Jawa',
                 'company' => 'KALIDUREN ESTATES, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -996,7 +1061,6 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 108,
                 'prov' => 'Jawa',
                 'company' => 'NUSA ALAM RUBBER, PT',
                 'tsr_product' => 'SIR (10, 20, 10VK, 20VK)',
@@ -1006,7 +1070,6 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 109,
                 'prov' => 'Jawa',
                 'company' => 'PERKEBUNAN NUSANTARA I REREGIONAL 2, PT',
                 'tsr_product' => 'SIR (10)',
@@ -1016,7 +1079,6 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 110,
                 'prov' => 'Jawa',
                 'company' => 'RABERINDO PRATAMA, PT',
                 'tsr_product' => 'SIR (10, 20)',
@@ -1026,7 +1088,6 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 111,
                 'prov' => 'Jawa',
                 'company' => 'SEMESTA JAYA LESTARIE, CV',
                 'tsr_product' => 'SIR (20)',
@@ -1036,7 +1097,6 @@ return new class extends Migration
                 'updated_at' => now(),
             ],
             [
-                'id' => 112,
                 'prov' => 'Jawa',
                 'company' => 'SINAR JAYA, CV',
                 'tsr_product' => 'SIR (10, 20)',
