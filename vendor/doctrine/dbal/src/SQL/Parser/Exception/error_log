@@ -1,0 +1,39 @@
+[18-Dec-2025 22:06:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Parser\Exception" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/SQL/Parser/Exception/RegularExpressionError.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/SQL/Parser/Exception/RegularExpressionError.php on line 13
+[20-Dec-2025 01:13:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Parser\Exception" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/SQL/Parser/Exception/RegularExpressionError.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/SQL/Parser/Exception/RegularExpressionError.php on line 13
+[21-Dec-2025 03:14:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Parser\Exception" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/SQL/Parser/Exception/RegularExpressionError.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/SQL/Parser/Exception/RegularExpressionError.php on line 13
+[02-Jan-2026 15:57:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Parser\Exception" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/SQL/Parser/Exception/RegularExpressionError.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/SQL/Parser/Exception/RegularExpressionError.php on line 13
+[24-Jan-2026 18:29:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Parser\Exception" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/SQL/Parser/Exception/RegularExpressionError.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/SQL/Parser/Exception/RegularExpressionError.php on line 13
+[25-Jan-2026 18:45:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Parser\Exception" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/SQL/Parser/Exception/RegularExpressionError.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/SQL/Parser/Exception/RegularExpressionError.php on line 13
+[01-Feb-2026 13:59:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 13:59:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Parser\Exception" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/SQL/Parser/Exception/RegularExpressionError.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/SQL/Parser/Exception/RegularExpressionError.php on line 13
+[18-Feb-2026 13:36:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 13:36:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Parser\Exception" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/SQL/Parser/Exception/RegularExpressionError.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/SQL/Parser/Exception/RegularExpressionError.php on line 13
+[22-Feb-2026 09:04:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 09:04:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Parser\Exception" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/SQL/Parser/Exception/RegularExpressionError.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/SQL/Parser/Exception/RegularExpressionError.php on line 13

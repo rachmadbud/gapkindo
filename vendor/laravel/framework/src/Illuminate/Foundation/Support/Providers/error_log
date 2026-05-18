@@ -1,0 +1,93 @@
+[18-Dec-2025 23:29:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php on line 9
+[18-Dec-2025 23:29:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php on line 8
+[18-Dec-2025 23:29:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 14
+[19-Dec-2025 19:47:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php on line 8
+[22-Dec-2025 23:05:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 14
+[23-Dec-2025 02:41:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php on line 9
+[25-Dec-2025 05:09:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php on line 8
+[25-Dec-2025 11:41:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php on line 9
+[25-Dec-2025 11:42:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 14
+[27-Dec-2025 16:18:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php on line 9
+[27-Dec-2025 16:28:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 14
+[27-Dec-2025 21:28:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php on line 8
+[03-Feb-2026 12:09:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 12:09:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php on line 9
+[03-Feb-2026 12:09:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 12:09:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 14
+[03-Feb-2026 12:09:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 12:09:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php on line 8
+[03-Feb-2026 16:28:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 16:28:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php on line 9
+[03-Feb-2026 16:28:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 16:28:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 14
+[03-Feb-2026 16:28:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 16:28:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php on line 8
+[13-Feb-2026 03:45:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 03:45:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php on line 9
+[14-Feb-2026 00:32:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 00:32:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php on line 9
+[21-Feb-2026 01:06:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 01:06:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php on line 9

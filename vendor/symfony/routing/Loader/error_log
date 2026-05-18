@@ -1,0 +1,1005 @@
+[31-Oct-2025 05:03:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php on line 30
+[31-Oct-2025 05:07:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php on line 28
+[31-Oct-2025 05:10:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php on line 22
+[31-Oct-2025 05:25:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 14
+[31-Oct-2025 05:28:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\ObjectLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21
+[31-Oct-2025 05:31:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php on line 28
+[31-Oct-2025 05:47:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php on line 30
+[31-Oct-2025 06:03:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php on line 18
+[31-Oct-2025 09:05:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php on line 14
+[31-Oct-2025 13:48:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php on line 25
+[31-Oct-2025 14:17:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\AttributeFileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php on line 24
+[31-Oct-2025 14:22:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php on line 23
+[31-Oct-2025 14:50:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php on line 24
+[31-Oct-2025 15:02:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php on line 14
+[31-Oct-2025 17:51:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php on line 26
+[31-Oct-2025 17:59:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Loader\LoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php on line 54
+[17-Nov-2025 07:23:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php on line 14
+[17-Nov-2025 08:02:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php on line 26
+[17-Nov-2025 08:03:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Loader\LoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php on line 54
+[17-Nov-2025 08:24:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php on line 14
+[17-Nov-2025 08:37:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php on line 25
+[17-Nov-2025 08:51:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php on line 18
+[17-Nov-2025 08:55:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\ObjectLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21
+[06-Dec-2025 20:20:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php on line 26
+[06-Dec-2025 21:18:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php on line 14
+[07-Dec-2025 10:49:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php on line 28
+[07-Dec-2025 10:52:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php on line 28
+[07-Dec-2025 11:03:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php on line 22
+[07-Dec-2025 11:17:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php on line 23
+[07-Dec-2025 11:26:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\ObjectLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21
+[07-Dec-2025 11:51:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php on line 30
+[08-Dec-2025 09:24:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php on line 30
+[08-Dec-2025 09:25:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php on line 28
+[08-Dec-2025 09:28:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php on line 25
+[08-Dec-2025 09:34:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php on line 28
+[08-Dec-2025 09:46:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php on line 23
+[08-Dec-2025 10:11:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php on line 22
+[08-Dec-2025 10:40:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php on line 18
+[08-Dec-2025 11:07:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\ObjectLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21
+[08-Dec-2025 11:52:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php on line 24
+[08-Dec-2025 12:00:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php on line 26
+[08-Dec-2025 12:08:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\AttributeFileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php on line 24
+[08-Dec-2025 12:23:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Loader\LoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php on line 54
+[08-Dec-2025 12:37:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php on line 14
+[08-Dec-2025 12:49:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php on line 14
+[08-Dec-2025 13:02:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 14
+[08-Dec-2025 13:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php on line 14
+[09-Dec-2025 23:56:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\ObjectLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21
+[10-Dec-2025 04:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php on line 14
+[10-Dec-2025 04:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php on line 23
+[10-Dec-2025 05:09:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php on line 26
+[10-Dec-2025 05:16:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 14
+[10-Dec-2025 06:38:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php on line 18
+[10-Dec-2025 06:58:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php on line 14
+[10-Dec-2025 07:16:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\AttributeFileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php on line 24
+[10-Dec-2025 07:56:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php on line 30
+[10-Dec-2025 08:23:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php on line 22
+[10-Dec-2025 08:28:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php on line 25
+[10-Dec-2025 09:10:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php on line 28
+[10-Dec-2025 09:43:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php on line 24
+[10-Dec-2025 12:07:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php on line 28
+[10-Dec-2025 18:58:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Loader\LoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php on line 54
+[10-Dec-2025 20:13:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php on line 24
+[11-Dec-2025 16:18:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php on line 26
+[11-Dec-2025 16:19:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php on line 28
+[11-Dec-2025 16:20:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php on line 30
+[11-Dec-2025 17:49:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php on line 24
+[11-Dec-2025 18:54:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php on line 28
+[11-Dec-2025 20:44:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\ObjectLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21
+[11-Dec-2025 23:49:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php on line 18
+[11-Dec-2025 23:50:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php on line 22
+[12-Dec-2025 02:24:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php on line 25
+[12-Dec-2025 04:04:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Loader\LoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php on line 54
+[12-Dec-2025 04:06:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php on line 23
+[12-Dec-2025 05:50:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php on line 14
+[12-Dec-2025 06:26:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 14
+[12-Dec-2025 09:23:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php on line 14
+[12-Dec-2025 13:59:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\AttributeFileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php on line 24
+[14-Dec-2025 00:38:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php on line 23
+[14-Dec-2025 01:10:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\ObjectLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21
+[14-Dec-2025 01:10:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php on line 18
+[14-Dec-2025 01:37:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php on line 24
+[14-Dec-2025 01:58:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php on line 28
+[14-Dec-2025 01:59:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Loader\LoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php on line 54
+[14-Dec-2025 01:59:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php on line 22
+[14-Dec-2025 01:59:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php on line 28
+[14-Dec-2025 02:20:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php on line 26
+[14-Dec-2025 02:21:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\AttributeFileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php on line 24
+[14-Dec-2025 02:21:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php on line 14
+[14-Dec-2025 02:21:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php on line 14
+[14-Dec-2025 02:42:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php on line 30
+[14-Dec-2025 02:58:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 14
+[14-Dec-2025 03:10:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php on line 25
+[18-Dec-2025 11:11:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php on line 26
+[18-Dec-2025 11:11:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php on line 14
+[18-Dec-2025 11:11:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php on line 18
+[18-Dec-2025 11:12:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php on line 22
+[18-Dec-2025 11:12:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php on line 28
+[18-Dec-2025 11:12:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\AttributeFileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php on line 24
+[18-Dec-2025 11:12:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 14
+[18-Dec-2025 11:12:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php on line 24
+[18-Dec-2025 11:12:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php on line 30
+[18-Dec-2025 11:12:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php on line 23
+[18-Dec-2025 11:13:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\ObjectLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21
+[18-Dec-2025 11:13:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php on line 14
+[18-Dec-2025 11:13:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php on line 25
+[18-Dec-2025 11:13:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Loader\LoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php on line 54
+[18-Dec-2025 11:13:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php on line 28
+[21-Dec-2025 18:59:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php on line 30
+[21-Dec-2025 19:47:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 14
+[21-Dec-2025 19:48:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php on line 22
+[21-Dec-2025 20:34:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php on line 26
+[21-Dec-2025 21:19:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php on line 23
+[21-Dec-2025 21:36:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php on line 18
+[21-Dec-2025 23:27:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php on line 24
+[21-Dec-2025 23:28:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php on line 28
+[22-Dec-2025 00:38:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Loader\LoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php on line 54
+[22-Dec-2025 04:45:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\AttributeFileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php on line 24
+[22-Dec-2025 05:18:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php on line 18
+[22-Dec-2025 05:19:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php on line 28
+[22-Dec-2025 07:24:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php on line 25
+[22-Dec-2025 10:02:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php on line 14
+[22-Dec-2025 11:01:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\ObjectLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21
+[22-Dec-2025 12:22:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php on line 14
+[29-Dec-2025 21:49:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\AttributeFileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php on line 24
+[30-Dec-2025 12:56:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php on line 25
+[05-Jan-2026 12:21:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php on line 23
+[05-Jan-2026 13:41:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\ObjectLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21
+[05-Jan-2026 13:41:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php on line 18
+[05-Jan-2026 14:55:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php on line 24
+[05-Jan-2026 16:53:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php on line 28
+[05-Jan-2026 16:53:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Loader\LoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php on line 54
+[05-Jan-2026 16:53:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php on line 22
+[05-Jan-2026 16:54:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php on line 28
+[05-Jan-2026 18:10:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php on line 26
+[05-Jan-2026 18:11:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\AttributeFileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php on line 24
+[05-Jan-2026 18:11:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php on line 14
+[05-Jan-2026 18:11:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php on line 14
+[05-Jan-2026 19:28:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php on line 30
+[05-Jan-2026 20:23:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 14
+[05-Jan-2026 21:23:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php on line 25
+[13-Jan-2026 17:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php on line 18
+[13-Jan-2026 18:26:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php on line 30
+[13-Jan-2026 21:59:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php on line 25
+[13-Jan-2026 23:18:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Loader\LoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php on line 54
+[14-Jan-2026 00:21:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\ObjectLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21
+[14-Jan-2026 01:45:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php on line 26
+[14-Jan-2026 02:20:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php on line 22
+[14-Jan-2026 04:52:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php on line 14
+[14-Jan-2026 06:01:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php on line 28
+[14-Jan-2026 06:23:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php on line 24
+[14-Jan-2026 11:46:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php on line 28
+[14-Jan-2026 16:40:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 14
+[14-Jan-2026 17:48:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php on line 14
+[15-Jan-2026 02:09:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php on line 23
+[15-Jan-2026 05:26:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php on line 23
+[15-Jan-2026 09:22:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php on line 14
+[15-Jan-2026 10:59:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php on line 22
+[15-Jan-2026 16:41:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 14
+[16-Jan-2026 04:01:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php on line 28
+[16-Jan-2026 10:30:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php on line 30
+[16-Jan-2026 12:50:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php on line 18
+[16-Jan-2026 20:22:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php on line 26
+[16-Jan-2026 23:45:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\AttributeFileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php on line 24
+[17-Jan-2026 00:08:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\AttributeFileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php on line 24
+[17-Jan-2026 06:39:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php on line 24
+[17-Jan-2026 18:14:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\ObjectLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21
+[17-Jan-2026 20:44:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php on line 14
+[18-Jan-2026 01:40:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php on line 25
+[18-Jan-2026 06:24:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php on line 28
+[18-Jan-2026 11:19:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php on line 14
+[18-Jan-2026 15:09:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php on line 14
+[18-Jan-2026 15:10:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php on line 30
+[18-Jan-2026 21:57:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php on line 28
+[18-Jan-2026 22:00:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Loader\LoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php on line 54
+[19-Jan-2026 01:48:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php on line 22
+[19-Jan-2026 04:53:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Loader\LoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php on line 54
+[19-Jan-2026 05:48:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php on line 23
+[19-Jan-2026 07:06:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 14
+[19-Jan-2026 14:43:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php on line 26
+[19-Jan-2026 16:15:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php on line 25
+[20-Jan-2026 11:35:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\AttributeFileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php on line 24
+[20-Jan-2026 13:10:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php on line 24
+[20-Jan-2026 20:28:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php on line 18
+[20-Jan-2026 21:18:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php on line 28
+[21-Jan-2026 06:51:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\ObjectLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21
+[21-Jan-2026 07:37:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php on line 24
+[22-Jan-2026 21:20:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\ObjectLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21
+[23-Jan-2026 01:03:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php on line 28
+[23-Jan-2026 01:05:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Loader\LoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php on line 54
+[23-Jan-2026 01:08:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php on line 22
+[23-Jan-2026 01:10:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php on line 28
+[23-Jan-2026 03:13:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php on line 26
+[23-Jan-2026 03:15:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\AttributeFileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php on line 24
+[23-Jan-2026 03:18:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php on line 14
+[23-Jan-2026 03:20:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php on line 14
+[23-Jan-2026 06:03:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php on line 30
+[23-Jan-2026 17:22:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\AttributeFileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php on line 24
+[25-Jan-2026 11:36:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 14
+[25-Jan-2026 20:55:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Loader\LoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php on line 54
+[28-Jan-2026 01:21:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 01:21:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php on line 18
+[31-Jan-2026 12:25:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 12:25:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php on line 14
+[31-Jan-2026 14:17:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 14:17:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php on line 26
+[31-Jan-2026 14:18:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 14:18:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Loader\LoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php on line 54
+[31-Jan-2026 15:38:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 15:38:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php on line 14
+[31-Jan-2026 15:48:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 15:48:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php on line 25
+[31-Jan-2026 16:54:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 16:54:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\ObjectLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21
+[31-Jan-2026 16:55:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 16:55:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php on line 18
+[31-Jan-2026 17:08:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 17:08:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 14
+[31-Jan-2026 17:32:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 17:32:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\AttributeFileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php on line 24
+[31-Jan-2026 20:15:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 20:15:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php on line 30
+[31-Jan-2026 20:16:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 20:16:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php on line 22
+[01-Feb-2026 00:00:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 00:00:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php on line 23
+[01-Feb-2026 02:47:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 02:47:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php on line 24
+[01-Feb-2026 06:17:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 06:17:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php on line 28
+[01-Feb-2026 06:18:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 06:18:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php on line 28
+[02-Feb-2026 21:57:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 21:57:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 14
+[11-Feb-2026 02:42:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 02:42:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/Psr4DirectoryLoader.php on line 25
+[11-Feb-2026 03:14:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:14:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php on line 14
+[11-Feb-2026 03:17:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:17:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php on line 14
+[11-Feb-2026 03:27:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:27:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php on line 28
+[11-Feb-2026 03:29:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:29:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php on line 18
+[11-Feb-2026 03:34:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:34:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 14
+[11-Feb-2026 06:16:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 06:16:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php on line 30
+[11-Feb-2026 06:40:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 06:40:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Loader\LoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeClassLoader.php on line 54
+[11-Feb-2026 07:19:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 07:19:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ClosureLoader.php on line 24
+[11-Feb-2026 08:08:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 08:08:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php on line 28
+[11-Feb-2026 08:51:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 08:51:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\ObjectLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21
+[11-Feb-2026 10:33:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 10:33:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php on line 22
+[11-Feb-2026 12:57:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 12:57:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php on line 23
+[11-Feb-2026 15:10:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 15:10:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\FileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeFileLoader.php on line 26
+[13-Feb-2026 03:14:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 03:14:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\ObjectLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21
+[13-Feb-2026 03:17:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 03:17:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php on line 23
+[13-Feb-2026 14:02:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 14:02:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 14
+[14-Feb-2026 02:45:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 02:45:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php on line 23
+[14-Feb-2026 09:01:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:01:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Routing\Loader\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 14
+[14-Feb-2026 09:07:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:07:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\ObjectLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21
+[16-Feb-2026 15:07:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:07:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\AttributeFileLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/AttributeDirectoryLoader.php on line 24
+[21-Feb-2026 04:08:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 04:08:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\ObjectLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21
+[21-Feb-2026 12:33:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 12:33:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\Loader\Loader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ObjectLoader.php on line 23
+[22-Feb-2026 01:39:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 01:39:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Loader\ObjectLoader" not found in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21

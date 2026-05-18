@@ -1,0 +1,48 @@
+[18-Dec-2025 23:18:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\Processor\CacheableDelimiterProcessorInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php on line 30
+[19-Dec-2025 23:06:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\Processor\CacheableDelimiterProcessorInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php on line 30
+[25-Dec-2025 07:42:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\Processor\CacheableDelimiterProcessorInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php on line 30
+[05-Jan-2026 15:11:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\Processor\CacheableDelimiterProcessorInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php on line 30
+[06-Jan-2026 07:01:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\Processor\CacheableDelimiterProcessorInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php on line 30
+[19-Jan-2026 20:54:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\Processor\CacheableDelimiterProcessorInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php on line 30
+[25-Jan-2026 19:06:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\Processor\CacheableDelimiterProcessorInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php on line 30
+[03-Feb-2026 07:33:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 07:33:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\Processor\CacheableDelimiterProcessorInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php on line 30
+[03-Feb-2026 11:25:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 11:25:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\Processor\CacheableDelimiterProcessorInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php on line 30
+[05-Feb-2026 09:21:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 09:21:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\Processor\CacheableDelimiterProcessorInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php on line 30
+[22-Feb-2026 07:42:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 07:42:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\Processor\CacheableDelimiterProcessorInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php on line 30

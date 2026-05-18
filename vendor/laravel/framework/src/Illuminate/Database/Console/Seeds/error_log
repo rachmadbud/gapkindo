@@ -1,0 +1,59 @@
+[03-Nov-2025 13:35:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeederMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeederMakeCommand.php on line 10
+[04-Nov-2025 01:42:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php on line 14
+[06-Dec-2025 03:57:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php on line 14
+[06-Dec-2025 19:09:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeederMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeederMakeCommand.php on line 10
+[18-Dec-2025 23:41:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php on line 14
+[18-Dec-2025 23:42:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeederMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeederMakeCommand.php on line 10
+[22-Dec-2025 22:53:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php on line 14
+[22-Dec-2025 23:03:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeederMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeederMakeCommand.php on line 10
+[25-Dec-2025 01:24:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php on line 14
+[25-Dec-2025 07:24:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeederMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeederMakeCommand.php on line 10
+[25-Jan-2026 19:34:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php on line 14
+[25-Jan-2026 21:52:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeederMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeederMakeCommand.php on line 10
+[22-Feb-2026 04:53:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:53:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php on line 14
+[22-Feb-2026 07:01:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 07:01:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeederMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeederMakeCommand.php on line 10
+[22-Feb-2026 09:29:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

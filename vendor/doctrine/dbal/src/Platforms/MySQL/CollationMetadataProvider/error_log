@@ -1,0 +1,88 @@
+[18-Dec-2025 22:05:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Platforms\MySQL\CollationMetadataProvider" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php on line 12
+[18-Dec-2025 22:05:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Platforms\MySQL\CollationMetadataProvider" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/ConnectionCollationMetadataProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/ConnectionCollationMetadataProvider.php on line 12
+[19-Dec-2025 16:25:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Platforms\MySQL\CollationMetadataProvider" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php on line 12
+[20-Dec-2025 10:58:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Platforms\MySQL\CollationMetadataProvider" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/ConnectionCollationMetadataProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/ConnectionCollationMetadataProvider.php on line 12
+[20-Dec-2025 17:37:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Platforms\MySQL\CollationMetadataProvider" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/ConnectionCollationMetadataProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/ConnectionCollationMetadataProvider.php on line 12
+[21-Dec-2025 03:13:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Platforms\MySQL\CollationMetadataProvider" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php on line 12
+[02-Jan-2026 13:38:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Platforms\MySQL\CollationMetadataProvider" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php on line 12
+[02-Jan-2026 13:39:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Platforms\MySQL\CollationMetadataProvider" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/ConnectionCollationMetadataProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/ConnectionCollationMetadataProvider.php on line 12
+[25-Jan-2026 06:38:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Platforms\MySQL\CollationMetadataProvider" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php on line 12
+[25-Jan-2026 10:21:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Platforms\MySQL\CollationMetadataProvider" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/ConnectionCollationMetadataProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/ConnectionCollationMetadataProvider.php on line 12
+[25-Jan-2026 22:56:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Platforms\MySQL\CollationMetadataProvider" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php on line 12
+[26-Jan-2026 05:11:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Platforms\MySQL\CollationMetadataProvider" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/ConnectionCollationMetadataProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/ConnectionCollationMetadataProvider.php on line 12
+[01-Feb-2026 12:23:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 12:23:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Platforms\MySQL\CollationMetadataProvider" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php on line 12
+[01-Feb-2026 12:24:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 12:24:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Platforms\MySQL\CollationMetadataProvider" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/ConnectionCollationMetadataProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/ConnectionCollationMetadataProvider.php on line 12
+[04-Feb-2026 20:10:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 20:10:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Platforms\MySQL\CollationMetadataProvider" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php on line 12
+[04-Feb-2026 20:10:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 20:10:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Platforms\MySQL\CollationMetadataProvider" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/ConnectionCollationMetadataProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/ConnectionCollationMetadataProvider.php on line 12
+[18-Feb-2026 13:02:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 13:02:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Platforms\MySQL\CollationMetadataProvider" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/ConnectionCollationMetadataProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/ConnectionCollationMetadataProvider.php on line 12
+[18-Feb-2026 13:03:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 13:03:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Platforms\MySQL\CollationMetadataProvider" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php on line 12
+[18-Feb-2026 19:42:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 19:42:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Platforms\MySQL\CollationMetadataProvider" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php on line 12
+[22-Feb-2026 02:54:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 02:54:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Platforms\MySQL\CollationMetadataProvider" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/CollationMetadataProvider/CachingCollationMetadataProvider.php on line 12

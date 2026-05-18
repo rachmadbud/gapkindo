@@ -1,0 +1,89 @@
+[01-Nov-2025 05:47:39 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Test\MonologTestCase" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php on line 21
+[01-Nov-2025 22:52:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/MonologTestCase.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/MonologTestCase.php on line 26
+[16-Dec-2025 21:20:22 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Test\MonologTestCase" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php on line 21
+[16-Dec-2025 23:05:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/MonologTestCase.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/MonologTestCase.php on line 26
+[17-Dec-2025 06:56:41 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Test\MonologTestCase" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php on line 21
+[17-Dec-2025 06:57:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/MonologTestCase.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/MonologTestCase.php on line 26
+[18-Dec-2025 04:10:24 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Test\MonologTestCase" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php on line 21
+[18-Dec-2025 05:37:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/MonologTestCase.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/MonologTestCase.php on line 26
+[27-Dec-2025 17:14:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/MonologTestCase.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/MonologTestCase.php on line 26
+[28-Dec-2025 11:16:32 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Test\MonologTestCase" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php on line 21
+[05-Jan-2026 17:14:33 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Test\MonologTestCase" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php on line 21
+[05-Jan-2026 21:41:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/MonologTestCase.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/MonologTestCase.php on line 26
+[06-Jan-2026 20:47:14 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Test\MonologTestCase" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php on line 21
+[08-Jan-2026 08:14:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/MonologTestCase.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/MonologTestCase.php on line 26
+[18-Jan-2026 11:26:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/MonologTestCase.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/MonologTestCase.php on line 26
+[23-Jan-2026 01:53:18 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Test\MonologTestCase" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php on line 21
+[27-Jan-2026 16:20:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 16:20:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/MonologTestCase.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/MonologTestCase.php on line 26
+[28-Jan-2026 19:12:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 19:12:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/MonologTestCase.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/MonologTestCase.php on line 26
+[01-Feb-2026 10:40:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 10:40:21 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Test\MonologTestCase" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php on line 21
+[04-Feb-2026 14:52:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 14:52:15 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Test\MonologTestCase" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php on line 21
+[05-Feb-2026 08:18:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 08:18:46 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Test\MonologTestCase" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Test/TestCase.php on line 21

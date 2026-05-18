@@ -1,0 +1,389 @@
+[29-Nov-2025 05:24:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[29-Nov-2025 05:41:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[29-Nov-2025 05:46:38 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[13-Dec-2025 08:34:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[13-Dec-2025 15:48:28 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[13-Dec-2025 18:52:46 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[14-Dec-2025 17:24:12 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[15-Dec-2025 00:49:47 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[15-Dec-2025 00:50:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[15-Dec-2025 00:50:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[15-Dec-2025 07:10:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[15-Dec-2025 12:59:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[18-Dec-2025 13:19:17 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[18-Dec-2025 13:19:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[18-Dec-2025 13:19:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[25-Dec-2025 04:35:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[25-Dec-2025 11:53:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[25-Dec-2025 12:54:31 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[25-Dec-2025 13:19:40 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[25-Dec-2025 14:56:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[25-Dec-2025 15:40:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[01-Jan-2026 16:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[01-Jan-2026 21:34:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[02-Jan-2026 05:32:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[02-Jan-2026 13:17:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[03-Jan-2026 18:42:38 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[04-Jan-2026 02:48:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[04-Jan-2026 06:39:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[04-Jan-2026 13:27:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[04-Jan-2026 16:30:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[05-Jan-2026 00:29:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[05-Jan-2026 05:50:44 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[05-Jan-2026 13:35:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[05-Jan-2026 17:06:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[06-Jan-2026 00:02:25 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[06-Jan-2026 06:10:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[06-Jan-2026 08:05:46 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[07-Jan-2026 07:42:18 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[07-Jan-2026 10:36:17 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[07-Jan-2026 10:42:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[07-Jan-2026 14:51:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[07-Jan-2026 16:55:26 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[07-Jan-2026 22:32:18 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[08-Jan-2026 06:12:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[08-Jan-2026 13:12:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[09-Jan-2026 01:22:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[09-Jan-2026 07:53:13 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[09-Jan-2026 12:45:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[13-Jan-2026 22:06:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[14-Jan-2026 02:03:20 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[14-Jan-2026 04:05:52 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[14-Jan-2026 06:06:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[14-Jan-2026 07:06:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[14-Jan-2026 09:26:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[17-Jan-2026 16:02:14 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[17-Jan-2026 21:05:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[18-Jan-2026 00:08:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[22-Jan-2026 17:06:58 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[24-Jan-2026 08:44:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[24-Jan-2026 10:56:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[25-Jan-2026 06:42:41 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[26-Jan-2026 17:32:51 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[26-Jan-2026 20:41:18 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[29-Jan-2026 21:05:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 21:05:37 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[30-Jan-2026 00:16:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 00:16:29 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[31-Jan-2026 15:03:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 15:03:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[31-Jan-2026 15:08:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 15:09:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 15:09:41 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[31-Jan-2026 15:15:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 15:15:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[02-Feb-2026 17:21:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:21:21 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[03-Feb-2026 06:59:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 06:59:50 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[03-Feb-2026 07:00:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 07:00:40 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[03-Feb-2026 07:01:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 07:01:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[05-Feb-2026 11:11:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 11:11:16 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[08-Feb-2026 08:29:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 08:29:21 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[08-Feb-2026 11:52:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 11:52:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[08-Feb-2026 20:35:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 20:35:50 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[09-Feb-2026 04:24:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 04:24:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[09-Feb-2026 16:40:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 16:40:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[10-Feb-2026 15:10:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 15:10:35 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[11-Feb-2026 01:27:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 01:27:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[11-Feb-2026 02:14:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 02:14:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[11-Feb-2026 05:11:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 05:11:18 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[11-Feb-2026 07:56:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 07:56:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[11-Feb-2026 10:59:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 11:02:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 11:02:52 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[12-Feb-2026 05:16:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 05:16:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[12-Feb-2026 13:58:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 13:58:31 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[12-Feb-2026 19:00:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 19:00:16 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[13-Feb-2026 07:36:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 07:36:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[14-Feb-2026 09:04:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:04:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[15-Feb-2026 00:54:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 00:54:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18

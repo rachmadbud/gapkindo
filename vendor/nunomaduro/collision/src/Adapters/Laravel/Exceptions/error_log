@@ -1,0 +1,106 @@
+[18-Dec-2025 22:57:10 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[18-Dec-2025 22:57:19 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
+[19-Dec-2025 14:32:46 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[19-Dec-2025 16:57:31 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
+[20-Dec-2025 23:25:13 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[21-Dec-2025 12:37:56 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
+[31-Dec-2025 13:01:30 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
+[31-Dec-2025 13:38:09 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[14-Jan-2026 21:35:12 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[15-Jan-2026 13:28:23 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
+[19-Jan-2026 06:42:32 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
+[19-Jan-2026 17:52:09 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[20-Jan-2026 11:28:03 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[20-Jan-2026 13:12:02 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
+[02-Feb-2026 18:50:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 18:50:14 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[02-Feb-2026 18:51:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 18:51:16 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
+[02-Feb-2026 19:17:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 19:17:38 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[02-Feb-2026 19:18:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 19:18:44 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
+[12-Feb-2026 16:18:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 16:18:43 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[13-Feb-2026 22:41:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 22:41:22 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[15-Feb-2026 14:33:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 14:33:25 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
+[15-Feb-2026 16:17:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 16:17:39 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[22-Feb-2026 00:35:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 00:35:28 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[22-Feb-2026 03:51:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 03:51:33 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14

@@ -1,0 +1,50 @@
+[02-Nov-2025 02:27:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\UploadedFile" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php on line 7
+[18-Dec-2025 21:42:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\UploadedFile" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php on line 7
+[21-Dec-2025 11:02:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\UploadedFile" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php on line 7
+[23-Dec-2025 04:47:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\UploadedFile" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php on line 7
+[27-Jan-2026 13:24:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 13:24:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\UploadedFile" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php on line 7
+[27-Jan-2026 15:41:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:45:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:45:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\UploadedFile" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php on line 7
+[02-Feb-2026 03:14:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 03:22:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:41:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:41:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\UploadedFile" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php on line 7
+[02-Feb-2026 04:48:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:59:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 20:52:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 20:52:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 20:53:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 20:53:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\UploadedFile" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php on line 7
+[21-Feb-2026 23:04:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 03:42:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 03:42:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\UploadedFile" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php on line 7
+[22-Feb-2026 05:46:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

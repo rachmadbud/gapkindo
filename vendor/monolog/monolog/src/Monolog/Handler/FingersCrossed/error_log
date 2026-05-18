@@ -1,0 +1,36 @@
+[01-Nov-2025 22:58:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Handler\FingersCrossed\ActivationStrategyInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ChannelLevelActivationStrategy.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ChannelLevelActivationStrategy.php on line 39
+[20-Dec-2025 19:21:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Handler\FingersCrossed\ActivationStrategyInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php on line 24
+[21-Dec-2025 03:42:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Handler\FingersCrossed\ActivationStrategyInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ChannelLevelActivationStrategy.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ChannelLevelActivationStrategy.php on line 39
+[01-Jan-2026 20:11:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Handler\FingersCrossed\ActivationStrategyInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php on line 24
+[02-Jan-2026 07:30:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Handler\FingersCrossed\ActivationStrategyInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ChannelLevelActivationStrategy.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ChannelLevelActivationStrategy.php on line 39
+[11-Jan-2026 05:41:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Handler\FingersCrossed\ActivationStrategyInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php on line 24
+[14-Jan-2026 03:01:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Handler\FingersCrossed\ActivationStrategyInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ChannelLevelActivationStrategy.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ChannelLevelActivationStrategy.php on line 39
+[14-Jan-2026 12:29:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Handler\FingersCrossed\ActivationStrategyInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php on line 24
+[23-Jan-2026 23:44:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Handler\FingersCrossed\ActivationStrategyInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php on line 24

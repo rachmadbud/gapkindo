@@ -1,0 +1,1866 @@
+[18-Dec-2025 23:03:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php on line 7
+[18-Dec-2025 23:03:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php on line 7
+[18-Dec-2025 23:04:05 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php on line 7
+[18-Dec-2025 23:04:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php on line 8
+[18-Dec-2025 23:04:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php on line 8
+[18-Dec-2025 23:04:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php on line 8
+[18-Dec-2025 23:04:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php on line 7
+[18-Dec-2025 23:04:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php on line 7
+[18-Dec-2025 23:04:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php on line 7
+[18-Dec-2025 23:04:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php on line 8
+[18-Dec-2025 23:04:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php on line 7
+[18-Dec-2025 23:05:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php on line 7
+[18-Dec-2025 23:05:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php on line 7
+[18-Dec-2025 23:05:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Expression.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Expression.php on line 10
+[18-Dec-2025 23:05:21 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php on line 7
+[18-Dec-2025 23:05:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php on line 7
+[18-Dec-2025 23:05:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/DeclareItem.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/DeclareDeclare.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/DeclareItem.php on line 8
+[18-Dec-2025 23:05:41 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/StaticVar.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/StaticVar.php(5): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/StaticVar.php on line 8
+[18-Dec-2025 23:05:49 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php on line 7
+[18-Dec-2025 23:05:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php on line 7
+[18-Dec-2025 23:06:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php on line 7
+[18-Dec-2025 23:06:05 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php on line 7
+[18-Dec-2025 23:06:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php:9
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/UseUse.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php on line 9
+[18-Dec-2025 23:06:18 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php on line 7
+[18-Dec-2025 23:06:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php on line 8
+[18-Dec-2025 23:06:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php on line 7
+[18-Dec-2025 23:06:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php on line 7
+[18-Dec-2025 23:06:45 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php on line 12
+[18-Dec-2025 23:06:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php on line 8
+[18-Dec-2025 23:07:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php on line 8
+[18-Dec-2025 23:07:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php on line 7
+[18-Dec-2025 23:07:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Block.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Block.php on line 7
+[18-Dec-2025 23:07:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php on line 8
+[18-Dec-2025 23:07:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php on line 7
+[18-Dec-2025 23:07:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php on line 8
+[18-Dec-2025 23:07:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php on line 9
+[18-Dec-2025 23:07:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php on line 7
+[18-Dec-2025 23:07:45 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php on line 7
+[18-Dec-2025 23:07:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/PropertyProperty.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php on line 8
+[18-Dec-2025 23:07:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php on line 9
+[18-Dec-2025 23:08:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php on line 7
+[18-Dec-2025 23:08:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/EnumCase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/EnumCase.php on line 8
+[18-Dec-2025 23:08:16 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php on line 8
+[18-Dec-2025 23:08:21 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Enum_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Enum_.php on line 7
+[18-Dec-2025 23:08:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php on line 8
+[18-Dec-2025 23:08:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php on line 7
+[18-Dec-2025 23:08:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php on line 7
+[19-Dec-2025 12:46:49 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php on line 8
+[19-Dec-2025 13:09:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php on line 7
+[19-Dec-2025 14:10:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php on line 7
+[19-Dec-2025 15:44:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php on line 8
+[19-Dec-2025 16:38:38 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php on line 7
+[19-Dec-2025 19:05:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php on line 7
+[19-Dec-2025 19:27:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php on line 7
+[19-Dec-2025 19:39:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php on line 7
+[19-Dec-2025 20:15:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Block.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Block.php on line 7
+[19-Dec-2025 21:09:41 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php on line 7
+[19-Dec-2025 21:26:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php on line 7
+[19-Dec-2025 21:55:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php on line 7
+[19-Dec-2025 22:15:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php on line 7
+[19-Dec-2025 22:19:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php on line 7
+[19-Dec-2025 22:32:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php on line 7
+[19-Dec-2025 22:42:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php on line 8
+[19-Dec-2025 22:45:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php on line 8
+[19-Dec-2025 22:51:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php on line 7
+[19-Dec-2025 23:07:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/PropertyProperty.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php on line 8
+[19-Dec-2025 23:28:18 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/DeclareItem.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/DeclareDeclare.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/DeclareItem.php on line 8
+[20-Dec-2025 00:09:16 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php on line 7
+[20-Dec-2025 00:21:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php on line 7
+[20-Dec-2025 00:39:53 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Enum_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Enum_.php on line 7
+[20-Dec-2025 00:48:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php on line 7
+[20-Dec-2025 00:51:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php on line 7
+[20-Dec-2025 00:55:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php on line 8
+[20-Dec-2025 01:06:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php on line 8
+[20-Dec-2025 01:18:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php on line 7
+[20-Dec-2025 01:44:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php on line 9
+[20-Dec-2025 01:53:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/EnumCase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/EnumCase.php on line 8
+[20-Dec-2025 01:59:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Expression.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Expression.php on line 10
+[20-Dec-2025 02:07:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php on line 12
+[20-Dec-2025 02:32:34 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php on line 7
+[20-Dec-2025 02:46:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php on line 7
+[20-Dec-2025 03:11:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php on line 7
+[20-Dec-2025 03:35:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php on line 8
+[20-Dec-2025 03:59:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php on line 7
+[20-Dec-2025 04:01:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php on line 7
+[20-Dec-2025 04:07:18 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php on line 7
+[20-Dec-2025 04:10:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php on line 8
+[20-Dec-2025 04:42:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php on line 8
+[20-Dec-2025 04:48:18 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php on line 8
+[20-Dec-2025 05:12:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php on line 7
+[20-Dec-2025 06:31:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/StaticVar.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/StaticVar.php(5): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/StaticVar.php on line 8
+[20-Dec-2025 07:18:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php:9
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/UseUse.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php on line 9
+[20-Dec-2025 07:20:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php on line 9
+[20-Dec-2025 07:51:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php on line 8
+[20-Dec-2025 17:10:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Enum_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Enum_.php on line 7
+[20-Dec-2025 17:11:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Expression.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Expression.php on line 10
+[20-Dec-2025 17:11:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php on line 8
+[20-Dec-2025 17:12:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php on line 7
+[20-Dec-2025 17:12:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php on line 7
+[20-Dec-2025 18:30:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php on line 7
+[20-Dec-2025 18:30:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php on line 7
+[20-Dec-2025 18:31:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php on line 7
+[20-Dec-2025 19:23:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php on line 7
+[20-Dec-2025 19:24:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php on line 7
+[20-Dec-2025 19:24:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/EnumCase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/EnumCase.php on line 8
+[20-Dec-2025 19:24:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php on line 8
+[20-Dec-2025 19:25:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/PropertyProperty.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php on line 8
+[20-Dec-2025 20:30:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php on line 7
+[20-Dec-2025 20:30:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php on line 7
+[20-Dec-2025 20:31:18 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php on line 8
+[20-Dec-2025 21:51:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php on line 8
+[20-Dec-2025 21:51:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php on line 7
+[20-Dec-2025 21:52:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php on line 7
+[20-Dec-2025 22:23:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php on line 8
+[20-Dec-2025 23:23:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php on line 9
+[20-Dec-2025 23:23:56 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php on line 8
+[20-Dec-2025 23:24:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php on line 7
+[21-Dec-2025 02:05:38 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php on line 9
+[21-Dec-2025 02:06:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php on line 7
+[21-Dec-2025 03:45:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php on line 7
+[21-Dec-2025 03:45:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php on line 7
+[21-Dec-2025 03:46:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php on line 7
+[21-Dec-2025 04:38:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php:9
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/UseUse.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php on line 9
+[21-Dec-2025 06:56:52 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Block.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Block.php on line 7
+[21-Dec-2025 06:57:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/DeclareItem.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/DeclareDeclare.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/DeclareItem.php on line 8
+[21-Dec-2025 06:57:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php on line 8
+[21-Dec-2025 06:57:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php on line 7
+[21-Dec-2025 07:12:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php on line 7
+[21-Dec-2025 07:12:41 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php on line 12
+[21-Dec-2025 08:21:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php on line 8
+[21-Dec-2025 09:39:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php on line 7
+[21-Dec-2025 10:40:44 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php on line 7
+[21-Dec-2025 12:36:13 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php on line 7
+[21-Dec-2025 12:36:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php on line 8
+[21-Dec-2025 12:37:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php on line 8
+[21-Dec-2025 13:32:38 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php on line 7
+[21-Dec-2025 14:35:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php on line 7
+[21-Dec-2025 14:35:49 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php on line 8
+[21-Dec-2025 14:36:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php on line 7
+[21-Dec-2025 14:36:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php on line 7
+[21-Dec-2025 15:00:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/StaticVar.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/StaticVar.php(5): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/StaticVar.php on line 8
+[31-Dec-2025 10:55:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php on line 8
+[31-Dec-2025 10:55:45 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Block.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Block.php on line 7
+[31-Dec-2025 10:56:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php on line 12
+[31-Dec-2025 10:56:16 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php on line 7
+[31-Dec-2025 11:36:44 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php on line 7
+[31-Dec-2025 11:36:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php on line 8
+[31-Dec-2025 11:37:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php on line 7
+[31-Dec-2025 11:37:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php on line 8
+[31-Dec-2025 11:37:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php on line 8
+[31-Dec-2025 11:38:02 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php on line 7
+[31-Dec-2025 11:38:18 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php on line 7
+[31-Dec-2025 11:38:34 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php on line 7
+[31-Dec-2025 11:38:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php on line 8
+[31-Dec-2025 11:39:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php on line 7
+[31-Dec-2025 11:39:21 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Expression.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Expression.php on line 10
+[31-Dec-2025 11:39:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php on line 7
+[31-Dec-2025 12:12:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Enum_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Enum_.php on line 7
+[31-Dec-2025 12:12:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php on line 7
+[31-Dec-2025 12:12:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php on line 7
+[31-Dec-2025 12:13:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php:9
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/UseUse.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php on line 9
+[31-Dec-2025 12:13:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php on line 7
+[31-Dec-2025 12:13:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/PropertyProperty.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php on line 8
+[31-Dec-2025 12:13:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php on line 8
+[31-Dec-2025 12:14:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php on line 9
+[31-Dec-2025 12:14:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php on line 8
+[31-Dec-2025 12:14:45 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php on line 9
+[31-Dec-2025 12:15:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php on line 7
+[31-Dec-2025 12:15:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php on line 7
+[31-Dec-2025 12:15:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php on line 7
+[31-Dec-2025 12:15:48 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php on line 8
+[31-Dec-2025 12:16:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php on line 7
+[31-Dec-2025 12:35:33 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php on line 7
+[31-Dec-2025 12:35:48 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php on line 7
+[31-Dec-2025 12:36:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php on line 8
+[31-Dec-2025 12:36:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php on line 7
+[31-Dec-2025 12:36:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php on line 7
+[31-Dec-2025 12:36:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php on line 7
+[31-Dec-2025 12:37:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php on line 8
+[31-Dec-2025 12:37:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php on line 8
+[31-Dec-2025 13:00:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php on line 7
+[31-Dec-2025 13:00:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/EnumCase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/EnumCase.php on line 8
+[31-Dec-2025 13:00:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php on line 7
+[31-Dec-2025 13:01:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/StaticVar.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/StaticVar.php(5): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/StaticVar.php on line 8
+[31-Dec-2025 13:25:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php on line 7
+[31-Dec-2025 13:26:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/DeclareItem.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/DeclareDeclare.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/DeclareItem.php on line 8
+[31-Dec-2025 13:26:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php on line 7
+[31-Dec-2025 13:34:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php on line 7
+[17-Jan-2026 03:52:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php on line 7
+[17-Jan-2026 03:55:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Block.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Block.php on line 7
+[17-Jan-2026 04:26:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php on line 8
+[17-Jan-2026 04:43:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Expression.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Expression.php on line 10
+[17-Jan-2026 04:54:13 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php on line 8
+[17-Jan-2026 05:03:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php on line 7
+[17-Jan-2026 05:05:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php on line 8
+[17-Jan-2026 05:22:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php on line 7
+[17-Jan-2026 05:28:38 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/StaticVar.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/StaticVar.php(5): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/StaticVar.php on line 8
+[17-Jan-2026 05:28:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php on line 7
+[17-Jan-2026 05:38:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Enum_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Enum_.php on line 7
+[17-Jan-2026 05:43:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php on line 9
+[17-Jan-2026 05:44:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php on line 7
+[17-Jan-2026 05:47:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php on line 7
+[17-Jan-2026 05:48:18 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php on line 7
+[17-Jan-2026 10:54:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php on line 8
+[17-Jan-2026 11:02:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php on line 7
+[17-Jan-2026 11:26:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php on line 8
+[17-Jan-2026 11:37:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php on line 7
+[17-Jan-2026 11:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php on line 12
+[17-Jan-2026 11:59:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php on line 7
+[17-Jan-2026 11:59:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php on line 7
+[17-Jan-2026 12:26:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/PropertyProperty.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php on line 8
+[17-Jan-2026 12:28:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php on line 7
+[17-Jan-2026 12:43:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php on line 7
+[17-Jan-2026 12:44:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php on line 7
+[17-Jan-2026 12:55:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php on line 8
+[17-Jan-2026 13:01:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php on line 7
+[17-Jan-2026 13:07:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php:9
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/UseUse.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php on line 9
+[17-Jan-2026 13:23:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php on line 8
+[17-Jan-2026 13:25:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php on line 7
+[17-Jan-2026 13:28:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php on line 7
+[17-Jan-2026 13:31:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php on line 7
+[17-Jan-2026 13:37:13 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php on line 8
+[17-Jan-2026 13:43:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php on line 7
+[17-Jan-2026 14:00:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php on line 7
+[17-Jan-2026 14:01:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php on line 7
+[17-Jan-2026 14:05:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php on line 7
+[17-Jan-2026 14:08:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php on line 7
+[17-Jan-2026 14:10:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php on line 9
+[17-Jan-2026 14:22:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php on line 7
+[17-Jan-2026 14:24:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php on line 7
+[17-Jan-2026 14:26:49 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/EnumCase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/EnumCase.php on line 8
+[17-Jan-2026 14:34:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/DeclareItem.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/DeclareDeclare.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/DeclareItem.php on line 8
+[17-Jan-2026 14:41:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php on line 8
+[17-Jan-2026 14:46:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php on line 8
+[17-Jan-2026 14:51:02 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php on line 8
+[18-Jan-2026 22:44:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php on line 7
+[19-Jan-2026 02:14:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php on line 7
+[19-Jan-2026 02:16:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php on line 7
+[19-Jan-2026 02:19:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php on line 8
+[19-Jan-2026 02:21:56 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php on line 7
+[19-Jan-2026 02:24:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php on line 7
+[19-Jan-2026 02:26:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php on line 7
+[19-Jan-2026 02:29:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php on line 8
+[19-Jan-2026 02:31:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php on line 8
+[19-Jan-2026 06:32:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php on line 7
+[19-Jan-2026 06:34:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/EnumCase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/EnumCase.php on line 8
+[19-Jan-2026 06:37:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php on line 7
+[19-Jan-2026 06:40:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/StaticVar.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/StaticVar.php(5): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/StaticVar.php on line 8
+[19-Jan-2026 12:31:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php on line 7
+[19-Jan-2026 12:33:56 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/DeclareItem.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/DeclareDeclare.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/DeclareItem.php on line 8
+[19-Jan-2026 12:36:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php on line 7
+[19-Jan-2026 15:59:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php on line 7
+[20-Jan-2026 05:23:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php on line 7
+[20-Jan-2026 07:28:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Enum_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Enum_.php on line 7
+[20-Jan-2026 07:31:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php on line 7
+[20-Jan-2026 08:28:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/DeclareItem.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/DeclareDeclare.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/DeclareItem.php on line 8
+[20-Jan-2026 09:36:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php on line 8
+[20-Jan-2026 10:44:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php on line 7
+[20-Jan-2026 11:01:53 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php on line 7
+[20-Jan-2026 11:05:38 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php on line 7
+[20-Jan-2026 11:13:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php on line 8
+[20-Jan-2026 11:34:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php on line 7
+[20-Jan-2026 11:34:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/StaticVar.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/StaticVar.php(5): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/StaticVar.php on line 8
+[20-Jan-2026 11:35:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php on line 8
+[20-Jan-2026 12:02:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php:9
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/UseUse.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php on line 9
+[20-Jan-2026 12:05:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php on line 7
+[20-Jan-2026 12:30:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php on line 8
+[20-Jan-2026 12:32:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php on line 7
+[20-Jan-2026 13:34:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php on line 7
+[20-Jan-2026 13:37:56 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php on line 7
+[20-Jan-2026 13:40:48 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php on line 9
+[20-Jan-2026 14:01:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php on line 8
+[20-Jan-2026 14:10:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php on line 8
+[20-Jan-2026 14:23:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php on line 7
+[20-Jan-2026 14:42:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php on line 7
+[20-Jan-2026 15:00:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php on line 7
+[20-Jan-2026 15:03:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/EnumCase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/EnumCase.php on line 8
+[20-Jan-2026 15:04:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php on line 7
+[20-Jan-2026 15:25:34 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php on line 7
+[20-Jan-2026 15:49:45 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php on line 7
+[20-Jan-2026 16:07:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php on line 12
+[20-Jan-2026 16:50:49 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php on line 7
+[20-Jan-2026 17:31:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Expression.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Expression.php on line 10
+[20-Jan-2026 17:37:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php on line 7
+[20-Jan-2026 18:19:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php on line 7
+[20-Jan-2026 18:19:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php on line 9
+[20-Jan-2026 18:39:34 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php on line 7
+[20-Jan-2026 18:43:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php on line 7
+[20-Jan-2026 18:52:05 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php on line 8
+[20-Jan-2026 18:52:41 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php on line 8
+[20-Jan-2026 19:10:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php on line 7
+[20-Jan-2026 19:36:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php on line 7
+[20-Jan-2026 19:47:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php on line 8
+[20-Jan-2026 20:05:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php on line 7
+[20-Jan-2026 20:22:49 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/PropertyProperty.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php on line 8
+[20-Jan-2026 20:47:38 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php on line 7
+[20-Jan-2026 20:56:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php on line 8
+[20-Jan-2026 22:07:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Block.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Block.php on line 7
+[21-Jan-2026 01:47:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php on line 8
+[25-Jan-2026 21:45:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php on line 8
+[26-Jan-2026 01:54:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php on line 8
+[26-Jan-2026 02:42:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Block.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Block.php on line 7
+[04-Feb-2026 09:33:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 09:33:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php on line 8
+[04-Feb-2026 09:35:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 09:35:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Block.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Block.php on line 7
+[04-Feb-2026 09:38:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 09:38:33 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php on line 7
+[04-Feb-2026 15:28:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 15:28:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php on line 7
+[04-Feb-2026 15:31:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 15:31:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php on line 8
+[04-Feb-2026 15:33:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 15:33:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php on line 7
+[04-Feb-2026 15:36:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 15:36:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php on line 8
+[04-Feb-2026 15:38:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 15:38:41 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php on line 8
+[04-Feb-2026 15:41:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 15:41:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php on line 7
+[04-Feb-2026 15:43:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 15:43:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php on line 7
+[04-Feb-2026 15:46:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 15:46:13 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php on line 7
+[04-Feb-2026 15:48:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 15:48:44 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php on line 8
+[04-Feb-2026 15:51:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 15:51:16 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php on line 7
+[04-Feb-2026 15:53:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 15:53:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Expression.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Expression.php on line 10
+[04-Feb-2026 21:28:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 21:28:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Enum_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Enum_.php on line 7
+[04-Feb-2026 21:30:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 21:30:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php on line 7
+[04-Feb-2026 21:33:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 21:33:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php:9
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/UseUse.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php on line 9
+[04-Feb-2026 21:35:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 21:35:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php on line 7
+[04-Feb-2026 21:38:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 21:38:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/PropertyProperty.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php on line 8
+[04-Feb-2026 21:40:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 21:40:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php on line 8
+[04-Feb-2026 21:43:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 21:43:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php on line 9
+[04-Feb-2026 21:45:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 21:45:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php on line 8
+[04-Feb-2026 21:48:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 21:48:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php on line 9
+[04-Feb-2026 21:50:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 21:50:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php on line 7
+[04-Feb-2026 21:53:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 21:53:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php on line 7
+[04-Feb-2026 21:55:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 21:55:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php on line 7
+[04-Feb-2026 21:58:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 21:58:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php on line 8
+[04-Feb-2026 22:00:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 22:00:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php on line 7
+[04-Feb-2026 22:38:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 22:38:44 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/PropertyProperty.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php on line 8
+[04-Feb-2026 23:15:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 23:15:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php on line 12
+[04-Feb-2026 23:15:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 23:15:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php on line 7
+[05-Feb-2026 18:47:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 18:47:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php on line 7
+[05-Feb-2026 20:15:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 20:15:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php on line 8
+[06-Feb-2026 00:08:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 00:08:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php on line 7
+[06-Feb-2026 08:17:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 08:17:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php on line 9
+[06-Feb-2026 21:37:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 21:37:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php on line 7
+[07-Feb-2026 01:57:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 01:57:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php on line 7
+[07-Feb-2026 02:40:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 02:40:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php on line 7
+[07-Feb-2026 08:45:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 08:45:48 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php on line 12
+[12-Feb-2026 20:09:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 20:09:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php on line 9
+[12-Feb-2026 20:10:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 20:10:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php on line 8
+[12-Feb-2026 22:19:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 22:19:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php on line 8
+[13-Feb-2026 01:17:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 01:17:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php on line 7
+[13-Feb-2026 10:13:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 10:13:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/DeclareItem.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/DeclareDeclare.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/DeclareItem.php on line 8
+[13-Feb-2026 10:13:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 10:13:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php on line 7
+[13-Feb-2026 12:27:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 12:27:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php on line 8
+[15-Feb-2026 08:39:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 08:39:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php on line 8
+[15-Feb-2026 08:40:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 08:40:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php on line 7
+[15-Feb-2026 14:21:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 14:21:21 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php on line 7
+[15-Feb-2026 15:55:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 15:55:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php:9
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/UseUse.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php on line 9
+[15-Feb-2026 19:21:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 19:21:48 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php on line 7
+[15-Feb-2026 20:46:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php on line 7
+[16-Feb-2026 10:01:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 10:01:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php on line 7
+[16-Feb-2026 11:58:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 11:58:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php on line 7
+[16-Feb-2026 12:22:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 12:22:53 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php on line 7
+[16-Feb-2026 12:26:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 12:26:18 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php on line 8
+[16-Feb-2026 13:11:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:11:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php:9
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/UseUse.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php on line 9
+[16-Feb-2026 13:16:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:16:52 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php on line 8
+[16-Feb-2026 13:20:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:20:21 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php on line 7
+[16-Feb-2026 13:21:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:21:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php on line 7
+[16-Feb-2026 13:41:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:41:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php on line 8
+[16-Feb-2026 13:50:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:50:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php on line 8
+[16-Feb-2026 13:58:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:58:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php on line 7
+[16-Feb-2026 14:37:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 14:37:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php on line 12
+[16-Feb-2026 14:39:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 14:39:45 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php on line 7
+[16-Feb-2026 15:25:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:25:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php on line 7
+[16-Feb-2026 15:27:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:27:02 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php on line 7
+[16-Feb-2026 15:35:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:35:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php on line 8
+[16-Feb-2026 15:42:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:42:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php on line 7
+[16-Feb-2026 15:51:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:51:45 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php on line 7
+[16-Feb-2026 16:15:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:15:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php on line 8
+[16-Feb-2026 16:29:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:29:16 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php on line 7
+[16-Feb-2026 16:35:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:35:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/DeclareItem.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/DeclareDeclare.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/DeclareItem.php on line 8
+[16-Feb-2026 17:04:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:04:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/EnumCase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/EnumCase.php on line 8
+[16-Feb-2026 17:06:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:06:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php on line 9
+[16-Feb-2026 17:14:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:14:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Expression.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Expression.php on line 10
+[16-Feb-2026 17:27:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:27:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php on line 7
+[16-Feb-2026 17:56:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:56:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/PropertyProperty.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php on line 8
+[16-Feb-2026 18:01:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:01:52 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php on line 8
+[16-Feb-2026 18:21:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:21:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php on line 7
+[16-Feb-2026 18:41:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:41:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php on line 7
+[16-Feb-2026 18:53:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php on line 7
+[16-Feb-2026 19:57:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 19:57:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/StaticVar.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/StaticVar.php(5): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/StaticVar.php on line 8
+[16-Feb-2026 20:24:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:24:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Enum_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Enum_.php on line 7
+[16-Feb-2026 20:25:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:25:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php on line 7
+[16-Feb-2026 21:04:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 21:04:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php on line 9
+[16-Feb-2026 21:57:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 21:57:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php on line 8
+[16-Feb-2026 21:58:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 21:58:13 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php on line 7
+[16-Feb-2026 22:16:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:16:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php on line 7
+[16-Feb-2026 22:17:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:17:53 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php on line 7
+[16-Feb-2026 22:19:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:19:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php on line 8
+[16-Feb-2026 22:21:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:21:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php on line 7
+[16-Feb-2026 22:30:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:30:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php on line 7
+[16-Feb-2026 22:36:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:36:41 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php on line 7
+[16-Feb-2026 22:53:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:53:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php on line 7
+[16-Feb-2026 23:49:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 23:49:52 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php on line 8
+[16-Feb-2026 23:55:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 23:55:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php on line 7
+[18-Feb-2026 06:50:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 06:50:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php on line 7
+[18-Feb-2026 06:51:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 06:51:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php on line 7
+[18-Feb-2026 08:32:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 08:32:38 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php on line 7
+[18-Feb-2026 08:34:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 08:34:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php on line 7
+[18-Feb-2026 14:36:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 14:36:48 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php on line 8
+[18-Feb-2026 15:19:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 15:19:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php on line 8
+[18-Feb-2026 16:00:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 16:00:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php on line 7
+[18-Feb-2026 20:22:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 20:22:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php:9
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/UseUse.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php on line 9
+[18-Feb-2026 20:25:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 20:25:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php on line 7
+[19-Feb-2026 00:40:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 00:40:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php on line 9
+[19-Feb-2026 05:43:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 05:43:48 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php on line 7
+[19-Feb-2026 05:44:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 05:44:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php on line 7
+[21-Feb-2026 07:17:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 07:17:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php on line 7
+[21-Feb-2026 23:00:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 23:00:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php on line 8
+[22-Feb-2026 02:34:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 02:34:52 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php on line 9
+[22-Feb-2026 03:55:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 03:55:05 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Block.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Block.php on line 7
+[22-Feb-2026 11:16:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 11:16:49 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php on line 7
+[22-Feb-2026 11:17:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 11:17:13 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php on line 8
+[22-Feb-2026 11:17:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 11:17:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php:9
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/UseUse.php(7): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php on line 9
+[22-Feb-2026 11:18:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 11:18:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php on line 7
+[22-Feb-2026 11:18:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 11:18:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php on line 7
+[22-Feb-2026 11:18:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 11:18:52 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\ClassLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php on line 7
+[22-Feb-2026 11:19:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 11:19:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php on line 7
+[22-Feb-2026 11:19:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 11:19:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php on line 7
+[22-Feb-2026 11:20:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 11:20:02 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php on line 7
+[22-Feb-2026 11:20:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 11:20:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php on line 8
+[22-Feb-2026 11:22:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 11:22:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/StaticVar.php:8
+Stack trace:
+#0 /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/StaticVar.php(5): require()
+#1 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/StaticVar.php on line 8

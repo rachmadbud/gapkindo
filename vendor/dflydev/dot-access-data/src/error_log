@@ -1,0 +1,86 @@
+[30-Nov-2025 14:26:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[09-Dec-2025 20:25:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[10-Dec-2025 23:25:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[12-Dec-2025 10:38:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[14-Dec-2025 00:18:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[18-Dec-2025 12:48:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[21-Dec-2025 10:00:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[21-Dec-2025 17:27:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[05-Jan-2026 12:00:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[14-Jan-2026 05:41:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[20-Jan-2026 23:25:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[21-Jan-2026 00:16:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[22-Jan-2026 18:34:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[28-Jan-2026 02:45:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 02:10:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 12:51:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 14:36:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 22:56:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 22:56:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[31-Jan-2026 23:47:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 06:19:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 06:19:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[03-Feb-2026 09:45:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:45:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[03-Feb-2026 13:45:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 13:45:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[08-Feb-2026 21:44:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 21:44:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 10:35:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 11:17:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 11:17:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[11-Feb-2026 14:19:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

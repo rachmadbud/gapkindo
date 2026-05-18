@@ -1,0 +1,105 @@
+[13-Dec-2025 20:05:26 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[14-Dec-2025 18:57:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[15-Dec-2025 07:14:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[18-Dec-2025 13:29:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[24-Dec-2025 17:19:18 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[31-Dec-2025 04:02:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[14-Jan-2026 10:48:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[16-Jan-2026 19:41:45 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[17-Jan-2026 21:02:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[18-Jan-2026 00:05:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[18-Jan-2026 17:26:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[19-Jan-2026 12:23:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[20-Jan-2026 22:45:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[22-Jan-2026 04:04:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[28-Jan-2026 09:35:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 00:54:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 01:11:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 01:11:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[01-Feb-2026 07:53:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 08:01:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 08:01:41 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[01-Feb-2026 08:05:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 08:05:44 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[02-Feb-2026 04:49:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:49:21 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[02-Feb-2026 06:12:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 06:12:26 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[02-Feb-2026 17:18:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:18:50 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[03-Feb-2026 00:08:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 00:08:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[03-Feb-2026 22:36:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 22:36:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[16-Feb-2026 19:05:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 19:05:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[16-Feb-2026 23:27:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

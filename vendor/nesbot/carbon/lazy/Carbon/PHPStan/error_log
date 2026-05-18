@@ -1,0 +1,211 @@
+[10-Dec-2025 09:26:04 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php on line 17
+[13-Dec-2025 17:55:07 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php on line 20
+[13-Dec-2025 18:48:41 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php on line 17
+[13-Dec-2025 19:43:06 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php on line 20
+[17-Dec-2025 23:57:35 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php on line 17
+[18-Dec-2025 03:05:16 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php on line 17
+[18-Dec-2025 13:36:12 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php on line 20
+[18-Dec-2025 14:51:33 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php on line 20
+[18-Dec-2025 18:04:04 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php on line 17
+[18-Dec-2025 18:04:13 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php on line 20
+[18-Dec-2025 18:04:22 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php on line 20
+[18-Dec-2025 18:04:30 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php on line 17
+[11-Jan-2026 04:18:49 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php on line 17
+[11-Jan-2026 04:41:53 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php on line 17
+[11-Jan-2026 04:42:08 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php on line 20
+[11-Jan-2026 04:52:14 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php on line 20
+[14-Jan-2026 23:18:18 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php on line 17
+[15-Jan-2026 16:29:25 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php on line 20
+[15-Jan-2026 18:18:01 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php on line 17
+[15-Jan-2026 18:33:32 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php on line 17
+[15-Jan-2026 18:48:40 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php on line 20
+[15-Jan-2026 21:56:22 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php on line 20
+[16-Jan-2026 16:19:56 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php on line 17
+[16-Jan-2026 22:57:46 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php on line 20
+[20-Jan-2026 06:40:48 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php on line 20
+[20-Jan-2026 12:17:41 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php on line 20
+[20-Jan-2026 18:44:43 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php on line 17
+[20-Jan-2026 19:18:11 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php on line 17
+[23-Jan-2026 08:18:28 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php on line 20
+[23-Jan-2026 13:05:42 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php on line 17
+[23-Jan-2026 16:35:09 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php on line 20
+[23-Jan-2026 17:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php on line 20
+[25-Jan-2026 16:54:34 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php on line 20
+[25-Jan-2026 18:31:39 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php on line 17
+[31-Jan-2026 19:05:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 19:05:54 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php on line 20
+[01-Feb-2026 00:22:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 00:22:19 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php on line 17
+[03-Feb-2026 03:38:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 03:38:32 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php on line 20
+[03-Feb-2026 05:06:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:06:41 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php on line 17
+[03-Feb-2026 11:18:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 11:18:30 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php on line 17
+[03-Feb-2026 16:20:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 16:20:02 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php on line 17
+[04-Feb-2026 18:01:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 18:01:24 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php on line 20
+[05-Feb-2026 17:13:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 17:13:09 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php on line 17
+[11-Feb-2026 07:02:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 07:02:56 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php on line 17
+[11-Feb-2026 15:09:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 15:09:35 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php on line 20
+[11-Feb-2026 15:53:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 15:53:11 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php on line 20
+[16-Feb-2026 16:34:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:34:14 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php on line 17
+[22-Feb-2026 05:57:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 05:57:51 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroStatic.php on line 20
+[22-Feb-2026 07:12:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 07:12:24 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/AbstractMacroBuiltin.php on line 20
+[22-Feb-2026 07:13:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 07:13:17 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractReflectionMacro" not found in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php on line 17

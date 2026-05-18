@@ -1,0 +1,315 @@
+[31-Oct-2025 05:50:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[31-Oct-2025 14:08:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[31-Oct-2025 14:12:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[16-Nov-2025 17:53:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[16-Nov-2025 17:55:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[16-Nov-2025 17:55:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[16-Nov-2025 17:56:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[27-Nov-2025 06:27:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[27-Nov-2025 06:38:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[28-Nov-2025 10:49:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[29-Nov-2025 18:13:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[05-Dec-2025 12:45:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[05-Dec-2025 20:08:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[05-Dec-2025 22:57:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[06-Dec-2025 00:34:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[07-Dec-2025 16:15:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[07-Dec-2025 16:20:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[07-Dec-2025 16:24:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[07-Dec-2025 16:39:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[11-Dec-2025 06:38:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[11-Dec-2025 19:02:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[11-Dec-2025 22:40:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[12-Dec-2025 01:17:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[12-Dec-2025 11:59:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[14-Dec-2025 01:06:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[14-Dec-2025 01:07:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[14-Dec-2025 02:17:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[14-Dec-2025 03:08:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[18-Dec-2025 11:47:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[18-Dec-2025 11:47:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[18-Dec-2025 11:48:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[18-Dec-2025 11:48:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[22-Dec-2025 00:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[22-Dec-2025 02:10:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[22-Dec-2025 03:56:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[22-Dec-2025 04:47:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[05-Jan-2026 13:38:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[05-Jan-2026 13:39:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[05-Jan-2026 18:09:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[05-Jan-2026 21:22:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[08-Jan-2026 01:12:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[08-Jan-2026 01:20:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[08-Jan-2026 07:38:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[08-Jan-2026 09:41:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[16-Jan-2026 04:48:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[17-Jan-2026 21:32:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[18-Jan-2026 00:48:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[20-Jan-2026 18:48:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[22-Jan-2026 21:08:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[23-Jan-2026 03:07:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[23-Jan-2026 03:41:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[23-Jan-2026 11:01:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[23-Jan-2026 20:26:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[24-Jan-2026 02:36:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[26-Jan-2026 08:00:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[26-Jan-2026 15:02:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[30-Jan-2026 11:02:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 11:02:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[30-Jan-2026 12:56:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:50:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:50:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[30-Jan-2026 17:46:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 17:46:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[30-Jan-2026 20:59:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 20:59:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[30-Jan-2026 22:01:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 05:16:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 05:16:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[02-Feb-2026 05:17:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 05:17:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[02-Feb-2026 05:17:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 05:17:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[02-Feb-2026 05:18:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 05:18:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[02-Feb-2026 08:42:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 18:26:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 18:26:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[05-Feb-2026 20:03:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 20:27:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 20:27:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[05-Feb-2026 21:07:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 21:07:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[06-Feb-2026 00:15:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 00:15:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[06-Feb-2026 01:05:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 10:31:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 10:31:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[14-Feb-2026 05:08:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 05:08:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[17-Feb-2026 17:51:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 17:51:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[18-Feb-2026 22:21:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 22:21:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[21-Feb-2026 17:13:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 06:19:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 06:19:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14

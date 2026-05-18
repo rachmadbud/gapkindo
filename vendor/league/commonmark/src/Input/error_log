@@ -1,0 +1,92 @@
+[13-Dec-2025 20:41:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Input\MarkdownInputInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18
+[15-Dec-2025 00:28:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Input\MarkdownInputInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18
+[15-Dec-2025 04:30:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Input\MarkdownInputInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18
+[18-Dec-2025 13:28:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Input\MarkdownInputInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18
+[25-Dec-2025 15:59:44 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Input\MarkdownInputInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18
+[27-Dec-2025 10:27:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Input\MarkdownInputInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18
+[31-Dec-2025 04:43:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Input\MarkdownInputInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18
+[14-Jan-2026 10:19:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Input\MarkdownInputInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18
+[18-Jan-2026 03:43:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Input\MarkdownInputInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18
+[19-Jan-2026 00:18:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Input\MarkdownInputInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18
+[20-Jan-2026 12:55:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Input\MarkdownInputInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18
+[23-Jan-2026 20:27:21 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Input\MarkdownInputInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18
+[29-Jan-2026 19:32:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 15:21:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 00:33:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 00:33:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Input\MarkdownInputInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18
+[01-Feb-2026 00:53:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 07:29:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 07:29:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Input\MarkdownInputInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18
+[02-Feb-2026 20:29:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 20:29:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Input\MarkdownInputInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18
+[02-Feb-2026 23:41:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 23:41:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Input\MarkdownInputInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18
+[03-Feb-2026 00:50:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 00:50:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Input\MarkdownInputInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18
+[13-Feb-2026 02:23:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 02:23:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Input\MarkdownInputInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18
+[13-Feb-2026 21:35:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 21:35:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Input\MarkdownInputInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18
+[16-Feb-2026 13:27:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:27:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Input\MarkdownInputInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18
+[16-Feb-2026 18:31:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

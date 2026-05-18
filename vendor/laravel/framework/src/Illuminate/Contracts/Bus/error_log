@@ -1,0 +1,53 @@
+[04-Nov-2025 05:07:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Bus\Dispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php on line 5
+[18-Dec-2025 21:03:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Bus\Dispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php on line 5
+[19-Dec-2025 20:51:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Bus\Dispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php on line 5
+[21-Dec-2025 05:00:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Bus\Dispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php on line 5
+[01-Jan-2026 23:02:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Bus\Dispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php on line 5
+[02-Feb-2026 06:20:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 06:20:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Bus\Dispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php on line 5
+[02-Feb-2026 06:24:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 07:01:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 07:01:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Bus\Dispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php on line 5
+[02-Feb-2026 07:02:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 08:56:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 08:56:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Bus\Dispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php on line 5
+[11-Feb-2026 09:29:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 03:19:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 03:19:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Bus\Dispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php on line 5
+[21-Feb-2026 11:44:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 11:44:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Bus\Dispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php on line 5
+[22-Feb-2026 08:20:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 08:20:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Bus\Dispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php on line 5

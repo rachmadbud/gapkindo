@@ -1,0 +1,436 @@
+[01-Nov-2025 10:41:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[01-Nov-2025 14:17:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[02-Nov-2025 22:23:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 8
+[03-Nov-2025 16:52:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[30-Nov-2025 17:02:37 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 14
+[30-Nov-2025 20:33:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[05-Dec-2025 19:50:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[16-Dec-2025 13:44:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[16-Dec-2025 15:48:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[16-Dec-2025 20:11:43 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 14
+[16-Dec-2025 21:59:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 8
+[16-Dec-2025 22:13:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[16-Dec-2025 22:39:36 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 10
+[17-Dec-2025 19:51:33 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 14
+[17-Dec-2025 22:30:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[17-Dec-2025 23:46:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[18-Dec-2025 00:51:19 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 10
+[18-Dec-2025 00:51:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 8
+[18-Dec-2025 02:05:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[18-Dec-2025 16:38:00 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 10
+[18-Dec-2025 16:38:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[18-Dec-2025 16:38:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 8
+[18-Dec-2025 16:38:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[18-Dec-2025 16:38:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[18-Dec-2025 16:39:05 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 14
+[20-Dec-2025 07:51:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[21-Dec-2025 00:10:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 8
+[22-Dec-2025 06:31:07 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 10
+[05-Jan-2026 12:55:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[05-Jan-2026 12:59:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[05-Jan-2026 14:20:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 8
+[05-Jan-2026 16:44:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 8
+[05-Jan-2026 21:49:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[06-Jan-2026 10:03:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[13-Jan-2026 23:11:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 8
+[13-Jan-2026 23:13:08 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 10
+[14-Jan-2026 03:03:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[14-Jan-2026 03:10:45 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 14
+[14-Jan-2026 03:17:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[14-Jan-2026 03:21:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[15-Jan-2026 20:15:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[16-Jan-2026 08:03:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 8
+[17-Jan-2026 00:33:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[17-Jan-2026 07:04:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 8
+[17-Jan-2026 11:24:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[17-Jan-2026 19:01:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 8
+[18-Jan-2026 05:09:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[18-Jan-2026 14:22:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[18-Jan-2026 17:36:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 8
+[19-Jan-2026 08:31:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[19-Jan-2026 11:50:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[20-Jan-2026 04:56:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[20-Jan-2026 15:26:35 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 14
+[20-Jan-2026 16:05:27 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 10
+[20-Jan-2026 17:56:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 8
+[20-Jan-2026 18:03:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[20-Jan-2026 20:41:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[21-Jan-2026 12:50:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[23-Jan-2026 08:05:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[23-Jan-2026 13:47:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[24-Jan-2026 17:43:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[24-Jan-2026 20:41:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[27-Jan-2026 11:00:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 11:00:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 8
+[27-Jan-2026 11:44:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 11:44:45 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 10
+[29-Jan-2026 12:04:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 12:52:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 12:52:41 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 14
+[29-Jan-2026 22:04:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 22:04:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[01-Feb-2026 02:56:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 02:56:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[01-Feb-2026 02:57:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 05:10:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 08:49:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 08:49:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 8
+[01-Feb-2026 08:52:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 09:54:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 09:55:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 09:55:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[01-Feb-2026 10:06:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 10:06:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[01-Feb-2026 10:51:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 11:04:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 12:59:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 12:59:43 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 14
+[01-Feb-2026 13:27:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 13:30:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 13:30:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 8
+[01-Feb-2026 14:27:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 14:27:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[01-Feb-2026 14:39:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 14:39:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[01-Feb-2026 15:11:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 16:32:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 16:32:17 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 14
+[01-Feb-2026 16:43:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 16:43:13 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 14
+[01-Feb-2026 17:21:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 17:21:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[02-Feb-2026 18:13:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 18:13:20 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 10
+[03-Feb-2026 02:56:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 02:56:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 06:00:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 06:00:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 20:00:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:52:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:52:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[05-Feb-2026 03:20:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 03:20:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[05-Feb-2026 09:18:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 10:53:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 10:53:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 8
+[05-Feb-2026 13:40:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 13:40:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[05-Feb-2026 21:05:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 21:05:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[05-Feb-2026 23:59:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 23:59:03 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 14
+[06-Feb-2026 05:09:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 05:09:54 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 10
+[06-Feb-2026 18:12:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 18:12:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[06-Feb-2026 19:18:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 00:18:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 00:18:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[07-Feb-2026 20:06:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 20:06:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[07-Feb-2026 20:45:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 23:51:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 02:50:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 11:41:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 11:41:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[10-Feb-2026 00:57:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 00:57:24 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 10
+[10-Feb-2026 02:59:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 02:59:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[10-Feb-2026 11:43:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 11:43:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[10-Feb-2026 13:16:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 13:16:28 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 14
+[10-Feb-2026 23:46:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 02:47:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 07:12:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 07:12:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[11-Feb-2026 13:03:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 13:03:20 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 10
+[11-Feb-2026 16:41:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 16:41:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[11-Feb-2026 16:49:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 16:49:43 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 14
+[12-Feb-2026 03:09:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 03:09:49 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 10
+[12-Feb-2026 18:23:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 22:56:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 22:56:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[13-Feb-2026 03:52:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 03:52:57 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 14
+[13-Feb-2026 15:17:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 15:17:52 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 10
+[13-Feb-2026 23:06:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 23:06:29 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 14
+[14-Feb-2026 02:55:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 02:55:45 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 10
+[14-Feb-2026 22:44:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 22:44:53 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 10
+[15-Feb-2026 04:42:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 04:42:34 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 14
+[16-Feb-2026 02:59:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 02:59:38 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 10
+[16-Feb-2026 10:18:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 10:18:22 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 14
+[16-Feb-2026 11:20:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:51:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:18:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:18:59 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 10
+[16-Feb-2026 15:57:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:17:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:17:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[16-Feb-2026 16:52:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:52:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[16-Feb-2026 18:19:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:19:27 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 14
+[16-Feb-2026 18:28:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:16:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:37:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:37:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 8
+[16-Feb-2026 22:35:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:35:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[17-Feb-2026 03:28:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 03:28:59 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 10
+[17-Feb-2026 04:33:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 04:33:35 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 14
+[21-Feb-2026 18:27:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 18:54:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 18:55:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 18:58:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 18:59:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 18:59:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 05:07:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

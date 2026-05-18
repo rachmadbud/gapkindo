@@ -1,0 +1,227 @@
+[04-Nov-2025 06:38:55 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviderRepository" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/SolutionProviderRepository.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/SolutionProviderRepository.php on line 8
+[04-Nov-2025 06:41:39 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\MergeConflictSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php on line 8
+[17-Nov-2025 04:12:28 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\BadMethodCallSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php on line 8
+[17-Nov-2025 04:14:53 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\UndefinedPropertySolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php on line 8
+[17-Nov-2025 04:16:45 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\MergeConflictSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php on line 8
+[18-Dec-2025 23:01:54 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\BadMethodCallSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php on line 8
+[18-Dec-2025 23:02:01 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\UndefinedPropertySolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php on line 8
+[18-Dec-2025 23:02:08 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\MergeConflictSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php on line 8
+[18-Dec-2025 23:02:13 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviderRepository" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/SolutionProviderRepository.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/SolutionProviderRepository.php on line 8
+[19-Dec-2025 17:06:25 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\BadMethodCallSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php on line 8
+[19-Dec-2025 18:35:20 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\MergeConflictSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php on line 8
+[19-Dec-2025 20:25:05 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\UndefinedPropertySolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php on line 8
+[20-Dec-2025 01:29:20 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviderRepository" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/SolutionProviderRepository.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/SolutionProviderRepository.php on line 8
+[20-Dec-2025 23:38:40 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\UndefinedPropertySolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php on line 8
+[21-Dec-2025 05:42:04 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviderRepository" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/SolutionProviderRepository.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/SolutionProviderRepository.php on line 8
+[21-Dec-2025 06:12:37 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\BadMethodCallSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php on line 8
+[21-Dec-2025 08:34:40 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\MergeConflictSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php on line 8
+[02-Jan-2026 00:38:27 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviderRepository" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/SolutionProviderRepository.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/SolutionProviderRepository.php on line 8
+[02-Jan-2026 02:43:04 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\BadMethodCallSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php on line 8
+[02-Jan-2026 03:47:09 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\UndefinedPropertySolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php on line 8
+[02-Jan-2026 07:58:41 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\MergeConflictSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php on line 8
+[11-Jan-2026 06:01:13 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\BadMethodCallSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php on line 8
+[11-Jan-2026 06:05:54 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\UndefinedPropertySolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php on line 8
+[11-Jan-2026 06:17:34 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\MergeConflictSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php on line 8
+[12-Jan-2026 10:25:10 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\UndefinedPropertySolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php on line 8
+[12-Jan-2026 10:26:02 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviderRepository" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/SolutionProviderRepository.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/SolutionProviderRepository.php on line 8
+[12-Jan-2026 10:27:19 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\MergeConflictSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php on line 8
+[12-Jan-2026 10:29:43 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\BadMethodCallSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php on line 8
+[24-Jan-2026 01:43:00 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\MergeConflictSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php on line 8
+[25-Jan-2026 18:07:49 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\UndefinedPropertySolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php on line 8
+[25-Jan-2026 18:51:22 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviderRepository" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/SolutionProviderRepository.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/SolutionProviderRepository.php on line 8
+[25-Jan-2026 23:44:46 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\MergeConflictSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php on line 8
+[26-Jan-2026 03:21:33 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\BadMethodCallSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php on line 8
+[31-Jan-2026 06:10:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:10:16 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\UndefinedPropertySolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php on line 8
+[31-Jan-2026 06:11:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:11:21 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\BadMethodCallSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php on line 8
+[31-Jan-2026 06:12:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:12:26 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\MergeConflictSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php on line 8
+[31-Jan-2026 18:00:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 18:00:58 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\UndefinedPropertySolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php on line 8
+[31-Jan-2026 18:02:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 18:02:00 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\MergeConflictSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php on line 8
+[31-Jan-2026 18:03:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 18:03:03 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\BadMethodCallSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php on line 8
+[31-Jan-2026 18:26:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 18:26:09 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\UndefinedPropertySolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php on line 8
+[31-Jan-2026 18:26:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 18:26:29 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\BadMethodCallSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php on line 8
+[31-Jan-2026 18:27:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 18:27:28 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\MergeConflictSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php on line 8
+[01-Feb-2026 02:36:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 02:36:16 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviderRepository" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/SolutionProviderRepository.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/SolutionProviderRepository.php on line 8
+[01-Feb-2026 03:12:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 03:12:10 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\UndefinedPropertySolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php on line 8
+[01-Feb-2026 03:13:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 03:13:08 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\MergeConflictSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php on line 8
+[01-Feb-2026 03:14:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 03:14:12 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\BadMethodCallSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php on line 8
+[01-Feb-2026 09:42:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 09:42:25 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviderRepository" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/SolutionProviderRepository.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/SolutionProviderRepository.php on line 8
+[15-Feb-2026 13:30:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 13:30:41 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\BadMethodCallSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php on line 8
+[21-Feb-2026 23:53:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 23:53:01 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviderRepository" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/SolutionProviderRepository.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/SolutionProviderRepository.php on line 8
+[22-Feb-2026 00:12:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 00:12:20 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\MergeConflictSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/MergeConflictSolutionProvider.php on line 8
+[22-Feb-2026 01:15:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 01:15:21 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\BadMethodCallSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/BadMethodCallSolutionProvider.php on line 8
+[22-Feb-2026 07:33:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 07:33:27 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\SolutionProviders\UndefinedPropertySolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/SolutionProviders/UndefinedPropertySolutionProvider.php on line 8

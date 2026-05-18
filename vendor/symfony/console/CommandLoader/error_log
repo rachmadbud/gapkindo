@@ -1,0 +1,238 @@
+[30-Oct-2025 23:05:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[31-Oct-2025 06:49:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[27-Nov-2025 06:17:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[27-Nov-2025 06:44:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[10-Dec-2025 01:17:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[10-Dec-2025 07:46:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[11-Dec-2025 16:37:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[11-Dec-2025 16:37:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[12-Dec-2025 02:03:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[12-Dec-2025 13:38:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[14-Dec-2025 01:52:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[14-Dec-2025 02:55:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[18-Dec-2025 12:30:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[18-Dec-2025 12:30:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[22-Dec-2025 02:47:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[22-Dec-2025 05:51:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[05-Jan-2026 16:47:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[05-Jan-2026 20:19:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[17-Jan-2026 00:05:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[17-Jan-2026 18:13:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[17-Jan-2026 22:03:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[18-Jan-2026 07:30:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[18-Jan-2026 08:52:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[18-Jan-2026 09:30:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[18-Jan-2026 11:19:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[20-Jan-2026 11:56:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[20-Jan-2026 19:40:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[28-Jan-2026 07:28:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 07:28:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[30-Jan-2026 22:28:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 22:28:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[30-Jan-2026 22:29:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 22:29:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[31-Jan-2026 02:30:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 09:13:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 09:13:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[31-Jan-2026 09:13:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 09:13:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[31-Jan-2026 14:55:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:39:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 19:45:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 19:45:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[02-Feb-2026 19:45:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 19:45:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[02-Feb-2026 20:29:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 20:29:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[02-Feb-2026 20:30:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 20:30:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[03-Feb-2026 01:30:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:30:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[03-Feb-2026 17:35:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 17:35:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[04-Feb-2026 11:49:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 11:49:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[04-Feb-2026 21:14:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 21:14:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[05-Feb-2026 21:04:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 21:04:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[06-Feb-2026 04:36:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 04:36:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[06-Feb-2026 16:55:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 16:55:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[07-Feb-2026 00:59:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 00:59:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[08-Feb-2026 04:43:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 04:43:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[08-Feb-2026 06:19:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 06:19:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[09-Feb-2026 07:40:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 07:40:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[12-Feb-2026 11:52:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 08:19:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 08:19:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[14-Feb-2026 09:52:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:52:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[20-Feb-2026 01:11:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 01:11:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[22-Feb-2026 00:50:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:38:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:38:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[22-Feb-2026 09:09:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 09:09:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23

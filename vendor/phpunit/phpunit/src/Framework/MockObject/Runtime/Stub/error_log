@@ -1,0 +1,209 @@
+[24-Dec-2025 17:07:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnArgument.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnArgument.php on line 19
+[24-Dec-2025 17:07:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnReference.php on line 19
+[24-Dec-2025 20:45:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnStub.php on line 19
+[24-Dec-2025 21:12:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnValueMap.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnValueMap.php on line 22
+[25-Dec-2025 00:31:27 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnSelf.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnSelf.php on line 20
+[25-Dec-2025 01:03:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ConsecutiveCalls.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ConsecutiveCalls.php on line 22
+[25-Dec-2025 07:02:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/Exception.php on line 20
+[25-Dec-2025 10:13:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnCallback.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnCallback.php on line 20
+[04-Jan-2026 17:05:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnArgument.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnArgument.php on line 19
+[04-Jan-2026 17:11:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnStub.php on line 19
+[04-Jan-2026 18:54:32 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ConsecutiveCalls.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ConsecutiveCalls.php on line 22
+[04-Jan-2026 20:35:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/Exception.php on line 20
+[04-Jan-2026 20:39:31 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnCallback.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnCallback.php on line 20
+[05-Jan-2026 03:47:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnSelf.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnSelf.php on line 20
+[05-Jan-2026 07:44:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnValueMap.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnValueMap.php on line 22
+[05-Jan-2026 10:36:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnReference.php on line 19
+[05-Jan-2026 18:39:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/Exception.php on line 20
+[05-Jan-2026 21:04:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnArgument.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnArgument.php on line 19
+[05-Jan-2026 23:19:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnReference.php on line 19
+[06-Jan-2026 00:19:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ConsecutiveCalls.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ConsecutiveCalls.php on line 22
+[06-Jan-2026 02:18:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnStub.php on line 19
+[06-Jan-2026 02:49:28 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/Exception.php on line 20
+[06-Jan-2026 03:06:50 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnSelf.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnSelf.php on line 20
+[06-Jan-2026 03:07:06 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnReference.php on line 19
+[06-Jan-2026 03:15:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnCallback.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnCallback.php on line 20
+[06-Jan-2026 03:21:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnArgument.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnArgument.php on line 19
+[06-Jan-2026 03:29:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ConsecutiveCalls.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ConsecutiveCalls.php on line 22
+[06-Jan-2026 07:46:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnSelf.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnSelf.php on line 20
+[06-Jan-2026 11:54:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnCallback.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnCallback.php on line 20
+[06-Jan-2026 12:42:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnValueMap.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnValueMap.php on line 22
+[19-Jan-2026 05:05:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/Exception.php on line 20
+[19-Jan-2026 08:14:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnSelf.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnSelf.php on line 20
+[19-Jan-2026 08:17:20 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnReference.php on line 19
+[19-Jan-2026 11:14:32 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnCallback.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnCallback.php on line 20
+[19-Jan-2026 11:17:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnStub.php on line 19
+[19-Jan-2026 13:26:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnArgument.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnArgument.php on line 19
+[19-Jan-2026 15:14:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnValueMap.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnValueMap.php on line 22
+[19-Jan-2026 15:16:50 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ConsecutiveCalls.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ConsecutiveCalls.php on line 22
+[27-Jan-2026 10:11:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 10:11:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnReference.php on line 19
+[27-Jan-2026 12:13:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 12:30:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 12:30:45 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/Exception.php on line 20
+[27-Jan-2026 14:18:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 14:18:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnValueMap.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnValueMap.php on line 22
+[27-Jan-2026 15:57:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 15:57:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ConsecutiveCalls.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ConsecutiveCalls.php on line 22
+[27-Jan-2026 16:21:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 16:21:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnCallback.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnCallback.php on line 20
+[27-Jan-2026 17:16:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 17:16:22 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnReference.php on line 19
+[27-Jan-2026 17:52:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 17:52:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnArgument.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnArgument.php on line 19
+[27-Jan-2026 20:07:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 20:07:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnSelf.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnSelf.php on line 20
+[27-Jan-2026 21:21:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 21:21:01 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnStub.php on line 19
+[05-Feb-2026 02:47:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 05:40:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 05:40:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnStub.php on line 19
+[05-Feb-2026 07:12:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 07:12:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnValueMap.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Stub/ReturnValueMap.php on line 22

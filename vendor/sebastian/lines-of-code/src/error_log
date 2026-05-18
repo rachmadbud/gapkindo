@@ -1,0 +1,173 @@
+[31-Oct-2025 12:36:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[16-Nov-2025 23:22:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[30-Nov-2025 05:13:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[10-Dec-2025 15:01:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[11-Dec-2025 18:30:34 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[16-Dec-2025 11:08:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[16-Dec-2025 14:35:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[16-Dec-2025 19:18:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[18-Dec-2025 12:43:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[21-Dec-2025 11:07:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[22-Dec-2025 14:49:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[03-Jan-2026 14:33:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[10-Jan-2026 14:00:05 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[10-Jan-2026 23:53:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[13-Jan-2026 23:42:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[18-Jan-2026 03:15:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[22-Jan-2026 00:44:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[22-Jan-2026 18:23:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[23-Jan-2026 01:59:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[23-Jan-2026 05:34:49 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[23-Jan-2026 15:59:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[25-Jan-2026 02:56:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[26-Jan-2026 04:55:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[29-Jan-2026 21:10:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 19:32:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 19:32:56 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[31-Jan-2026 00:48:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 00:48:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[31-Jan-2026 03:36:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 03:36:52 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[31-Jan-2026 04:51:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:32:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:32:02 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[31-Jan-2026 10:34:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 12:29:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 12:29:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[31-Jan-2026 16:56:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 21:24:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:25:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:25:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[03-Feb-2026 10:20:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 10:20:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[03-Feb-2026 14:15:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 14:15:18 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[11-Feb-2026 10:39:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 10:39:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[13-Feb-2026 18:36:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 23:32:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 03:25:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:09:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:09:18 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[14-Feb-2026 09:30:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:30:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[16-Feb-2026 14:58:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:23:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 12:26:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 12:55:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 12:55:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[20-Feb-2026 00:21:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:21:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[20-Feb-2026 19:28:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 19:28:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21

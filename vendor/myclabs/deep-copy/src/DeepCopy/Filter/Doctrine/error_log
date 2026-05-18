@@ -1,0 +1,183 @@
+[04-Nov-2025 08:14:01 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[04-Nov-2025 11:55:23 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[18-Dec-2025 20:38:50 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[18-Dec-2025 20:38:57 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[18-Dec-2025 20:39:04 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[19-Dec-2025 18:00:41 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[19-Dec-2025 18:01:02 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[20-Dec-2025 05:11:27 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[01-Jan-2026 16:14:47 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[02-Jan-2026 08:00:22 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[02-Jan-2026 14:21:37 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[06-Jan-2026 20:49:35 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[09-Jan-2026 00:10:33 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[09-Jan-2026 19:11:46 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[25-Jan-2026 17:10:11 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[25-Jan-2026 23:43:50 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[26-Jan-2026 01:10:15 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[02-Feb-2026 18:31:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 18:31:25 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[03-Feb-2026 09:00:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:00:14 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[03-Feb-2026 09:00:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:00:14 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[03-Feb-2026 09:00:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:00:16 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[03-Feb-2026 09:32:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:32:06 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[03-Feb-2026 13:05:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 13:05:13 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[03-Feb-2026 13:05:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 13:05:21 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[03-Feb-2026 13:05:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 13:05:34 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[05-Feb-2026 03:54:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 03:54:17 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[13-Feb-2026 04:58:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 04:58:40 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[13-Feb-2026 05:47:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 05:47:33 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[13-Feb-2026 05:55:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 05:55:02 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[15-Feb-2026 14:05:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 14:05:26 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[15-Feb-2026 14:05:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 14:05:36 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[15-Feb-2026 15:55:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 15:55:50 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[17-Feb-2026 10:39:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 10:39:36 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[19-Feb-2026 04:14:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 04:14:13 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[19-Feb-2026 07:56:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 07:56:11 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[22-Feb-2026 03:33:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 03:33:07 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[22-Feb-2026 06:14:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 06:14:58 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[22-Feb-2026 07:59:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 07:59:23 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[22-Feb-2026 08:51:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 08:51:48 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[22-Feb-2026 09:56:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 09:56:49 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12

@@ -1,0 +1,43 @@
+[01-Nov-2025 01:19:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Util\PHP\AbstractPhpProcess" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php on line 31
+[17-Dec-2025 19:26:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Util\PHP\AbstractPhpProcess" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php on line 31
+[27-Dec-2025 07:25:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Util\PHP\AbstractPhpProcess" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php on line 31
+[27-Dec-2025 22:27:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Util\PHP\AbstractPhpProcess" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php on line 31
+[31-Dec-2025 04:09:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Util\PHP\AbstractPhpProcess" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php on line 31
+[17-Jan-2026 11:00:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Util\PHP\AbstractPhpProcess" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php on line 31
+[17-Jan-2026 14:54:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Util\PHP\AbstractPhpProcess" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php on line 31
+[25-Jan-2026 03:46:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Util\PHP\AbstractPhpProcess" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php on line 31
+[28-Jan-2026 05:40:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 05:40:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Util\PHP\AbstractPhpProcess" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php on line 31
+[29-Jan-2026 04:37:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 22:44:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 22:44:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Util\PHP\AbstractPhpProcess" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/PHP/DefaultPhpProcess.php on line 31

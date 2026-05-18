@@ -1,0 +1,176 @@
+[31-Oct-2025 00:15:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php on line 20
+[31-Oct-2025 08:14:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php on line 17
+[16-Nov-2025 13:46:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php on line 17
+[16-Nov-2025 13:47:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php on line 20
+[27-Nov-2025 07:13:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php on line 17
+[02-Dec-2025 15:58:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php on line 20
+[02-Dec-2025 17:05:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php on line 17
+[10-Dec-2025 00:22:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php on line 17
+[10-Dec-2025 04:46:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php on line 20
+[12-Dec-2025 02:21:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php on line 20
+[12-Dec-2025 15:34:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php on line 17
+[14-Dec-2025 03:37:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php on line 17
+[14-Dec-2025 03:39:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php on line 20
+[18-Dec-2025 12:01:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php on line 20
+[18-Dec-2025 12:01:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php on line 17
+[19-Dec-2025 05:55:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php on line 17
+[19-Dec-2025 05:57:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php on line 20
+[19-Dec-2025 19:16:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php on line 20
+[21-Dec-2025 16:51:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php on line 17
+[21-Dec-2025 16:52:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php on line 20
+[22-Dec-2025 11:17:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php on line 20
+[12-Jan-2026 18:36:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php on line 17
+[13-Jan-2026 07:50:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php on line 20
+[13-Jan-2026 23:58:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php on line 17
+[14-Jan-2026 03:11:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php on line 20
+[20-Jan-2026 02:03:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php on line 20
+[20-Jan-2026 14:51:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php on line 17
+[23-Jan-2026 07:41:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php on line 20
+[23-Jan-2026 20:15:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php on line 17
+[30-Jan-2026 15:25:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:25:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php on line 20
+[30-Jan-2026 15:26:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:26:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php on line 17
+[30-Jan-2026 15:27:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 04:17:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 04:17:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php on line 20
+[31-Jan-2026 04:17:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 04:17:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php on line 17
+[31-Jan-2026 04:19:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 19:23:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 19:23:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php on line 20
+[02-Feb-2026 19:23:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 19:23:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php on line 17
+[02-Feb-2026 19:59:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 19:59:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php on line 20
+[02-Feb-2026 19:59:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 19:59:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php on line 17
+[05-Feb-2026 04:47:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 04:04:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 04:04:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php on line 17
+[11-Feb-2026 07:28:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 07:28:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/LeagueHtmlToMarkdownConverter.php on line 20
+[11-Feb-2026 13:13:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 15:59:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 06:22:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 06:22:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\HtmlToTextConverter\HtmlToTextConverterInterface" not found in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/HtmlToTextConverter/DefaultHtmlToTextConverter.php on line 17

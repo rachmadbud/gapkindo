@@ -1,0 +1,504 @@
+[30-Nov-2025 16:24:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php on line 10
+[30-Nov-2025 18:53:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Style\SymfonyStyle" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php on line 11
+[02-Dec-2025 15:58:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php on line 21
+[04-Dec-2025 19:42:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php on line 13
+[05-Dec-2025 02:50:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php on line 7
+[14-Dec-2025 01:13:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php on line 13
+[16-Dec-2025 11:28:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Style\SymfonyStyle" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php on line 11
+[16-Dec-2025 15:44:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php on line 12
+[16-Dec-2025 17:03:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php on line 10
+[16-Dec-2025 19:31:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\SymfonyQuestionHelper" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php on line 13
+[16-Dec-2025 19:49:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php on line 7
+[16-Dec-2025 20:43:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php on line 21
+[17-Dec-2025 00:46:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php on line 10
+[17-Dec-2025 03:15:41 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/CacheCommandMutex.php on line 11
+[17-Dec-2025 16:47:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php on line 10
+[17-Dec-2025 22:23:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php on line 7
+[17-Dec-2025 23:36:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\SymfonyQuestionHelper" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php on line 13
+[18-Dec-2025 02:59:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php on line 12
+[18-Dec-2025 03:47:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php on line 10
+[18-Dec-2025 06:44:33 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/CacheCommandMutex.php on line 11
+[18-Dec-2025 13:19:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php on line 13
+[18-Dec-2025 15:34:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Style\SymfonyStyle" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php on line 11
+[18-Dec-2025 16:52:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php on line 10
+[18-Dec-2025 16:53:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php on line 12
+[18-Dec-2025 16:53:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php on line 21
+[18-Dec-2025 16:53:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\SymfonyQuestionHelper" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php on line 13
+[18-Dec-2025 16:54:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php on line 7
+[18-Dec-2025 16:54:37 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/CacheCommandMutex.php on line 11
+[18-Dec-2025 16:54:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php on line 10
+[18-Dec-2025 16:55:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php on line 13
+[18-Dec-2025 16:55:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Style\SymfonyStyle" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php on line 11
+[19-Dec-2025 23:50:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\SymfonyQuestionHelper" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php on line 13
+[20-Dec-2025 14:42:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php on line 10
+[20-Dec-2025 14:52:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php on line 12
+[22-Dec-2025 11:07:54 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/CacheCommandMutex.php on line 11
+[13-Jan-2026 16:40:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\SymfonyQuestionHelper" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php on line 13
+[13-Jan-2026 16:42:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Style\SymfonyStyle" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php on line 11
+[13-Jan-2026 16:47:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php on line 10
+[13-Jan-2026 16:48:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php on line 13
+[13-Jan-2026 16:50:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php on line 21
+[13-Jan-2026 18:12:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php on line 10
+[13-Jan-2026 18:12:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php on line 12
+[13-Jan-2026 18:16:41 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/CacheCommandMutex.php on line 11
+[13-Jan-2026 18:17:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php on line 7
+[14-Jan-2026 10:46:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php on line 13
+[17-Jan-2026 17:59:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php on line 12
+[20-Jan-2026 08:01:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\SymfonyQuestionHelper" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php on line 13
+[20-Jan-2026 11:22:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php on line 10
+[20-Jan-2026 13:03:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php on line 7
+[20-Jan-2026 15:13:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Style\SymfonyStyle" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php on line 11
+[20-Jan-2026 15:57:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php on line 21
+[20-Jan-2026 18:36:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php on line 10
+[20-Jan-2026 21:12:09 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/CacheCommandMutex.php on line 11
+[20-Jan-2026 22:07:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php on line 12
+[23-Jan-2026 10:40:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php on line 21
+[23-Jan-2026 10:43:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php on line 13
+[23-Jan-2026 15:51:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Style\SymfonyStyle" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php on line 11
+[23-Jan-2026 18:27:52 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/CacheCommandMutex.php on line 11
+[27-Jan-2026 07:24:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 07:24:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php on line 13
+[27-Jan-2026 10:31:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 10:31:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php on line 10
+[27-Jan-2026 12:01:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 12:01:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\SymfonyQuestionHelper" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php on line 13
+[27-Jan-2026 17:04:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 17:04:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php on line 13
+[27-Jan-2026 18:34:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 18:34:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php on line 21
+[27-Jan-2026 21:48:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 21:48:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 21:48:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php on line 10
+[27-Jan-2026 22:34:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 19:13:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 19:57:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 19:57:05 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/CacheCommandMutex.php on line 11
+[28-Jan-2026 21:25:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 21:25:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php on line 12
+[28-Jan-2026 23:10:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 00:41:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 22:55:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 22:55:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Style\SymfonyStyle" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php on line 11
+[30-Jan-2026 10:14:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 18:25:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 18:25:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php on line 21
+[31-Jan-2026 05:24:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 05:24:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php on line 7
+[31-Jan-2026 06:49:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:49:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Style\SymfonyStyle" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php on line 11
+[31-Jan-2026 09:02:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 09:02:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\SymfonyQuestionHelper" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php on line 13
+[31-Jan-2026 10:29:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 10:29:42 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/CacheCommandMutex.php on line 11
+[31-Jan-2026 10:31:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 14:26:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 17:19:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 04:22:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 06:42:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 06:42:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php on line 10
+[01-Feb-2026 08:42:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 08:55:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 08:55:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php on line 7
+[01-Feb-2026 12:16:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 12:16:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php on line 10
+[01-Feb-2026 13:12:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 13:25:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 13:25:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php on line 7
+[01-Feb-2026 20:11:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 20:11:22 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/CacheCommandMutex.php on line 11
+[01-Feb-2026 21:47:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 21:47:49 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/CacheCommandMutex.php on line 11
+[01-Feb-2026 23:55:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:55:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php on line 12
+[02-Feb-2026 01:31:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:31:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php on line 12
+[02-Feb-2026 02:36:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:36:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php on line 10
+[02-Feb-2026 03:35:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 03:35:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Style\SymfonyStyle" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php on line 11
+[02-Feb-2026 04:11:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:11:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php on line 10
+[02-Feb-2026 05:39:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 05:39:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Style\SymfonyStyle" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php on line 11
+[02-Feb-2026 10:22:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:22:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php on line 21
+[02-Feb-2026 10:27:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:27:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\SymfonyQuestionHelper" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php on line 13
+[02-Feb-2026 10:39:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:39:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php on line 21
+[02-Feb-2026 10:53:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:53:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\SymfonyQuestionHelper" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php on line 13
+[02-Feb-2026 17:54:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:54:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 20:17:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 20:59:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 00:13:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 00:39:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:42:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:42:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php on line 13
+[03-Feb-2026 02:56:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 03:15:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:13:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:13:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php on line 13
+[04-Feb-2026 14:06:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 14:06:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php on line 10
+[04-Feb-2026 15:43:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 22:33:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 22:33:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php on line 10
+[04-Feb-2026 22:38:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 22:38:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php on line 12
+[05-Feb-2026 02:18:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 02:18:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php on line 7
+[07-Feb-2026 16:51:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 16:51:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php on line 10
+[07-Feb-2026 18:21:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 08:50:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 08:50:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php on line 10
+[12-Feb-2026 20:20:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 20:20:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php on line 10
+[12-Feb-2026 21:22:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 21:22:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php on line 12
+[13-Feb-2026 01:22:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 03:24:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 03:24:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php on line 7
+[14-Feb-2026 15:50:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 15:50:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php on line 10
+[14-Feb-2026 21:19:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:19:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php on line 10
+[16-Feb-2026 12:27:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 12:27:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php on line 7
+[16-Feb-2026 13:10:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:10:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php on line 10
+[16-Feb-2026 13:38:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:38:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php on line 21
+[16-Feb-2026 13:42:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 14:00:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:34:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:34:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Style\SymfonyStyle" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php on line 11
+[16-Feb-2026 17:26:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:26:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/ContainerCommandLoader.php on line 10
+[16-Feb-2026 18:39:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:39:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\SymfonyQuestionHelper" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/QuestionHelper.php on line 13
+[16-Feb-2026 18:46:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:46:13 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/CacheCommandMutex.php on line 11
+[16-Feb-2026 18:56:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:56:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php on line 13
+[16-Feb-2026 20:59:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:17:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:17:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php on line 12
+[17-Feb-2026 07:08:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 07:08:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php on line 10
+[18-Feb-2026 16:51:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 16:51:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php on line 10
+[20-Feb-2026 02:14:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 02:14:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/MigrationGeneratorCommand.php on line 10
+[21-Feb-2026 18:45:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 18:45:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 18:45:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 18:46:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 18:46:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 07:23:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 09:15:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

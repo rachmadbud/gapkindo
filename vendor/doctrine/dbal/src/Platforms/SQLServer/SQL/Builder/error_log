@@ -1,0 +1,30 @@
+[18-Dec-2025 23:48:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Builder\SelectSQLBuilder" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/SQLServer/SQL/Builder/SQLServerSelectSQLBuilder.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/SQLServer/SQL/Builder/SQLServerSelectSQLBuilder.php on line 15
+[19-Dec-2025 20:44:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Builder\SelectSQLBuilder" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/SQLServer/SQL/Builder/SQLServerSelectSQLBuilder.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/SQLServer/SQL/Builder/SQLServerSelectSQLBuilder.php on line 15
+[25-Dec-2025 15:25:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Builder\SelectSQLBuilder" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/SQLServer/SQL/Builder/SQLServerSelectSQLBuilder.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/SQLServer/SQL/Builder/SQLServerSelectSQLBuilder.php on line 15
+[05-Jan-2026 13:56:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Builder\SelectSQLBuilder" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/SQLServer/SQL/Builder/SQLServerSelectSQLBuilder.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/SQLServer/SQL/Builder/SQLServerSelectSQLBuilder.php on line 15
+[06-Jan-2026 07:58:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Builder\SelectSQLBuilder" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/SQLServer/SQL/Builder/SQLServerSelectSQLBuilder.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/SQLServer/SQL/Builder/SQLServerSelectSQLBuilder.php on line 15
+[27-Jan-2026 20:17:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 20:17:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Builder\SelectSQLBuilder" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/SQLServer/SQL/Builder/SQLServerSelectSQLBuilder.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/SQLServer/SQL/Builder/SQLServerSelectSQLBuilder.php on line 15
+[05-Feb-2026 17:07:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 17:07:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Builder\SelectSQLBuilder" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/SQLServer/SQL/Builder/SQLServerSelectSQLBuilder.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/SQLServer/SQL/Builder/SQLServerSelectSQLBuilder.php on line 15

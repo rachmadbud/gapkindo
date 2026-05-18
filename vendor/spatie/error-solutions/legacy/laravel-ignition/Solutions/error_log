@@ -1,0 +1,854 @@
+[16-Nov-2025 22:53:17 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\LivewireDiscoverSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php on line 8
+[16-Nov-2025 22:55:00 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestImportSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php on line 8
+[16-Nov-2025 22:55:38 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\RunMigrationsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php on line 8
+[16-Nov-2025 23:00:11 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\GenerateAppKeySolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php on line 8
+[17-Nov-2025 01:53:21 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingCorrectDbNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php on line 8
+[17-Nov-2025 01:56:48 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewireMethodNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php on line 8
+[17-Nov-2025 01:57:32 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\MakeViewVariableOptionalSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php on line 8
+[17-Nov-2025 02:24:47 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestCorrectVariableNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php on line 8
+[17-Nov-2025 02:34:43 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewirePropertyNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php on line 8
+[17-Nov-2025 02:37:49 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\UseDefaultValetDbCredentialsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php on line 8
+[17-Nov-2025 02:42:27 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMariadbDatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php on line 8
+[16-Dec-2025 14:23:58 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMysql8DatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php on line 8
+[16-Dec-2025 15:55:16 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\LivewireDiscoverSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php on line 8
+[16-Dec-2025 16:14:06 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMariadbDatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php on line 8
+[16-Dec-2025 16:31:52 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\RunMigrationsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php on line 8
+[16-Dec-2025 16:33:07 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingCorrectDbNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php on line 8
+[16-Dec-2025 16:57:50 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestImportSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php on line 8
+[16-Dec-2025 19:33:57 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewireMethodNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php on line 8
+[16-Dec-2025 19:44:49 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\MakeViewVariableOptionalSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php on line 8
+[16-Dec-2025 21:17:03 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\UseDefaultValetDbCredentialsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php on line 8
+[16-Dec-2025 22:07:31 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\GenerateAppKeySolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php on line 8
+[16-Dec-2025 23:24:00 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestCorrectVariableNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php on line 8
+[16-Dec-2025 23:50:08 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\UseDefaultValetDbCredentialsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php on line 8
+[17-Dec-2025 01:32:26 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewirePropertyNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php on line 8
+[17-Dec-2025 02:39:39 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMysql8DatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php on line 8
+[17-Dec-2025 02:39:47 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMariadbDatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php on line 8
+[17-Dec-2025 02:40:04 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingCorrectDbNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php on line 8
+[17-Dec-2025 02:40:35 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewirePropertyNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php on line 8
+[17-Dec-2025 02:41:44 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewireMethodNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php on line 8
+[17-Dec-2025 02:43:55 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestImportSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php on line 8
+[17-Dec-2025 02:48:31 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestCorrectVariableNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php on line 8
+[17-Dec-2025 03:15:30 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\RunMigrationsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php on line 8
+[17-Dec-2025 03:34:31 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\MakeViewVariableOptionalSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php on line 8
+[17-Dec-2025 06:33:41 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\LivewireDiscoverSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php on line 8
+[17-Dec-2025 06:33:49 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\GenerateAppKeySolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php on line 8
+[17-Dec-2025 16:30:31 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMysql8DatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php on line 8
+[17-Dec-2025 17:49:19 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\MakeViewVariableOptionalSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php on line 8
+[17-Dec-2025 20:16:35 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMariadbDatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php on line 8
+[17-Dec-2025 20:17:00 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\UseDefaultValetDbCredentialsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php on line 8
+[17-Dec-2025 23:23:06 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestCorrectVariableNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php on line 8
+[18-Dec-2025 01:45:14 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewireMethodNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php on line 8
+[18-Dec-2025 02:45:54 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestImportSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php on line 8
+[18-Dec-2025 03:31:21 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\RunMigrationsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php on line 8
+[18-Dec-2025 03:31:48 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewirePropertyNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php on line 8
+[18-Dec-2025 07:06:11 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingCorrectDbNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php on line 8
+[18-Dec-2025 09:53:54 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\LivewireDiscoverSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php on line 8
+[18-Dec-2025 20:27:23 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestImportSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php on line 8
+[18-Dec-2025 20:27:29 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestCorrectVariableNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php on line 8
+[18-Dec-2025 20:27:36 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingCorrectDbNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php on line 8
+[18-Dec-2025 20:27:42 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\RunMigrationsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php on line 8
+[18-Dec-2025 20:27:57 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\UseDefaultValetDbCredentialsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php on line 8
+[18-Dec-2025 20:28:04 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\GenerateAppKeySolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php on line 8
+[18-Dec-2025 20:28:20 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\LivewireDiscoverSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php on line 8
+[18-Dec-2025 20:28:27 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewireMethodNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php on line 8
+[18-Dec-2025 20:28:34 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewirePropertyNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php on line 8
+[18-Dec-2025 20:28:39 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\MakeViewVariableOptionalSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php on line 8
+[18-Dec-2025 20:28:48 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMysql8DatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php on line 8
+[27-Dec-2025 16:24:29 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewirePropertyNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php on line 8
+[27-Dec-2025 19:37:29 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewireMethodNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php on line 8
+[27-Dec-2025 22:28:19 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\LivewireDiscoverSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php on line 8
+[27-Dec-2025 22:29:29 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestCorrectVariableNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php on line 8
+[28-Dec-2025 01:23:08 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\RunMigrationsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php on line 8
+[28-Dec-2025 03:18:43 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\UseDefaultValetDbCredentialsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php on line 8
+[28-Dec-2025 07:15:29 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMariadbDatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php on line 8
+[28-Dec-2025 10:51:23 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestImportSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php on line 8
+[28-Dec-2025 11:37:53 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\GenerateAppKeySolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php on line 8
+[28-Dec-2025 13:24:48 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingCorrectDbNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php on line 8
+[28-Dec-2025 13:26:07 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMysql8DatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php on line 8
+[28-Dec-2025 15:52:59 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\MakeViewVariableOptionalSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php on line 8
+[06-Jan-2026 02:33:54 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\LivewireDiscoverSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php on line 8
+[06-Jan-2026 03:36:08 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMariadbDatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php on line 8
+[06-Jan-2026 04:00:32 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\UseDefaultValetDbCredentialsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php on line 8
+[08-Jan-2026 12:19:15 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewirePropertyNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php on line 8
+[08-Jan-2026 15:25:16 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\LivewireDiscoverSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php on line 8
+[08-Jan-2026 16:21:00 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\RunMigrationsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php on line 8
+[08-Jan-2026 18:15:47 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestCorrectVariableNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php on line 8
+[09-Jan-2026 13:28:28 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestImportSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php on line 8
+[09-Jan-2026 22:59:54 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewireMethodNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php on line 8
+[11-Jan-2026 08:12:24 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\MakeViewVariableOptionalSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php on line 8
+[11-Jan-2026 10:15:38 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMysql8DatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php on line 8
+[11-Jan-2026 10:23:18 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMariadbDatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php on line 8
+[11-Jan-2026 17:40:22 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\UseDefaultValetDbCredentialsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php on line 8
+[12-Jan-2026 09:09:20 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\GenerateAppKeySolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php on line 8
+[12-Jan-2026 10:52:31 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingCorrectDbNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php on line 8
+[18-Jan-2026 23:41:53 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\LivewireDiscoverSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php on line 8
+[19-Jan-2026 04:37:59 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\GenerateAppKeySolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php on line 8
+[19-Jan-2026 14:32:20 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewireMethodNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php on line 8
+[19-Jan-2026 14:34:51 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewirePropertyNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php on line 8
+[19-Jan-2026 14:37:22 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestCorrectVariableNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php on line 8
+[19-Jan-2026 16:18:16 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\MakeViewVariableOptionalSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php on line 8
+[19-Jan-2026 16:20:46 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingCorrectDbNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php on line 8
+[19-Jan-2026 16:23:17 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMariadbDatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php on line 8
+[19-Jan-2026 19:52:46 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMysql8DatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php on line 8
+[19-Jan-2026 20:57:04 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\UseDefaultValetDbCredentialsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php on line 8
+[20-Jan-2026 06:43:23 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\LivewireDiscoverSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php on line 8
+[20-Jan-2026 07:30:15 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMysql8DatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php on line 8
+[20-Jan-2026 07:30:25 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\RunMigrationsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php on line 8
+[20-Jan-2026 10:01:58 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingCorrectDbNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php on line 8
+[20-Jan-2026 10:17:17 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestCorrectVariableNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php on line 8
+[20-Jan-2026 12:22:35 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewirePropertyNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php on line 8
+[20-Jan-2026 12:57:21 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewireMethodNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php on line 8
+[20-Jan-2026 13:59:13 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\MakeViewVariableOptionalSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php on line 8
+[20-Jan-2026 14:50:49 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\UseDefaultValetDbCredentialsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php on line 8
+[20-Jan-2026 16:14:14 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\GenerateAppKeySolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php on line 8
+[20-Jan-2026 17:15:44 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMariadbDatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php on line 8
+[20-Jan-2026 17:44:45 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestImportSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php on line 8
+[30-Jan-2026 20:23:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 20:23:58 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\LivewireDiscoverSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php on line 8
+[30-Jan-2026 20:46:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 20:46:36 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestImportSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php on line 8
+[30-Jan-2026 21:01:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 21:01:00 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\RunMigrationsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php on line 8
+[30-Jan-2026 21:09:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 21:09:14 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\GenerateAppKeySolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php on line 8
+[31-Jan-2026 02:44:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 02:44:18 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingCorrectDbNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php on line 8
+[31-Jan-2026 02:44:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 02:44:45 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\MakeViewVariableOptionalSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php on line 8
+[31-Jan-2026 02:45:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 02:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewireMethodNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php on line 8
+[31-Jan-2026 03:47:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 03:47:04 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestCorrectVariableNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php on line 8
+[31-Jan-2026 04:01:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 04:01:41 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMariadbDatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php on line 8
+[31-Jan-2026 04:02:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 04:02:21 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\UseDefaultValetDbCredentialsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php on line 8
+[31-Jan-2026 04:03:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 04:03:23 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewirePropertyNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php on line 8
+[31-Jan-2026 06:17:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:17:37 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMysql8DatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php on line 8
+[31-Jan-2026 07:41:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 07:41:41 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\LivewireDiscoverSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php on line 8
+[31-Jan-2026 08:15:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 08:15:14 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestImportSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php on line 8
+[31-Jan-2026 08:16:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 08:16:09 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\RunMigrationsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php on line 8
+[31-Jan-2026 08:22:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 08:22:43 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\GenerateAppKeySolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php on line 8
+[31-Jan-2026 11:49:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 11:49:09 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\LivewireDiscoverSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php on line 8
+[31-Jan-2026 11:49:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 11:49:50 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\RunMigrationsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php on line 8
+[31-Jan-2026 11:50:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 11:50:56 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestImportSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php on line 8
+[31-Jan-2026 11:51:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 11:51:57 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\GenerateAppKeySolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php on line 8
+[31-Jan-2026 11:53:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 11:53:00 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\MakeViewVariableOptionalSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php on line 8
+[31-Jan-2026 11:54:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 11:54:03 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingCorrectDbNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php on line 8
+[31-Jan-2026 11:55:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 11:55:07 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewireMethodNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php on line 8
+[31-Jan-2026 11:56:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 11:56:09 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestCorrectVariableNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php on line 8
+[31-Jan-2026 11:57:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 11:57:12 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMariadbDatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php on line 8
+[31-Jan-2026 11:58:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 11:58:15 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\UseDefaultValetDbCredentialsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php on line 8
+[31-Jan-2026 11:59:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 11:59:16 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewirePropertyNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php on line 8
+[31-Jan-2026 15:06:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 15:06:21 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewireMethodNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php on line 8
+[31-Jan-2026 15:06:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 15:06:48 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\MakeViewVariableOptionalSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php on line 8
+[31-Jan-2026 15:07:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 15:07:51 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingCorrectDbNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php on line 8
+[31-Jan-2026 16:05:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 16:05:47 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestCorrectVariableNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php on line 8
+[31-Jan-2026 16:18:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 16:18:18 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMariadbDatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php on line 8
+[31-Jan-2026 16:19:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 16:19:05 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\UseDefaultValetDbCredentialsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php on line 8
+[31-Jan-2026 16:20:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 16:20:10 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewirePropertyNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php on line 8
+[31-Jan-2026 18:05:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 18:05:58 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMysql8DatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php on line 8
+[31-Jan-2026 19:15:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 19:15:15 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\RunMigrationsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php on line 8
+[31-Jan-2026 23:01:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 23:01:51 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\LivewireDiscoverSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php on line 8
+[31-Jan-2026 23:05:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 23:05:45 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestImportSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php on line 8
+[31-Jan-2026 23:06:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 23:06:46 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\RunMigrationsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php on line 8
+[31-Jan-2026 23:07:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 23:07:49 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\GenerateAppKeySolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php on line 8
+[31-Jan-2026 23:08:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 23:08:53 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewireMethodNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php on line 8
+[31-Jan-2026 23:09:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 23:09:56 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\MakeViewVariableOptionalSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php on line 8
+[31-Jan-2026 23:10:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 23:10:58 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingCorrectDbNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php on line 8
+[31-Jan-2026 23:11:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 23:11:59 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestCorrectVariableNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php on line 8
+[31-Jan-2026 23:13:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 23:13:01 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMariadbDatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php on line 8
+[31-Jan-2026 23:14:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 23:14:05 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\UseDefaultValetDbCredentialsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php on line 8
+[31-Jan-2026 23:15:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 23:15:08 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewirePropertyNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php on line 8
+[04-Feb-2026 19:50:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 19:50:46 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestImportSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php on line 8
+[04-Feb-2026 23:42:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 23:42:13 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\RunMigrationsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php on line 8
+[05-Feb-2026 02:24:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 02:24:54 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\GenerateAppKeySolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php on line 8
+[05-Feb-2026 07:08:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 07:08:28 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewireMethodNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php on line 8
+[05-Feb-2026 07:47:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 07:47:28 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\MakeViewVariableOptionalSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php on line 8
+[05-Feb-2026 07:49:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 07:49:59 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingCorrectDbNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php on line 8
+[07-Feb-2026 00:32:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 00:32:38 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMysql8DatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php on line 8
+[07-Feb-2026 02:40:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 02:40:28 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewireMethodNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php on line 8
+[12-Feb-2026 13:26:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 13:26:54 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestCorrectVariableNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php on line 8
+[14-Feb-2026 01:14:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 01:14:59 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingCorrectDbNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php on line 8
+[14-Feb-2026 03:23:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 03:23:18 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewireMethodNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php on line 8
+[14-Feb-2026 15:30:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 15:30:18 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMariadbDatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php on line 8
+[14-Feb-2026 16:14:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 16:14:22 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMysql8DatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php on line 8
+[15-Feb-2026 00:15:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 00:15:50 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\MakeViewVariableOptionalSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php on line 8
+[15-Feb-2026 08:41:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 08:41:19 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\UseDefaultValetDbCredentialsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php on line 8
+[15-Feb-2026 21:19:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:19:59 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\LivewireDiscoverSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php on line 8
+[16-Feb-2026 01:47:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 01:47:56 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\UseDefaultValetDbCredentialsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php on line 8
+[16-Feb-2026 02:32:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 02:32:40 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestImportSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php on line 8
+[16-Feb-2026 06:56:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 06:56:12 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\GenerateAppKeySolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php on line 8
+[16-Feb-2026 10:14:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 10:14:27 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewireMethodNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewireMethodNameSolution.php on line 8
+[16-Feb-2026 14:18:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 14:18:46 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMariadbDatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMariadbDatabaseSolution.php on line 8
+[16-Feb-2026 15:59:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:59:11 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\GenerateAppKeySolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php on line 8
+[16-Feb-2026 16:13:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:13:40 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestCorrectVariableNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestCorrectVariableNameSolution.php on line 8
+[16-Feb-2026 16:13:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:13:59 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\RunMigrationsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php on line 8
+[16-Feb-2026 17:33:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:33:50 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\MakeViewVariableOptionalSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/MakeViewVariableOptionalSolution.php on line 8
+[16-Feb-2026 18:04:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:04:30 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\LivewireDiscoverSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php on line 8
+[16-Feb-2026 18:15:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:15:11 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewirePropertyNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php on line 8
+[16-Feb-2026 18:38:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:38:16 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewirePropertyNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php on line 8
+[16-Feb-2026 19:22:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 19:22:05 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingMysql8DatabaseSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingMysql8DatabaseSolution.php on line 8
+[16-Feb-2026 20:08:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:08:16 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestUsingCorrectDbNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestUsingCorrectDbNameSolution.php on line 8
+[16-Feb-2026 20:36:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:36:24 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\UseDefaultValetDbCredentialsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php on line 8
+[16-Feb-2026 22:45:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\RunMigrationsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php on line 8
+[16-Feb-2026 22:52:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:52:31 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestImportSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php on line 8
+[18-Feb-2026 07:38:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 07:38:21 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\LivewireDiscoverSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/LivewireDiscoverSolution.php on line 8
+[19-Feb-2026 03:26:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 03:26:10 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\UseDefaultValetDbCredentialsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/UseDefaultValetDbCredentialsSolution.php on line 8
+[19-Feb-2026 04:10:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 04:10:27 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\SuggestImportSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestImportSolution.php on line 8
+[19-Feb-2026 08:36:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 08:36:13 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\GenerateAppKeySolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/GenerateAppKeySolution.php on line 8
+[19-Feb-2026 20:01:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 20:01:22 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\SuggestLivewirePropertyNameSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/SuggestLivewirePropertyNameSolution.php on line 8
+[20-Feb-2026 00:32:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:32:53 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\Laravel\RunMigrationsSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/laravel-ignition/Solutions/RunMigrationsSolution.php on line 8

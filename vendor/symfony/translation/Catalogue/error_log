@@ -1,0 +1,197 @@
+[31-Oct-2025 20:03:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[31-Oct-2025 20:39:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[17-Nov-2025 00:31:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[17-Nov-2025 03:48:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[17-Nov-2025 05:00:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[27-Nov-2025 06:40:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[29-Nov-2025 06:12:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[05-Dec-2025 10:41:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[05-Dec-2025 15:41:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[05-Dec-2025 19:35:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[08-Dec-2025 19:15:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[08-Dec-2025 19:23:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[08-Dec-2025 19:25:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[12-Dec-2025 01:16:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[12-Dec-2025 13:02:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[12-Dec-2025 13:04:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[13-Dec-2025 23:16:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[13-Dec-2025 23:17:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[14-Dec-2025 00:04:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[18-Dec-2025 11:52:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[18-Dec-2025 11:52:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[18-Dec-2025 11:52:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[20-Dec-2025 22:49:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[05-Jan-2026 10:16:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[05-Jan-2026 10:16:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[05-Jan-2026 11:14:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[07-Jan-2026 10:57:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[07-Jan-2026 11:34:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[15-Jan-2026 11:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[16-Jan-2026 23:07:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[18-Jan-2026 00:00:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[18-Jan-2026 11:19:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[18-Jan-2026 23:26:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[19-Jan-2026 07:52:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[19-Jan-2026 16:16:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[22-Jan-2026 16:07:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[27-Jan-2026 21:42:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 21:42:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[28-Jan-2026 00:04:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:17:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:17:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[31-Jan-2026 05:18:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 05:18:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[31-Jan-2026 05:30:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:28:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:28:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[02-Feb-2026 19:51:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 19:51:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[02-Feb-2026 19:52:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 19:52:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[02-Feb-2026 19:53:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 19:53:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[05-Feb-2026 21:52:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 00:22:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 00:22:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[06-Feb-2026 00:58:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 00:58:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[16-Feb-2026 13:19:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:19:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27

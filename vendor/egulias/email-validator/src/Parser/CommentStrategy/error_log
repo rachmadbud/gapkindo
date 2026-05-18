@@ -1,0 +1,225 @@
+[31-Oct-2025 21:52:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php on line 13
+[31-Oct-2025 21:53:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[16-Dec-2025 17:34:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php on line 13
+[16-Dec-2025 18:28:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[17-Dec-2025 18:55:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php on line 13
+[18-Dec-2025 07:18:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[18-Dec-2025 16:14:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[18-Dec-2025 16:14:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php on line 13
+[25-Dec-2025 19:10:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php on line 13
+[25-Dec-2025 19:10:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[27-Dec-2025 16:41:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php on line 13
+[28-Dec-2025 05:00:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[14-Jan-2026 19:12:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[15-Jan-2026 19:30:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php on line 13
+[18-Jan-2026 20:27:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php on line 13
+[19-Jan-2026 13:20:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[20-Jan-2026 10:59:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php on line 13
+[20-Jan-2026 11:51:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[20-Jan-2026 23:11:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php on line 13
+[21-Jan-2026 02:13:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[01-Feb-2026 12:02:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 12:02:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[01-Feb-2026 15:59:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 15:59:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[03-Feb-2026 01:20:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:20:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[03-Feb-2026 06:34:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:55:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:55:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php on line 13
+[03-Feb-2026 13:52:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 13:52:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php on line 13
+[04-Feb-2026 03:48:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 03:48:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 03:48:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php on line 13
+[04-Feb-2026 03:51:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 03:51:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[04-Feb-2026 14:42:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 20:50:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 20:50:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[04-Feb-2026 20:51:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 20:51:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php on line 13
+[08-Feb-2026 02:50:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 02:50:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php on line 13
+[14-Feb-2026 07:33:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:33:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[14-Feb-2026 07:36:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:48:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:48:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php on line 13
+[14-Feb-2026 09:23:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:23:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[14-Feb-2026 09:32:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:32:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php on line 13
+[14-Feb-2026 10:49:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:49:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[14-Feb-2026 12:41:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:41:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[14-Feb-2026 17:39:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:39:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[14-Feb-2026 21:12:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:12:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[15-Feb-2026 05:28:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:28:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[15-Feb-2026 10:50:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:50:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[15-Feb-2026 21:51:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:51:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[15-Feb-2026 21:54:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:54:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[16-Feb-2026 11:03:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:52:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:52:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php on line 13
+[16-Feb-2026 21:30:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 21:30:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[20-Feb-2026 00:11:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:11:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[20-Feb-2026 00:23:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:23:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php on line 13
+[20-Feb-2026 00:23:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:23:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php on line 13
+[20-Feb-2026 00:32:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:32:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Parser/CommentStrategy/LocalComment.php on line 13

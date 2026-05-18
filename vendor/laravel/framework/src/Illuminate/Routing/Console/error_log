@@ -1,0 +1,110 @@
+[11-Dec-2025 21:16:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php on line 10
+[18-Dec-2025 21:44:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 18
+[18-Dec-2025 21:44:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php on line 10
+[19-Dec-2025 20:48:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 18
+[20-Dec-2025 02:41:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php on line 10
+[21-Dec-2025 02:48:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php on line 10
+[21-Dec-2025 04:24:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 18
+[22-Dec-2025 05:12:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 18
+[20-Jan-2026 14:56:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php on line 10
+[20-Jan-2026 15:41:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 18
+[02-Feb-2026 08:18:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:18:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 18
+[02-Feb-2026 08:22:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:22:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php on line 10
+[02-Feb-2026 09:08:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:08:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 18
+[02-Feb-2026 09:11:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:11:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php on line 10
+[04-Feb-2026 10:08:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 10:08:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php on line 10
+[04-Feb-2026 10:38:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 10:38:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 18
+[05-Feb-2026 02:27:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 02:27:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php on line 10
+[05-Feb-2026 09:53:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 09:53:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 18
+[13-Feb-2026 01:24:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 01:24:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 18
+[13-Feb-2026 02:43:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 02:43:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php on line 10
+[14-Feb-2026 03:43:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 03:43:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 18
+[15-Feb-2026 11:46:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 11:46:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 18
+[16-Feb-2026 17:37:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:37:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 18
+[16-Feb-2026 18:49:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:49:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php on line 10

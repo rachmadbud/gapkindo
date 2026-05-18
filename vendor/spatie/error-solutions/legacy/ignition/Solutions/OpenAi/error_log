@@ -1,0 +1,255 @@
+[01-Nov-2025 23:13:36 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\DummyCache" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php on line 5
+[04-Nov-2025 11:08:04 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php on line 7
+[18-Dec-2025 23:01:18 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiPromptViewModel" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php on line 5
+[18-Dec-2025 23:01:25 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\DummyCache" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php on line 5
+[18-Dec-2025 23:01:36 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php on line 7
+[18-Dec-2025 23:01:43 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php on line 7
+[18-Dec-2025 23:01:48 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionResponse" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php on line 5
+[19-Dec-2025 15:38:18 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php on line 7
+[19-Dec-2025 18:28:33 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php on line 7
+[19-Dec-2025 21:43:08 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiPromptViewModel" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php on line 5
+[19-Dec-2025 21:45:37 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionResponse" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php on line 5
+[20-Dec-2025 05:45:26 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\DummyCache" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php on line 5
+[20-Dec-2025 18:46:49 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiPromptViewModel" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php on line 5
+[20-Dec-2025 20:45:42 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionResponse" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php on line 5
+[21-Dec-2025 07:26:33 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\DummyCache" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php on line 5
+[21-Dec-2025 11:30:59 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php on line 7
+[21-Dec-2025 11:31:28 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php on line 7
+[02-Jan-2026 07:57:00 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionResponse" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php on line 5
+[02-Jan-2026 08:28:42 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php on line 7
+[02-Jan-2026 09:30:04 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiPromptViewModel" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php on line 5
+[02-Jan-2026 11:17:43 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php on line 7
+[02-Jan-2026 15:46:43 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\DummyCache" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php on line 5
+[03-Jan-2026 00:01:24 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiPromptViewModel" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php on line 5
+[11-Jan-2026 05:24:39 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\DummyCache" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php on line 5
+[11-Jan-2026 05:24:55 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php on line 7
+[11-Jan-2026 05:43:19 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php on line 7
+[11-Jan-2026 05:43:34 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionResponse" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php on line 5
+[11-Jan-2026 05:56:32 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiPromptViewModel" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php on line 5
+[12-Jan-2026 09:29:22 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionResponse" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php on line 5
+[12-Jan-2026 09:29:38 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php on line 7
+[12-Jan-2026 09:30:19 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php on line 7
+[12-Jan-2026 09:31:18 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiPromptViewModel" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php on line 5
+[12-Jan-2026 09:33:23 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\DummyCache" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php on line 5
+[15-Jan-2026 17:26:42 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\DummyCache" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php on line 5
+[16-Jan-2026 08:12:05 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionResponse" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php on line 5
+[16-Jan-2026 08:18:51 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiPromptViewModel" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php on line 5
+[16-Jan-2026 11:26:11 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php on line 7
+[17-Jan-2026 01:15:17 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php on line 7
+[23-Jan-2026 22:00:08 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\DummyCache" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php on line 5
+[23-Jan-2026 22:02:39 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php on line 7
+[25-Jan-2026 16:04:20 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionResponse" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php on line 5
+[25-Jan-2026 22:48:42 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiPromptViewModel" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php on line 5
+[26-Jan-2026 01:02:34 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php on line 7
+[26-Jan-2026 01:03:04 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php on line 7
+[26-Jan-2026 01:26:14 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\DummyCache" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php on line 5
+[02-Feb-2026 11:12:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:12:40 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php on line 7
+[02-Feb-2026 11:13:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:13:13 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionResponse" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php on line 5
+[02-Feb-2026 11:14:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:14:17 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiPromptViewModel" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php on line 5
+[02-Feb-2026 11:15:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:15:23 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php on line 7
+[02-Feb-2026 11:16:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:16:24 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\DummyCache" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php on line 5
+[02-Feb-2026 11:28:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:28:00 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php on line 7
+[02-Feb-2026 11:28:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:28:29 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionResponse" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php on line 5
+[02-Feb-2026 11:29:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:29:30 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiPromptViewModel" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php on line 5
+[02-Feb-2026 11:30:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:30:34 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php on line 7
+[02-Feb-2026 11:31:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:31:35 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\DummyCache" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php on line 5
+[22-Feb-2026 00:35:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 00:35:07 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionProvider" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionProvider.php on line 7
+[22-Feb-2026 04:29:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:29:45 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiPromptViewModel" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiPromptViewModel.php on line 5
+[22-Feb-2026 05:02:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 05:02:20 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolution" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolution.php on line 7
+[22-Feb-2026 07:49:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 07:49:41 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\OpenAiSolutionResponse" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/OpenAiSolutionResponse.php on line 5
+[22-Feb-2026 10:24:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 10:24:18 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\ErrorSolutions\Solutions\OpenAi\DummyCache" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/legacy/ignition/Solutions/OpenAi/DummyCache.php on line 5

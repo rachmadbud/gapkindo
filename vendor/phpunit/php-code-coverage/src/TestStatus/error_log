@@ -1,0 +1,312 @@
+[13-Dec-2025 17:45:43 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[13-Dec-2025 18:35:56 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[13-Dec-2025 19:04:01 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[13-Dec-2025 19:45:44 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[14-Dec-2025 22:54:15 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[15-Dec-2025 01:29:01 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[15-Dec-2025 03:20:44 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[15-Dec-2025 05:06:39 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[18-Dec-2025 15:14:01 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[18-Dec-2025 15:14:09 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[18-Dec-2025 15:14:20 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[18-Dec-2025 15:14:32 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[19-Dec-2025 21:21:37 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[19-Dec-2025 22:00:32 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[19-Dec-2025 22:20:32 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[19-Dec-2025 22:39:14 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[24-Dec-2025 17:32:50 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[25-Dec-2025 00:36:24 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[25-Dec-2025 04:49:04 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[25-Dec-2025 14:51:01 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[26-Dec-2025 12:42:27 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[26-Dec-2025 12:43:07 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[26-Dec-2025 12:43:34 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[26-Dec-2025 12:44:30 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[14-Jan-2026 22:29:15 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[15-Jan-2026 14:07:45 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[16-Jan-2026 04:27:09 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[16-Jan-2026 06:27:17 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[17-Jan-2026 19:02:14 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[17-Jan-2026 22:42:00 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[18-Jan-2026 04:56:46 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[19-Jan-2026 19:17:53 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[20-Jan-2026 04:19:13 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[20-Jan-2026 08:46:31 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[20-Jan-2026 14:35:28 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[20-Jan-2026 19:22:39 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[20-Jan-2026 19:43:20 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[21-Jan-2026 04:33:30 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[21-Jan-2026 06:56:06 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[22-Jan-2026 14:51:21 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[23-Jan-2026 01:52:46 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[23-Jan-2026 02:39:25 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[23-Jan-2026 05:14:14 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[23-Jan-2026 10:06:29 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[26-Jan-2026 06:31:32 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[26-Jan-2026 07:17:53 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[26-Jan-2026 20:36:06 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[30-Jan-2026 00:11:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 00:11:09 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[31-Jan-2026 22:16:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 22:16:17 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[01-Feb-2026 00:09:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 00:09:58 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[01-Feb-2026 00:10:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 00:10:55 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[01-Feb-2026 03:04:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 03:04:43 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[01-Feb-2026 05:40:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 05:40:37 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[01-Feb-2026 05:44:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 05:44:28 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[01-Feb-2026 07:09:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 07:09:56 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[01-Feb-2026 07:12:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 07:12:03 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[01-Feb-2026 10:01:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 10:01:18 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[02-Feb-2026 05:25:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 06:31:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 12:31:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 12:31:41 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[02-Feb-2026 18:30:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 21:21:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 21:21:11 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[12-Feb-2026 20:28:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 20:28:53 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[13-Feb-2026 04:32:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 04:32:05 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[13-Feb-2026 14:38:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 14:38:25 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[13-Feb-2026 20:44:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 20:44:55 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[14-Feb-2026 13:18:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 13:18:33 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[14-Feb-2026 23:52:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 23:52:07 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[16-Feb-2026 11:55:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 11:55:18 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[16-Feb-2026 16:01:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:01:53 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[16-Feb-2026 16:11:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:11:26 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[16-Feb-2026 16:27:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:35:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:35:05 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[18-Feb-2026 13:44:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 13:44:32 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[21-Feb-2026 20:19:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 20:19:23 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15

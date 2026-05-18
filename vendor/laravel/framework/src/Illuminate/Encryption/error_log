@@ -1,0 +1,108 @@
+[04-Nov-2025 01:17:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Encryption\Encrypter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 11
+[30-Nov-2025 20:52:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 9
+[30-Nov-2025 23:22:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Encryption\Encrypter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 11
+[16-Dec-2025 12:22:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Encryption\Encrypter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 11
+[17-Dec-2025 00:23:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 9
+[17-Dec-2025 19:48:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Encryption\Encrypter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 11
+[18-Dec-2025 14:34:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 9
+[18-Dec-2025 16:42:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Encryption\Encrypter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 11
+[18-Dec-2025 16:42:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 9
+[13-Jan-2026 20:19:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 9
+[13-Jan-2026 20:19:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Encryption\Encrypter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 11
+[20-Jan-2026 07:29:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Encryption\Encrypter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 11
+[20-Jan-2026 11:09:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 9
+[23-Jan-2026 20:36:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 9
+[27-Jan-2026 12:01:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 12:01:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Encryption\Encrypter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 11
+[27-Jan-2026 23:24:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 02:26:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 02:26:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Encryption\Encrypter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 11
+[01-Feb-2026 09:35:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 09:35:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Encryption\Encrypter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 11
+[02-Feb-2026 17:41:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 02:03:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 02:03:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Encryption\Encrypter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 11
+[03-Feb-2026 07:31:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 11:18:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 14:12:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 14:12:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 9
+[03-Feb-2026 18:36:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 18:36:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 9
+[05-Feb-2026 03:51:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 03:51:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 9
+[13-Feb-2026 02:12:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:50:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:12:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:12:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 9
+[16-Feb-2026 22:44:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:44:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Encryption\Encrypter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 11
+[21-Feb-2026 19:15:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

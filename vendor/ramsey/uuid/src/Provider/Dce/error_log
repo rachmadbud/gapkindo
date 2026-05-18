@@ -1,0 +1,132 @@
+[16-Dec-2025 12:11:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[17-Dec-2025 18:43:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[18-Dec-2025 16:12:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[05-Jan-2026 23:29:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[20-Jan-2026 15:29:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[22-Jan-2026 03:20:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[22-Jan-2026 20:14:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[26-Jan-2026 03:30:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[29-Jan-2026 07:29:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 07:29:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[01-Feb-2026 09:20:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 09:20:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[02-Feb-2026 17:30:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:30:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[03-Feb-2026 18:07:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 18:07:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[14-Feb-2026 00:04:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 00:04:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[14-Feb-2026 00:04:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 00:04:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[14-Feb-2026 00:04:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 00:04:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[14-Feb-2026 02:35:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 02:35:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[14-Feb-2026 06:54:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 06:54:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[14-Feb-2026 09:10:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:10:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[14-Feb-2026 10:44:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:44:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[14-Feb-2026 12:27:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:27:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[14-Feb-2026 17:28:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:28:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[14-Feb-2026 21:00:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:00:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[15-Feb-2026 05:14:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:14:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[15-Feb-2026 10:35:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:35:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[15-Feb-2026 21:38:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:38:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[15-Feb-2026 21:39:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:39:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[16-Feb-2026 14:13:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 14:13:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[19-Feb-2026 23:53:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 23:53:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35

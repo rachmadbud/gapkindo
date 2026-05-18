@@ -1,0 +1,140 @@
+[05-Dec-2025 04:45:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php on line 9
+[05-Dec-2025 05:23:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php on line 10
+[05-Dec-2025 05:26:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php on line 10
+[05-Dec-2025 05:31:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php on line 14
+[05-Dec-2025 05:46:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php on line 9
+[18-Dec-2025 23:39:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php on line 9
+[18-Dec-2025 23:39:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php on line 9
+[18-Dec-2025 23:39:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php on line 14
+[18-Dec-2025 23:40:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php on line 10
+[18-Dec-2025 23:40:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php on line 10
+[19-Dec-2025 21:23:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php on line 10
+[19-Dec-2025 22:31:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php on line 9
+[20-Dec-2025 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php on line 14
+[22-Dec-2025 17:19:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php on line 10
+[23-Dec-2025 04:19:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php on line 9
+[24-Dec-2025 17:31:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php on line 9
+[24-Dec-2025 20:12:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php on line 9
+[24-Dec-2025 21:41:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php on line 14
+[25-Dec-2025 03:09:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php on line 10
+[25-Dec-2025 13:59:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php on line 10
+[25-Jan-2026 14:50:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php on line 9
+[25-Jan-2026 19:19:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php on line 9
+[26-Jan-2026 02:49:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php on line 10
+[26-Jan-2026 06:24:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php on line 10
+[26-Jan-2026 08:07:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php on line 14
+[04-Feb-2026 16:05:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:05:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php on line 14
+[05-Feb-2026 04:57:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 04:57:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php on line 10
+[05-Feb-2026 05:00:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 05:00:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php on line 9
+[05-Feb-2026 17:27:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 17:27:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php on line 10
+[05-Feb-2026 17:34:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 17:34:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php on line 10
+[22-Feb-2026 01:16:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 01:16:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php on line 9
+[22-Feb-2026 04:29:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:29:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php on line 9
+[22-Feb-2026 10:46:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 10:46:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php on line 10

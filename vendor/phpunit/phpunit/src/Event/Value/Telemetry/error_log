@@ -1,0 +1,181 @@
+[04-Nov-2025 11:31:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\StopWatch" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatchWithOffset.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatchWithOffset.php on line 22
+[04-Nov-2025 11:59:34 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\StopWatch" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatch.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatch.php on line 20
+[04-Nov-2025 12:02:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\GarbageCollectorStatusProvider" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php81GarbageCollectorStatusProvider.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php81GarbageCollectorStatusProvider.php on line 21
+[04-Nov-2025 14:58:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\MemoryMeter" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemMemoryMeter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemMemoryMeter.php on line 20
+[20-Dec-2025 16:16:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\StopWatch" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatch.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatch.php on line 20
+[20-Dec-2025 20:36:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\GarbageCollectorStatusProvider" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php81GarbageCollectorStatusProvider.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php81GarbageCollectorStatusProvider.php on line 21
+[21-Dec-2025 02:07:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\MemoryMeter" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemMemoryMeter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemMemoryMeter.php on line 20
+[21-Dec-2025 08:25:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\StopWatch" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatchWithOffset.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatchWithOffset.php on line 22
+[21-Dec-2025 10:43:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\GarbageCollectorStatusProvider" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php83GarbageCollectorStatusProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php83GarbageCollectorStatusProvider.php on line 19
+[31-Dec-2025 10:03:22 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\StopWatch" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatch.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatch.php on line 20
+[31-Dec-2025 10:50:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\MemoryMeter" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemMemoryMeter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemMemoryMeter.php on line 20
+[31-Dec-2025 13:22:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\StopWatch" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatchWithOffset.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatchWithOffset.php on line 22
+[31-Dec-2025 13:43:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\GarbageCollectorStatusProvider" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php81GarbageCollectorStatusProvider.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php81GarbageCollectorStatusProvider.php on line 21
+[31-Dec-2025 13:44:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\GarbageCollectorStatusProvider" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php83GarbageCollectorStatusProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php83GarbageCollectorStatusProvider.php on line 19
+[02-Jan-2026 01:55:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\GarbageCollectorStatusProvider" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php81GarbageCollectorStatusProvider.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php81GarbageCollectorStatusProvider.php on line 21
+[02-Jan-2026 05:50:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\StopWatch" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatchWithOffset.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatchWithOffset.php on line 22
+[02-Jan-2026 06:03:20 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\MemoryMeter" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemMemoryMeter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemMemoryMeter.php on line 20
+[02-Jan-2026 08:03:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\GarbageCollectorStatusProvider" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php83GarbageCollectorStatusProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php83GarbageCollectorStatusProvider.php on line 19
+[02-Jan-2026 14:27:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\StopWatch" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatch.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatch.php on line 20
+[19-Jan-2026 11:35:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\StopWatch" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatchWithOffset.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatchWithOffset.php on line 22
+[19-Jan-2026 19:19:51 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\GarbageCollectorStatusProvider" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php81GarbageCollectorStatusProvider.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php81GarbageCollectorStatusProvider.php on line 21
+[19-Jan-2026 19:22:22 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\GarbageCollectorStatusProvider" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php83GarbageCollectorStatusProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php83GarbageCollectorStatusProvider.php on line 19
+[21-Jan-2026 16:33:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\GarbageCollectorStatusProvider" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php81GarbageCollectorStatusProvider.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php81GarbageCollectorStatusProvider.php on line 21
+[22-Jan-2026 03:14:01 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\GarbageCollectorStatusProvider" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php83GarbageCollectorStatusProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php83GarbageCollectorStatusProvider.php on line 19
+[22-Jan-2026 06:58:06 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\StopWatch" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatchWithOffset.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatchWithOffset.php on line 22
+[22-Jan-2026 09:35:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\MemoryMeter" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemMemoryMeter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemMemoryMeter.php on line 20
+[24-Jan-2026 04:35:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\StopWatch" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatch.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatch.php on line 20
+[03-Feb-2026 10:19:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 10:20:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 10:20:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 19:40:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 01:54:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 01:54:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\StopWatch" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatch.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatch.php on line 20
+[04-Feb-2026 08:15:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 08:15:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\MemoryMeter" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemMemoryMeter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemMemoryMeter.php on line 20
+[05-Feb-2026 00:26:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 17:07:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 01:17:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 02:40:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 09:34:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 09:34:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\GarbageCollectorStatusProvider" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php83GarbageCollectorStatusProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php83GarbageCollectorStatusProvider.php on line 19
+[11-Feb-2026 16:34:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 16:34:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\StopWatch" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatchWithOffset.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatchWithOffset.php on line 22
+[11-Feb-2026 16:34:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 16:34:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\StopWatch" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatch.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatch.php on line 20
+[11-Feb-2026 16:35:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 16:35:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\MemoryMeter" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemMemoryMeter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemMemoryMeter.php on line 20
+[11-Feb-2026 16:36:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 16:38:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 16:40:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 16:42:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 16:42:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\GarbageCollectorStatusProvider" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php83GarbageCollectorStatusProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php83GarbageCollectorStatusProvider.php on line 19
+[11-Feb-2026 16:44:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 16:44:06 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\GarbageCollectorStatusProvider" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php81GarbageCollectorStatusProvider.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/Php81GarbageCollectorStatusProvider.php on line 21
+[11-Feb-2026 16:48:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 16:56:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 17:04:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 11:34:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 11:36:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 11:38:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 13:34:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 09:57:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 09:57:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\MemoryMeter" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemMemoryMeter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemMemoryMeter.php on line 20
+[15-Feb-2026 18:36:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 19:18:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:31:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 13:14:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 16:10:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 23:37:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 23:37:27 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Telemetry\StopWatch" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatch.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Telemetry/SystemStopWatch.php on line 20

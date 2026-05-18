@@ -1,0 +1,79 @@
+[03-Nov-2025 21:41:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\Time\Time" not found in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php on line 7
+[13-Dec-2025 13:10:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\Time\Time" not found in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php on line 7
+[15-Dec-2025 06:01:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\Time\Time" not found in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php on line 7
+[15-Dec-2025 17:13:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\Time\Time" not found in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php on line 7
+[18-Dec-2025 15:23:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\Time\Time" not found in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php on line 7
+[25-Dec-2025 05:33:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\Time\Time" not found in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php on line 7
+[02-Jan-2026 07:16:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\Time\Time" not found in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php on line 7
+[05-Jan-2026 18:54:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\Time\Time" not found in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php on line 7
+[16-Jan-2026 04:20:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\Time\Time" not found in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php on line 7
+[18-Jan-2026 00:51:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\Time\Time" not found in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php on line 7
+[26-Jan-2026 23:35:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\Time\Time" not found in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php on line 7
+[27-Jan-2026 00:29:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\Time\Time" not found in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php on line 7
+[30-Jan-2026 03:21:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 03:21:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\Time\Time" not found in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php on line 7
+[30-Jan-2026 04:15:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 04:15:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\Time\Time" not found in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php on line 7
+[01-Feb-2026 18:39:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 18:39:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\Time\Time" not found in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php on line 7
+[01-Feb-2026 20:45:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 20:45:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\Time\Time" not found in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php on line 7
+[02-Feb-2026 17:56:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:56:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\Time\Time" not found in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php on line 7
+[16-Feb-2026 17:11:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 23:23:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 23:23:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\Time\Time" not found in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/flare-client-php/src/Time/SystemTime.php on line 7

@@ -1,0 +1,145 @@
+[17-Dec-2025 10:03:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php on line 20
+[17-Dec-2025 10:04:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php on line 25
+[20-Dec-2025 17:19:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php on line 25
+[21-Dec-2025 00:42:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php on line 20
+[31-Dec-2025 09:03:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php on line 25
+[31-Dec-2025 10:50:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php on line 20
+[01-Jan-2026 19:24:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php on line 25
+[02-Jan-2026 01:00:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php on line 20
+[05-Jan-2026 01:53:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php on line 25
+[05-Jan-2026 23:11:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php on line 25
+[10-Jan-2026 07:18:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php on line 25
+[12-Jan-2026 19:57:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php on line 25
+[15-Jan-2026 19:40:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php on line 25
+[16-Jan-2026 10:38:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php on line 20
+[16-Jan-2026 17:51:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php on line 25
+[18-Jan-2026 14:40:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php on line 20
+[19-Jan-2026 03:09:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php on line 20
+[25-Jan-2026 02:54:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php on line 20
+[25-Jan-2026 06:37:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php on line 25
+[25-Jan-2026 22:59:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php on line 25
+[27-Jan-2026 07:43:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 07:43:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php on line 20
+[27-Jan-2026 20:07:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 20:07:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php on line 25
+[27-Jan-2026 21:50:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 21:50:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php on line 20
+[28-Jan-2026 03:04:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 03:04:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php on line 20
+[29-Jan-2026 22:06:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 22:06:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php on line 20
+[01-Feb-2026 11:40:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 11:40:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php on line 20
+[03-Feb-2026 19:22:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 19:22:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php on line 25
+[04-Feb-2026 08:05:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 08:05:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php on line 20
+[12-Feb-2026 17:56:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 17:56:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php on line 25
+[13-Feb-2026 16:07:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 16:07:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php on line 25
+[14-Feb-2026 20:37:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 20:37:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectHasProperty.php on line 20
+[15-Feb-2026 00:13:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 00:13:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php on line 25
+[20-Feb-2026 23:08:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 23:08:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php on line 25

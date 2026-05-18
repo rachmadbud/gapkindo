@@ -1,0 +1,84 @@
+[31-Oct-2025 22:57:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 29
+[15-Dec-2025 07:21:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 29
+[17-Dec-2025 02:24:15 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 29
+[17-Dec-2025 11:14:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 29
+[19-Dec-2025 00:16:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 29
+[19-Dec-2025 00:57:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 29
+[19-Dec-2025 03:02:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 29
+[19-Dec-2025 21:21:06 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 29
+[25-Dec-2025 14:56:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 29
+[27-Dec-2025 13:30:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 29
+[06-Jan-2026 13:59:33 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 29
+[07-Jan-2026 06:04:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 29
+[15-Jan-2026 03:17:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 29
+[15-Jan-2026 10:15:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 29
+[16-Jan-2026 10:48:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 29
+[16-Jan-2026 19:49:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 29
+[17-Jan-2026 18:59:28 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 29
+[18-Jan-2026 08:15:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 29
+[23-Jan-2026 21:07:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 29
+[23-Jan-2026 21:59:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 29
+[24-Jan-2026 01:44:01 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 29

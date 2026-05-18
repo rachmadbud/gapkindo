@@ -1,0 +1,223 @@
+[03-Nov-2025 20:45:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[03-Nov-2025 20:48:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php on line 21
+[03-Nov-2025 22:11:07 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockMethod.php on line 38
+[04-Nov-2025 01:14:23 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/Generator.php on line 69
+[20-Dec-2025 22:29:46 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/Generator.php on line 69
+[21-Dec-2025 06:05:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[21-Dec-2025 07:18:20 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockMethod.php on line 38
+[21-Dec-2025 15:08:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php on line 21
+[31-Dec-2025 10:48:58 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/Generator.php on line 69
+[31-Dec-2025 12:26:58 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockMethod.php on line 38
+[31-Dec-2025 12:27:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[31-Dec-2025 12:27:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php on line 21
+[01-Jan-2026 18:30:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php on line 21
+[01-Jan-2026 22:53:19 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockMethod.php on line 38
+[02-Jan-2026 02:26:08 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/Generator.php on line 69
+[02-Jan-2026 03:56:54 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockMethod.php on line 38
+[02-Jan-2026 09:19:35 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/Generator.php on line 69
+[02-Jan-2026 15:36:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[04-Jan-2026 17:32:32 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockMethod.php on line 38
+[04-Jan-2026 22:51:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[05-Jan-2026 03:10:55 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/Generator.php on line 69
+[05-Jan-2026 14:47:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php on line 21
+[06-Jan-2026 01:33:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php on line 21
+[06-Jan-2026 06:29:15 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/Generator.php on line 69
+[06-Jan-2026 09:20:41 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockMethod.php on line 38
+[07-Jan-2026 08:35:37 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockMethod.php on line 38
+[08-Jan-2026 03:19:24 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/Generator.php on line 69
+[08-Jan-2026 05:09:12 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockMethod.php on line 38
+[08-Jan-2026 17:45:50 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/Generator.php on line 69
+[09-Jan-2026 05:32:11 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockMethod.php on line 38
+[13-Jan-2026 12:32:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[14-Jan-2026 15:15:31 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[16-Jan-2026 04:32:12 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/Generator.php on line 69
+[16-Jan-2026 09:00:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[17-Jan-2026 10:01:45 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[18-Jan-2026 10:26:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php on line 21
+[18-Jan-2026 15:44:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[19-Jan-2026 00:16:42 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockMethod.php on line 38
+[19-Jan-2026 00:19:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[19-Jan-2026 00:21:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php on line 21
+[19-Jan-2026 05:04:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[19-Jan-2026 07:38:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php on line 21
+[24-Jan-2026 05:00:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php on line 21
+[25-Jan-2026 01:53:34 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockMethod.php on line 38
+[25-Jan-2026 03:45:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php on line 21
+[25-Jan-2026 04:33:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[25-Jan-2026 04:54:17 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/Generator.php on line 69
+[25-Jan-2026 18:22:52 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/Generator.php on line 69
+[25-Jan-2026 23:51:03 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockMethod.php on line 38
+[26-Jan-2026 22:19:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[28-Jan-2026 20:45:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 01:24:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 01:24:20 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[29-Jan-2026 12:14:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 02:05:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 02:05:38 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[04-Feb-2026 20:22:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 20:23:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 23:58:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 23:58:11 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockMethod.php on line 38
+[08-Feb-2026 05:40:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 05:40:03 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockMethod.php on line 38
+[09-Feb-2026 19:08:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 19:08:44 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockMethod.php on line 38
+[11-Feb-2026 17:25:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 17:25:10 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockMethod.php on line 38
+[12-Feb-2026 23:34:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 23:34:40 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockMethod.php on line 38
+[13-Feb-2026 07:56:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 07:56:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php on line 21
+[13-Feb-2026 14:13:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 14:13:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[13-Feb-2026 20:07:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 20:07:19 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockMethod.php on line 38
+[13-Feb-2026 23:41:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 23:41:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php on line 21
+[14-Feb-2026 11:18:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 11:18:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[15-Feb-2026 08:34:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 08:34:08 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/Generator.php on line 69
+[15-Feb-2026 11:51:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 11:51:53 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockMethod.php on line 38
+[16-Feb-2026 17:07:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:07:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:07:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:07:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[16-Feb-2026 17:07:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:08:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:08:03 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockMethod.php on line 38
+[16-Feb-2026 17:08:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:08:15 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php on line 21
+[16-Feb-2026 17:08:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:08:44 UTC] PHP Fatal error:  Trait "PHPUnit\Framework\MockObject\Generator\TemplateLoader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/Generator.php on line 69
+[19-Feb-2026 10:03:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 10:03:06 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[20-Feb-2026 07:03:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 07:03:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[21-Feb-2026 03:37:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 03:37:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[21-Feb-2026 12:21:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 12:21:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php on line 21
+[21-Feb-2026 19:40:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 19:40:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockClass.php on line 21
+[21-Feb-2026 20:16:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 20:16:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Generator\MockType" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Generator/MockTrait.php on line 21
+[22-Feb-2026 01:43:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

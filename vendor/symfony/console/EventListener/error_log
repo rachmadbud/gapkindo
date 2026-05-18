@@ -1,0 +1,111 @@
+[30-Oct-2025 08:38:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[17-Nov-2025 07:07:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[03-Dec-2025 17:15:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[10-Dec-2025 02:14:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[12-Dec-2025 07:55:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[13-Dec-2025 00:02:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[14-Dec-2025 00:30:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[18-Dec-2025 12:33:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[21-Dec-2025 17:48:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[05-Jan-2026 12:12:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[14-Jan-2026 00:42:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[16-Jan-2026 17:01:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[17-Jan-2026 19:02:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[22-Jan-2026 19:03:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[30-Jan-2026 22:27:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 22:27:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[31-Jan-2026 09:13:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 09:13:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[02-Feb-2026 11:36:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:36:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[02-Feb-2026 11:54:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:54:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[10-Feb-2026 19:25:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 19:25:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[11-Feb-2026 03:11:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:11:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[13-Feb-2026 06:47:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 06:47:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[14-Feb-2026 01:45:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 01:45:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[14-Feb-2026 08:36:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 08:36:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[14-Feb-2026 09:59:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:59:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[20-Feb-2026 01:22:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 01:22:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25

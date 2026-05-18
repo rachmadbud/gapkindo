@@ -1,0 +1,109 @@
+[04-Nov-2025 11:31:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[04-Nov-2025 11:39:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[16-Dec-2025 16:26:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[17-Dec-2025 00:27:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[18-Dec-2025 20:19:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[18-Dec-2025 20:19:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[27-Dec-2025 18:18:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[28-Dec-2025 13:32:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[08-Jan-2026 18:11:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[08-Jan-2026 18:11:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[11-Jan-2026 04:32:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[11-Jan-2026 04:55:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[20-Jan-2026 07:55:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[20-Jan-2026 16:50:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[23-Jan-2026 15:10:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[26-Jan-2026 05:30:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[01-Feb-2026 12:01:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 12:01:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[01-Feb-2026 16:00:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 16:00:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[03-Feb-2026 02:54:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 02:54:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[03-Feb-2026 09:52:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:52:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[03-Feb-2026 13:54:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 13:54:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[08-Feb-2026 12:20:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 12:20:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[08-Feb-2026 17:31:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 17:31:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[09-Feb-2026 15:11:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 15:11:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[16-Feb-2026 18:58:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:58:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8

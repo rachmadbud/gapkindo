@@ -1,0 +1,420 @@
+[31-Oct-2025 13:57:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[31-Oct-2025 14:26:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[31-Oct-2025 22:37:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Cache\Marshaller\MarshallerInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[31-Oct-2025 23:25:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[16-Dec-2025 12:10:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[16-Dec-2025 18:55:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[16-Dec-2025 19:01:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[16-Dec-2025 21:14:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[16-Dec-2025 21:29:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[16-Dec-2025 22:20:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Cache\Marshaller\MarshallerInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[16-Dec-2025 23:05:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 29
+[18-Dec-2025 18:01:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Cache\Marshaller\MarshallerInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[18-Dec-2025 18:01:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[18-Dec-2025 18:01:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[18-Dec-2025 18:01:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[18-Dec-2025 18:01:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[18-Dec-2025 18:01:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[18-Dec-2025 18:01:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 29
+[25-Dec-2025 17:53:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Cache\Marshaller\MarshallerInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[25-Dec-2025 18:20:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[25-Dec-2025 18:20:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[25-Dec-2025 18:20:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[25-Dec-2025 18:46:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[25-Dec-2025 19:18:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[25-Dec-2025 19:33:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 29
+[27-Dec-2025 19:44:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[28-Dec-2025 00:57:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[28-Dec-2025 01:28:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[28-Dec-2025 03:23:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 29
+[28-Dec-2025 05:52:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Cache\Marshaller\MarshallerInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[28-Dec-2025 07:21:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[28-Dec-2025 14:45:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[14-Jan-2026 23:18:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 29
+[15-Jan-2026 00:26:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[15-Jan-2026 03:58:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[15-Jan-2026 04:00:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[15-Jan-2026 04:01:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[15-Jan-2026 04:04:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[15-Jan-2026 04:20:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Cache\Marshaller\MarshallerInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[20-Jan-2026 08:14:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[20-Jan-2026 08:29:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[20-Jan-2026 12:13:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[20-Jan-2026 12:50:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[20-Jan-2026 13:29:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Cache\Marshaller\MarshallerInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[20-Jan-2026 15:51:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[20-Jan-2026 19:36:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 29
+[21-Jan-2026 07:42:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[21-Jan-2026 19:07:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[22-Jan-2026 02:36:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[23-Jan-2026 09:07:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[23-Jan-2026 09:43:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[23-Jan-2026 22:57:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[24-Jan-2026 07:54:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 29
+[25-Jan-2026 02:04:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Cache\Marshaller\MarshallerInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[25-Jan-2026 16:17:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[25-Jan-2026 22:32:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[27-Jan-2026 08:09:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 08:09:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 29
+[27-Jan-2026 09:46:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 09:46:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[27-Jan-2026 17:59:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 17:59:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Cache\Marshaller\MarshallerInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[29-Jan-2026 03:45:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 03:45:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[30-Jan-2026 01:44:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 09:31:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 09:31:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[01-Feb-2026 09:32:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 09:33:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 09:33:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[01-Feb-2026 09:39:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 09:39:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[01-Feb-2026 12:07:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 14:04:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 14:04:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[01-Feb-2026 14:05:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 14:07:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 14:07:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[01-Feb-2026 14:15:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 14:15:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[01-Feb-2026 16:04:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 21:26:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:11:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 12:55:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 12:55:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[03-Feb-2026 04:53:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:56:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:10:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:10:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Cache\Marshaller\MarshallerInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[03-Feb-2026 05:38:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:38:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[03-Feb-2026 05:39:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:39:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 29
+[03-Feb-2026 05:40:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 07:19:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 08:11:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 08:42:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 08:42:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Cache\Marshaller\MarshallerInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[03-Feb-2026 09:09:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:09:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 29
+[03-Feb-2026 09:10:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:11:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:11:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[03-Feb-2026 10:27:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 10:27:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[03-Feb-2026 10:32:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 10:32:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[03-Feb-2026 10:34:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 10:34:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[03-Feb-2026 10:37:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 10:37:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[03-Feb-2026 14:27:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 14:27:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[03-Feb-2026 19:55:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 20:03:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 20:04:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 20:04:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[03-Feb-2026 20:06:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 23:36:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 00:19:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 00:19:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[04-Feb-2026 02:12:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 14:53:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 14:54:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 14:54:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 29
+[05-Feb-2026 09:54:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 10:44:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 14:11:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 14:11:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[07-Feb-2026 03:27:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 03:27:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[16-Feb-2026 13:31:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:31:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[16-Feb-2026 15:03:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:27:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:33:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:41:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:41:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[16-Feb-2026 20:58:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 21:50:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 21:50:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 29
+[17-Feb-2026 00:35:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 00:35:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Cache\Marshaller\MarshallerInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[22-Feb-2026 04:12:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:12:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[22-Feb-2026 06:36:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 08:16:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 08:16:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[22-Feb-2026 09:42:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 09:42:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22

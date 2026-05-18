@@ -1,0 +1,323 @@
+[13-Dec-2025 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Parser\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php on line 12
+[13-Dec-2025 15:05:52 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractException" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php on line 14
+[13-Dec-2025 16:06:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php on line 30
+[13-Dec-2025 16:07:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php on line 29
+[13-Dec-2025 16:53:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php on line 35
+[13-Dec-2025 19:17:41 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractPostgreSQLDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php on line 25
+[16-Dec-2025 00:22:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php on line 30
+[16-Dec-2025 00:23:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php on line 35
+[16-Dec-2025 00:28:23 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractException" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php on line 14
+[16-Dec-2025 00:32:58 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractPostgreSQLDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php on line 25
+[16-Dec-2025 00:37:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Parser\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php on line 12
+[16-Dec-2025 00:42:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php on line 29
+[17-Dec-2025 16:38:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php on line 30
+[17-Dec-2025 20:24:05 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractPostgreSQLDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php on line 25
+[18-Dec-2025 05:12:34 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractException" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php on line 14
+[18-Dec-2025 05:13:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php on line 35
+[18-Dec-2025 09:01:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php on line 29
+[18-Dec-2025 09:01:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Parser\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php on line 12
+[18-Dec-2025 17:51:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Parser\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php on line 12
+[18-Dec-2025 17:51:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php on line 30
+[18-Dec-2025 17:51:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php on line 35
+[18-Dec-2025 17:51:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php on line 29
+[18-Dec-2025 17:51:52 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractException" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php on line 14
+[18-Dec-2025 17:52:02 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractPostgreSQLDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php on line 25
+[27-Dec-2025 21:20:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php on line 29
+[27-Dec-2025 21:22:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php on line 30
+[28-Dec-2025 00:06:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php on line 35
+[28-Dec-2025 05:56:46 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractPostgreSQLDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php on line 25
+[28-Dec-2025 06:47:30 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractException" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php on line 14
+[28-Dec-2025 07:26:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Parser\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php on line 12
+[14-Jan-2026 01:57:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Parser\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php on line 12
+[14-Jan-2026 02:32:20 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractPostgreSQLDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php on line 25
+[14-Jan-2026 04:52:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php on line 29
+[14-Jan-2026 05:51:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php on line 30
+[14-Jan-2026 08:27:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php on line 35
+[15-Jan-2026 05:53:00 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractException" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php on line 14
+[17-Jan-2026 04:34:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php on line 29
+[17-Jan-2026 05:23:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php on line 35
+[17-Jan-2026 12:07:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Parser\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php on line 12
+[17-Jan-2026 12:44:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php on line 30
+[17-Jan-2026 13:10:31 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractPostgreSQLDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php on line 25
+[17-Jan-2026 14:50:10 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractException" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php on line 14
+[25-Jan-2026 06:43:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Parser\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php on line 12
+[26-Jan-2026 00:19:18 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractPostgreSQLDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php on line 25
+[26-Jan-2026 05:48:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php on line 35
+[26-Jan-2026 16:04:59 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractException" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php on line 14
+[26-Jan-2026 23:29:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php on line 29
+[29-Jan-2026 04:22:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 04:22:05 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractPostgreSQLDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php on line 25
+[29-Jan-2026 09:40:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 09:40:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php on line 35
+[29-Jan-2026 18:57:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 18:57:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php on line 30
+[29-Jan-2026 19:33:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 19:33:44 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractException" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php on line 14
+[29-Jan-2026 20:19:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 20:19:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php on line 30
+[30-Jan-2026 03:16:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 03:16:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php on line 29
+[31-Jan-2026 06:49:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:49:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php on line 29
+[31-Jan-2026 13:35:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 13:35:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Parser\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php on line 12
+[02-Feb-2026 01:03:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:03:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php on line 35
+[02-Feb-2026 20:09:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 20:09:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Parser\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php on line 12
+[03-Feb-2026 04:14:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:14:57 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractException" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php on line 14
+[03-Feb-2026 04:20:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:20:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php on line 30
+[03-Feb-2026 05:26:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:26:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php on line 29
+[04-Feb-2026 13:17:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:17:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php on line 35
+[04-Feb-2026 15:41:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 15:41:06 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractException" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php on line 14
+[04-Feb-2026 17:17:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 17:17:15 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractPostgreSQLDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php on line 25
+[04-Feb-2026 17:54:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 17:54:12 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractPostgreSQLDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php on line 25
+[07-Feb-2026 16:06:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 16:06:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php on line 35
+[07-Feb-2026 18:20:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 18:20:56 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractException" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php on line 14
+[07-Feb-2026 20:34:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 20:34:55 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractPostgreSQLDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php on line 25
+[11-Feb-2026 03:24:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:24:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Connection.php on line 29
+[11-Feb-2026 04:12:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 04:12:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Statement.php on line 30
+[11-Feb-2026 04:50:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 04:50:20 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractPostgreSQLDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Driver.php on line 25
+[11-Feb-2026 06:00:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 06:00:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\SQL\Parser\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/ConvertParameters.php on line 12
+[11-Feb-2026 12:46:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 12:46:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php on line 35
+[12-Feb-2026 18:34:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 18:34:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Result.php on line 35
+[16-Feb-2026 11:41:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 11:41:07 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractException" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PgSQL/Exception.php on line 14

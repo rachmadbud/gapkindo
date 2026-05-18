@@ -1,0 +1,72 @@
+[03-Dec-2025 05:59:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Bus\PendingDispatch" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingClosureDispatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingClosureDispatch.php on line 7
+[07-Dec-2025 05:41:14 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingChain.php on line 11
+[18-Dec-2025 21:29:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Bus\PendingDispatch" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingClosureDispatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingClosureDispatch.php on line 7
+[18-Dec-2025 21:29:21 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingChain.php on line 11
+[19-Dec-2025 19:22:41 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingChain.php on line 11
+[20-Dec-2025 11:33:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Bus\PendingDispatch" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingClosureDispatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingClosureDispatch.php on line 7
+[21-Dec-2025 03:28:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Bus\PendingDispatch" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingClosureDispatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingClosureDispatch.php on line 7
+[21-Dec-2025 07:56:40 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingChain.php on line 11
+[26-Jan-2026 02:40:12 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingChain.php on line 11
+[26-Jan-2026 07:26:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Bus\PendingDispatch" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingClosureDispatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingClosureDispatch.php on line 7
+[28-Jan-2026 14:06:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:16:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:16:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Bus\PendingDispatch" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingClosureDispatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingClosureDispatch.php on line 7
+[02-Feb-2026 08:24:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:25:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:38:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:41:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:41:00 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingChain.php on line 11
+[02-Feb-2026 10:32:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:32:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Bus\PendingDispatch" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingClosureDispatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingClosureDispatch.php on line 7
+[02-Feb-2026 10:32:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:33:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:42:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:42:05 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingChain.php on line 11
+[02-Feb-2026 10:42:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 14:52:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 14:52:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 14:52:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Bus\PendingDispatch" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingClosureDispatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingClosureDispatch.php on line 7
+[04-Feb-2026 14:53:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 14:53:06 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingChain.php on line 11
+[04-Feb-2026 14:53:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 14:54:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 00:10:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 04:24:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 04:24:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Bus\PendingDispatch" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingClosureDispatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingClosureDispatch.php on line 7
+[21-Feb-2026 02:10:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 02:10:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Bus\PendingDispatch" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingClosureDispatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingClosureDispatch.php on line 7
+[22-Feb-2026 02:10:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 05:48:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 05:55:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 05:55:18 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingChain.php on line 11
+[22-Feb-2026 06:24:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

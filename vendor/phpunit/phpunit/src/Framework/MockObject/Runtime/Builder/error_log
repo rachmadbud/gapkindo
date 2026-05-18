@@ -1,0 +1,109 @@
+[25-Dec-2025 01:01:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\InvocationStubber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/InvocationMocker.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/InvocationMocker.php on line 48
+[25-Dec-2025 04:48:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\ParametersMatch" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/MethodNameMatch.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/MethodNameMatch.php on line 19
+[25-Dec-2025 05:37:27 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/ParametersMatch.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/ParametersMatch.php on line 17
+[25-Dec-2025 13:32:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\Identity" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/Stub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/Stub.php on line 19
+[04-Jan-2026 17:51:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\ParametersMatch" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/MethodNameMatch.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/MethodNameMatch.php on line 19
+[04-Jan-2026 18:49:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/ParametersMatch.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/ParametersMatch.php on line 17
+[05-Jan-2026 10:33:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\Identity" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/Stub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/Stub.php on line 19
+[05-Jan-2026 14:01:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\InvocationStubber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/InvocationMocker.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/InvocationMocker.php on line 48
+[05-Jan-2026 19:22:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\InvocationStubber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/InvocationMocker.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/InvocationMocker.php on line 48
+[05-Jan-2026 23:14:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\ParametersMatch" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/MethodNameMatch.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/MethodNameMatch.php on line 19
+[06-Jan-2026 02:18:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\Identity" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/Stub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/Stub.php on line 19
+[06-Jan-2026 03:07:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/ParametersMatch.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/ParametersMatch.php on line 17
+[06-Jan-2026 03:22:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\InvocationStubber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/InvocationMocker.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/InvocationMocker.php on line 48
+[06-Jan-2026 06:45:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/ParametersMatch.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/ParametersMatch.php on line 17
+[06-Jan-2026 15:46:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\Identity" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/Stub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/Stub.php on line 19
+[18-Jan-2026 22:26:22 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\Identity" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/Stub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/Stub.php on line 19
+[19-Jan-2026 08:19:51 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/ParametersMatch.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/ParametersMatch.php on line 17
+[19-Jan-2026 13:29:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\InvocationStubber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/InvocationMocker.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/InvocationMocker.php on line 48
+[19-Jan-2026 16:56:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\ParametersMatch" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/MethodNameMatch.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/MethodNameMatch.php on line 19
+[27-Jan-2026 12:23:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 12:23:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\ParametersMatch" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/MethodNameMatch.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/MethodNameMatch.php on line 19
+[27-Jan-2026 12:46:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 12:46:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/ParametersMatch.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/ParametersMatch.php on line 17
+[27-Jan-2026 15:37:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 15:37:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\InvocationStubber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/InvocationMocker.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/InvocationMocker.php on line 48
+[27-Jan-2026 15:42:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 15:42:01 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\Stub" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/ParametersMatch.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/ParametersMatch.php on line 17
+[27-Jan-2026 17:30:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 20:19:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 08:12:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 08:12:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\Identity" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/Stub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/Stub.php on line 19
+[04-Feb-2026 20:23:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 07:55:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 07:55:47 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Builder\ParametersMatch" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/MethodNameMatch.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Builder/MethodNameMatch.php on line 19

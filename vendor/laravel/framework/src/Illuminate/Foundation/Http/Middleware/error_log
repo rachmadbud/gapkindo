@@ -1,0 +1,62 @@
+[01-Nov-2025 23:37:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TransformsRequest" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php on line 7
+[02-Nov-2025 00:16:05 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php on line 16
+[02-Nov-2025 01:27:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TransformsRequest" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php on line 7
+[02-Nov-2025 11:51:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php on line 5
+[18-Dec-2025 23:30:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TransformsRequest" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php on line 7
+[18-Dec-2025 23:31:03 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php on line 16
+[18-Dec-2025 23:31:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php on line 5
+[18-Dec-2025 23:31:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TransformsRequest" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php on line 7
+[22-Dec-2025 18:13:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TransformsRequest" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php on line 7
+[22-Dec-2025 21:12:17 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php on line 16
+[23-Dec-2025 05:54:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php on line 5
+[23-Dec-2025 07:33:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TransformsRequest" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php on line 7
+[24-Dec-2025 20:17:31 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php on line 16
+[24-Dec-2025 21:42:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TransformsRequest" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php on line 7
+[25-Dec-2025 01:28:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php on line 5
+[25-Dec-2025 09:38:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TransformsRequest" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php on line 7
+[03-Feb-2026 11:51:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 16:04:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 14:18:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 14:18:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TransformsRequest" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php on line 7
+[04-Feb-2026 22:01:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 22:01:05 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php on line 16
+[04-Feb-2026 22:01:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

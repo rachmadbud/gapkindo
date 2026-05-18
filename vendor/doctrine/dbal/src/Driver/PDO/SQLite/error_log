@@ -1,0 +1,43 @@
+[18-Dec-2025 22:07:02 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractSQLiteDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PDO/SQLite/Driver.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PDO/SQLite/Driver.php on line 16
+[20-Dec-2025 07:23:23 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractSQLiteDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PDO/SQLite/Driver.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PDO/SQLite/Driver.php on line 16
+[21-Dec-2025 13:56:10 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractSQLiteDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PDO/SQLite/Driver.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PDO/SQLite/Driver.php on line 16
+[02-Jan-2026 05:10:28 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractSQLiteDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PDO/SQLite/Driver.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PDO/SQLite/Driver.php on line 16
+[11-Jan-2026 20:59:31 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractSQLiteDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PDO/SQLite/Driver.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PDO/SQLite/Driver.php on line 16
+[22-Jan-2026 04:43:13 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractSQLiteDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PDO/SQLite/Driver.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PDO/SQLite/Driver.php on line 16
+[26-Jan-2026 01:04:38 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractSQLiteDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PDO/SQLite/Driver.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PDO/SQLite/Driver.php on line 16
+[27-Jan-2026 07:27:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 07:27:31 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractSQLiteDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PDO/SQLite/Driver.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PDO/SQLite/Driver.php on line 16
+[02-Feb-2026 05:58:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 05:58:51 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractSQLiteDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PDO/SQLite/Driver.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PDO/SQLite/Driver.php on line 16
+[10-Feb-2026 00:01:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 00:01:46 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Driver\AbstractSQLiteDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PDO/SQLite/Driver.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/PDO/SQLite/Driver.php on line 16

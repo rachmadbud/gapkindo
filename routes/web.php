@@ -40,6 +40,7 @@ Route::get('/migrate', function () {
   return 'Migration sudah dijalankan!';
 });
 
+
 Route::get('/optimize-app', function () {
   Artisan::call('config:cache');
   Artisan::call('route:cache');

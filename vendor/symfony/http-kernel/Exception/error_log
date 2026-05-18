@@ -1,0 +1,1783 @@
+[31-Oct-2025 06:22:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[31-Oct-2025 08:01:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[31-Oct-2025 15:19:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[31-Oct-2025 15:35:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[16-Nov-2025 11:03:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[16-Nov-2025 11:04:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[16-Nov-2025 11:07:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[16-Nov-2025 11:10:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[16-Nov-2025 11:12:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[16-Nov-2025 11:13:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[16-Nov-2025 11:14:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[16-Nov-2025 11:15:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[16-Nov-2025 11:17:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[16-Nov-2025 11:47:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[16-Nov-2025 11:50:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[16-Nov-2025 12:09:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[16-Nov-2025 12:55:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 19
+[17-Nov-2025 02:17:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[05-Dec-2025 17:52:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[06-Dec-2025 04:37:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[06-Dec-2025 05:28:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[06-Dec-2025 05:28:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 19
+[06-Dec-2025 05:30:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[06-Dec-2025 05:32:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[06-Dec-2025 05:38:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[06-Dec-2025 09:44:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[06-Dec-2025 09:45:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[06-Dec-2025 09:46:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[06-Dec-2025 09:49:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[06-Dec-2025 10:31:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[06-Dec-2025 11:15:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[06-Dec-2025 11:42:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[06-Dec-2025 20:58:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[06-Dec-2025 20:58:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[06-Dec-2025 22:29:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[06-Dec-2025 23:07:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[09-Dec-2025 20:20:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[09-Dec-2025 20:55:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[09-Dec-2025 21:20:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[09-Dec-2025 21:38:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[09-Dec-2025 23:09:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[10-Dec-2025 00:03:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[10-Dec-2025 00:37:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[10-Dec-2025 01:36:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[10-Dec-2025 01:48:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[10-Dec-2025 02:03:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[10-Dec-2025 04:34:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[10-Dec-2025 04:51:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 19
+[10-Dec-2025 06:37:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[10-Dec-2025 07:06:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[10-Dec-2025 09:06:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[10-Dec-2025 12:08:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[11-Dec-2025 16:08:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[11-Dec-2025 16:09:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[11-Dec-2025 17:35:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[11-Dec-2025 18:47:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[11-Dec-2025 20:35:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[11-Dec-2025 21:49:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[11-Dec-2025 22:30:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 19
+[11-Dec-2025 22:31:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[12-Dec-2025 01:04:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[12-Dec-2025 03:22:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[12-Dec-2025 07:08:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[12-Dec-2025 07:10:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[12-Dec-2025 10:15:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[12-Dec-2025 11:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[12-Dec-2025 12:30:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[12-Dec-2025 14:07:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[12-Dec-2025 15:31:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[14-Dec-2025 02:14:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[14-Dec-2025 03:05:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[14-Dec-2025 03:05:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[14-Dec-2025 03:15:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[14-Dec-2025 03:16:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[14-Dec-2025 03:22:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[14-Dec-2025 03:26:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[14-Dec-2025 03:28:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[14-Dec-2025 03:29:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[14-Dec-2025 03:29:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[14-Dec-2025 03:32:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[14-Dec-2025 03:33:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[14-Dec-2025 03:34:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[14-Dec-2025 03:35:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[14-Dec-2025 03:35:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 19
+[14-Dec-2025 03:36:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[14-Dec-2025 03:37:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[18-Dec-2025 12:22:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[18-Dec-2025 12:22:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[18-Dec-2025 12:22:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[18-Dec-2025 12:23:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[18-Dec-2025 12:23:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[18-Dec-2025 12:23:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[18-Dec-2025 12:23:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[18-Dec-2025 12:23:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[18-Dec-2025 12:23:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[18-Dec-2025 12:23:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[18-Dec-2025 12:24:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[18-Dec-2025 12:24:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[18-Dec-2025 12:24:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[18-Dec-2025 12:24:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[18-Dec-2025 12:24:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[18-Dec-2025 12:25:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[18-Dec-2025 12:25:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 19
+[19-Dec-2025 17:40:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[19-Dec-2025 17:49:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[19-Dec-2025 17:53:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[19-Dec-2025 17:55:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[19-Dec-2025 18:17:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 19
+[19-Dec-2025 19:02:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[19-Dec-2025 19:17:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[19-Dec-2025 19:26:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[19-Dec-2025 19:30:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[21-Dec-2025 16:44:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[21-Dec-2025 16:46:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[21-Dec-2025 17:00:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[21-Dec-2025 20:28:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[21-Dec-2025 20:29:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[21-Dec-2025 21:11:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[22-Dec-2025 00:30:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[22-Dec-2025 01:36:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[22-Dec-2025 01:37:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[22-Dec-2025 03:45:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[22-Dec-2025 05:07:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[22-Dec-2025 05:08:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[22-Dec-2025 05:11:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[22-Dec-2025 08:15:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[22-Dec-2025 11:56:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[22-Dec-2025 14:11:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[22-Dec-2025 15:19:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 19
+[01-Jan-2026 17:50:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[01-Jan-2026 21:02:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[02-Jan-2026 13:47:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[03-Jan-2026 17:13:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[04-Jan-2026 11:14:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[04-Jan-2026 11:18:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[04-Jan-2026 20:55:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[04-Jan-2026 22:07:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[04-Jan-2026 22:10:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[05-Jan-2026 09:30:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[05-Jan-2026 16:22:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[05-Jan-2026 18:05:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[05-Jan-2026 21:18:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[05-Jan-2026 21:19:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[05-Jan-2026 22:09:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[05-Jan-2026 22:09:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[05-Jan-2026 22:53:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[05-Jan-2026 23:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[06-Jan-2026 00:39:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[06-Jan-2026 00:39:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[06-Jan-2026 00:40:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[06-Jan-2026 01:20:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[06-Jan-2026 01:57:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[06-Jan-2026 02:23:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[06-Jan-2026 02:23:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 19
+[06-Jan-2026 02:40:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[06-Jan-2026 06:41:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[06-Jan-2026 09:55:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[06-Jan-2026 11:44:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[06-Jan-2026 22:26:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[07-Jan-2026 09:05:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[08-Jan-2026 04:19:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[08-Jan-2026 06:29:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[08-Jan-2026 15:59:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[09-Jan-2026 05:57:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[09-Jan-2026 08:20:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[10-Jan-2026 13:58:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[13-Jan-2026 19:40:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[13-Jan-2026 22:12:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[13-Jan-2026 22:13:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[14-Jan-2026 00:33:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[14-Jan-2026 00:50:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[14-Jan-2026 03:15:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[14-Jan-2026 04:57:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[14-Jan-2026 05:00:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[14-Jan-2026 06:47:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[14-Jan-2026 07:05:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[14-Jan-2026 07:13:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[14-Jan-2026 07:40:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[14-Jan-2026 07:43:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[14-Jan-2026 08:40:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[14-Jan-2026 08:44:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[14-Jan-2026 11:46:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[15-Jan-2026 02:13:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 19
+[16-Jan-2026 17:18:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[16-Jan-2026 17:25:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[17-Jan-2026 08:36:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[17-Jan-2026 12:16:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[17-Jan-2026 19:41:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[17-Jan-2026 19:46:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[18-Jan-2026 02:27:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[18-Jan-2026 03:15:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[18-Jan-2026 05:31:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[18-Jan-2026 07:39:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[18-Jan-2026 09:41:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[18-Jan-2026 12:47:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[18-Jan-2026 13:34:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 19
+[18-Jan-2026 18:57:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[19-Jan-2026 01:47:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[19-Jan-2026 01:47:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[19-Jan-2026 01:48:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[19-Jan-2026 04:09:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[19-Jan-2026 06:26:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[19-Jan-2026 06:26:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[19-Jan-2026 10:08:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[19-Jan-2026 10:08:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[19-Jan-2026 10:48:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[19-Jan-2026 10:52:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[19-Jan-2026 11:39:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[19-Jan-2026 13:09:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[19-Jan-2026 13:56:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[19-Jan-2026 15:27:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[20-Jan-2026 05:01:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[20-Jan-2026 12:22:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[20-Jan-2026 17:23:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[20-Jan-2026 19:03:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[20-Jan-2026 22:15:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[20-Jan-2026 22:34:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[21-Jan-2026 00:14:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[21-Jan-2026 00:56:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[21-Jan-2026 00:57:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[21-Jan-2026 02:49:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[21-Jan-2026 03:37:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[21-Jan-2026 03:40:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 19
+[21-Jan-2026 06:52:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[21-Jan-2026 07:38:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[22-Jan-2026 10:49:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[23-Jan-2026 10:47:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[23-Jan-2026 18:11:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[23-Jan-2026 18:12:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[23-Jan-2026 19:44:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[23-Jan-2026 20:26:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[23-Jan-2026 22:41:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[28-Jan-2026 08:31:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 08:31:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[28-Jan-2026 11:22:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 11:22:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[28-Jan-2026 13:47:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 13:47:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[28-Jan-2026 13:50:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 13:50:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[28-Jan-2026 13:52:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 13:52:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[30-Jan-2026 12:24:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 12:25:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 12:25:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[30-Jan-2026 12:26:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 12:26:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[30-Jan-2026 12:27:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 12:28:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 12:29:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 12:29:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[30-Jan-2026 12:30:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 12:30:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[30-Jan-2026 12:31:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 12:31:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[30-Jan-2026 12:32:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 12:32:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[30-Jan-2026 12:33:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 12:33:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[30-Jan-2026 12:34:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 12:34:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[30-Jan-2026 12:35:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 12:36:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 12:36:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[30-Jan-2026 12:37:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 12:37:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[30-Jan-2026 13:00:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 13:00:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[30-Jan-2026 13:02:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 13:02:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[30-Jan-2026 13:05:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 13:06:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 13:06:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[30-Jan-2026 13:07:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 13:07:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[30-Jan-2026 13:24:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 13:24:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[30-Jan-2026 14:27:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 14:27:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 19
+[31-Jan-2026 00:35:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 00:35:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[31-Jan-2026 01:36:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:36:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:36:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[31-Jan-2026 01:37:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:37:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[31-Jan-2026 01:38:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:39:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:40:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:40:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[31-Jan-2026 01:41:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:41:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[31-Jan-2026 01:42:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:42:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[31-Jan-2026 01:43:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:43:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[31-Jan-2026 01:44:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:45:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:45:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[31-Jan-2026 01:46:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:46:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[31-Jan-2026 01:47:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:47:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[31-Jan-2026 01:48:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:48:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[31-Jan-2026 02:12:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 02:12:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[31-Jan-2026 02:13:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 02:13:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[31-Jan-2026 02:17:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 02:17:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[31-Jan-2026 02:18:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 02:18:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[31-Jan-2026 02:34:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 02:34:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[31-Jan-2026 03:27:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 03:27:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 19
+[31-Jan-2026 03:33:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 03:33:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[31-Jan-2026 15:55:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 15:55:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[31-Jan-2026 17:33:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 17:33:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[03-Feb-2026 01:44:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:44:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[03-Feb-2026 01:45:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:45:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[03-Feb-2026 01:46:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:46:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[03-Feb-2026 01:47:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:47:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[03-Feb-2026 01:48:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:48:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[03-Feb-2026 01:49:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:49:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[03-Feb-2026 01:51:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:51:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[03-Feb-2026 01:52:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:52:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[03-Feb-2026 01:53:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:53:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[03-Feb-2026 01:54:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:54:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[03-Feb-2026 01:55:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:55:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[03-Feb-2026 01:56:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:56:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[03-Feb-2026 01:57:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:57:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[03-Feb-2026 01:58:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:58:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[03-Feb-2026 01:59:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 02:00:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 02:00:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[03-Feb-2026 02:01:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 02:01:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[03-Feb-2026 02:01:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 02:01:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 19
+[03-Feb-2026 02:03:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 02:03:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[03-Feb-2026 04:39:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:39:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[03-Feb-2026 04:40:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:40:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[03-Feb-2026 04:41:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:41:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[03-Feb-2026 04:42:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:42:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[03-Feb-2026 04:44:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:44:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[03-Feb-2026 04:45:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:45:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[03-Feb-2026 04:47:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:47:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[03-Feb-2026 04:48:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:48:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[03-Feb-2026 04:49:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:49:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[03-Feb-2026 04:50:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:50:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[03-Feb-2026 04:51:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:51:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[03-Feb-2026 04:52:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:52:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[03-Feb-2026 04:53:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:53:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[03-Feb-2026 04:54:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:54:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[03-Feb-2026 04:55:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:55:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 19
+[03-Feb-2026 04:57:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:57:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[03-Feb-2026 05:09:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:09:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:09:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 07:09:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 07:09:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[03-Feb-2026 08:34:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 08:34:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[03-Feb-2026 20:07:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 23:51:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 23:51:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[04-Feb-2026 10:30:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 10:30:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[04-Feb-2026 23:17:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 23:17:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[05-Feb-2026 04:46:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 07:03:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 07:03:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[05-Feb-2026 08:43:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 08:43:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[06-Feb-2026 06:38:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 06:38:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[06-Feb-2026 09:00:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 09:00:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[06-Feb-2026 09:12:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 09:12:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[07-Feb-2026 10:24:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 10:24:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[07-Feb-2026 23:54:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 23:54:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[08-Feb-2026 01:55:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 01:55:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[08-Feb-2026 10:29:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 10:29:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[08-Feb-2026 14:17:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 14:17:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[08-Feb-2026 16:44:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 16:44:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[08-Feb-2026 18:25:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 18:25:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[09-Feb-2026 03:52:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 03:52:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[09-Feb-2026 11:05:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 11:05:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[09-Feb-2026 12:02:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 12:02:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[09-Feb-2026 19:38:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 19:38:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[09-Feb-2026 23:14:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 23:14:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[10-Feb-2026 10:18:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 10:18:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[10-Feb-2026 13:38:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 13:38:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[10-Feb-2026 19:35:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 19:35:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[11-Feb-2026 01:31:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 01:31:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[11-Feb-2026 02:16:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:38:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:38:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[11-Feb-2026 04:13:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 04:13:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[11-Feb-2026 05:05:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 05:05:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[11-Feb-2026 05:32:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 05:32:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[11-Feb-2026 05:44:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 05:44:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17
+[11-Feb-2026 05:57:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 05:57:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[11-Feb-2026 06:21:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 06:38:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 06:38:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[11-Feb-2026 07:05:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 07:05:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[11-Feb-2026 07:28:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 07:36:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 07:36:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[11-Feb-2026 08:59:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 08:59:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[11-Feb-2026 09:13:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 09:13:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[11-Feb-2026 09:19:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 09:19:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[11-Feb-2026 09:54:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 09:54:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[11-Feb-2026 10:25:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 10:25:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[11-Feb-2026 10:30:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 10:30:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[11-Feb-2026 11:50:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 12:30:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 12:30:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[11-Feb-2026 13:10:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 13:10:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 19
+[11-Feb-2026 13:18:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 13:18:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[11-Feb-2026 13:44:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 14:10:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 14:10:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[11-Feb-2026 16:17:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 16:17:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[12-Feb-2026 05:47:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 05:47:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[12-Feb-2026 06:26:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 06:26:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[12-Feb-2026 11:13:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 11:13:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[12-Feb-2026 16:12:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 16:12:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[12-Feb-2026 18:53:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 18:53:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[12-Feb-2026 22:10:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 22:10:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[12-Feb-2026 22:28:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 22:28:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[13-Feb-2026 00:41:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 00:41:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[13-Feb-2026 15:16:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 15:16:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[13-Feb-2026 15:40:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 15:40:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[13-Feb-2026 21:00:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 21:00:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[14-Feb-2026 05:33:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 05:33:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[14-Feb-2026 08:25:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 08:25:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[14-Feb-2026 08:26:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 08:26:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[14-Feb-2026 08:26:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 08:26:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[14-Feb-2026 08:26:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 08:26:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 19
+[14-Feb-2026 08:36:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 08:36:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[14-Feb-2026 09:54:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:54:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[14-Feb-2026 09:55:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:55:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[14-Feb-2026 09:55:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:55:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 19
+[14-Feb-2026 09:55:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:55:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[14-Feb-2026 09:55:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:55:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[14-Feb-2026 10:02:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:02:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[14-Feb-2026 13:47:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 13:47:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[14-Feb-2026 15:03:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 15:03:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[14-Feb-2026 21:12:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:12:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[15-Feb-2026 00:24:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 00:24:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[16-Feb-2026 04:33:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 04:33:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[16-Feb-2026 10:08:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 10:08:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[16-Feb-2026 12:24:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 12:24:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[16-Feb-2026 16:46:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:46:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[16-Feb-2026 19:45:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 19:45:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[18-Feb-2026 00:48:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 00:48:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[18-Feb-2026 02:52:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 02:52:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[18-Feb-2026 22:25:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 22:25:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[19-Feb-2026 10:43:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 10:43:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[19-Feb-2026 11:00:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 11:00:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[19-Feb-2026 11:05:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 11:05:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[19-Feb-2026 19:58:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 19:58:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[20-Feb-2026 01:15:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 01:15:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[20-Feb-2026 01:15:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 01:15:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[20-Feb-2026 01:16:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 01:16:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Exception\HttpExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[20-Feb-2026 01:16:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 01:16:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 19
+[20-Feb-2026 05:20:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 05:20:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[21-Feb-2026 04:51:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 04:51:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[21-Feb-2026 09:58:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 09:58:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 17

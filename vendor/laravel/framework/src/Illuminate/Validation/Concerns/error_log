@@ -1,0 +1,64 @@
+[03-Nov-2025 14:01:56 UTC] PHP Fatal error:  Trait "Illuminate\Validation\Concerns\ReplacesAttributes" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FormatsMessages.php on line 11
+[16-Dec-2025 18:08:04 UTC] PHP Fatal error:  Trait "Illuminate\Validation\Concerns\ReplacesAttributes" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FormatsMessages.php on line 11
+[18-Dec-2025 21:47:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Validation\EmailValidation" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FilterEmailValidation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FilterEmailValidation.php on line 9
+[18-Dec-2025 21:47:18 UTC] PHP Fatal error:  Trait "Illuminate\Validation\Concerns\ReplacesAttributes" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FormatsMessages.php on line 11
+[19-Dec-2025 18:37:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Validation\EmailValidation" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FilterEmailValidation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FilterEmailValidation.php on line 9
+[21-Dec-2025 11:10:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Validation\EmailValidation" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FilterEmailValidation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FilterEmailValidation.php on line 9
+[21-Dec-2025 12:23:13 UTC] PHP Fatal error:  Trait "Illuminate\Validation\Concerns\ReplacesAttributes" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FormatsMessages.php on line 11
+[28-Dec-2025 15:13:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Validation\EmailValidation" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FilterEmailValidation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FilterEmailValidation.php on line 9
+[31-Dec-2025 04:29:29 UTC] PHP Fatal error:  Trait "Illuminate\Validation\Concerns\ReplacesAttributes" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FormatsMessages.php on line 11
+[26-Jan-2026 03:11:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Validation\EmailValidation" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FilterEmailValidation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FilterEmailValidation.php on line 9
+[26-Jan-2026 04:32:54 UTC] PHP Fatal error:  Trait "Illuminate\Validation\Concerns\ReplacesAttributes" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FormatsMessages.php on line 11
+[01-Feb-2026 11:42:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 14:33:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 14:33:39 UTC] PHP Fatal error:  Trait "Illuminate\Validation\Concerns\ReplacesAttributes" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FormatsMessages.php on line 11
+[01-Feb-2026 16:12:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:44:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:44:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Validation\EmailValidation" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FilterEmailValidation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FilterEmailValidation.php on line 9
+[02-Feb-2026 19:15:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 19:19:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 19:19:47 UTC] PHP Fatal error:  Trait "Illuminate\Validation\Concerns\ReplacesAttributes" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FormatsMessages.php on line 11
+[02-Feb-2026 19:21:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 19:23:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 19:23:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Validation\EmailValidation" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FilterEmailValidation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FilterEmailValidation.php on line 9
+[15-Feb-2026 16:43:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 16:43:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 16:43:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 16:43:43 UTC] PHP Fatal error:  Trait "Illuminate\Validation\Concerns\ReplacesAttributes" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FormatsMessages.php on line 11
+[15-Feb-2026 18:03:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 18:03:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Validation\EmailValidation" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FilterEmailValidation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FilterEmailValidation.php on line 9
+[18-Feb-2026 20:25:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 23:12:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 01:00:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 01:00:53 UTC] PHP Fatal error:  Trait "Illuminate\Validation\Concerns\ReplacesAttributes" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FormatsMessages.php on line 11
+[22-Feb-2026 01:01:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 01:01:00 UTC] PHP Fatal error:  Trait "Illuminate\Validation\Concerns\ReplacesAttributes" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FormatsMessages.php on line 11
+[22-Feb-2026 09:39:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 09:39:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Validation\EmailValidation" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FilterEmailValidation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Validation/Concerns/FilterEmailValidation.php on line 9

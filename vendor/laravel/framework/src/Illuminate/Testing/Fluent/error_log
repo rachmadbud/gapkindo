@@ -1,0 +1,16 @@
+[03-Nov-2025 21:34:12 UTC] PHP Fatal error:  Trait "Illuminate\Testing\Fluent\Concerns\Has" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Fluent/AssertableJson.php on line 14
+[18-Dec-2025 21:12:36 UTC] PHP Fatal error:  Trait "Illuminate\Testing\Fluent\Concerns\Has" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Fluent/AssertableJson.php on line 14
+[20-Dec-2025 02:00:23 UTC] PHP Fatal error:  Trait "Illuminate\Testing\Fluent\Concerns\Has" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Fluent/AssertableJson.php on line 14
+[21-Dec-2025 01:50:38 UTC] PHP Fatal error:  Trait "Illuminate\Testing\Fluent\Concerns\Has" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Fluent/AssertableJson.php on line 14
+[27-Dec-2025 10:52:33 UTC] PHP Fatal error:  Trait "Illuminate\Testing\Fluent\Concerns\Has" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Fluent/AssertableJson.php on line 14
+[20-Jan-2026 16:11:10 UTC] PHP Fatal error:  Trait "Illuminate\Testing\Fluent\Concerns\Has" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Fluent/AssertableJson.php on line 14
+[02-Feb-2026 08:46:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:46:37 UTC] PHP Fatal error:  Trait "Illuminate\Testing\Fluent\Concerns\Has" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Fluent/AssertableJson.php on line 14
+[02-Feb-2026 09:10:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:10:48 UTC] PHP Fatal error:  Trait "Illuminate\Testing\Fluent\Concerns\Has" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Fluent/AssertableJson.php on line 14
+[12-Feb-2026 12:38:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 12:38:30 UTC] PHP Fatal error:  Trait "Illuminate\Testing\Fluent\Concerns\Has" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Fluent/AssertableJson.php on line 14
+[15-Feb-2026 16:51:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 16:51:06 UTC] PHP Fatal error:  Trait "Illuminate\Testing\Fluent\Concerns\Has" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Fluent/AssertableJson.php on line 14
+[16-Feb-2026 14:29:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 14:29:42 UTC] PHP Fatal error:  Trait "Illuminate\Testing\Fluent\Concerns\Has" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Fluent/AssertableJson.php on line 14

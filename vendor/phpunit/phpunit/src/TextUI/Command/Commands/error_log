@@ -1,0 +1,838 @@
+[01-Nov-2025 12:43:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 20
+[01-Nov-2025 16:51:15 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php on line 29
+[01-Nov-2025 20:35:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 20
+[01-Nov-2025 23:31:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 24
+[03-Nov-2025 14:41:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 28
+[03-Nov-2025 15:47:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 23
+[03-Nov-2025 18:13:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php on line 29
+[03-Nov-2025 18:24:50 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 24
+[03-Nov-2025 20:29:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[20-Dec-2025 05:05:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 20
+[20-Dec-2025 05:07:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 19
+[27-Dec-2025 07:24:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[27-Dec-2025 07:25:06 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 23
+[27-Dec-2025 07:26:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 20
+[27-Dec-2025 07:26:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 19
+[31-Dec-2025 08:53:20 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 24
+[31-Dec-2025 08:53:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php on line 17
+[31-Dec-2025 08:53:51 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 19
+[31-Dec-2025 10:46:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 23
+[31-Dec-2025 12:04:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 27
+[31-Dec-2025 12:26:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php on line 22
+[31-Dec-2025 12:26:27 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 20
+[31-Dec-2025 12:51:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 24
+[31-Dec-2025 13:07:28 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php on line 29
+[31-Dec-2025 13:07:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[31-Dec-2025 13:07:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php on line 29
+[31-Dec-2025 13:18:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 28
+[01-Jan-2026 19:33:34 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 23
+[01-Jan-2026 23:46:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 24
+[02-Jan-2026 01:07:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 27
+[02-Jan-2026 02:28:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[02-Jan-2026 03:37:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php on line 22
+[02-Jan-2026 06:10:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 28
+[02-Jan-2026 08:20:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 20
+[02-Jan-2026 12:18:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php on line 29
+[02-Jan-2026 12:19:51 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 24
+[02-Jan-2026 13:23:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php on line 29
+[02-Jan-2026 13:24:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 19
+[02-Jan-2026 15:38:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php on line 17
+[03-Jan-2026 14:33:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[03-Jan-2026 16:48:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 24
+[03-Jan-2026 17:07:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 20
+[03-Jan-2026 19:20:33 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 27
+[03-Jan-2026 19:50:32 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php on line 29
+[03-Jan-2026 20:32:38 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php on line 17
+[03-Jan-2026 22:30:34 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 19
+[04-Jan-2026 16:06:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php on line 29
+[04-Jan-2026 19:19:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 23
+[04-Jan-2026 20:43:20 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 28
+[05-Jan-2026 03:54:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php on line 17
+[05-Jan-2026 05:02:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php on line 29
+[05-Jan-2026 05:06:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 24
+[05-Jan-2026 05:58:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[05-Jan-2026 08:38:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 20
+[05-Jan-2026 09:06:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 27
+[05-Jan-2026 14:14:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 19
+[05-Jan-2026 18:48:15 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 24
+[05-Jan-2026 19:29:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 27
+[05-Jan-2026 23:29:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php on line 29
+[06-Jan-2026 07:50:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 20
+[06-Jan-2026 08:08:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php on line 29
+[06-Jan-2026 10:48:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 28
+[06-Jan-2026 11:05:47 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 19
+[06-Jan-2026 15:56:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[06-Jan-2026 18:15:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php on line 29
+[06-Jan-2026 23:29:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 20
+[07-Jan-2026 05:13:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 23
+[07-Jan-2026 10:07:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 27
+[07-Jan-2026 13:47:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 24
+[07-Jan-2026 15:49:01 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php on line 17
+[07-Jan-2026 18:19:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php on line 17
+[07-Jan-2026 23:58:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 27
+[08-Jan-2026 00:18:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 20
+[08-Jan-2026 04:51:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 19
+[08-Jan-2026 06:42:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php on line 29
+[08-Jan-2026 06:54:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 23
+[08-Jan-2026 12:32:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 24
+[08-Jan-2026 17:05:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php on line 29
+[08-Jan-2026 23:21:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 23
+[09-Jan-2026 05:08:28 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php on line 17
+[09-Jan-2026 05:56:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 24
+[09-Jan-2026 09:03:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 27
+[10-Jan-2026 14:00:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[10-Jan-2026 18:47:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 28
+[14-Jan-2026 20:47:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 28
+[15-Jan-2026 21:11:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[16-Jan-2026 05:00:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php on line 29
+[16-Jan-2026 06:53:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 28
+[17-Jan-2026 04:18:32 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 28
+[17-Jan-2026 09:49:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[17-Jan-2026 17:42:22 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php on line 29
+[17-Jan-2026 20:41:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[18-Jan-2026 01:13:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 28
+[18-Jan-2026 16:21:32 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php on line 17
+[18-Jan-2026 19:25:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php on line 29
+[18-Jan-2026 20:13:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php on line 29
+[18-Jan-2026 21:35:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 20
+[18-Jan-2026 22:12:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 19
+[18-Jan-2026 23:56:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php on line 22
+[18-Jan-2026 23:58:47 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 20
+[19-Jan-2026 00:14:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 24
+[19-Jan-2026 01:19:47 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[19-Jan-2026 02:03:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 27
+[19-Jan-2026 02:23:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 23
+[19-Jan-2026 04:56:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 24
+[19-Jan-2026 07:57:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php on line 29
+[19-Jan-2026 08:00:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[19-Jan-2026 08:02:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php on line 29
+[19-Jan-2026 10:56:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 28
+[22-Jan-2026 00:45:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[22-Jan-2026 18:24:47 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[23-Jan-2026 05:35:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[23-Jan-2026 16:01:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[24-Jan-2026 12:31:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php on line 29
+[24-Jan-2026 14:50:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 20
+[24-Jan-2026 19:12:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[24-Jan-2026 19:34:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 27
+[24-Jan-2026 19:38:38 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 28
+[24-Jan-2026 20:34:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php on line 29
+[25-Jan-2026 00:17:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 20
+[25-Jan-2026 01:14:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 19
+[25-Jan-2026 01:28:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 23
+[25-Jan-2026 01:54:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php on line 22
+[25-Jan-2026 02:59:33 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 24
+[25-Jan-2026 05:14:38 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 19
+[25-Jan-2026 06:30:45 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php on line 29
+[25-Jan-2026 07:01:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 24
+[25-Jan-2026 07:19:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php on line 17
+[25-Jan-2026 12:00:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 27
+[25-Jan-2026 16:30:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 23
+[25-Jan-2026 23:51:33 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 28
+[26-Jan-2026 04:55:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[30-Jan-2026 19:31:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 19:31:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[31-Jan-2026 03:36:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 03:36:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[31-Jan-2026 06:30:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:30:45 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[31-Jan-2026 18:07:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 18:07:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[31-Jan-2026 19:07:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 19:07:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[31-Jan-2026 20:14:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 20:14:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[31-Jan-2026 21:15:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 21:15:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[31-Jan-2026 22:10:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 22:10:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[01-Feb-2026 05:34:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 05:34:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[01-Feb-2026 11:42:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 11:42:32 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[01-Feb-2026 18:06:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 18:06:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[02-Feb-2026 04:36:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:36:00 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[02-Feb-2026 10:56:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:56:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[02-Feb-2026 15:24:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:24:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[03-Feb-2026 09:23:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:23:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[03-Feb-2026 17:56:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 17:56:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[03-Feb-2026 18:46:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 18:46:34 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 24
+[03-Feb-2026 18:49:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 18:49:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php on line 17
+[03-Feb-2026 18:51:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 18:51:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 19
+[04-Feb-2026 07:38:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 07:38:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 23
+[04-Feb-2026 20:03:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 20:03:20 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 27
+[04-Feb-2026 23:55:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 23:55:50 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php on line 22
+[04-Feb-2026 23:58:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 23:58:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 20
+[05-Feb-2026 02:38:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 02:38:50 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 24
+[08-Feb-2026 00:59:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 00:59:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 28
+[08-Feb-2026 01:00:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 01:00:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php on line 17
+[08-Feb-2026 01:01:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 01:01:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 24
+[08-Feb-2026 01:02:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 01:02:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php on line 22
+[08-Feb-2026 01:04:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 01:04:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 24
+[08-Feb-2026 01:09:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 01:09:50 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 27
+[08-Feb-2026 01:19:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 01:19:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php on line 29
+[08-Feb-2026 01:29:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 01:29:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 20
+[08-Feb-2026 13:01:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 13:01:00 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 23
+[08-Feb-2026 13:22:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 13:22:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 19
+[08-Feb-2026 13:38:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 13:38:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php on line 29
+[08-Feb-2026 13:48:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 13:48:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[10-Feb-2026 04:32:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 04:32:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 24
+[10-Feb-2026 14:44:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 14:44:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[10-Feb-2026 22:00:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 22:00:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[12-Feb-2026 09:10:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 09:10:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 24
+[12-Feb-2026 18:09:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 18:09:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 24
+[13-Feb-2026 18:35:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 18:35:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 24
+[14-Feb-2026 00:10:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 00:10:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[14-Feb-2026 02:46:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 02:46:31 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[14-Feb-2026 07:05:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:05:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[14-Feb-2026 09:26:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:26:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[14-Feb-2026 10:50:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:50:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[14-Feb-2026 12:43:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:43:06 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[14-Feb-2026 17:41:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:41:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[14-Feb-2026 21:15:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:15:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[15-Feb-2026 05:30:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:30:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[15-Feb-2026 10:52:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:52:32 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[15-Feb-2026 11:11:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 11:11:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 24
+[15-Feb-2026 15:09:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 15:09:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 24
+[15-Feb-2026 21:52:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:52:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[15-Feb-2026 21:57:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:57:15 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[16-Feb-2026 10:38:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 10:38:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 24
+[16-Feb-2026 23:21:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 23:21:00 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 24
+[20-Feb-2026 00:15:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:15:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 26
+[21-Feb-2026 11:42:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 11:42:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/CheckPhpConfigurationCommand.php on line 29
+[21-Feb-2026 22:49:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 22:49:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 24
+[22-Feb-2026 01:00:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 01:00:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 27

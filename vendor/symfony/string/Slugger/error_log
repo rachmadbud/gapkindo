@@ -1,0 +1,62 @@
+[09-Dec-2025 20:20:57 UTC] PHP Fatal error:  Uncaught LogicException: You cannot use the "Symfony\Component\String\Slugger\AsciiSlugger" as the "symfony/translation-contracts" package is not installed. Try running "composer require symfony/translation-contracts". in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php on line 20
+[10-Dec-2025 08:31:30 UTC] PHP Fatal error:  Uncaught LogicException: You cannot use the "Symfony\Component\String\Slugger\AsciiSlugger" as the "symfony/translation-contracts" package is not installed. Try running "composer require symfony/translation-contracts". in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php on line 20
+[11-Dec-2025 19:59:53 UTC] PHP Fatal error:  Uncaught LogicException: You cannot use the "Symfony\Component\String\Slugger\AsciiSlugger" as the "symfony/translation-contracts" package is not installed. Try running "composer require symfony/translation-contracts". in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php on line 20
+[14-Dec-2025 02:33:38 UTC] PHP Fatal error:  Uncaught LogicException: You cannot use the "Symfony\Component\String\Slugger\AsciiSlugger" as the "symfony/translation-contracts" package is not installed. Try running "composer require symfony/translation-contracts". in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php on line 20
+[18-Dec-2025 11:39:39 UTC] PHP Fatal error:  Uncaught LogicException: You cannot use the "Symfony\Component\String\Slugger\AsciiSlugger" as the "symfony/translation-contracts" package is not installed. Try running "composer require symfony/translation-contracts". in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php on line 20
+[22-Dec-2025 01:00:42 UTC] PHP Fatal error:  Uncaught LogicException: You cannot use the "Symfony\Component\String\Slugger\AsciiSlugger" as the "symfony/translation-contracts" package is not installed. Try running "composer require symfony/translation-contracts". in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php on line 20
+[22-Dec-2025 13:03:21 UTC] PHP Fatal error:  Uncaught LogicException: You cannot use the "Symfony\Component\String\Slugger\AsciiSlugger" as the "symfony/translation-contracts" package is not installed. Try running "composer require symfony/translation-contracts". in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php on line 20
+[05-Jan-2026 19:19:23 UTC] PHP Fatal error:  Uncaught LogicException: You cannot use the "Symfony\Component\String\Slugger\AsciiSlugger" as the "symfony/translation-contracts" package is not installed. Try running "composer require symfony/translation-contracts". in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php on line 20
+[14-Jan-2026 02:23:54 UTC] PHP Fatal error:  Uncaught LogicException: You cannot use the "Symfony\Component\String\Slugger\AsciiSlugger" as the "symfony/translation-contracts" package is not installed. Try running "composer require symfony/translation-contracts". in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php on line 20
+[18-Jan-2026 00:46:52 UTC] PHP Fatal error:  Uncaught LogicException: You cannot use the "Symfony\Component\String\Slugger\AsciiSlugger" as the "symfony/translation-contracts" package is not installed. Try running "composer require symfony/translation-contracts". in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php on line 20
+[24-Jan-2026 00:21:40 UTC] PHP Fatal error:  Uncaught LogicException: You cannot use the "Symfony\Component\String\Slugger\AsciiSlugger" as the "symfony/translation-contracts" package is not installed. Try running "composer require symfony/translation-contracts". in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php on line 20
+[28-Jan-2026 05:56:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 05:56:21 UTC] PHP Fatal error:  Uncaught LogicException: You cannot use the "Symfony\Component\String\Slugger\AsciiSlugger" as the "symfony/translation-contracts" package is not installed. Try running "composer require symfony/translation-contracts". in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php on line 20
+[31-Jan-2026 11:04:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 01:44:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 01:44:07 UTC] PHP Fatal error:  Uncaught LogicException: You cannot use the "Symfony\Component\String\Slugger\AsciiSlugger" as the "symfony/translation-contracts" package is not installed. Try running "composer require symfony/translation-contracts". in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php on line 20
+[02-Feb-2026 03:43:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 07:23:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 10:42:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 10:42:49 UTC] PHP Fatal error:  Uncaught LogicException: You cannot use the "Symfony\Component\String\Slugger\AsciiSlugger" as the "symfony/translation-contracts" package is not installed. Try running "composer require symfony/translation-contracts". in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/string/Slugger/AsciiSlugger.php on line 20

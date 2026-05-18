@@ -1,0 +1,79 @@
+[29-Nov-2025 02:02:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php on line 15
+[30-Nov-2025 21:26:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php on line 15
+[13-Dec-2025 12:29:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php on line 15
+[14-Dec-2025 22:22:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php on line 15
+[18-Dec-2025 14:02:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php on line 15
+[25-Dec-2025 14:27:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php on line 15
+[16-Jan-2026 10:41:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php on line 15
+[20-Jan-2026 12:14:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php on line 15
+[22-Jan-2026 12:02:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php on line 15
+[26-Jan-2026 16:46:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php on line 15
+[29-Jan-2026 05:56:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 20:22:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 20:22:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php on line 15
+[31-Jan-2026 09:01:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 09:01:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php on line 15
+[01-Feb-2026 08:57:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:06:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:57:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:57:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php on line 15
+[05-Feb-2026 19:59:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 19:59:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php on line 15
+[13-Feb-2026 09:27:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 09:27:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php on line 15
+[14-Feb-2026 07:38:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:38:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php on line 15
+[16-Feb-2026 10:23:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:18:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:18:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Id/TableGeneratorSchemaVisitor.php on line 15

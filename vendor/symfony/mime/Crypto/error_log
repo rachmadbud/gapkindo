@@ -1,0 +1,196 @@
+[31-Oct-2025 05:15:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[31-Oct-2025 15:14:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[17-Nov-2025 04:29:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[29-Nov-2025 09:00:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[01-Dec-2025 23:40:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[03-Dec-2025 07:59:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[10-Dec-2025 04:40:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[10-Dec-2025 09:33:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[12-Dec-2025 09:21:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[12-Dec-2025 13:55:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[14-Dec-2025 01:49:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[14-Dec-2025 02:54:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[18-Dec-2025 12:00:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[18-Dec-2025 12:01:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[19-Dec-2025 05:45:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[19-Dec-2025 05:46:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[19-Dec-2025 17:38:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[19-Dec-2025 18:51:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[21-Dec-2025 03:36:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[21-Dec-2025 20:30:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[22-Dec-2025 09:30:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[05-Jan-2026 16:45:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[05-Jan-2026 20:19:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[06-Jan-2026 01:58:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[13-Jan-2026 21:05:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[14-Jan-2026 07:03:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[14-Jan-2026 07:44:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[14-Jan-2026 18:52:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[17-Jan-2026 00:08:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[20-Jan-2026 18:46:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[28-Jan-2026 07:25:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 07:25:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[28-Jan-2026 13:27:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 13:27:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[31-Jan-2026 00:10:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:14:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:14:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[31-Jan-2026 17:59:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 17:59:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[31-Jan-2026 18:25:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 18:33:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 02:25:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 02:25:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[01-Feb-2026 03:07:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 03:08:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 04:15:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 09:31:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 09:31:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[01-Feb-2026 10:41:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:48:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 18:09:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:15:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:15:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[04-Feb-2026 16:28:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:28:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[10-Feb-2026 19:14:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 19:14:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[11-Feb-2026 02:54:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 05:20:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 06:01:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 06:01:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[11-Feb-2026 11:35:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 11:35:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[11-Feb-2026 15:47:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 06:14:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 08:38:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 05:02:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 21:44:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 21:44:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[19-Feb-2026 14:11:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

@@ -1,0 +1,202 @@
+[30-Oct-2025 23:53:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[04-Nov-2025 04:58:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[16-Nov-2025 02:57:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[16-Nov-2025 02:59:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[18-Nov-2025 14:38:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[18-Nov-2025 14:39:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[28-Nov-2025 06:36:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[28-Nov-2025 06:39:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[05-Dec-2025 02:05:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[05-Dec-2025 02:59:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[05-Dec-2025 11:04:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[05-Dec-2025 15:44:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[08-Dec-2025 16:28:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[09-Dec-2025 10:27:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[18-Dec-2025 08:40:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[18-Dec-2025 08:40:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[18-Dec-2025 17:49:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[18-Dec-2025 19:42:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[18-Dec-2025 23:00:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[30-Dec-2025 02:52:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[30-Dec-2025 22:17:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[31-Dec-2025 05:00:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[07-Jan-2026 19:02:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[07-Jan-2026 22:58:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[10-Jan-2026 22:02:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[11-Jan-2026 18:02:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[14-Jan-2026 14:03:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[15-Jan-2026 00:39:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[15-Jan-2026 18:59:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[17-Jan-2026 22:09:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[21-Jan-2026 23:24:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[21-Jan-2026 23:24:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[22-Jan-2026 16:11:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[30-Jan-2026 06:46:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 06:46:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[30-Jan-2026 06:47:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 06:47:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[30-Jan-2026 21:31:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 21:31:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[30-Jan-2026 21:34:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 21:34:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[01-Feb-2026 12:49:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 12:49:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[01-Feb-2026 12:50:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 12:50:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[01-Feb-2026 16:26:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 16:26:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[01-Feb-2026 16:27:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 16:27:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[05-Feb-2026 18:25:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 18:25:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[06-Feb-2026 05:04:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 05:04:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[12-Feb-2026 20:37:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 20:37:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[14-Feb-2026 11:17:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 11:17:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[22-Feb-2026 01:29:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 01:29:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[22-Feb-2026 04:04:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:04:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher-contracts/Event.php on line 31

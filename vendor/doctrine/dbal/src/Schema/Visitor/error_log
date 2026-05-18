@@ -1,0 +1,227 @@
+[16-Dec-2025 16:26:40 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/Graphviz.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/Graphviz.php on line 19
+[16-Dec-2025 19:38:43 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php on line 14
+[16-Dec-2025 22:00:54 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/RemoveNamespacedAssets.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/RemoveNamespacedAssets.php on line 24
+[16-Dec-2025 22:01:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php on line 17
+[17-Dec-2025 02:45:48 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/DropSchemaSqlCollector.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/DropSchemaSqlCollector.php on line 21
+[18-Dec-2025 17:44:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php on line 17
+[18-Dec-2025 17:44:35 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php on line 14
+[18-Dec-2025 17:44:49 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/DropSchemaSqlCollector.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/DropSchemaSqlCollector.php on line 21
+[18-Dec-2025 17:44:57 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/Graphviz.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/Graphviz.php on line 19
+[18-Dec-2025 17:45:05 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/RemoveNamespacedAssets.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/RemoveNamespacedAssets.php on line 24
+[19-Dec-2025 18:57:45 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php on line 14
+[19-Dec-2025 21:58:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php on line 17
+[20-Dec-2025 01:43:30 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/Graphviz.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/Graphviz.php on line 19
+[20-Dec-2025 12:04:40 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/DropSchemaSqlCollector.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/DropSchemaSqlCollector.php on line 21
+[20-Dec-2025 12:24:40 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/RemoveNamespacedAssets.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/RemoveNamespacedAssets.php on line 24
+[27-Dec-2025 18:31:31 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/Graphviz.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/Graphviz.php on line 19
+[27-Dec-2025 19:54:27 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/RemoveNamespacedAssets.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/RemoveNamespacedAssets.php on line 24
+[27-Dec-2025 23:40:02 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/DropSchemaSqlCollector.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/DropSchemaSqlCollector.php on line 21
+[28-Dec-2025 03:28:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php on line 17
+[28-Dec-2025 04:27:12 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php on line 14
+[09-Jan-2026 09:26:24 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/RemoveNamespacedAssets.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/RemoveNamespacedAssets.php on line 24
+[09-Jan-2026 09:34:03 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/Graphviz.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/Graphviz.php on line 19
+[09-Jan-2026 09:35:55 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/DropSchemaSqlCollector.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/DropSchemaSqlCollector.php on line 21
+[09-Jan-2026 09:37:43 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php on line 14
+[09-Jan-2026 09:41:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php on line 17
+[22-Jan-2026 04:24:44 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/Graphviz.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/Graphviz.php on line 19
+[22-Jan-2026 04:51:20 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/DropSchemaSqlCollector.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/DropSchemaSqlCollector.php on line 21
+[22-Jan-2026 06:55:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php on line 17
+[22-Jan-2026 08:31:37 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/DropSchemaSqlCollector.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/DropSchemaSqlCollector.php on line 21
+[22-Jan-2026 09:21:48 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/Graphviz.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/Graphviz.php on line 19
+[22-Jan-2026 13:35:42 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/RemoveNamespacedAssets.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/RemoveNamespacedAssets.php on line 24
+[23-Jan-2026 03:42:36 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/RemoveNamespacedAssets.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/RemoveNamespacedAssets.php on line 24
+[24-Jan-2026 02:58:38 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php on line 14
+[26-Jan-2026 08:04:36 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/RemoveNamespacedAssets.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/RemoveNamespacedAssets.php on line 24
+[26-Jan-2026 15:55:40 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php on line 14
+[26-Jan-2026 20:38:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php on line 17
+[27-Jan-2026 09:34:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 09:34:19 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/RemoveNamespacedAssets.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/RemoveNamespacedAssets.php on line 24
+[27-Jan-2026 11:04:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 11:04:09 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/Graphviz.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/Graphviz.php on line 19
+[27-Jan-2026 13:19:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 13:19:10 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/DropSchemaSqlCollector.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/DropSchemaSqlCollector.php on line 21
+[28-Jan-2026 18:27:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 21:26:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 21:26:33 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php on line 14
+[29-Jan-2026 16:27:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 19:33:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 19:33:22 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php on line 14
+[30-Jan-2026 00:11:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 00:11:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php on line 17
+[01-Feb-2026 09:11:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 09:11:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php on line 17
+[01-Feb-2026 10:03:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 10:03:46 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php on line 14
+[01-Feb-2026 11:05:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 11:05:42 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/DropSchemaSqlCollector.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/DropSchemaSqlCollector.php on line 21
+[02-Feb-2026 09:28:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:28:23 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/RemoveNamespacedAssets.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/RemoveNamespacedAssets.php on line 24
+[03-Feb-2026 05:28:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:28:25 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/Graphviz.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/Graphviz.php on line 19
+[03-Feb-2026 13:57:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 16:04:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 16:19:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 16:19:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php on line 17
+[04-Feb-2026 13:15:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:15:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Schema\Visitor\Visitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/AbstractVisitor.php on line 17
+[04-Feb-2026 14:52:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 17:37:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 17:21:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 18:34:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 02:47:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 02:47:49 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/CreateSchemaSqlCollector.php on line 14
+[13-Feb-2026 03:35:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 03:35:04 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Visitor\AbstractVisitor" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/DropSchemaSqlCollector.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Schema/Visitor/DropSchemaSqlCollector.php on line 21

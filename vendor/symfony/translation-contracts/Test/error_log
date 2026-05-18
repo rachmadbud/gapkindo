@@ -1,0 +1,97 @@
+[16-Nov-2025 14:42:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33
+[27-Nov-2025 05:59:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33
+[09-Dec-2025 20:26:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33
+[10-Dec-2025 12:18:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33
+[12-Dec-2025 00:29:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33
+[14-Dec-2025 01:35:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33
+[18-Dec-2025 11:23:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33
+[19-Dec-2025 19:09:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33
+[22-Dec-2025 08:26:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33
+[05-Jan-2026 14:53:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33
+[14-Jan-2026 11:51:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33
+[16-Jan-2026 11:16:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33
+[18-Jan-2026 05:39:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33
+[28-Jan-2026 02:15:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 02:15:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33
+[30-Jan-2026 16:36:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 16:36:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33
+[31-Jan-2026 05:12:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 05:12:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33
+[02-Feb-2026 11:38:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:38:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33
+[02-Feb-2026 11:53:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:53:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33
+[11-Feb-2026 08:21:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 08:21:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33
+[14-Feb-2026 08:22:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 08:22:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33
+[14-Feb-2026 09:54:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:54:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33
+[20-Feb-2026 01:14:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 01:14:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 33

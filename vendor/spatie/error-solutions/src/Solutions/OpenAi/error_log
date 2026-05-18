@@ -1,0 +1,136 @@
+[16-Nov-2025 21:13:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\ErrorSolutions\Contracts\HasSolutionsForThrowable" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[16-Dec-2025 11:33:32 UTC] PHP Fatal error:  Trait "Spatie\ErrorSolutions\Solutions\Concerns\IsProvidedByFlare" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[16-Dec-2025 18:09:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\ErrorSolutions\Contracts\HasSolutionsForThrowable" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[16-Dec-2025 18:14:07 UTC] PHP Fatal error:  Trait "Spatie\ErrorSolutions\Solutions\Concerns\IsProvidedByFlare" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[16-Dec-2025 18:26:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php on line 7
+[16-Dec-2025 19:43:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php on line 7
+[16-Dec-2025 19:56:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\ErrorSolutions\Contracts\HasSolutionsForThrowable" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[17-Dec-2025 22:07:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\ErrorSolutions\Contracts\HasSolutionsForThrowable" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[18-Dec-2025 04:43:45 UTC] PHP Fatal error:  Trait "Spatie\ErrorSolutions\Solutions\Concerns\IsProvidedByFlare" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[18-Dec-2025 12:29:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php on line 7
+[18-Dec-2025 20:22:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\ErrorSolutions\Contracts\HasSolutionsForThrowable" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[18-Dec-2025 20:23:02 UTC] PHP Fatal error:  Trait "Spatie\ErrorSolutions\Solutions\Concerns\IsProvidedByFlare" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[18-Dec-2025 20:23:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php on line 7
+[27-Dec-2025 21:11:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\ErrorSolutions\Contracts\HasSolutionsForThrowable" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[28-Dec-2025 04:14:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php on line 7
+[28-Dec-2025 07:17:58 UTC] PHP Fatal error:  Trait "Spatie\ErrorSolutions\Solutions\Concerns\IsProvidedByFlare" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[11-Jan-2026 04:34:38 UTC] PHP Fatal error:  Trait "Spatie\ErrorSolutions\Solutions\Concerns\IsProvidedByFlare" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[11-Jan-2026 05:01:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\ErrorSolutions\Contracts\HasSolutionsForThrowable" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[14-Jan-2026 00:46:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\ErrorSolutions\Contracts\HasSolutionsForThrowable" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[14-Jan-2026 03:55:48 UTC] PHP Fatal error:  Trait "Spatie\ErrorSolutions\Solutions\Concerns\IsProvidedByFlare" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[14-Jan-2026 06:58:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php on line 7
+[20-Jan-2026 06:43:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php on line 7
+[20-Jan-2026 09:28:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\ErrorSolutions\Contracts\HasSolutionsForThrowable" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[20-Jan-2026 09:48:47 UTC] PHP Fatal error:  Trait "Spatie\ErrorSolutions\Solutions\Concerns\IsProvidedByFlare" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[23-Jan-2026 15:14:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php on line 7
+[23-Jan-2026 15:17:21 UTC] PHP Fatal error:  Trait "Spatie\ErrorSolutions\Solutions\Concerns\IsProvidedByFlare" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[24-Jan-2026 18:26:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\ErrorSolutions\Contracts\HasSolutionsForThrowable" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[25-Jan-2026 21:29:04 UTC] PHP Fatal error:  Trait "Spatie\ErrorSolutions\Solutions\Concerns\IsProvidedByFlare" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[27-Jan-2026 05:40:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 05:40:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php on line 7
+[27-Jan-2026 17:51:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 17:51:43 UTC] PHP Fatal error:  Trait "Spatie\ErrorSolutions\Solutions\Concerns\IsProvidedByFlare" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[28-Jan-2026 21:28:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 21:28:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php on line 7
+[29-Jan-2026 18:12:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:07:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 10:31:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 10:31:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\ErrorSolutions\Contracts\HasSolutionsForThrowable" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[31-Jan-2026 10:33:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 11:57:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 09:11:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 15:33:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 15:33:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php on line 7
+[01-Feb-2026 17:41:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 17:41:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\ErrorSolutions\Contracts\HasSolutionsForThrowable" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[01-Feb-2026 18:35:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 18:35:55 UTC] PHP Fatal error:  Trait "Spatie\ErrorSolutions\Solutions\Concerns\IsProvidedByFlare" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[04-Feb-2026 13:24:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 13:01:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 13:01:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\ErrorSolutions\Contracts\HasSolutionsForThrowable" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[16-Feb-2026 09:59:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 09:59:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/DummyCache.php on line 7
+[16-Feb-2026 15:22:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:24:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:24:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\ErrorSolutions\Contracts\HasSolutionsForThrowable" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[16-Feb-2026 22:14:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 00:30:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 00:30:42 UTC] PHP Fatal error:  Trait "Spatie\ErrorSolutions\Solutions\Concerns\IsProvidedByFlare" not found in /home/gapkindo/public_html/vendor/spatie/error-solutions/src/Solutions/OpenAi/OpenAiSolution.php on line 14

@@ -1,0 +1,222 @@
+[28-Nov-2025 05:05:47 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php on line 20
+[28-Nov-2025 05:07:03 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php on line 23
+[29-Nov-2025 06:18:30 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php on line 20
+[29-Nov-2025 06:22:28 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php on line 18
+[02-Dec-2025 01:07:16 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php on line 18
+[09-Dec-2025 23:30:53 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php on line 18
+[10-Dec-2025 00:38:33 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php on line 23
+[10-Dec-2025 01:25:57 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php on line 18
+[10-Dec-2025 02:57:25 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php on line 20
+[11-Dec-2025 18:19:11 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php on line 23
+[11-Dec-2025 21:13:00 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php on line 20
+[12-Dec-2025 00:37:34 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php on line 23
+[12-Dec-2025 12:47:43 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php on line 18
+[13-Dec-2025 21:31:04 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php on line 23
+[13-Dec-2025 22:13:12 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php on line 20
+[13-Dec-2025 22:13:28 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php on line 18
+[18-Dec-2025 11:06:19 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php on line 23
+[18-Dec-2025 11:06:35 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php on line 20
+[18-Dec-2025 11:06:58 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php on line 18
+[20-Dec-2025 19:36:36 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php on line 20
+[21-Dec-2025 20:47:09 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php on line 23
+[21-Dec-2025 23:36:48 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php on line 18
+[22-Dec-2025 01:52:55 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php on line 20
+[05-Jan-2026 08:45:27 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php on line 23
+[05-Jan-2026 09:22:56 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php on line 20
+[05-Jan-2026 09:23:12 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php on line 18
+[12-Jan-2026 20:12:29 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php on line 23
+[14-Jan-2026 00:18:20 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php on line 20
+[14-Jan-2026 00:29:16 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php on line 18
+[15-Jan-2026 07:41:38 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php on line 18
+[16-Jan-2026 22:16:14 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php on line 23
+[18-Jan-2026 10:15:29 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php on line 20
+[25-Jan-2026 02:55:14 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php on line 20
+[25-Jan-2026 10:21:54 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php on line 23
+[25-Jan-2026 18:16:35 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php on line 18
+[27-Jan-2026 18:50:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 19:26:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 01:01:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 10:51:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 11:53:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 15:48:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 15:48:32 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php on line 20
+[31-Jan-2026 16:15:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 16:15:00 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php on line 18
+[31-Jan-2026 17:13:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 21:47:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 23:48:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 23:48:06 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php on line 23
+[01-Feb-2026 01:08:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 01:08:03 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php on line 20
+[01-Feb-2026 01:32:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 01:32:03 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php on line 18
+[01-Feb-2026 02:22:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 06:52:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 06:52:25 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php on line 23
+[02-Feb-2026 03:26:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 03:26:27 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php on line 20
+[04-Feb-2026 10:58:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 21:13:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 21:05:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 21:05:17 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php on line 20
+[08-Feb-2026 07:28:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 07:28:05 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php on line 23
+[11-Feb-2026 03:21:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 04:03:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 09:34:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 09:34:36 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigDecimal.php on line 18
+[11-Feb-2026 11:05:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 11:05:59 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigRational.php on line 20
+[14-Feb-2026 05:16:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 05:16:21 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php on line 23
+[15-Feb-2026 15:10:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 15:10:09 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php on line 23
+[16-Feb-2026 19:25:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 19:25:14 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/BigInteger.php on line 23

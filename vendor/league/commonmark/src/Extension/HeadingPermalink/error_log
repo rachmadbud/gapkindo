@@ -1,0 +1,240 @@
+[16-Dec-2025 21:35:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php on line 30
+[16-Dec-2025 21:50:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php on line 27
+[16-Dec-2025 22:04:29 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php on line 21
+[16-Dec-2025 23:21:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php on line 25
+[17-Dec-2025 17:17:18 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php on line 21
+[18-Dec-2025 02:15:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php on line 25
+[18-Dec-2025 05:32:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php on line 30
+[18-Dec-2025 14:45:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php on line 27
+[18-Dec-2025 16:09:18 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php on line 25
+[18-Dec-2025 16:09:25 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php on line 21
+[18-Dec-2025 16:09:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php on line 27
+[18-Dec-2025 16:09:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php on line 30
+[27-Dec-2025 18:43:16 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php on line 21
+[27-Dec-2025 22:01:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php on line 25
+[28-Dec-2025 04:46:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php on line 30
+[28-Dec-2025 09:50:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php on line 27
+[06-Jan-2026 02:46:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php on line 25
+[06-Jan-2026 03:01:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php on line 27
+[07-Jan-2026 20:19:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php on line 27
+[07-Jan-2026 20:20:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php on line 30
+[07-Jan-2026 20:22:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php on line 25
+[07-Jan-2026 20:26:38 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php on line 21
+[17-Jan-2026 04:27:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php on line 27
+[17-Jan-2026 04:40:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php on line 30
+[17-Jan-2026 11:45:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php on line 25
+[17-Jan-2026 13:17:14 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php on line 21
+[19-Jan-2026 04:01:46 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php on line 25
+[19-Jan-2026 07:04:26 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php on line 27
+[19-Jan-2026 07:06:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php on line 30
+[20-Jan-2026 12:14:44 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php on line 27
+[20-Jan-2026 13:30:24 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php on line 21
+[20-Jan-2026 17:09:40 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php on line 25
+[21-Jan-2026 03:08:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php on line 30
+[21-Jan-2026 16:13:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php on line 27
+[23-Jan-2026 02:41:06 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php on line 21
+[24-Jan-2026 20:43:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php on line 27
+[26-Jan-2026 01:15:24 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php on line 21
+[26-Jan-2026 07:19:16 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php on line 21
+[26-Jan-2026 10:37:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php on line 30
+[26-Jan-2026 19:50:18 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php on line 25
+[27-Jan-2026 10:57:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 10:57:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php on line 30
+[29-Jan-2026 05:10:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 05:10:33 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php on line 21
+[29-Jan-2026 10:30:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 10:30:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php on line 25
+[29-Jan-2026 14:21:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 14:21:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php on line 30
+[29-Jan-2026 23:26:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 23:26:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php on line 25
+[01-Feb-2026 14:34:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 14:34:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php on line 25
+[04-Feb-2026 13:00:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:00:18 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php on line 21
+[04-Feb-2026 18:02:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 18:02:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php on line 25
+[04-Feb-2026 21:44:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 21:44:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php on line 30
+[04-Feb-2026 23:33:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 23:33:17 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php on line 27
+[05-Feb-2026 03:52:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 03:52:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php on line 27
+[05-Feb-2026 03:54:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 03:54:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php on line 30
+[16-Feb-2026 13:20:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:20:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php on line 27
+[16-Feb-2026 14:45:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 14:45:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php on line 25
+[16-Feb-2026 18:07:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:07:55 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php on line 21
+[17-Feb-2026 01:22:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 01:22:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php on line 30

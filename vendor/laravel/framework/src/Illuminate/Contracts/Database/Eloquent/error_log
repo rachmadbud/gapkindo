@@ -1,0 +1,44 @@
+[03-Nov-2025 23:32:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Database\Query\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Database/Eloquent/Builder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Database/Eloquent/Builder.php on line 12
+[18-Dec-2025 23:23:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Database\Query\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Database/Eloquent/Builder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Database/Eloquent/Builder.php on line 12
+[24-Dec-2025 03:37:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Database\Query\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Database/Eloquent/Builder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Database/Eloquent/Builder.php on line 12
+[25-Dec-2025 09:28:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Database\Query\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Database/Eloquent/Builder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Database/Eloquent/Builder.php on line 12
+[04-Jan-2026 12:45:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Database\Query\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Database/Eloquent/Builder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Database/Eloquent/Builder.php on line 12
+[26-Jan-2026 01:13:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Database\Query\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Database/Eloquent/Builder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Database/Eloquent/Builder.php on line 12
+[03-Feb-2026 12:53:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 17:17:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 17:12:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 22:10:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 22:15:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 22:15:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Database\Query\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Database/Eloquent/Builder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Database/Eloquent/Builder.php on line 12
+[22-Feb-2026 00:00:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 00:28:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 05:24:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 05:39:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 06:20:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 06:20:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Database\Query\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Database/Eloquent/Builder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Database/Eloquent/Builder.php on line 12
+[22-Feb-2026 06:42:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 08:07:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

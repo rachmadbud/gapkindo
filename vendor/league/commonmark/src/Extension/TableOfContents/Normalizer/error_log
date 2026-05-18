@@ -1,0 +1,165 @@
+[17-Dec-2025 01:52:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php on line 20
+[18-Dec-2025 20:43:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php on line 20
+[18-Dec-2025 20:43:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php on line 19
+[18-Dec-2025 20:43:41 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php on line 20
+[19-Dec-2025 20:55:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php on line 19
+[20-Dec-2025 00:36:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php on line 20
+[20-Dec-2025 16:10:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php on line 20
+[20-Dec-2025 19:20:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php on line 19
+[21-Dec-2025 05:25:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php on line 20
+[01-Jan-2026 18:17:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php on line 20
+[01-Jan-2026 20:10:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php on line 20
+[02-Jan-2026 11:51:44 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php on line 19
+[22-Jan-2026 07:20:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php on line 20
+[22-Jan-2026 13:30:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php on line 19
+[24-Jan-2026 02:53:12 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php on line 20
+[02-Feb-2026 04:18:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:18:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php on line 19
+[02-Feb-2026 05:45:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 05:45:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php on line 19
+[02-Feb-2026 11:03:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:03:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php on line 20
+[02-Feb-2026 11:19:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:19:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php on line 20
+[02-Feb-2026 11:29:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:46:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 18:36:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 18:36:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php on line 20
+[02-Feb-2026 18:49:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 18:49:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php on line 20
+[04-Feb-2026 21:53:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 21:53:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php on line 19
+[04-Feb-2026 21:54:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 21:54:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php on line 20
+[04-Feb-2026 21:55:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 21:55:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php on line 20
+[09-Feb-2026 23:21:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 23:21:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php on line 20
+[13-Feb-2026 04:56:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 04:56:40 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php on line 19
+[13-Feb-2026 05:26:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 05:36:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 05:36:03 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php on line 20
+[13-Feb-2026 05:59:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 05:59:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php on line 20
+[15-Feb-2026 20:49:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 20:49:40 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php on line 20
+[19-Feb-2026 16:51:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 16:51:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php on line 20
+[19-Feb-2026 16:51:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 16:53:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 16:53:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php on line 19
+[19-Feb-2026 16:54:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 16:54:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php on line 20
+[21-Feb-2026 23:30:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 23:30:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/AsIsNormalizerStrategy.php on line 20
+[22-Feb-2026 04:31:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:31:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php on line 20
+[22-Feb-2026 07:04:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 07:04:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php on line 19
+[22-Feb-2026 10:52:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

@@ -1,0 +1,48 @@
+[18-Dec-2025 23:29:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Foundation\ExceptionRenderer" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php on line 10
+[23-Dec-2025 01:18:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Foundation\ExceptionRenderer" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php on line 10
+[25-Dec-2025 05:04:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Foundation\ExceptionRenderer" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php on line 10
+[28-Dec-2025 15:05:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Foundation\ExceptionRenderer" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php on line 10
+[03-Feb-2026 13:44:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 13:44:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Foundation\ExceptionRenderer" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php on line 10
+[03-Feb-2026 18:02:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 18:02:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Foundation\ExceptionRenderer" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php on line 10
+[04-Feb-2026 13:33:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:33:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Foundation\ExceptionRenderer" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php on line 10
+[05-Feb-2026 06:59:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 09:01:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 09:01:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Foundation\ExceptionRenderer" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php on line 10
+[13-Feb-2026 20:24:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 20:24:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Foundation\ExceptionRenderer" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php on line 10
+[22-Feb-2026 03:26:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 07:07:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 07:07:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Foundation\ExceptionRenderer" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php on line 10

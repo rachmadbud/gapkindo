@@ -1,0 +1,1054 @@
+[31-Oct-2025 16:21:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[31-Oct-2025 16:32:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[31-Oct-2025 16:56:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[31-Oct-2025 16:58:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[31-Oct-2025 17:00:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[31-Oct-2025 22:31:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[31-Oct-2025 22:33:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[16-Nov-2025 13:16:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[16-Nov-2025 13:18:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[16-Nov-2025 13:24:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[16-Nov-2025 13:25:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[16-Nov-2025 13:54:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[16-Nov-2025 14:16:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[16-Nov-2025 14:20:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[16-Nov-2025 14:22:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[16-Nov-2025 17:13:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[17-Nov-2025 00:36:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[17-Nov-2025 02:32:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[28-Nov-2025 23:47:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[03-Dec-2025 19:28:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[03-Dec-2025 19:30:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[03-Dec-2025 19:34:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[03-Dec-2025 21:08:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[03-Dec-2025 21:11:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[03-Dec-2025 21:17:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[04-Dec-2025 00:35:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[04-Dec-2025 01:42:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[04-Dec-2025 12:01:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[04-Dec-2025 12:25:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[04-Dec-2025 12:28:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[04-Dec-2025 12:34:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[09-Dec-2025 19:37:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[09-Dec-2025 23:27:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[10-Dec-2025 02:22:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[10-Dec-2025 04:12:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[10-Dec-2025 05:01:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[10-Dec-2025 05:19:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[10-Dec-2025 06:11:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[10-Dec-2025 09:08:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[10-Dec-2025 09:27:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[10-Dec-2025 11:11:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[10-Dec-2025 11:55:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[10-Dec-2025 18:14:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[11-Dec-2025 21:48:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[12-Dec-2025 01:01:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[12-Dec-2025 03:17:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[12-Dec-2025 04:56:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[12-Dec-2025 06:08:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[12-Dec-2025 07:05:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[12-Dec-2025 09:12:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[12-Dec-2025 10:12:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[12-Dec-2025 12:26:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[12-Dec-2025 14:59:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[12-Dec-2025 15:27:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[18-Dec-2025 12:13:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[18-Dec-2025 12:13:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[18-Dec-2025 12:13:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[18-Dec-2025 12:13:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[18-Dec-2025 12:13:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[18-Dec-2025 12:13:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[18-Dec-2025 12:13:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[18-Dec-2025 12:14:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[18-Dec-2025 12:14:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[18-Dec-2025 12:14:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[18-Dec-2025 12:14:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[18-Dec-2025 12:14:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[21-Dec-2025 18:42:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[21-Dec-2025 19:35:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[21-Dec-2025 20:25:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[21-Dec-2025 21:06:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[22-Dec-2025 01:33:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[22-Dec-2025 01:34:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[22-Dec-2025 06:51:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[22-Dec-2025 08:12:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[22-Dec-2025 10:53:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[22-Dec-2025 11:53:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[22-Dec-2025 12:07:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[22-Dec-2025 13:48:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[25-Dec-2025 16:06:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[25-Dec-2025 17:21:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[25-Dec-2025 17:21:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[25-Dec-2025 17:21:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[25-Dec-2025 17:21:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[25-Dec-2025 17:22:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[25-Dec-2025 17:55:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[25-Dec-2025 17:55:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[25-Dec-2025 18:22:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[25-Dec-2025 18:23:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[25-Dec-2025 18:23:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[25-Dec-2025 18:23:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[04-Jan-2026 16:25:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[06-Jan-2026 01:58:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[10-Jan-2026 01:51:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[12-Jan-2026 05:00:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[13-Jan-2026 17:02:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[13-Jan-2026 18:48:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[13-Jan-2026 23:40:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[13-Jan-2026 23:48:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[13-Jan-2026 23:59:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[14-Jan-2026 00:21:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[14-Jan-2026 02:20:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[14-Jan-2026 04:56:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[14-Jan-2026 07:56:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[14-Jan-2026 08:47:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[14-Jan-2026 09:52:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[15-Jan-2026 06:44:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[15-Jan-2026 07:46:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[15-Jan-2026 07:46:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[15-Jan-2026 10:58:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[15-Jan-2026 13:25:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[15-Jan-2026 14:14:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[15-Jan-2026 15:03:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[15-Jan-2026 18:20:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[16-Jan-2026 02:19:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[16-Jan-2026 06:20:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[16-Jan-2026 08:40:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[16-Jan-2026 12:05:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[16-Jan-2026 18:49:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[16-Jan-2026 19:36:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[17-Jan-2026 01:39:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[17-Jan-2026 03:32:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[17-Jan-2026 03:37:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[17-Jan-2026 04:23:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[17-Jan-2026 05:10:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[17-Jan-2026 10:08:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[17-Jan-2026 14:57:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[17-Jan-2026 20:44:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[18-Jan-2026 00:46:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[18-Jan-2026 00:49:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[18-Jan-2026 01:53:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[18-Jan-2026 04:00:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[18-Jan-2026 09:32:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[18-Jan-2026 09:32:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[18-Jan-2026 09:56:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[18-Jan-2026 09:59:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[18-Jan-2026 10:01:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[18-Jan-2026 10:04:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[19-Jan-2026 05:36:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[20-Jan-2026 07:37:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[20-Jan-2026 10:37:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[20-Jan-2026 11:24:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[20-Jan-2026 16:23:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[20-Jan-2026 18:48:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[20-Jan-2026 21:13:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[30-Jan-2026 15:01:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:01:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[30-Jan-2026 15:03:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:03:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[30-Jan-2026 15:04:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:04:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[30-Jan-2026 15:05:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:05:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[30-Jan-2026 15:31:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:31:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[30-Jan-2026 15:57:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:57:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[30-Jan-2026 16:01:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 16:01:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[30-Jan-2026 16:03:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 16:03:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[30-Jan-2026 16:04:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 16:04:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[30-Jan-2026 19:24:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 19:51:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 19:51:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[31-Jan-2026 01:26:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:26:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[31-Jan-2026 03:54:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 03:54:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[31-Jan-2026 03:56:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 03:56:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[31-Jan-2026 03:57:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 03:57:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[31-Jan-2026 03:58:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 03:58:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[31-Jan-2026 03:59:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 03:59:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[31-Jan-2026 04:23:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 04:23:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[31-Jan-2026 04:40:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 04:40:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[31-Jan-2026 04:41:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 04:41:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[31-Jan-2026 04:44:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 04:44:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[31-Jan-2026 04:45:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 04:45:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[31-Jan-2026 06:57:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 07:14:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 07:14:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[31-Jan-2026 14:03:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 14:03:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[31-Jan-2026 16:09:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 16:09:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[01-Feb-2026 17:26:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 17:26:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[02-Feb-2026 01:33:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:33:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[02-Feb-2026 01:34:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:34:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[02-Feb-2026 01:35:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:35:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[02-Feb-2026 01:36:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:36:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[02-Feb-2026 01:37:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:37:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[02-Feb-2026 01:39:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:39:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[02-Feb-2026 01:41:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:41:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[02-Feb-2026 01:42:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:42:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[02-Feb-2026 01:46:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:46:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[02-Feb-2026 01:47:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:47:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[02-Feb-2026 01:48:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:48:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[02-Feb-2026 02:45:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:45:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[02-Feb-2026 02:46:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:46:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[02-Feb-2026 02:47:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:47:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[02-Feb-2026 02:48:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:48:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[02-Feb-2026 02:49:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:49:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[02-Feb-2026 02:50:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:50:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[02-Feb-2026 02:51:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:51:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[02-Feb-2026 02:52:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:52:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[02-Feb-2026 02:53:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:53:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[02-Feb-2026 03:12:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 03:12:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[02-Feb-2026 03:13:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 03:13:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[02-Feb-2026 03:14:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 03:14:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[02-Feb-2026 21:48:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 21:48:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[03-Feb-2026 01:53:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:53:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[03-Feb-2026 01:56:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:56:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[03-Feb-2026 01:58:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:58:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[03-Feb-2026 05:04:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:04:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[03-Feb-2026 05:06:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:06:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[03-Feb-2026 10:51:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 10:51:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[03-Feb-2026 10:53:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 10:53:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[03-Feb-2026 23:36:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 23:36:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[04-Feb-2026 13:32:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:32:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[04-Feb-2026 18:50:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 18:50:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[05-Feb-2026 02:08:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 02:08:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[05-Feb-2026 22:38:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 22:38:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[06-Feb-2026 17:06:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 17:06:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[06-Feb-2026 21:53:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 21:53:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[08-Feb-2026 08:56:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 08:56:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[09-Feb-2026 10:24:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 10:24:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[09-Feb-2026 17:34:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 17:34:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[10-Feb-2026 13:23:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 13:23:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[10-Feb-2026 19:23:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 19:23:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[11-Feb-2026 01:21:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 01:21:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[11-Feb-2026 03:01:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:01:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[11-Feb-2026 03:40:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:40:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[11-Feb-2026 03:53:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:53:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[11-Feb-2026 07:54:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 07:54:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[11-Feb-2026 08:08:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 08:08:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[11-Feb-2026 08:18:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 08:18:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[11-Feb-2026 09:09:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 10:58:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 10:58:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[11-Feb-2026 11:55:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 11:55:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[11-Feb-2026 12:23:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 12:23:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[11-Feb-2026 12:48:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 12:48:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[11-Feb-2026 15:18:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 15:18:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[12-Feb-2026 02:21:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 02:21:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[13-Feb-2026 11:32:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 11:32:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[13-Feb-2026 17:01:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 17:01:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[13-Feb-2026 17:29:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 17:29:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[14-Feb-2026 15:31:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 15:31:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[15-Feb-2026 03:20:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 03:20:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[15-Feb-2026 08:44:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 08:44:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[16-Feb-2026 10:11:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 10:11:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[16-Feb-2026 12:05:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 12:05:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[16-Feb-2026 18:48:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:48:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[17-Feb-2026 05:22:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 05:22:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[17-Feb-2026 07:22:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 07:22:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[18-Feb-2026 13:46:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 13:46:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[19-Feb-2026 05:07:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 05:07:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[20-Feb-2026 01:33:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 01:33:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22

@@ -1,0 +1,954 @@
+[30-Oct-2025 23:38:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[31-Oct-2025 05:20:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[31-Oct-2025 06:52:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php on line 24
+[31-Oct-2025 13:13:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php on line 24
+[31-Oct-2025 13:25:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php on line 24
+[31-Oct-2025 13:44:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php on line 24
+[31-Oct-2025 13:50:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php on line 24
+[31-Oct-2025 15:36:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php on line 24
+[31-Oct-2025 21:40:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php on line 24
+[31-Oct-2025 22:19:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[04-Nov-2025 09:54:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php on line 24
+[04-Nov-2025 09:56:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php on line 24
+[19-Nov-2025 17:37:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php on line 24
+[19-Nov-2025 17:38:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php on line 24
+[19-Nov-2025 17:43:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php on line 24
+[19-Nov-2025 17:44:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[19-Nov-2025 17:45:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php on line 24
+[19-Nov-2025 17:52:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php on line 24
+[19-Nov-2025 17:54:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[19-Nov-2025 17:55:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php on line 24
+[19-Nov-2025 18:05:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[19-Nov-2025 18:09:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php on line 24
+[19-Nov-2025 18:24:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php on line 24
+[05-Dec-2025 10:04:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php on line 24
+[05-Dec-2025 10:38:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[05-Dec-2025 11:20:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php on line 24
+[05-Dec-2025 15:03:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php on line 24
+[05-Dec-2025 15:46:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php on line 24
+[05-Dec-2025 16:34:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[05-Dec-2025 17:03:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php on line 24
+[05-Dec-2025 19:12:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[05-Dec-2025 20:39:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php on line 24
+[05-Dec-2025 23:06:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php on line 24
+[06-Dec-2025 00:24:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php on line 24
+[06-Dec-2025 05:22:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php on line 24
+[11-Dec-2025 07:15:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php on line 24
+[11-Dec-2025 07:16:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[11-Dec-2025 07:17:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php on line 24
+[11-Dec-2025 07:20:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php on line 24
+[11-Dec-2025 07:22:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php on line 24
+[11-Dec-2025 07:26:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php on line 24
+[11-Dec-2025 07:33:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[11-Dec-2025 07:49:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php on line 24
+[11-Dec-2025 09:34:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php on line 24
+[11-Dec-2025 11:26:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php on line 24
+[11-Dec-2025 12:04:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php on line 24
+[11-Dec-2025 12:38:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[11-Dec-2025 18:38:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[11-Dec-2025 18:39:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php on line 24
+[11-Dec-2025 22:21:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[11-Dec-2025 23:38:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[12-Dec-2025 01:55:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php on line 24
+[12-Dec-2025 02:08:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php on line 24
+[12-Dec-2025 03:10:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php on line 24
+[12-Dec-2025 05:33:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php on line 24
+[12-Dec-2025 07:01:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php on line 24
+[12-Dec-2025 12:20:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php on line 24
+[12-Dec-2025 12:21:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php on line 24
+[12-Dec-2025 13:44:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php on line 24
+[14-Dec-2025 00:33:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[14-Dec-2025 00:34:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[14-Dec-2025 00:34:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php on line 24
+[14-Dec-2025 00:34:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php on line 24
+[14-Dec-2025 00:35:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[14-Dec-2025 00:35:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php on line 24
+[14-Dec-2025 01:05:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php on line 24
+[14-Dec-2025 01:05:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php on line 24
+[14-Dec-2025 01:05:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php on line 24
+[14-Dec-2025 01:05:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php on line 24
+[14-Dec-2025 02:17:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php on line 24
+[14-Dec-2025 03:07:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php on line 24
+[18-Dec-2025 11:34:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php on line 24
+[18-Dec-2025 11:35:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php on line 24
+[18-Dec-2025 11:35:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php on line 24
+[18-Dec-2025 11:35:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php on line 24
+[18-Dec-2025 11:35:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php on line 24
+[18-Dec-2025 11:35:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[18-Dec-2025 11:35:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php on line 24
+[18-Dec-2025 11:36:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[18-Dec-2025 11:36:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php on line 24
+[18-Dec-2025 11:36:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[18-Dec-2025 11:36:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php on line 24
+[18-Dec-2025 11:36:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php on line 24
+[21-Dec-2025 16:36:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php on line 24
+[21-Dec-2025 16:38:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php on line 24
+[21-Dec-2025 22:28:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php on line 24
+[22-Dec-2025 00:22:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php on line 24
+[22-Dec-2025 01:19:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php on line 24
+[22-Dec-2025 05:06:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php on line 24
+[22-Dec-2025 05:52:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[22-Dec-2025 05:54:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php on line 24
+[22-Dec-2025 06:41:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php on line 24
+[22-Dec-2025 07:07:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php on line 24
+[22-Dec-2025 08:08:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php on line 24
+[22-Dec-2025 08:09:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[22-Dec-2025 09:22:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php on line 24
+[22-Dec-2025 10:05:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php on line 24
+[22-Dec-2025 15:06:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[22-Dec-2025 21:06:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php on line 24
+[26-Dec-2025 00:01:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[26-Dec-2025 15:02:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php on line 24
+[27-Dec-2025 16:52:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php on line 24
+[27-Dec-2025 20:36:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php on line 24
+[28-Dec-2025 19:07:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[29-Dec-2025 02:59:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php on line 24
+[29-Dec-2025 04:04:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php on line 24
+[29-Dec-2025 14:23:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php on line 24
+[29-Dec-2025 21:26:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php on line 24
+[30-Dec-2025 15:44:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php on line 24
+[31-Dec-2025 08:42:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[01-Jan-2026 23:30:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php on line 24
+[05-Jan-2026 12:16:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[05-Jan-2026 12:16:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[05-Jan-2026 12:16:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php on line 24
+[05-Jan-2026 12:17:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php on line 24
+[05-Jan-2026 12:17:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[05-Jan-2026 12:17:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php on line 24
+[05-Jan-2026 13:37:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php on line 24
+[05-Jan-2026 13:37:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php on line 24
+[05-Jan-2026 13:37:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php on line 24
+[05-Jan-2026 13:38:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php on line 24
+[05-Jan-2026 18:08:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php on line 24
+[05-Jan-2026 21:21:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php on line 24
+[07-Jan-2026 12:35:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php on line 24
+[07-Jan-2026 13:57:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php on line 24
+[07-Jan-2026 14:31:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[07-Jan-2026 15:15:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php on line 24
+[07-Jan-2026 15:53:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php on line 24
+[07-Jan-2026 18:40:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[07-Jan-2026 20:59:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php on line 24
+[07-Jan-2026 22:22:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php on line 24
+[07-Jan-2026 22:28:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php on line 24
+[08-Jan-2026 00:28:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php on line 24
+[08-Jan-2026 02:01:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php on line 24
+[08-Jan-2026 04:56:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[15-Jan-2026 14:14:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php on line 24
+[15-Jan-2026 14:14:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php on line 24
+[16-Jan-2026 03:13:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php on line 24
+[16-Jan-2026 08:40:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php on line 24
+[16-Jan-2026 13:38:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php on line 24
+[16-Jan-2026 19:35:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[16-Jan-2026 21:17:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php on line 24
+[16-Jan-2026 22:37:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php on line 24
+[17-Jan-2026 03:07:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[17-Jan-2026 03:52:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php on line 24
+[17-Jan-2026 10:58:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[19-Jan-2026 03:14:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php on line 24
+[20-Jan-2026 09:04:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[20-Jan-2026 09:51:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php on line 24
+[20-Jan-2026 17:06:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[21-Jan-2026 03:52:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php on line 24
+[21-Jan-2026 04:40:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php on line 24
+[21-Jan-2026 17:37:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php on line 24
+[21-Jan-2026 20:34:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[22-Jan-2026 00:19:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php on line 24
+[22-Jan-2026 04:49:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[22-Jan-2026 16:21:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php on line 24
+[22-Jan-2026 21:22:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php on line 24
+[23-Jan-2026 05:13:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php on line 24
+[23-Jan-2026 22:54:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[26-Jan-2026 09:34:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php on line 24
+[26-Jan-2026 22:03:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php on line 24
+[26-Jan-2026 23:27:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php on line 24
+[27-Jan-2026 23:59:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 23:59:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[28-Jan-2026 00:02:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 00:02:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php on line 24
+[28-Jan-2026 01:03:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 01:03:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php on line 24
+[28-Jan-2026 01:06:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 01:06:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php on line 24
+[28-Jan-2026 01:08:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 01:08:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php on line 24
+[28-Jan-2026 04:45:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 04:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php on line 24
+[30-Jan-2026 01:44:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 01:44:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php on line 24
+[30-Jan-2026 03:15:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 03:15:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php on line 24
+[02-Feb-2026 07:07:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:40:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:40:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php on line 24
+[03-Feb-2026 19:58:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 19:58:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[05-Feb-2026 06:24:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 06:24:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php on line 24
+[05-Feb-2026 13:10:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 13:10:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[05-Feb-2026 16:38:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 16:38:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php on line 24
+[05-Feb-2026 17:52:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 17:52:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[05-Feb-2026 18:17:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 18:17:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php on line 24
+[05-Feb-2026 20:40:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 21:03:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 22:31:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 22:31:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php on line 24
+[05-Feb-2026 23:04:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 23:04:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[05-Feb-2026 23:24:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 23:24:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AttributeNode.php on line 24
+[05-Feb-2026 23:48:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 23:48:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php on line 24
+[06-Feb-2026 00:39:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 00:39:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/HashNode.php on line 24
+[06-Feb-2026 01:25:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 01:25:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php on line 24
+[06-Feb-2026 02:24:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 02:24:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[06-Feb-2026 04:19:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 04:19:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php on line 24
+[06-Feb-2026 05:33:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 05:33:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php on line 24
+[07-Feb-2026 01:33:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 01:33:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[07-Feb-2026 18:52:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 18:52:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[08-Feb-2026 16:17:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 20:21:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 20:21:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[10-Feb-2026 01:52:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 01:52:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[10-Feb-2026 04:00:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 04:00:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[10-Feb-2026 19:11:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 19:11:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[11-Feb-2026 23:54:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 23:54:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php on line 24
+[12-Feb-2026 11:52:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 11:52:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 15:43:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 15:43:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[12-Feb-2026 22:00:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 22:00:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[13-Feb-2026 02:12:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 09:45:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 09:45:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/MatchingNode.php on line 24
+[13-Feb-2026 13:14:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 13:14:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php on line 24
+[13-Feb-2026 13:20:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 13:20:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[13-Feb-2026 15:36:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 15:36:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[13-Feb-2026 16:31:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 16:31:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[14-Feb-2026 02:35:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 02:35:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php on line 24
+[14-Feb-2026 08:26:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 08:26:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[14-Feb-2026 08:26:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 08:26:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php on line 24
+[14-Feb-2026 08:38:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 08:38:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[14-Feb-2026 09:55:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:55:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php on line 24
+[14-Feb-2026 09:55:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:55:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[14-Feb-2026 18:04:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 18:04:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[15-Feb-2026 20:58:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 20:58:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[17-Feb-2026 03:07:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 03:07:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php on line 24
+[17-Feb-2026 20:11:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 20:11:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SpecificityAdjustmentNode.php on line 24
+[18-Feb-2026 07:19:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 07:19:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/CombinedSelectorNode.php on line 24
+[19-Feb-2026 00:01:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 00:01:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[19-Feb-2026 15:16:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 15:16:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/NegationNode.php on line 24
+[20-Feb-2026 01:17:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 01:17:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[20-Feb-2026 01:17:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 01:17:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/PseudoNode.php on line 24
+[20-Feb-2026 04:32:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 04:32:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php on line 24
+[20-Feb-2026 09:02:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 09:02:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ClassNode.php on line 24
+[21-Feb-2026 00:01:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 00:01:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php on line 24
+[21-Feb-2026 16:29:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 16:29:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[22-Feb-2026 04:45:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:45:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[22-Feb-2026 06:04:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 06:04:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Node/ElementNode.php on line 24

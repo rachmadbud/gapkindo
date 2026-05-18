@@ -1,0 +1,112 @@
+[04-Nov-2025 12:15:03 UTC] PHP Fatal error:  Trait "Illuminate\Http\Resources\ConditionallyLoadsAttributes" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php on line 18
+[04-Nov-2025 12:23:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Responsable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php on line 9
+[04-Nov-2025 12:25:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceResponse" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php on line 7
+[04-Nov-2025 12:31:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceCollection" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php on line 5
+[04-Nov-2025 12:44:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php on line 12
+[18-Dec-2025 23:37:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php on line 12
+[18-Dec-2025 23:37:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Responsable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php on line 9
+[18-Dec-2025 23:37:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceResponse" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php on line 7
+[18-Dec-2025 23:38:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceCollection" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php on line 5
+[18-Dec-2025 23:38:07 UTC] PHP Fatal error:  Trait "Illuminate\Http\Resources\ConditionallyLoadsAttributes" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php on line 18
+[22-Dec-2025 22:56:53 UTC] PHP Fatal error:  Trait "Illuminate\Http\Resources\ConditionallyLoadsAttributes" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php on line 18
+[23-Dec-2025 02:55:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceCollection" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php on line 5
+[23-Dec-2025 05:14:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php on line 12
+[23-Dec-2025 06:09:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceResponse" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php on line 7
+[23-Dec-2025 06:22:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Responsable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php on line 9
+[24-Dec-2025 16:53:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php on line 12
+[24-Dec-2025 18:11:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceCollection" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php on line 5
+[24-Dec-2025 21:45:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Responsable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php on line 9
+[25-Dec-2025 01:31:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceResponse" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php on line 7
+[25-Dec-2025 05:09:40 UTC] PHP Fatal error:  Trait "Illuminate\Http\Resources\ConditionallyLoadsAttributes" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php on line 18
+[25-Jan-2026 15:54:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceCollection" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php on line 5
+[25-Jan-2026 18:53:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Responsable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php on line 9
+[25-Jan-2026 21:52:41 UTC] PHP Fatal error:  Trait "Illuminate\Http\Resources\ConditionallyLoadsAttributes" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php on line 18
+[26-Jan-2026 01:02:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceResponse" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php on line 7
+[26-Jan-2026 04:46:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php on line 12
+[04-Feb-2026 13:46:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:46:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php on line 12
+[22-Feb-2026 02:40:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 02:40:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceCollection" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php on line 5
+[22-Feb-2026 03:35:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 03:35:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceResponse" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php on line 7
+[22-Feb-2026 04:25:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:25:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php on line 12
+[22-Feb-2026 08:27:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 08:27:04 UTC] PHP Fatal error:  Trait "Illuminate\Http\Resources\ConditionallyLoadsAttributes" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php on line 18
+[22-Feb-2026 08:35:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 08:35:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Responsable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php on line 9

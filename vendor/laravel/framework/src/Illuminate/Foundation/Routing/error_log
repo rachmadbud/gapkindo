@@ -1,0 +1,76 @@
+[18-Dec-2025 21:29:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\CallableDispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php on line 8
+[18-Dec-2025 21:29:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\ControllerDispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php on line 9
+[19-Dec-2025 16:48:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\ControllerDispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php on line 9
+[20-Dec-2025 07:48:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\ControllerDispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php on line 9
+[20-Dec-2025 19:04:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\CallableDispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php on line 8
+[21-Dec-2025 13:09:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\ControllerDispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php on line 9
+[22-Dec-2025 06:55:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\CallableDispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php on line 8
+[10-Jan-2026 12:04:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\CallableDispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php on line 8
+[26-Jan-2026 00:18:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\ControllerDispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php on line 9
+[01-Feb-2026 23:34:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:34:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\CallableDispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php on line 8
+[01-Feb-2026 23:34:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:34:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\ControllerDispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php on line 9
+[01-Feb-2026 23:55:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:55:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\CallableDispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php on line 8
+[02-Feb-2026 00:16:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 00:16:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\ControllerDispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php on line 9
+[11-Feb-2026 07:59:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 07:59:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\CallableDispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php on line 8
+[16-Feb-2026 16:54:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:54:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\ControllerDispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php on line 9
+[16-Feb-2026 16:55:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:55:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\CallableDispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php on line 8
+[22-Feb-2026 04:36:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:36:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\ControllerDispatcher" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php on line 9

@@ -1,0 +1,75 @@
+[04-Nov-2025 07:35:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Http\Resources\PotentiallyMissing" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php on line 5
+[18-Dec-2025 21:42:45 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 9
+[18-Dec-2025 21:43:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Http\Resources\PotentiallyMissing" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php on line 5
+[20-Dec-2025 00:11:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Http\Resources\PotentiallyMissing" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php on line 5
+[20-Dec-2025 09:50:40 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 9
+[20-Dec-2025 21:32:23 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 9
+[21-Dec-2025 14:17:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Http\Resources\PotentiallyMissing" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php on line 5
+[20-Jan-2026 19:14:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Http\Resources\PotentiallyMissing" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php on line 5
+[20-Jan-2026 20:33:10 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 9
+[02-Feb-2026 09:02:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:02:19 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 9
+[02-Feb-2026 09:03:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:05:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:18:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:20:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:28:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:28:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Http\Resources\PotentiallyMissing" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php on line 5
+[02-Feb-2026 09:31:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:31:03 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 9
+[02-Feb-2026 09:34:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:35:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:36:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:40:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:46:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:46:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Http\Resources\PotentiallyMissing" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php on line 5
+[13-Feb-2026 03:12:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 03:59:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 03:59:07 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 9
+[13-Feb-2026 04:30:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 08:38:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 02:22:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 02:22:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 02:22:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Http\Resources\PotentiallyMissing" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php on line 5
+[16-Feb-2026 02:22:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 02:23:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 02:23:13 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 9
+[16-Feb-2026 02:23:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 02:24:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 12:43:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:07:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:49:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:49:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Http\Resources\PotentiallyMissing" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php on line 5
+[16-Feb-2026 21:43:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:05:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:40:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:40:56 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 9
+[21-Feb-2026 21:22:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 21:22:46 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 9

@@ -1,0 +1,44 @@
+[01-Nov-2025 06:53:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Util\Http\Downloader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/Http/PhpDownloader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/Http/PhpDownloader.php on line 21
+[17-Dec-2025 19:26:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Util\Http\Downloader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/Http/PhpDownloader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/Http/PhpDownloader.php on line 21
+[18-Dec-2025 23:27:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Util\Http\Downloader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/Http/PhpDownloader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/Http/PhpDownloader.php on line 21
+[19-Dec-2025 00:33:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Util\Http\Downloader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/Http/PhpDownloader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/Http/PhpDownloader.php on line 21
+[25-Dec-2025 17:11:27 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Util\Http\Downloader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/Http/PhpDownloader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/Http/PhpDownloader.php on line 21
+[28-Dec-2025 12:14:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Util\Http\Downloader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/Http/PhpDownloader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/Http/PhpDownloader.php on line 21
+[17-Jan-2026 13:25:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Util\Http\Downloader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/Http/PhpDownloader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/Http/PhpDownloader.php on line 21
+[25-Jan-2026 05:55:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Util\Http\Downloader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/Http/PhpDownloader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/Http/PhpDownloader.php on line 21
+[25-Jan-2026 12:40:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Util\Http\Downloader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/Http/PhpDownloader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/Http/PhpDownloader.php on line 21
+[27-Jan-2026 06:25:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:04:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 00:59:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 00:59:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Util\Http\Downloader" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/Http/PhpDownloader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Util/Http/PhpDownloader.php on line 21
+[04-Feb-2026 22:32:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

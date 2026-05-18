@@ -1,0 +1,162 @@
+[18-Dec-2025 22:58:04 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[18-Dec-2025 22:58:10 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[18-Dec-2025 22:58:23 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 30
+[19-Dec-2025 23:26:43 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 30
+[20-Dec-2025 02:37:44 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[20-Dec-2025 04:54:48 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[20-Dec-2025 23:26:31 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[21-Dec-2025 09:41:23 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 30
+[21-Dec-2025 12:39:14 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[31-Dec-2025 07:37:20 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[31-Dec-2025 09:07:21 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[31-Dec-2025 10:51:19 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 30
+[01-Jan-2026 20:13:16 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[01-Jan-2026 23:23:57 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 30
+[01-Jan-2026 23:25:07 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[03-Jan-2026 03:24:41 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[20-Jan-2026 11:46:02 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[20-Jan-2026 12:57:14 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 30
+[20-Jan-2026 16:10:18 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[22-Jan-2026 04:42:08 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 30
+[22-Jan-2026 12:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[22-Jan-2026 13:00:43 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[26-Jan-2026 04:22:22 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[01-Feb-2026 01:13:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 01:13:20 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[03-Feb-2026 19:54:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 19:54:39 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[04-Feb-2026 08:34:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 08:34:05 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 30
+[04-Feb-2026 16:34:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:34:38 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[04-Feb-2026 16:36:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:36:13 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[04-Feb-2026 16:46:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:46:15 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 30
+[15-Feb-2026 09:18:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 09:18:39 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[15-Feb-2026 10:43:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:43:29 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[16-Feb-2026 15:08:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:08:39 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 30
+[16-Feb-2026 18:21:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:21:32 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[20-Feb-2026 09:45:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 09:45:18 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[20-Feb-2026 09:49:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 09:49:56 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[20-Feb-2026 09:53:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 09:53:32 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 30
+[22-Feb-2026 03:18:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 03:18:53 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24

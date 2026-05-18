@@ -1,0 +1,1434 @@
+[30-Oct-2025 23:35:08 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[31-Oct-2025 03:50:14 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[31-Oct-2025 04:03:22 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php on line 9
+[31-Oct-2025 06:05:31 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[31-Oct-2025 08:30:13 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php on line 5
+[31-Oct-2025 13:09:11 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[31-Oct-2025 19:03:09 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[31-Oct-2025 19:15:46 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[31-Oct-2025 21:19:03 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[17-Nov-2025 09:49:22 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[29-Nov-2025 01:38:23 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[29-Nov-2025 02:43:10 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[29-Nov-2025 02:46:11 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[29-Nov-2025 03:05:14 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[29-Nov-2025 03:08:13 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php on line 7
+[29-Nov-2025 04:47:26 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php on line 5
+[29-Nov-2025 07:18:40 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[29-Nov-2025 07:32:06 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[04-Dec-2025 12:13:20 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[09-Dec-2025 20:35:12 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php on line 5
+[09-Dec-2025 21:11:51 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php on line 8
+[09-Dec-2025 23:07:35 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[09-Dec-2025 23:18:20 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[09-Dec-2025 23:53:33 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php on line 7
+[10-Dec-2025 00:02:10 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[10-Dec-2025 00:12:41 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php on line 8
+[10-Dec-2025 00:26:50 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[10-Dec-2025 03:03:32 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[10-Dec-2025 03:07:11 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php on line 7
+[10-Dec-2025 03:20:05 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[10-Dec-2025 05:37:58 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[10-Dec-2025 06:06:51 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php on line 9
+[10-Dec-2025 06:49:43 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php on line 5
+[10-Dec-2025 07:53:00 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[10-Dec-2025 18:02:49 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php on line 7
+[10-Dec-2025 18:04:01 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[10-Dec-2025 18:08:44 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[10-Dec-2025 18:12:41 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php on line 8
+[10-Dec-2025 18:19:55 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[10-Dec-2025 18:29:51 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php on line 9
+[10-Dec-2025 18:39:52 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php on line 8
+[10-Dec-2025 18:53:56 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[10-Dec-2025 19:12:51 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[10-Dec-2025 19:31:41 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php on line 5
+[10-Dec-2025 19:48:41 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[10-Dec-2025 20:09:51 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php on line 5
+[10-Dec-2025 20:19:59 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[10-Dec-2025 20:29:31 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[10-Dec-2025 21:40:07 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php on line 7
+[11-Dec-2025 15:52:11 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php on line 7
+[11-Dec-2025 17:04:27 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php on line 8
+[11-Dec-2025 18:08:53 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php on line 9
+[11-Dec-2025 19:17:14 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[11-Dec-2025 20:00:32 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[11-Dec-2025 23:04:10 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php on line 7
+[12-Dec-2025 00:41:56 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[12-Dec-2025 02:46:38 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[12-Dec-2025 02:47:50 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[12-Dec-2025 03:47:33 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php on line 5
+[12-Dec-2025 03:49:03 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php on line 5
+[12-Dec-2025 06:36:56 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[12-Dec-2025 08:29:41 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[12-Dec-2025 14:28:50 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php on line 7
+[13-Dec-2025 01:28:44 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php on line 5
+[16-Dec-2025 15:03:59 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[16-Dec-2025 17:14:18 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php on line 8
+[16-Dec-2025 17:14:23 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[16-Dec-2025 17:14:54 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[16-Dec-2025 17:15:11 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php on line 8
+[16-Dec-2025 17:17:22 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php on line 7
+[16-Dec-2025 17:17:49 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[16-Dec-2025 17:19:03 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php on line 9
+[16-Dec-2025 17:20:09 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php on line 5
+[16-Dec-2025 17:21:59 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[16-Dec-2025 17:23:59 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php on line 7
+[16-Dec-2025 17:29:06 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php on line 5
+[16-Dec-2025 17:29:35 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[16-Dec-2025 20:26:30 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php on line 8
+[16-Dec-2025 20:45:20 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[16-Dec-2025 20:47:38 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php on line 7
+[16-Dec-2025 21:11:42 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php on line 5
+[16-Dec-2025 21:17:35 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php on line 9
+[16-Dec-2025 21:18:05 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php on line 7
+[16-Dec-2025 21:22:22 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php on line 5
+[16-Dec-2025 21:26:09 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[16-Dec-2025 22:54:36 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[16-Dec-2025 23:04:07 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[16-Dec-2025 23:14:18 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php on line 8
+[16-Dec-2025 23:21:05 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[16-Dec-2025 23:25:18 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[16-Dec-2025 23:42:41 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[17-Dec-2025 00:13:39 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[18-Dec-2025 10:53:53 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php on line 8
+[18-Dec-2025 10:54:21 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[18-Dec-2025 10:54:29 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[18-Dec-2025 10:54:44 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php on line 9
+[18-Dec-2025 10:54:59 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[18-Dec-2025 10:55:15 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[18-Dec-2025 10:55:24 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php on line 7
+[18-Dec-2025 10:55:31 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[18-Dec-2025 10:55:41 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[18-Dec-2025 10:55:47 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php on line 8
+[18-Dec-2025 10:56:02 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php on line 5
+[18-Dec-2025 10:56:18 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[18-Dec-2025 10:56:33 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php on line 7
+[18-Dec-2025 10:56:40 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[18-Dec-2025 10:56:48 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php on line 5
+[18-Dec-2025 15:00:39 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php on line 8
+[19-Dec-2025 00:00:44 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php on line 5
+[19-Dec-2025 04:21:25 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php on line 8
+[19-Dec-2025 11:04:39 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[20-Dec-2025 09:31:31 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[20-Dec-2025 10:11:45 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[20-Dec-2025 14:06:23 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php on line 9
+[20-Dec-2025 20:10:11 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[21-Dec-2025 17:30:54 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php on line 7
+[21-Dec-2025 18:20:16 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[21-Dec-2025 19:05:09 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php on line 7
+[21-Dec-2025 19:07:02 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php on line 9
+[21-Dec-2025 20:51:18 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[21-Dec-2025 23:43:06 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php on line 8
+[22-Dec-2025 00:46:25 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[22-Dec-2025 00:47:45 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[22-Dec-2025 01:57:25 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php on line 5
+[22-Dec-2025 07:37:22 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[22-Dec-2025 07:56:10 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[22-Dec-2025 09:57:36 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[22-Dec-2025 10:18:44 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php on line 5
+[22-Dec-2025 11:18:59 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[22-Dec-2025 12:29:32 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[22-Dec-2025 14:41:37 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[27-Dec-2025 07:24:36 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[03-Jan-2026 14:33:39 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[03-Jan-2026 23:40:26 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[05-Jan-2026 11:34:06 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[05-Jan-2026 14:27:12 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[05-Jan-2026 15:28:41 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[05-Jan-2026 19:22:38 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[06-Jan-2026 00:58:04 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[06-Jan-2026 10:07:05 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[06-Jan-2026 23:00:14 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[07-Jan-2026 17:39:17 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[09-Jan-2026 04:57:56 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[10-Jan-2026 14:00:18 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[10-Jan-2026 18:28:06 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[10-Jan-2026 18:28:53 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[10-Jan-2026 18:29:08 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php on line 5
+[10-Jan-2026 19:42:50 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[10-Jan-2026 19:43:37 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[10-Jan-2026 21:22:23 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[10-Jan-2026 21:22:39 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php on line 8
+[10-Jan-2026 21:22:54 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php on line 9
+[10-Jan-2026 21:23:10 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[10-Jan-2026 21:55:36 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php on line 8
+[10-Jan-2026 22:46:24 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php on line 7
+[10-Jan-2026 22:46:40 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php on line 5
+[10-Jan-2026 22:46:55 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[10-Jan-2026 23:44:37 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php on line 7
+[10-Jan-2026 23:44:53 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[13-Jan-2026 18:01:48 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[13-Jan-2026 21:03:57 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php on line 7
+[13-Jan-2026 21:08:38 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[13-Jan-2026 22:41:14 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[14-Jan-2026 00:22:32 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[14-Jan-2026 00:59:51 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php on line 9
+[14-Jan-2026 01:58:34 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[14-Jan-2026 04:48:09 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php on line 5
+[14-Jan-2026 05:31:39 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[14-Jan-2026 05:44:46 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php on line 8
+[14-Jan-2026 06:02:42 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php on line 5
+[14-Jan-2026 09:19:36 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php on line 7
+[14-Jan-2026 09:33:18 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php on line 8
+[15-Jan-2026 01:43:58 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[15-Jan-2026 02:46:18 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[15-Jan-2026 19:28:18 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[16-Jan-2026 02:59:36 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[16-Jan-2026 06:13:01 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[16-Jan-2026 13:18:14 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[16-Jan-2026 18:46:40 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[16-Jan-2026 20:31:55 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[17-Jan-2026 00:10:28 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[17-Jan-2026 00:37:42 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[17-Jan-2026 22:39:14 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[17-Jan-2026 22:45:15 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[18-Jan-2026 05:20:08 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[18-Jan-2026 06:26:17 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php on line 8
+[18-Jan-2026 08:03:49 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[18-Jan-2026 08:51:46 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php on line 8
+[18-Jan-2026 11:18:37 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[18-Jan-2026 15:07:21 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[18-Jan-2026 15:07:26 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[18-Jan-2026 21:12:30 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php on line 8
+[19-Jan-2026 01:46:46 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php on line 5
+[19-Jan-2026 02:32:18 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[19-Jan-2026 04:58:43 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php on line 7
+[19-Jan-2026 07:06:17 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php on line 8
+[19-Jan-2026 09:22:03 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[19-Jan-2026 10:07:11 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[19-Jan-2026 13:55:49 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[19-Jan-2026 15:27:07 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[19-Jan-2026 15:27:50 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[19-Jan-2026 17:43:28 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[19-Jan-2026 22:16:17 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php on line 7
+[20-Jan-2026 02:01:51 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[20-Jan-2026 02:02:00 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php on line 7
+[20-Jan-2026 02:48:40 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[20-Jan-2026 05:07:46 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php on line 7
+[20-Jan-2026 06:54:17 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php on line 9
+[20-Jan-2026 10:01:44 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[20-Jan-2026 12:21:36 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php on line 5
+[20-Jan-2026 14:05:49 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php on line 5
+[20-Jan-2026 15:38:54 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[20-Jan-2026 16:34:11 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[20-Jan-2026 19:40:14 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php on line 7
+[20-Jan-2026 22:33:15 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[20-Jan-2026 22:33:17 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[21-Jan-2026 02:02:45 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php on line 5
+[21-Jan-2026 15:10:26 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php on line 9
+[22-Jan-2026 00:44:43 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[22-Jan-2026 14:08:15 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[22-Jan-2026 16:26:12 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[22-Jan-2026 16:28:58 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[22-Jan-2026 18:24:24 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[22-Jan-2026 19:30:07 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php on line 8
+[22-Jan-2026 19:32:38 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[22-Jan-2026 23:19:18 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php on line 7
+[22-Jan-2026 23:21:48 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php on line 5
+[23-Jan-2026 01:34:09 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php on line 7
+[23-Jan-2026 05:35:32 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[23-Jan-2026 07:38:35 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php on line 7
+[23-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[23-Jan-2026 08:28:10 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[23-Jan-2026 12:22:09 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php on line 9
+[23-Jan-2026 15:38:45 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[23-Jan-2026 16:00:54 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[23-Jan-2026 18:05:47 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php on line 5
+[23-Jan-2026 19:40:42 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php on line 5
+[23-Jan-2026 21:04:18 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[23-Jan-2026 21:47:00 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[26-Jan-2026 04:55:17 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[27-Jan-2026 21:53:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 20:52:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 20:52:50 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php on line 8
+[30-Jan-2026 02:34:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 02:34:10 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php on line 8
+[30-Jan-2026 19:32:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 19:32:20 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[30-Jan-2026 19:43:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 19:43:40 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php on line 8
+[30-Jan-2026 23:27:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 23:27:40 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php on line 8
+[31-Jan-2026 00:45:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 03:36:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 03:36:24 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[31-Jan-2026 06:31:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:31:06 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[31-Jan-2026 07:44:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 07:44:53 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[31-Jan-2026 11:20:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 11:20:05 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[31-Jan-2026 11:22:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 11:22:03 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[31-Jan-2026 12:05:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 12:05:47 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[31-Jan-2026 12:06:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 12:06:18 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php on line 7
+[31-Jan-2026 14:00:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 14:00:00 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php on line 5
+[31-Jan-2026 17:12:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 17:12:52 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[31-Jan-2026 17:54:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 17:55:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 17:58:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 17:58:01 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[31-Jan-2026 18:32:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 20:01:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 20:01:45 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[31-Jan-2026 21:55:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 23:50:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 23:50:15 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[01-Feb-2026 04:23:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 04:23:14 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php on line 7
+[01-Feb-2026 04:24:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 04:24:14 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php on line 8
+[01-Feb-2026 06:48:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 06:48:22 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php on line 5
+[01-Feb-2026 06:51:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 06:51:28 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[01-Feb-2026 07:18:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 07:18:32 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php on line 9
+[01-Feb-2026 07:20:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 07:20:37 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php on line 8
+[02-Feb-2026 03:47:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:56:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:56:14 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[02-Feb-2026 15:24:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:24:57 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[03-Feb-2026 18:54:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 18:55:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 10:26:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 10:27:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 10:28:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:50:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:50:32 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[04-Feb-2026 16:50:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:50:32 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[04-Feb-2026 16:50:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:50:35 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[04-Feb-2026 16:50:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:50:42 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php on line 7
+[04-Feb-2026 16:51:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:51:03 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[04-Feb-2026 16:52:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:52:03 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php on line 5
+[04-Feb-2026 16:53:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:53:06 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[04-Feb-2026 16:54:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:54:10 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[04-Feb-2026 16:55:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:55:10 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[04-Feb-2026 16:56:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:56:13 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php on line 8
+[04-Feb-2026 16:57:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:57:14 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php on line 7
+[04-Feb-2026 16:58:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:58:19 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[04-Feb-2026 16:59:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:59:20 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php on line 5
+[04-Feb-2026 17:00:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 17:00:22 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php on line 8
+[04-Feb-2026 17:01:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 17:01:25 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php on line 9
+[09-Feb-2026 08:23:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 08:23:58 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[10-Feb-2026 03:08:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 03:08:02 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[10-Feb-2026 14:43:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 14:43:51 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[10-Feb-2026 22:00:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 22:00:14 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[11-Feb-2026 01:46:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 01:46:33 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[11-Feb-2026 02:36:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:04:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:04:45 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[11-Feb-2026 03:09:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:09:43 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php on line 5
+[11-Feb-2026 03:14:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:14:10 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[11-Feb-2026 03:17:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:23:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:46:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:46:59 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php on line 8
+[11-Feb-2026 04:22:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 04:22:25 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php on line 9
+[11-Feb-2026 04:30:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 04:30:19 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Note.php on line 5
+[11-Feb-2026 05:58:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 05:58:48 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[11-Feb-2026 07:13:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 07:13:27 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[11-Feb-2026 07:58:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 07:58:20 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextareaPrompt.php on line 7
+[11-Feb-2026 07:59:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 07:59:17 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[11-Feb-2026 09:34:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 09:34:57 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/ConfirmPrompt.php on line 7
+[11-Feb-2026 10:05:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 12:14:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 12:14:38 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[11-Feb-2026 12:19:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 12:19:25 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/TextPrompt.php on line 7
+[11-Feb-2026 12:24:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 12:24:08 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SearchPrompt.php on line 8
+[12-Feb-2026 09:05:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 09:05:34 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[12-Feb-2026 16:56:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 16:56:00 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php on line 8
+[13-Feb-2026 02:16:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 02:16:29 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[13-Feb-2026 05:01:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 05:01:03 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[13-Feb-2026 07:06:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 07:06:46 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[13-Feb-2026 08:09:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 08:09:42 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[13-Feb-2026 11:19:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 11:19:57 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSearchPrompt.php on line 7
+[13-Feb-2026 14:32:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 14:32:30 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[13-Feb-2026 14:43:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 14:43:41 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[13-Feb-2026 18:48:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 18:48:32 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Concerns\Colors" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Prompt.php on line 12
+[13-Feb-2026 22:33:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 22:33:51 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[13-Feb-2026 22:41:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 22:41:02 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[13-Feb-2026 23:19:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 23:19:48 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[14-Feb-2026 00:10:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 00:10:12 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[14-Feb-2026 00:40:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 00:40:26 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[14-Feb-2026 02:45:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 02:45:47 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[14-Feb-2026 07:04:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:04:56 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[14-Feb-2026 09:25:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:25:34 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[14-Feb-2026 10:50:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:50:04 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[14-Feb-2026 12:42:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:42:23 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[14-Feb-2026 17:41:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:41:05 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[14-Feb-2026 21:14:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:14:19 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[15-Feb-2026 01:01:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 01:01:58 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[15-Feb-2026 05:29:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:29:52 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[15-Feb-2026 10:51:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:51:35 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[15-Feb-2026 21:51:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:51:58 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[15-Feb-2026 21:56:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:56:33 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[16-Feb-2026 08:32:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 08:32:02 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[16-Feb-2026 08:33:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 08:33:08 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[16-Feb-2026 16:26:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 02:37:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 02:37:43 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[17-Feb-2026 04:45:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 04:45:36 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Progress.php on line 13
+[17-Feb-2026 11:12:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 11:12:37 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PausePrompt.php on line 5
+[17-Feb-2026 23:43:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 23:43:31 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[18-Feb-2026 00:42:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 00:42:34 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[18-Feb-2026 07:07:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 20:27:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 20:27:58 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[19-Feb-2026 09:56:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 09:56:53 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SelectPrompt.php on line 9
+[19-Feb-2026 14:32:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 14:32:28 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[19-Feb-2026 14:52:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 22:46:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 22:46:35 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[20-Feb-2026 00:14:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:14:27 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Table.php on line 7
+[20-Feb-2026 00:51:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:51:21 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[20-Feb-2026 17:09:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 17:09:38 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/Spinner.php on line 8
+[20-Feb-2026 19:45:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 19:45:30 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/PasswordPrompt.php on line 7
+[21-Feb-2026 02:05:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 07:05:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 07:05:36 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/SuggestPrompt.php on line 8
+[21-Feb-2026 11:25:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 11:25:30 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8
+[22-Feb-2026 07:12:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 07:12:48 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Prompt" not found in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/prompts/src/MultiSelectPrompt.php on line 8

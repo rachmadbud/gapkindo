@@ -1,0 +1,202 @@
+[30-Nov-2025 18:36:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 18
+[30-Nov-2025 23:34:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualBindingBuilder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php on line 8
+[01-Dec-2025 10:59:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\NotFoundExceptionInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8
+[16-Dec-2025 14:48:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 18
+[16-Dec-2025 17:25:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\NotFoundExceptionInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8
+[16-Dec-2025 18:57:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualBindingBuilder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php on line 8
+[17-Dec-2025 20:32:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualBindingBuilder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php on line 8
+[18-Dec-2025 00:48:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\NotFoundExceptionInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8
+[18-Dec-2025 07:22:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 18
+[18-Dec-2025 16:26:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\NotFoundExceptionInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8
+[18-Dec-2025 16:27:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualBindingBuilder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php on line 8
+[18-Dec-2025 16:27:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 18
+[02-Jan-2026 14:11:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\NotFoundExceptionInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8
+[04-Jan-2026 04:04:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\NotFoundExceptionInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8
+[05-Jan-2026 03:52:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\NotFoundExceptionInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8
+[06-Jan-2026 11:59:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\NotFoundExceptionInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8
+[07-Jan-2026 13:43:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\NotFoundExceptionInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8
+[08-Jan-2026 15:09:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\NotFoundExceptionInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8
+[08-Jan-2026 19:12:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\NotFoundExceptionInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8
+[13-Jan-2026 17:09:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\NotFoundExceptionInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8
+[13-Jan-2026 19:50:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualBindingBuilder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php on line 8
+[13-Jan-2026 19:52:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 18
+[20-Jan-2026 12:42:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualBindingBuilder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php on line 8
+[20-Jan-2026 15:29:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\NotFoundExceptionInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8
+[20-Jan-2026 18:05:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 18
+[23-Jan-2026 13:50:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 18
+[24-Jan-2026 05:45:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\NotFoundExceptionInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8
+[25-Jan-2026 15:39:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 18
+[25-Jan-2026 22:10:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualBindingBuilder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php on line 8
+[27-Jan-2026 23:18:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 22:27:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 22:27:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\NotFoundExceptionInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8
+[29-Jan-2026 20:25:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 03:43:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 07:31:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 07:31:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 18
+[31-Jan-2026 12:00:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 09:24:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:43:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:43:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\NotFoundExceptionInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8
+[01-Feb-2026 23:56:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:21:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:21:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\NotFoundExceptionInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8
+[02-Feb-2026 03:59:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 05:34:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 20:18:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 20:53:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:29:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:29:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualBindingBuilder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php on line 8
+[03-Feb-2026 12:18:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 12:18:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 18
+[03-Feb-2026 13:32:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 13:32:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualBindingBuilder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php on line 8
+[03-Feb-2026 17:03:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 17:03:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 18
+[05-Feb-2026 08:19:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 08:19:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualBindingBuilder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php on line 8
+[13-Feb-2026 01:45:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 01:45:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\NotFoundExceptionInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8
+[13-Feb-2026 01:47:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 01:47:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualBindingBuilder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php on line 8
+[16-Feb-2026 09:35:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:33:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:33:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 18
+[16-Feb-2026 17:06:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:06:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\NotFoundExceptionInterface" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8
+[16-Feb-2026 17:08:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:05:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:34:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:34:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualBindingBuilder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php on line 8
+[21-Feb-2026 17:55:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 18:03:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 18:04:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

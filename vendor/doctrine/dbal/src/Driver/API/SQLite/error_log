@@ -1,0 +1,37 @@
+[18-Dec-2025 22:07:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\API\ExceptionConverter" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/SQLite/ExceptionConverter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/SQLite/ExceptionConverter.php on line 26
+[19-Dec-2025 19:06:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\API\ExceptionConverter" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/SQLite/ExceptionConverter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/SQLite/ExceptionConverter.php on line 26
+[20-Dec-2025 16:38:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\API\ExceptionConverter" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/SQLite/ExceptionConverter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/SQLite/ExceptionConverter.php on line 26
+[02-Jan-2026 15:50:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\API\ExceptionConverter" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/SQLite/ExceptionConverter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/SQLite/ExceptionConverter.php on line 26
+[12-Jan-2026 07:52:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\API\ExceptionConverter" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/SQLite/ExceptionConverter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/SQLite/ExceptionConverter.php on line 26
+[22-Jan-2026 12:30:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\API\ExceptionConverter" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/SQLite/ExceptionConverter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/SQLite/ExceptionConverter.php on line 26
+[02-Feb-2026 06:00:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 06:01:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 06:01:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\API\ExceptionConverter" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/SQLite/ExceptionConverter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/SQLite/ExceptionConverter.php on line 26
+[21-Feb-2026 10:32:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 23:45:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 01:56:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 01:56:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\API\ExceptionConverter" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/SQLite/ExceptionConverter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/SQLite/ExceptionConverter.php on line 26

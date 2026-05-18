@@ -1,0 +1,125 @@
+[03-Nov-2025 23:01:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\MessageProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php on line 7
+[18-Dec-2025 20:58:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\MessageProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php on line 7
+[18-Dec-2025 20:58:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Rule" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/ImplicitRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/ImplicitRule.php on line 8
+[19-Dec-2025 20:41:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Rule" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/ImplicitRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/ImplicitRule.php on line 8
+[20-Dec-2025 04:44:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\MessageProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php on line 7
+[21-Dec-2025 11:54:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\MessageProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php on line 7
+[21-Dec-2025 13:05:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Rule" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/ImplicitRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/ImplicitRule.php on line 8
+[28-Dec-2025 12:59:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Rule" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/ImplicitRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/ImplicitRule.php on line 8
+[28-Dec-2025 14:09:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\MessageProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php on line 7
+[27-Jan-2026 11:14:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 17:57:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 21:53:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 21:53:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\MessageProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php on line 7
+[28-Jan-2026 20:47:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 22:33:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 23:58:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 23:58:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Rule" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/ImplicitRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/ImplicitRule.php on line 8
+[02-Feb-2026 10:50:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:51:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:51:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\MessageProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php on line 7
+[02-Feb-2026 10:52:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:53:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:54:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:54:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Rule" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/ImplicitRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/ImplicitRule.php on line 8
+[02-Feb-2026 10:54:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:55:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:56:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:57:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:58:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:04:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:05:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:05:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\MessageProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php on line 7
+[02-Feb-2026 11:06:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:07:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:09:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:09:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Rule" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/ImplicitRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/ImplicitRule.php on line 8
+[02-Feb-2026 11:10:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:11:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:12:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:13:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:14:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 00:04:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 20:33:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 20:33:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 20:34:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 20:34:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 20:34:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 20:34:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 21:50:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 21:50:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\MessageProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php on line 7
+[10-Feb-2026 22:39:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 00:07:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 00:07:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Rule" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/ImplicitRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/ImplicitRule.php on line 8
+[11-Feb-2026 00:43:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 09:26:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 23:18:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 00:10:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 00:53:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 00:53:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\MessageProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/Validator.php on line 7
+[22-Feb-2026 01:42:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 03:09:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 03:09:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Rule" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/ImplicitRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Validation/ImplicitRule.php on line 8
+[22-Feb-2026 03:30:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:50:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 07:04:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 08:27:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 09:16:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 10:00:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

@@ -1,0 +1,266 @@
+[31-Oct-2025 13:18:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25
+[31-Oct-2025 14:20:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[17-Nov-2025 00:25:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[03-Dec-2025 21:07:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25
+[06-Dec-2025 08:24:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[06-Dec-2025 08:56:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[10-Dec-2025 03:17:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25
+[10-Dec-2025 03:51:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[10-Dec-2025 06:00:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[12-Dec-2025 00:21:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[12-Dec-2025 06:05:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[12-Dec-2025 15:22:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25
+[13-Dec-2025 23:54:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25
+[14-Dec-2025 01:26:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[14-Dec-2025 01:27:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[18-Dec-2025 12:17:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[18-Dec-2025 12:17:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25
+[18-Dec-2025 12:17:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[21-Dec-2025 23:16:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25
+[22-Dec-2025 11:50:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[22-Dec-2025 11:51:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[05-Jan-2026 11:08:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25
+[05-Jan-2026 14:47:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[05-Jan-2026 14:47:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[14-Jan-2026 00:04:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[14-Jan-2026 01:46:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[14-Jan-2026 05:37:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25
+[19-Jan-2026 13:08:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25
+[20-Jan-2026 00:27:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[20-Jan-2026 13:13:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[20-Jan-2026 14:51:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[20-Jan-2026 18:04:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25
+[21-Jan-2026 00:10:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[22-Jan-2026 17:26:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25
+[23-Jan-2026 06:12:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[23-Jan-2026 18:57:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[23-Jan-2026 20:15:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[31-Jan-2026 01:10:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:10:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[31-Jan-2026 08:52:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 08:53:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 08:53:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[31-Jan-2026 13:51:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 13:51:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[31-Jan-2026 18:39:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 18:39:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25
+[31-Jan-2026 20:24:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 20:24:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[31-Jan-2026 20:25:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 03:19:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 03:19:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25
+[01-Feb-2026 18:14:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 18:14:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[03-Feb-2026 13:34:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 13:34:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[03-Feb-2026 13:34:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 13:34:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[03-Feb-2026 13:35:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 13:35:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25
+[03-Feb-2026 17:54:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 17:54:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[03-Feb-2026 17:54:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 17:54:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[03-Feb-2026 17:55:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 17:55:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25
+[09-Feb-2026 23:14:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 23:14:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[11-Feb-2026 03:15:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:15:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[11-Feb-2026 10:10:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 10:10:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25
+[11-Feb-2026 11:40:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 13:29:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 13:29:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[12-Feb-2026 22:04:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 22:04:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[14-Feb-2026 05:01:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 05:01:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[14-Feb-2026 08:39:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 08:39:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[14-Feb-2026 10:00:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:00:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[17-Feb-2026 12:31:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 12:31:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25
+[20-Feb-2026 01:25:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 01:25:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26

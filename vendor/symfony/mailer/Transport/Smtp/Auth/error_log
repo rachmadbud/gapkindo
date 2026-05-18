@@ -1,0 +1,236 @@
+[04-Nov-2025 11:28:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[13-Dec-2025 10:10:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[13-Dec-2025 11:34:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 22
+[13-Dec-2025 12:47:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[13-Dec-2025 16:45:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[18-Dec-2025 18:02:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[18-Dec-2025 18:02:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[18-Dec-2025 18:03:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 22
+[18-Dec-2025 18:03:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[25-Dec-2025 17:29:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[25-Dec-2025 17:59:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[25-Dec-2025 19:19:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[25-Dec-2025 19:19:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 22
+[03-Jan-2026 16:47:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[04-Jan-2026 04:24:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[04-Jan-2026 08:18:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 22
+[18-Jan-2026 10:18:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[20-Jan-2026 11:16:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 22
+[20-Jan-2026 11:21:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[20-Jan-2026 12:18:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[20-Jan-2026 18:23:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[24-Jan-2026 23:42:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 22
+[25-Jan-2026 08:56:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[25-Jan-2026 09:42:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 22
+[26-Jan-2026 02:03:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[27-Jan-2026 01:27:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[27-Jan-2026 14:11:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 14:11:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[27-Jan-2026 23:59:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 23:59:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[29-Jan-2026 05:59:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 05:59:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[29-Jan-2026 09:00:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 17:19:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 17:19:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[30-Jan-2026 05:15:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 05:15:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[30-Jan-2026 05:51:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 03:11:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 03:11:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[01-Feb-2026 03:12:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 03:12:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[01-Feb-2026 03:13:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 03:13:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[01-Feb-2026 03:15:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 03:15:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 22
+[01-Feb-2026 03:20:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 08:40:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 13:12:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 23:45:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 23:45:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[03-Feb-2026 00:09:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 00:09:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[03-Feb-2026 00:19:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 00:19:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[03-Feb-2026 02:00:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 02:00:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[03-Feb-2026 02:12:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 02:12:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[03-Feb-2026 02:46:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 02:46:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[03-Feb-2026 02:51:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 02:51:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[03-Feb-2026 05:31:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:31:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[03-Feb-2026 05:34:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 15:28:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 15:28:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 22
+[03-Feb-2026 19:49:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 19:49:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 22
+[04-Feb-2026 08:53:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 08:53:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[04-Feb-2026 08:56:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 08:56:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 22
+[16-Feb-2026 15:18:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:18:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[16-Feb-2026 18:42:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:42:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[16-Feb-2026 19:17:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 19:17:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[16-Feb-2026 19:57:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 19:57:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 22
+[16-Feb-2026 20:37:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

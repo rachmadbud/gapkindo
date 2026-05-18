@@ -1,0 +1,343 @@
+[04-Nov-2025 07:08:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php on line 21
+[04-Nov-2025 07:18:50 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php on line 17
+[04-Nov-2025 09:00:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php on line 17
+[04-Nov-2025 09:18:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php on line 21
+[04-Nov-2025 09:45:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php on line 20
+[04-Nov-2025 10:00:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php on line 21
+[20-Dec-2025 17:15:28 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php on line 17
+[20-Dec-2025 18:35:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php on line 17
+[20-Dec-2025 18:36:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php on line 17
+[20-Dec-2025 20:34:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php on line 21
+[20-Dec-2025 22:26:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php on line 21
+[21-Dec-2025 01:02:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php on line 20
+[21-Dec-2025 01:03:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php on line 17
+[21-Dec-2025 02:07:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php on line 21
+[21-Dec-2025 06:01:38 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php on line 21
+[21-Dec-2025 09:44:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php on line 17
+[21-Dec-2025 09:44:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php on line 17
+[21-Dec-2025 13:34:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php on line 21
+[01-Jan-2026 18:25:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php on line 17
+[01-Jan-2026 20:16:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php on line 21
+[01-Jan-2026 21:38:32 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php on line 17
+[01-Jan-2026 22:44:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php on line 17
+[01-Jan-2026 22:45:38 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php on line 21
+[01-Jan-2026 23:32:00 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php on line 21
+[02-Jan-2026 00:20:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php on line 21
+[02-Jan-2026 07:36:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php on line 17
+[02-Jan-2026 11:54:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php on line 17
+[02-Jan-2026 12:07:22 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php on line 17
+[02-Jan-2026 14:24:28 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php on line 20
+[05-Jan-2026 20:12:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php on line 21
+[05-Jan-2026 20:12:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php on line 20
+[05-Jan-2026 21:15:27 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php on line 21
+[05-Jan-2026 21:15:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php on line 21
+[05-Jan-2026 21:15:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php on line 21
+[05-Jan-2026 22:06:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php on line 21
+[05-Jan-2026 22:48:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php on line 17
+[05-Jan-2026 22:48:38 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php on line 17
+[05-Jan-2026 23:43:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php on line 17
+[05-Jan-2026 23:43:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php on line 17
+[06-Jan-2026 01:54:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php on line 17
+[18-Jan-2026 04:48:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php on line 21
+[18-Jan-2026 04:51:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php on line 20
+[18-Jan-2026 09:40:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php on line 21
+[18-Jan-2026 09:42:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php on line 21
+[22-Jan-2026 02:47:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php on line 21
+[22-Jan-2026 03:16:31 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php on line 17
+[22-Jan-2026 03:50:31 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php on line 21
+[22-Jan-2026 04:19:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php on line 17
+[22-Jan-2026 05:36:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php on line 17
+[22-Jan-2026 06:17:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php on line 21
+[22-Jan-2026 06:26:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php on line 20
+[22-Jan-2026 08:59:38 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php on line 21
+[22-Jan-2026 12:22:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php on line 21
+[22-Jan-2026 12:23:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php on line 17
+[22-Jan-2026 12:41:22 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php on line 17
+[22-Jan-2026 14:05:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php on line 17
+[23-Jan-2026 09:39:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php on line 21
+[31-Jan-2026 22:48:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 22:48:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php on line 21
+[01-Feb-2026 03:27:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 03:27:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php on line 17
+[02-Feb-2026 21:15:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 21:15:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php on line 21
+[03-Feb-2026 01:31:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:31:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php on line 21
+[03-Feb-2026 04:47:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:47:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php on line 21
+[03-Feb-2026 10:23:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 10:23:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php on line 17
+[03-Feb-2026 19:45:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 19:45:33 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php on line 17
+[03-Feb-2026 19:48:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 19:48:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php on line 17
+[04-Feb-2026 14:34:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 14:34:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php on line 17
+[08-Feb-2026 16:01:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 16:01:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php on line 17
+[08-Feb-2026 16:03:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 16:03:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php on line 17
+[08-Feb-2026 16:07:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 16:07:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php on line 21
+[08-Feb-2026 16:15:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 16:15:06 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php on line 17
+[08-Feb-2026 16:29:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 16:29:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php on line 21
+[08-Feb-2026 16:57:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 16:57:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php on line 21
+[08-Feb-2026 20:35:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 20:35:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php on line 21
+[08-Feb-2026 20:40:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 20:40:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php on line 17
+[08-Feb-2026 20:45:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 20:45:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php on line 20
+[08-Feb-2026 20:51:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 20:51:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php on line 17
+[08-Feb-2026 20:56:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 20:56:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php on line 21
+[08-Feb-2026 21:04:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 21:04:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php on line 17
+[12-Feb-2026 21:33:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 21:33:47 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php on line 21
+[21-Feb-2026 12:30:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 12:30:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php on line 21

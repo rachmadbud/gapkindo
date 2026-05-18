@@ -1,0 +1,129 @@
+[04-Nov-2025 13:34:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php on line 20
+[04-Nov-2025 15:47:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php on line 21
+[23-Nov-2025 22:17:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php on line 21
+[23-Nov-2025 22:18:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php on line 20
+[29-Nov-2025 05:00:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php on line 21
+[29-Nov-2025 05:08:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php on line 20
+[13-Dec-2025 20:06:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php on line 21
+[13-Dec-2025 23:06:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php on line 20
+[13-Dec-2025 23:22:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php on line 21
+[14-Dec-2025 01:21:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php on line 20
+[18-Dec-2025 15:32:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php on line 20
+[18-Dec-2025 15:32:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php on line 21
+[24-Dec-2025 17:44:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php on line 21
+[25-Dec-2025 06:13:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php on line 20
+[31-Dec-2025 03:28:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php on line 20
+[31-Dec-2025 03:29:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php on line 21
+[17-Jan-2026 22:07:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php on line 20
+[17-Jan-2026 22:10:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php on line 21
+[18-Jan-2026 13:35:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php on line 20
+[18-Jan-2026 15:12:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php on line 21
+[20-Jan-2026 00:28:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php on line 21
+[20-Jan-2026 02:59:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php on line 20
+[20-Jan-2026 11:25:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php on line 20
+[20-Jan-2026 12:39:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php on line 21
+[23-Jan-2026 06:12:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php on line 21
+[23-Jan-2026 08:36:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php on line 20
+[31-Jan-2026 14:26:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 14:26:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php on line 21
+[31-Jan-2026 14:28:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 14:28:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php on line 20
+[02-Feb-2026 14:56:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 14:56:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php on line 20
+[16-Feb-2026 13:45:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:45:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Role.php on line 21
+[16-Feb-2026 22:16:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:16:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php on line 20

@@ -1,0 +1,1694 @@
+[01-Nov-2025 02:07:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[01-Nov-2025 05:19:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[01-Nov-2025 10:17:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[01-Nov-2025 12:13:45 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[01-Nov-2025 13:52:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[01-Nov-2025 20:14:53 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[03-Nov-2025 12:31:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[03-Nov-2025 13:55:45 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[03-Nov-2025 14:08:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[03-Nov-2025 15:00:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[03-Nov-2025 15:45:13 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[03-Nov-2025 16:02:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[03-Nov-2025 17:15:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[04-Nov-2025 00:28:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[16-Dec-2025 10:44:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[16-Dec-2025 13:43:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[16-Dec-2025 17:35:18 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[16-Dec-2025 18:36:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[16-Dec-2025 18:44:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[16-Dec-2025 19:21:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[16-Dec-2025 19:55:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[16-Dec-2025 21:03:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[16-Dec-2025 21:39:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[16-Dec-2025 21:44:56 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[16-Dec-2025 21:55:13 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[16-Dec-2025 21:59:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[16-Dec-2025 22:25:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[16-Dec-2025 22:58:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[17-Dec-2025 00:50:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[17-Dec-2025 03:02:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[17-Dec-2025 16:23:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[17-Dec-2025 18:33:20 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[17-Dec-2025 23:14:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[18-Dec-2025 01:36:01 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[18-Dec-2025 01:36:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[18-Dec-2025 02:37:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[18-Dec-2025 03:23:41 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[18-Dec-2025 04:24:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[18-Dec-2025 04:25:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[18-Dec-2025 05:53:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[18-Dec-2025 08:34:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[18-Dec-2025 08:34:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[18-Dec-2025 08:35:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[18-Dec-2025 20:36:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[18-Dec-2025 20:36:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[18-Dec-2025 20:36:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[18-Dec-2025 20:36:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[18-Dec-2025 20:36:50 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[18-Dec-2025 20:36:56 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[18-Dec-2025 20:37:01 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[18-Dec-2025 20:37:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[18-Dec-2025 20:37:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[18-Dec-2025 20:37:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[18-Dec-2025 20:37:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[18-Dec-2025 20:37:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[18-Dec-2025 20:37:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[18-Dec-2025 20:37:51 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[18-Dec-2025 20:37:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[25-Dec-2025 18:50:47 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[25-Dec-2025 18:51:02 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[25-Dec-2025 19:04:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[25-Dec-2025 19:05:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[25-Dec-2025 19:05:21 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[25-Dec-2025 19:05:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[25-Dec-2025 19:05:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[25-Dec-2025 19:06:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[25-Dec-2025 19:06:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[25-Dec-2025 19:21:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[25-Dec-2025 19:21:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[25-Dec-2025 19:21:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[25-Dec-2025 19:22:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[25-Dec-2025 19:34:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[25-Dec-2025 19:34:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[25-Dec-2025 19:58:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[14-Jan-2026 14:58:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[14-Jan-2026 16:56:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[14-Jan-2026 18:32:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[14-Jan-2026 19:52:45 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[14-Jan-2026 20:05:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[14-Jan-2026 22:40:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[14-Jan-2026 23:13:33 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[15-Jan-2026 01:34:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[15-Jan-2026 03:05:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[15-Jan-2026 03:10:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[15-Jan-2026 04:55:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[15-Jan-2026 09:33:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[15-Jan-2026 09:49:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[15-Jan-2026 11:36:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[15-Jan-2026 12:58:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[15-Jan-2026 14:06:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[15-Jan-2026 22:17:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[16-Jan-2026 12:48:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[19-Jan-2026 09:09:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[20-Jan-2026 08:15:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[20-Jan-2026 08:29:16 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[20-Jan-2026 10:08:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[20-Jan-2026 12:22:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[20-Jan-2026 12:35:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[20-Jan-2026 12:43:01 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[20-Jan-2026 12:44:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[20-Jan-2026 13:16:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[20-Jan-2026 13:46:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[20-Jan-2026 14:17:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[20-Jan-2026 15:21:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[20-Jan-2026 17:05:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[20-Jan-2026 17:52:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[20-Jan-2026 20:59:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[21-Jan-2026 19:24:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[21-Jan-2026 19:24:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[21-Jan-2026 19:25:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[21-Jan-2026 19:27:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[21-Jan-2026 19:31:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[21-Jan-2026 19:39:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[21-Jan-2026 19:55:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[22-Jan-2026 02:04:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[22-Jan-2026 02:04:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[22-Jan-2026 02:05:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[22-Jan-2026 02:06:16 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[22-Jan-2026 02:08:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[22-Jan-2026 03:17:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[22-Jan-2026 03:18:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[22-Jan-2026 03:18:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[22-Jan-2026 03:19:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[23-Jan-2026 11:31:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[26-Jan-2026 04:58:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[26-Jan-2026 05:20:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[27-Jan-2026 11:03:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 11:03:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[27-Jan-2026 19:17:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 19:17:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[28-Jan-2026 00:10:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 00:10:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[28-Jan-2026 00:50:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 00:50:13 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[28-Jan-2026 00:50:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 00:50:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[28-Jan-2026 20:41:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 20:41:44 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[29-Jan-2026 20:37:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 20:37:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[29-Jan-2026 21:28:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 21:28:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[30-Jan-2026 01:23:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 01:23:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[30-Jan-2026 02:09:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 02:09:33 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[30-Jan-2026 02:09:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 02:09:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[31-Jan-2026 15:55:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 15:55:50 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[31-Jan-2026 16:47:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 16:47:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[03-Feb-2026 03:46:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 03:46:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[03-Feb-2026 16:55:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 16:55:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[03-Feb-2026 18:25:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 18:25:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[03-Feb-2026 20:18:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 20:18:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[03-Feb-2026 20:21:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 20:21:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[03-Feb-2026 21:27:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 21:27:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[04-Feb-2026 00:27:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 00:27:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[04-Feb-2026 02:32:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 02:32:33 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[04-Feb-2026 02:35:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 02:35:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[04-Feb-2026 02:37:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 02:37:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[04-Feb-2026 02:40:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 02:40:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[04-Feb-2026 02:42:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 02:42:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[04-Feb-2026 02:45:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 02:45:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[04-Feb-2026 02:47:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 02:47:38 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[04-Feb-2026 03:14:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 03:14:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[04-Feb-2026 09:09:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 09:09:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[04-Feb-2026 09:12:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 09:12:13 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[04-Feb-2026 09:14:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 09:14:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[04-Feb-2026 15:02:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 15:02:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[04-Feb-2026 15:04:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 15:04:52 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[06-Feb-2026 16:14:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 16:14:38 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[07-Feb-2026 17:44:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 17:44:38 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[08-Feb-2026 02:08:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 02:08:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[10-Feb-2026 20:39:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 20:39:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[12-Feb-2026 09:41:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 09:41:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[13-Feb-2026 15:34:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 15:34:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[14-Feb-2026 07:01:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:01:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[14-Feb-2026 07:08:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:08:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[14-Feb-2026 07:17:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:17:33 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[14-Feb-2026 07:18:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:18:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[14-Feb-2026 07:19:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:19:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[14-Feb-2026 07:21:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:21:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[14-Feb-2026 07:23:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:23:44 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[14-Feb-2026 07:26:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:26:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[14-Feb-2026 07:26:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:26:45 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[14-Feb-2026 07:29:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:29:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[14-Feb-2026 07:29:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:29:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[14-Feb-2026 07:31:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:31:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[14-Feb-2026 07:34:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:34:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[14-Feb-2026 07:36:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:36:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[14-Feb-2026 07:37:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:37:27 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[14-Feb-2026 07:38:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:38:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[14-Feb-2026 09:12:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:12:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[14-Feb-2026 09:13:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:13:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[14-Feb-2026 09:14:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:14:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[14-Feb-2026 09:15:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:15:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[14-Feb-2026 09:15:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:15:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[14-Feb-2026 09:16:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:16:34 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[14-Feb-2026 09:17:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:17:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[14-Feb-2026 09:19:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:19:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[14-Feb-2026 09:19:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:19:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[14-Feb-2026 09:21:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:21:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[14-Feb-2026 09:21:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:21:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[14-Feb-2026 09:22:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:22:33 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[14-Feb-2026 09:24:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:24:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[14-Feb-2026 09:25:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:25:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[14-Feb-2026 09:25:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:25:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[14-Feb-2026 09:26:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:26:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[14-Feb-2026 10:45:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:45:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[14-Feb-2026 10:45:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:45:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[14-Feb-2026 10:45:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:45:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[14-Feb-2026 10:45:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:45:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[14-Feb-2026 10:46:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:46:06 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[14-Feb-2026 10:46:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:46:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[14-Feb-2026 10:46:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:46:44 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[14-Feb-2026 10:47:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:47:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[14-Feb-2026 10:47:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:47:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[14-Feb-2026 10:47:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:47:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[14-Feb-2026 10:48:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:48:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[14-Feb-2026 10:48:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:48:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[14-Feb-2026 10:49:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:49:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[14-Feb-2026 10:49:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:49:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[14-Feb-2026 10:50:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:50:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[14-Feb-2026 10:50:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:50:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[14-Feb-2026 12:29:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:29:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[14-Feb-2026 12:30:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:30:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[14-Feb-2026 12:31:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:31:50 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[14-Feb-2026 12:32:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:32:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[14-Feb-2026 12:32:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:32:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[14-Feb-2026 12:33:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:33:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[14-Feb-2026 12:34:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:34:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[14-Feb-2026 12:36:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:36:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[14-Feb-2026 12:36:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:36:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[14-Feb-2026 12:38:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:38:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[14-Feb-2026 12:38:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:38:44 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[14-Feb-2026 12:39:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:39:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[14-Feb-2026 12:41:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:41:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[14-Feb-2026 12:42:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:42:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[14-Feb-2026 12:43:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:43:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[14-Feb-2026 12:43:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:43:38 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[14-Feb-2026 17:29:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:29:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[14-Feb-2026 17:30:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:30:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[14-Feb-2026 17:31:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:31:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[14-Feb-2026 17:31:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:31:44 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[14-Feb-2026 17:31:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:31:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[14-Feb-2026 17:32:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:32:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[14-Feb-2026 17:33:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:33:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[14-Feb-2026 17:35:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:35:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[14-Feb-2026 17:35:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:35:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[14-Feb-2026 17:37:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:37:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[14-Feb-2026 17:37:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:37:18 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[14-Feb-2026 17:38:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:38:34 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[14-Feb-2026 17:40:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:40:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[14-Feb-2026 17:41:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:41:18 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[14-Feb-2026 17:41:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:41:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[14-Feb-2026 17:42:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:42:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[14-Feb-2026 21:01:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:01:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[14-Feb-2026 21:02:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:02:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[14-Feb-2026 21:03:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:03:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[14-Feb-2026 21:04:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:04:13 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[14-Feb-2026 21:04:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:04:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[14-Feb-2026 21:05:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:05:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[14-Feb-2026 21:06:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:06:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[14-Feb-2026 21:08:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:08:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[14-Feb-2026 21:08:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:08:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[14-Feb-2026 21:10:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:10:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[14-Feb-2026 21:10:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:10:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[14-Feb-2026 21:11:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:11:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[14-Feb-2026 21:13:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:13:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[14-Feb-2026 21:14:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:14:33 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[14-Feb-2026 21:15:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:15:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[14-Feb-2026 21:15:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:15:38 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[15-Feb-2026 05:16:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:16:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[15-Feb-2026 05:16:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:16:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[15-Feb-2026 05:17:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:17:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[15-Feb-2026 05:18:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:18:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[15-Feb-2026 05:18:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:18:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[15-Feb-2026 05:20:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:20:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[15-Feb-2026 05:21:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:21:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[15-Feb-2026 05:22:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:22:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[15-Feb-2026 05:22:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:22:56 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[15-Feb-2026 05:24:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:24:56 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[15-Feb-2026 05:25:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:25:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[15-Feb-2026 05:26:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:26:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[15-Feb-2026 05:28:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:28:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[15-Feb-2026 05:30:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:30:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[15-Feb-2026 05:30:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:30:31 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[15-Feb-2026 05:31:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:31:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[15-Feb-2026 10:37:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:37:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[15-Feb-2026 10:38:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:38:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[15-Feb-2026 10:40:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:40:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[15-Feb-2026 10:40:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:40:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[15-Feb-2026 10:41:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:41:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[15-Feb-2026 10:42:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:42:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[15-Feb-2026 10:43:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:43:05 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[15-Feb-2026 10:44:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:44:50 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[15-Feb-2026 10:45:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:45:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[15-Feb-2026 10:46:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:46:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[15-Feb-2026 10:47:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:47:05 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[15-Feb-2026 10:48:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:48:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[15-Feb-2026 10:50:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:50:45 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[15-Feb-2026 10:51:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:51:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[15-Feb-2026 10:52:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:52:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[15-Feb-2026 10:52:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:52:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[15-Feb-2026 11:21:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 11:21:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[15-Feb-2026 11:21:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 11:21:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[15-Feb-2026 11:21:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 11:21:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[15-Feb-2026 21:41:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:41:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[15-Feb-2026 21:41:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:41:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[15-Feb-2026 21:41:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:41:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[15-Feb-2026 21:41:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:41:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[15-Feb-2026 21:43:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:43:06 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[15-Feb-2026 21:43:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:43:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[15-Feb-2026 21:44:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:44:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[15-Feb-2026 21:44:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:44:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[15-Feb-2026 21:44:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:44:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[15-Feb-2026 21:44:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:44:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[15-Feb-2026 21:45:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:45:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[15-Feb-2026 21:45:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:45:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[15-Feb-2026 21:46:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:46:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[15-Feb-2026 21:46:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:46:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[15-Feb-2026 21:48:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:48:20 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[15-Feb-2026 21:48:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:48:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[15-Feb-2026 21:48:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:48:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[15-Feb-2026 21:49:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[15-Feb-2026 21:49:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:49:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[15-Feb-2026 21:49:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:49:52 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[15-Feb-2026 21:50:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:50:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[15-Feb-2026 21:51:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:51:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[15-Feb-2026 21:51:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:51:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[15-Feb-2026 21:51:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:51:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[15-Feb-2026 21:52:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:52:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[15-Feb-2026 21:52:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:52:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[15-Feb-2026 21:52:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:52:27 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[15-Feb-2026 21:53:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:53:27 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[15-Feb-2026 21:55:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:55:41 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[15-Feb-2026 21:56:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:56:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[15-Feb-2026 21:57:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:57:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[15-Feb-2026 21:57:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:57:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[16-Feb-2026 11:05:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 11:05:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[16-Feb-2026 11:18:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 11:18:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[16-Feb-2026 12:19:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 12:19:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[16-Feb-2026 12:24:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 12:24:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[16-Feb-2026 12:37:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 12:37:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[16-Feb-2026 14:38:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 14:38:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[16-Feb-2026 14:52:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 14:52:31 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[16-Feb-2026 16:25:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:25:33 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[16-Feb-2026 16:38:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:38:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[16-Feb-2026 20:20:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:20:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[16-Feb-2026 21:14:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 21:14:53 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[16-Feb-2026 21:29:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 21:29:22 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[16-Feb-2026 22:35:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:35:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[17-Feb-2026 02:25:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 02:25:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[17-Feb-2026 18:33:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 18:33:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[17-Feb-2026 19:16:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 19:16:52 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[19-Feb-2026 20:06:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 20:06:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[19-Feb-2026 23:53:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 23:53:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[19-Feb-2026 23:56:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 23:56:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[19-Feb-2026 23:56:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 23:56:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[19-Feb-2026 23:58:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 23:58:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[19-Feb-2026 23:59:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 23:59:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[19-Feb-2026 23:59:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 23:59:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[20-Feb-2026 00:00:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:00:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[20-Feb-2026 00:02:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:02:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[20-Feb-2026 00:04:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:04:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[20-Feb-2026 00:04:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:04:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 10
+[20-Feb-2026 00:06:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:06:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[20-Feb-2026 00:07:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:07:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[20-Feb-2026 00:09:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:09:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[20-Feb-2026 00:12:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:12:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[20-Feb-2026 00:13:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:13:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Enum_.php on line 12
+[20-Feb-2026 00:13:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:13:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[20-Feb-2026 00:14:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:14:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[22-Feb-2026 03:14:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 03:14:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 12
+[22-Feb-2026 05:56:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 05:56:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11

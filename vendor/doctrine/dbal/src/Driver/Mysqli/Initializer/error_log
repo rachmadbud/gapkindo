@@ -1,0 +1,104 @@
+[18-Dec-2025 22:10:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Charset.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Charset.php on line 12
+[18-Dec-2025 22:10:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Secure.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Secure.php on line 11
+[18-Dec-2025 22:10:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Options.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Options.php on line 13
+[20-Dec-2025 00:15:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Charset.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Charset.php on line 12
+[20-Dec-2025 07:47:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Options.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Options.php on line 13
+[21-Dec-2025 01:24:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Secure.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Secure.php on line 11
+[21-Dec-2025 02:25:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Charset.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Charset.php on line 12
+[21-Dec-2025 14:55:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Options.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Options.php on line 13
+[22-Dec-2025 09:06:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Secure.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Secure.php on line 11
+[01-Jan-2026 19:43:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Charset.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Charset.php on line 12
+[01-Jan-2026 19:45:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Secure.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Secure.php on line 11
+[02-Jan-2026 14:46:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Options.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Options.php on line 13
+[12-Jan-2026 04:26:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Secure.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Secure.php on line 11
+[12-Jan-2026 04:27:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Options.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Options.php on line 13
+[12-Jan-2026 04:28:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Charset.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Charset.php on line 12
+[22-Jan-2026 06:15:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Secure.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Secure.php on line 11
+[22-Jan-2026 06:25:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Options.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Options.php on line 13
+[22-Jan-2026 09:12:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Charset.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Charset.php on line 12
+[25-Jan-2026 18:37:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Charset.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Charset.php on line 12
+[26-Jan-2026 01:49:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Secure.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Secure.php on line 11
+[26-Jan-2026 03:12:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Options.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Options.php on line 13
+[27-Jan-2026 11:07:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 11:07:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Charset.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Charset.php on line 12
+[06-Feb-2026 06:46:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 06:46:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Charset.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Charset.php on line 12
+[07-Feb-2026 08:45:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 08:45:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Options.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Options.php on line 13
+[22-Feb-2026 02:27:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 02:27:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Mysqli\Initializer" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Charset.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Mysqli/Initializer/Charset.php on line 12

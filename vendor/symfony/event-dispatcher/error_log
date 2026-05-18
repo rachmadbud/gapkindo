@@ -1,0 +1,687 @@
+[30-Oct-2025 11:57:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[31-Oct-2025 00:13:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[31-Oct-2025 01:49:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[31-Oct-2025 03:28:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[16-Nov-2025 09:04:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[16-Nov-2025 09:04:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[16-Nov-2025 09:04:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[16-Nov-2025 09:11:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[18-Nov-2025 14:57:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[18-Nov-2025 14:58:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[18-Nov-2025 15:05:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[18-Nov-2025 15:07:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[28-Nov-2025 10:07:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[28-Nov-2025 10:09:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[28-Nov-2025 10:11:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[28-Nov-2025 10:11:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[02-Dec-2025 18:59:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[05-Dec-2025 02:32:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[05-Dec-2025 02:58:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[05-Dec-2025 13:03:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[05-Dec-2025 17:29:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[05-Dec-2025 20:58:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[05-Dec-2025 23:02:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[05-Dec-2025 23:22:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[08-Dec-2025 18:39:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[08-Dec-2025 20:00:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[08-Dec-2025 21:53:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[09-Dec-2025 01:25:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[09-Dec-2025 05:08:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[10-Dec-2025 23:27:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[18-Dec-2025 08:58:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[18-Dec-2025 08:59:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[18-Dec-2025 08:59:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[18-Dec-2025 08:59:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[18-Dec-2025 19:45:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[18-Dec-2025 20:35:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[18-Dec-2025 20:35:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[18-Dec-2025 20:35:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[18-Dec-2025 20:35:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[19-Dec-2025 00:27:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[19-Dec-2025 00:27:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[19-Dec-2025 00:27:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[19-Dec-2025 00:28:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[19-Dec-2025 04:54:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[19-Dec-2025 05:03:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[19-Dec-2025 07:32:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[19-Dec-2025 18:50:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[19-Dec-2025 21:30:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[30-Dec-2025 23:19:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[31-Dec-2025 00:15:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[31-Dec-2025 02:54:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[31-Dec-2025 04:25:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[03-Jan-2026 14:34:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[03-Jan-2026 14:35:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[03-Jan-2026 14:35:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[07-Jan-2026 10:56:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[07-Jan-2026 17:53:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[07-Jan-2026 18:45:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[07-Jan-2026 22:43:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[09-Jan-2026 17:26:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[10-Jan-2026 14:01:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[10-Jan-2026 14:03:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[10-Jan-2026 14:03:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[10-Jan-2026 19:45:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[10-Jan-2026 20:32:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[10-Jan-2026 23:41:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[12-Jan-2026 23:24:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[13-Jan-2026 13:55:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[15-Jan-2026 05:24:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[15-Jan-2026 15:56:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[16-Jan-2026 04:01:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[17-Jan-2026 23:11:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[21-Jan-2026 23:24:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[21-Jan-2026 23:24:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[21-Jan-2026 23:24:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[21-Jan-2026 23:24:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[22-Jan-2026 00:38:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[22-Jan-2026 00:41:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[22-Jan-2026 18:27:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[22-Jan-2026 18:28:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[22-Jan-2026 19:18:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[23-Jan-2026 05:38:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[23-Jan-2026 05:39:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[23-Jan-2026 16:03:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[23-Jan-2026 16:04:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[26-Jan-2026 04:56:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[26-Jan-2026 04:58:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[27-Jan-2026 23:01:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 23:01:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[28-Jan-2026 03:24:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 03:24:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[30-Jan-2026 10:26:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 10:26:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 10:26:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[30-Jan-2026 10:27:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 10:27:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[30-Jan-2026 10:28:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 10:28:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[30-Jan-2026 10:29:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 10:29:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[30-Jan-2026 19:44:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 19:44:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[30-Jan-2026 19:45:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 19:45:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[31-Jan-2026 00:52:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 00:52:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 00:52:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[31-Jan-2026 00:52:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 00:52:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[31-Jan-2026 00:52:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 00:52:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[31-Jan-2026 00:52:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 00:52:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[31-Jan-2026 03:38:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 03:38:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[31-Jan-2026 03:39:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 03:39:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[31-Jan-2026 06:34:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:34:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[31-Jan-2026 06:36:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:36:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[02-Feb-2026 00:40:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 00:40:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[02-Feb-2026 00:41:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 00:41:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[02-Feb-2026 00:42:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 00:42:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[02-Feb-2026 00:43:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 00:43:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[02-Feb-2026 02:13:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:13:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[02-Feb-2026 02:14:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:14:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[02-Feb-2026 02:15:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:15:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[02-Feb-2026 02:16:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:16:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[02-Feb-2026 18:59:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 18:59:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[05-Feb-2026 22:15:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 22:15:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[05-Feb-2026 22:30:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 22:30:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[05-Feb-2026 23:31:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 23:31:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[05-Feb-2026 23:46:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 23:46:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[06-Feb-2026 03:17:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 20:51:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 20:51:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcher.php on line 32
+[10-Feb-2026 10:54:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 10:54:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[10-Feb-2026 14:30:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 14:30:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[10-Feb-2026 14:33:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 14:33:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[10-Feb-2026 21:47:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 21:47:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[10-Feb-2026 21:48:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 21:48:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[13-Feb-2026 07:06:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 07:06:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[14-Feb-2026 00:00:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 00:00:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[14-Feb-2026 00:02:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 00:02:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[14-Feb-2026 02:35:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 02:35:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[14-Feb-2026 02:37:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 02:37:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[14-Feb-2026 06:54:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 06:54:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[14-Feb-2026 06:56:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 06:56:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[14-Feb-2026 08:18:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 08:18:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[14-Feb-2026 09:09:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:09:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[14-Feb-2026 09:14:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:14:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[14-Feb-2026 09:51:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:51:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[14-Feb-2026 10:44:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:44:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[14-Feb-2026 10:45:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:45:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[14-Feb-2026 12:25:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:25:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[14-Feb-2026 12:31:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:31:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[14-Feb-2026 17:28:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:28:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[14-Feb-2026 17:31:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:31:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[14-Feb-2026 20:59:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 20:59:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[14-Feb-2026 21:03:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:03:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[15-Feb-2026 05:14:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:14:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[15-Feb-2026 05:17:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:17:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[15-Feb-2026 10:35:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:35:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[15-Feb-2026 10:40:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:40:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[15-Feb-2026 21:38:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:38:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[15-Feb-2026 21:39:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:39:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[15-Feb-2026 21:42:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:42:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[15-Feb-2026 21:43:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:43:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[18-Feb-2026 06:08:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 06:08:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[19-Feb-2026 23:53:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 23:53:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[19-Feb-2026 23:59:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 23:59:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[20-Feb-2026 01:09:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 01:09:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 26
+[20-Feb-2026 03:13:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 03:13:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[21-Feb-2026 11:07:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

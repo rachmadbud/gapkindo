@@ -1,0 +1,302 @@
+[02-Nov-2025 05:02:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php on line 17
+[20-Dec-2025 23:30:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotExistException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotExistException.php on line 19
+[21-Dec-2025 00:43:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php on line 19
+[21-Dec-2025 00:44:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php on line 19
+[21-Dec-2025 02:08:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareBoolReturnTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareBoolReturnTypeException.php on line 19
+[21-Dec-2025 10:45:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php on line 17
+[21-Dec-2025 13:40:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareExactlyOneParameterException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareExactlyOneParameterException.php on line 19
+[31-Dec-2025 13:42:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php on line 17
+[31-Dec-2025 13:51:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotExistException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotExistException.php on line 19
+[31-Dec-2025 13:54:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php on line 19
+[31-Dec-2025 13:54:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php on line 19
+[31-Dec-2025 14:00:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareExactlyOneParameterException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareExactlyOneParameterException.php on line 19
+[01-Jan-2026 21:42:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php on line 17
+[01-Jan-2026 23:36:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php on line 19
+[02-Jan-2026 07:39:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotExistException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotExistException.php on line 19
+[02-Jan-2026 09:16:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareExactlyOneParameterException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareExactlyOneParameterException.php on line 19
+[02-Jan-2026 13:14:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareBoolReturnTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareBoolReturnTypeException.php on line 19
+[02-Jan-2026 13:15:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php on line 19
+[05-Jan-2026 02:36:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php on line 19
+[05-Jan-2026 20:15:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php on line 19
+[06-Jan-2026 15:36:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php on line 19
+[07-Jan-2026 04:09:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php on line 19
+[09-Jan-2026 19:47:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php on line 19
+[09-Jan-2026 21:29:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php on line 19
+[10-Jan-2026 20:51:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php on line 19
+[11-Jan-2026 11:23:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php on line 19
+[13-Jan-2026 01:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php on line 19
+[13-Jan-2026 16:25:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php on line 19
+[14-Jan-2026 13:36:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php on line 19
+[15-Jan-2026 07:40:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php on line 19
+[15-Jan-2026 17:18:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php on line 19
+[17-Jan-2026 00:45:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php on line 19
+[17-Jan-2026 07:14:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareExactlyOneParameterException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareExactlyOneParameterException.php on line 19
+[17-Jan-2026 11:36:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php on line 17
+[17-Jan-2026 11:40:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php on line 19
+[17-Jan-2026 18:20:16 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php on line 17
+[18-Jan-2026 05:25:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareExactlyOneParameterException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareExactlyOneParameterException.php on line 19
+[18-Jan-2026 14:52:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php on line 19
+[19-Jan-2026 19:04:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php on line 17
+[19-Jan-2026 21:33:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareBoolReturnTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareBoolReturnTypeException.php on line 19
+[24-Jan-2026 02:52:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php on line 19
+[24-Jan-2026 03:24:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareExactlyOneParameterException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareExactlyOneParameterException.php on line 19
+[25-Jan-2026 06:26:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotExistException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotExistException.php on line 19
+[25-Jan-2026 09:20:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php on line 17
+[25-Jan-2026 09:21:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareExactlyOneParameterException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareExactlyOneParameterException.php on line 19
+[25-Jan-2026 14:50:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php on line 19
+[25-Jan-2026 18:18:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareBoolReturnTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareBoolReturnTypeException.php on line 19
+[25-Jan-2026 18:24:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php on line 19
+[27-Jan-2026 12:45:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 12:45:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareExactlyOneParameterException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareExactlyOneParameterException.php on line 19
+[02-Feb-2026 10:47:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:47:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php on line 17
+[03-Feb-2026 08:14:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 08:14:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php on line 17
+[04-Feb-2026 08:26:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 08:26:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php on line 17
+[05-Feb-2026 06:12:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 06:12:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php on line 17
+[05-Feb-2026 09:47:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 09:47:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareBoolReturnTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareBoolReturnTypeException.php on line 19
+[05-Feb-2026 20:16:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 20:16:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php on line 17
+[12-Feb-2026 22:40:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 22:40:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php on line 19
+[13-Feb-2026 07:49:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 07:49:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php on line 19
+[14-Feb-2026 00:59:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 00:59:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareExactlyOneParameterException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareExactlyOneParameterException.php on line 19
+[14-Feb-2026 01:02:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 01:02:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php on line 19
+[14-Feb-2026 11:08:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 11:08:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php on line 19
+[15-Feb-2026 13:30:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 13:30:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php on line 19
+[15-Feb-2026 20:52:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 20:52:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php on line 19
+[16-Feb-2026 21:03:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 21:03:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotExistException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotExistException.php on line 19
+[16-Feb-2026 21:03:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 21:03:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php on line 19
+[16-Feb-2026 21:05:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 21:05:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareExactlyOneParameterException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareExactlyOneParameterException.php on line 19
+[16-Feb-2026 21:08:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 21:08:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareBoolReturnTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareBoolReturnTypeException.php on line 19
+[16-Feb-2026 21:14:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 21:14:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php on line 19
+[16-Feb-2026 22:40:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:40:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ActualValueIsNotAnObjectException.php on line 17
+[21-Feb-2026 17:20:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 17:20:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotAcceptParameterTypeException.php on line 19
+[22-Feb-2026 04:21:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:21:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Exception/ObjectEquals/ComparisonMethodDoesNotDeclareParameterTypeException.php on line 19

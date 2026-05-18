@@ -1,0 +1,443 @@
+[18-Dec-2025 21:23:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php on line 13
+[18-Dec-2025 21:23:40 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Event.php on line 22
+[18-Dec-2025 21:23:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php on line 11
+[18-Dec-2025 21:23:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php on line 12
+[18-Dec-2025 21:24:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleListCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleListCommand.php on line 17
+[18-Dec-2025 21:24:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\SchedulingMutex" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php on line 8
+[18-Dec-2025 21:24:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleInterruptCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleInterruptCommand.php on line 11
+[18-Dec-2025 21:24:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php on line 21
+[18-Dec-2025 21:24:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\EventMutex" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php on line 9
+[18-Dec-2025 21:24:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php on line 7
+[18-Dec-2025 21:25:07 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Schedule.php on line 20
+[18-Dec-2025 21:25:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Scheduling\Event" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php on line 12
+[19-Dec-2025 16:16:42 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Schedule.php on line 20
+[19-Dec-2025 20:15:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php on line 13
+[19-Dec-2025 20:42:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php on line 12
+[19-Dec-2025 21:41:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\SchedulingMutex" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php on line 8
+[19-Dec-2025 22:14:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php on line 21
+[20-Dec-2025 01:18:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php on line 7
+[20-Dec-2025 02:22:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php on line 11
+[20-Dec-2025 03:36:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleListCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleListCommand.php on line 17
+[20-Dec-2025 04:39:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\EventMutex" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php on line 9
+[20-Dec-2025 04:40:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleInterruptCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleInterruptCommand.php on line 11
+[20-Dec-2025 04:56:28 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Event.php on line 22
+[20-Dec-2025 16:43:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php on line 21
+[20-Dec-2025 17:42:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleInterruptCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleInterruptCommand.php on line 11
+[20-Dec-2025 20:01:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php on line 7
+[20-Dec-2025 21:20:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\EventMutex" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php on line 9
+[20-Dec-2025 21:20:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleListCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleListCommand.php on line 17
+[21-Dec-2025 00:10:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php on line 12
+[21-Dec-2025 04:07:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\SchedulingMutex" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php on line 8
+[21-Dec-2025 04:08:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php on line 11
+[21-Dec-2025 05:59:31 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Schedule.php on line 20
+[21-Dec-2025 06:28:15 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Event.php on line 22
+[21-Dec-2025 11:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Scheduling\Event" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php on line 12
+[21-Dec-2025 13:00:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php on line 13
+[22-Dec-2025 19:15:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Scheduling\Event" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php on line 12
+[28-Dec-2025 11:18:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php on line 11
+[28-Dec-2025 13:07:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php on line 12
+[28-Dec-2025 13:29:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\EventMutex" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php on line 9
+[28-Dec-2025 14:23:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Scheduling\Event" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php on line 12
+[28-Dec-2025 15:06:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php on line 21
+[28-Dec-2025 15:13:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleListCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleListCommand.php on line 17
+[28-Dec-2025 17:46:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\SchedulingMutex" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php on line 8
+[29-Dec-2025 21:56:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleInterruptCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleInterruptCommand.php on line 11
+[30-Dec-2025 02:06:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php on line 13
+[30-Dec-2025 03:12:11 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Event.php on line 22
+[30-Dec-2025 06:15:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php on line 7
+[01-Jan-2026 15:31:38 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Schedule.php on line 20
+[31-Jan-2026 20:35:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 20:35:54 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Event.php on line 22
+[31-Jan-2026 23:32:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 23:32:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php on line 7
+[01-Feb-2026 22:44:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 22:44:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php on line 11
+[01-Feb-2026 22:46:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 22:46:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php on line 21
+[01-Feb-2026 22:49:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 22:49:07 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Schedule.php on line 20
+[01-Feb-2026 22:52:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 22:52:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\EventMutex" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php on line 9
+[01-Feb-2026 22:53:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 22:53:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleListCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleListCommand.php on line 17
+[01-Feb-2026 22:56:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 22:56:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleInterruptCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleInterruptCommand.php on line 11
+[01-Feb-2026 22:57:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 22:57:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php on line 7
+[01-Feb-2026 22:58:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:01:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:03:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:03:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Scheduling\Event" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php on line 12
+[01-Feb-2026 23:04:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:04:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php on line 12
+[01-Feb-2026 23:05:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:05:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php on line 13
+[01-Feb-2026 23:07:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:16:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:25:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:25:29 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Event.php on line 22
+[01-Feb-2026 23:26:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:40:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:41:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:41:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php on line 11
+[01-Feb-2026 23:42:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:42:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php on line 21
+[01-Feb-2026 23:43:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:43:08 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Schedule.php on line 20
+[01-Feb-2026 23:45:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:45:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\EventMutex" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php on line 9
+[01-Feb-2026 23:50:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:50:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleListCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleListCommand.php on line 17
+[01-Feb-2026 23:52:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:52:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleInterruptCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleInterruptCommand.php on line 11
+[01-Feb-2026 23:53:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:53:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php on line 7
+[01-Feb-2026 23:57:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:57:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Scheduling\Event" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php on line 12
+[02-Feb-2026 00:01:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 00:03:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 00:03:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php on line 12
+[02-Feb-2026 00:04:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 00:04:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php on line 13
+[02-Feb-2026 00:08:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 00:13:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 00:21:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 00:21:06 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Event.php on line 22
+[02-Feb-2026 00:23:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 00:52:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 00:52:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\SchedulingMutex" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php on line 8
+[02-Feb-2026 02:26:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:26:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\SchedulingMutex" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php on line 8
+[13-Feb-2026 11:55:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 11:55:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php on line 13
+[13-Feb-2026 18:36:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 18:36:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php on line 13
+[14-Feb-2026 12:37:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:37:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php on line 7
+[15-Feb-2026 15:18:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 15:18:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php on line 7
+[16-Feb-2026 19:16:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 19:16:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 19:16:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleInterruptCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleInterruptCommand.php on line 11
+[16-Feb-2026 22:50:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:50:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php on line 13
+[16-Feb-2026 22:50:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:50:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php on line 12
+[16-Feb-2026 22:51:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:51:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php on line 21
+[16-Feb-2026 22:52:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:52:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleListCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleListCommand.php on line 17
+[16-Feb-2026 22:54:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:54:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php on line 11
+[16-Feb-2026 22:57:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:57:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php on line 7
+[16-Feb-2026 23:04:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 23:04:13 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Schedule.php on line 20
+[16-Feb-2026 23:18:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 01:01:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 01:01:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 01:01:39 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Event.php on line 22
+[17-Feb-2026 01:01:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 01:02:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 01:02:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Scheduling\Event" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php on line 12
+[17-Feb-2026 01:02:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 01:02:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\SchedulingMutex" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php on line 8
+[17-Feb-2026 01:03:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 01:03:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\EventMutex" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php on line 9
+[17-Feb-2026 01:24:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 00:31:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 00:31:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php on line 13
+[21-Feb-2026 04:58:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 04:58:35 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Schedule.php on line 20
+[21-Feb-2026 19:11:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 19:11:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\EventMutex" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php on line 9
+[21-Feb-2026 22:45:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 22:45:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\EventMutex" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php on line 9
+[21-Feb-2026 23:41:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 23:41:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Scheduling\Event" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php on line 12
+[22-Feb-2026 01:09:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 01:40:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 01:40:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php on line 11
+[22-Feb-2026 02:41:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 02:41:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php on line 13
+[22-Feb-2026 02:43:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 02:43:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php on line 21
+[22-Feb-2026 02:55:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 03:24:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 03:24:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleInterruptCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleInterruptCommand.php on line 11
+[22-Feb-2026 03:37:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 03:37:26 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Schedule.php on line 20
+[22-Feb-2026 03:39:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 03:39:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php on line 12
+[22-Feb-2026 03:42:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 03:42:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php on line 7
+[22-Feb-2026 04:44:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 05:22:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 05:22:45 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Event.php on line 22
+[22-Feb-2026 06:45:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 06:45:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\SchedulingMutex" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php on line 8
+[22-Feb-2026 09:48:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 09:54:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 10:27:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 10:27:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleListCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleListCommand.php on line 17

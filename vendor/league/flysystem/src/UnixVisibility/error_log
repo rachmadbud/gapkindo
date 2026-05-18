@@ -1,0 +1,62 @@
+[23-Nov-2025 20:08:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\UnixVisibility\VisibilityConverter" not found in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php on line 10
+[29-Nov-2025 08:49:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\UnixVisibility\VisibilityConverter" not found in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php on line 10
+[13-Dec-2025 13:49:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\UnixVisibility\VisibilityConverter" not found in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php on line 10
+[15-Dec-2025 09:14:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\UnixVisibility\VisibilityConverter" not found in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php on line 10
+[18-Dec-2025 13:20:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\UnixVisibility\VisibilityConverter" not found in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php on line 10
+[24-Dec-2025 23:39:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\UnixVisibility\VisibilityConverter" not found in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php on line 10
+[31-Dec-2025 09:54:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\UnixVisibility\VisibilityConverter" not found in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php on line 10
+[14-Jan-2026 05:08:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\UnixVisibility\VisibilityConverter" not found in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php on line 10
+[19-Jan-2026 10:55:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\UnixVisibility\VisibilityConverter" not found in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php on line 10
+[20-Jan-2026 13:01:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\UnixVisibility\VisibilityConverter" not found in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php on line 10
+[22-Jan-2026 06:20:40 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\UnixVisibility\VisibilityConverter" not found in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php on line 10
+[28-Jan-2026 09:38:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 19:26:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 19:26:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\UnixVisibility\VisibilityConverter" not found in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php on line 10
+[31-Jan-2026 19:29:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 00:22:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 00:22:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\UnixVisibility\VisibilityConverter" not found in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php on line 10
+[16-Feb-2026 14:36:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:00:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:00:12 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\UnixVisibility\VisibilityConverter" not found in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php on line 10

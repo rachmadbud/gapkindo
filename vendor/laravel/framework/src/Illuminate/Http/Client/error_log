@@ -1,0 +1,140 @@
+[17-Dec-2025 01:21:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php on line 5
+[18-Dec-2025 21:40:29 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Request.php on line 10
+[18-Dec-2025 21:40:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php on line 7
+[18-Dec-2025 21:40:48 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ResponseSequence.php on line 8
+[18-Dec-2025 21:41:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php on line 5
+[18-Dec-2025 21:41:18 UTC] PHP Fatal error:  Trait "Illuminate\Http\Client\Concerns\DeterminesStatusCode" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Response.php on line 10
+[18-Dec-2025 21:41:25 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Factory.php on line 19
+[18-Dec-2025 21:41:31 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php on line 32
+[19-Dec-2025 19:08:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php on line 7
+[19-Dec-2025 21:41:36 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Factory.php on line 19
+[19-Dec-2025 21:52:53 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ResponseSequence.php on line 8
+[20-Dec-2025 02:05:17 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Request.php on line 10
+[20-Dec-2025 03:50:41 UTC] PHP Fatal error:  Trait "Illuminate\Http\Client\Concerns\DeterminesStatusCode" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Response.php on line 10
+[20-Dec-2025 04:27:47 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php on line 32
+[20-Jan-2026 04:27:05 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ResponseSequence.php on line 8
+[20-Jan-2026 11:41:30 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Factory.php on line 19
+[20-Jan-2026 13:48:39 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Request.php on line 10
+[20-Jan-2026 16:49:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php on line 7
+[20-Jan-2026 17:55:55 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php on line 32
+[20-Jan-2026 19:32:20 UTC] PHP Fatal error:  Trait "Illuminate\Http\Client\Concerns\DeterminesStatusCode" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Response.php on line 10
+[20-Jan-2026 21:25:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php on line 5
+[28-Jan-2026 11:55:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 11:55:22 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Request.php on line 10
+[02-Feb-2026 02:49:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:49:02 UTC] PHP Fatal error:  Trait "Illuminate\Http\Client\Concerns\DeterminesStatusCode" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Response.php on line 10
+[02-Feb-2026 02:53:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:53:42 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php on line 32
+[02-Feb-2026 02:54:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:54:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php on line 7
+[02-Feb-2026 02:56:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:56:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php on line 5
+[02-Feb-2026 03:02:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 03:02:01 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ResponseSequence.php on line 8
+[02-Feb-2026 03:08:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 03:10:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 03:16:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 03:16:11 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Request.php on line 10
+[02-Feb-2026 03:17:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 03:17:03 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Factory.php on line 19
+[02-Feb-2026 04:29:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:29:58 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php on line 32
+[02-Feb-2026 04:30:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:30:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php on line 7
+[02-Feb-2026 04:31:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:31:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php on line 5
+[02-Feb-2026 04:33:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:33:43 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ResponseSequence.php on line 8
+[02-Feb-2026 04:44:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:47:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:52:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:52:01 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Factory.php on line 19
+[02-Feb-2026 04:52:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:52:58 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Request.php on line 10
+[02-Feb-2026 04:57:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:57:07 UTC] PHP Fatal error:  Trait "Illuminate\Http\Client\Concerns\DeterminesStatusCode" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Response.php on line 10
+[04-Feb-2026 13:06:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:06:13 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ResponseSequence.php on line 8
+[04-Feb-2026 13:06:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:06:27 UTC] PHP Fatal error:  Trait "Illuminate\Http\Client\Concerns\DeterminesStatusCode" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Response.php on line 10
+[04-Feb-2026 13:06:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:06:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php on line 7
+[04-Feb-2026 13:07:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:07:47 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Request.php on line 10
+[04-Feb-2026 13:09:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:13:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:13:17 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php on line 32
+[04-Feb-2026 13:16:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:22:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:22:36 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Factory.php on line 19
+[04-Feb-2026 13:42:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:42:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php on line 5
+[07-Feb-2026 00:29:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 00:29:38 UTC] PHP Fatal error:  Trait "Illuminate\Http\Client\Concerns\DeterminesStatusCode" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Response.php on line 10
+[13-Feb-2026 02:12:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 02:41:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 17:55:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 17:55:48 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Factory.php on line 19
+[16-Feb-2026 17:01:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:01:51 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Request.php on line 10
+[16-Feb-2026 17:43:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:43:23 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ResponseSequence.php on line 8
+[16-Feb-2026 17:53:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:53:34 UTC] PHP Fatal error:  Trait "Illuminate\Http\Client\Concerns\DeterminesStatusCode" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Response.php on line 10
+[16-Feb-2026 19:19:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 19:19:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php on line 7
+[16-Feb-2026 19:48:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 19:48:23 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php on line 32
+[16-Feb-2026 21:15:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 21:15:00 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Factory.php on line 19
+[16-Feb-2026 22:38:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 00:10:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 00:10:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php on line 5
+[21-Feb-2026 22:07:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 22:07:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php on line 5
+[22-Feb-2026 02:22:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

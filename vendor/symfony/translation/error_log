@@ -1,0 +1,723 @@
+[30-Oct-2025 21:24:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php on line 34
+[30-Oct-2025 22:22:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatableInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php on line 20
+[30-Oct-2025 22:52:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[31-Oct-2025 02:46:21 UTC] PHP Fatal error:  Trait "Symfony\Contracts\Translation\TranslatorTrait" not found in /home/gapkindo/public_html/vendor/symfony/translation/IdentityTranslator.php on line 23
+[31-Oct-2025 07:22:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\TranslatorBagInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php on line 17
+[31-Oct-2025 12:31:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php on line 22
+[31-Oct-2025 14:43:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[31-Oct-2025 15:45:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php on line 22
+[31-Oct-2025 21:01:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php on line 19
+[16-Nov-2025 09:37:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php on line 19
+[16-Nov-2025 09:38:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[16-Nov-2025 09:42:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[16-Nov-2025 09:43:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatableInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php on line 20
+[16-Nov-2025 09:45:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php on line 22
+[16-Nov-2025 10:42:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\TranslatorBagInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php on line 17
+[16-Nov-2025 10:53:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php on line 22
+[16-Nov-2025 10:54:32 UTC] PHP Fatal error:  Trait "Symfony\Contracts\Translation\TranslatorTrait" not found in /home/gapkindo/public_html/vendor/symfony/translation/IdentityTranslator.php on line 23
+[16-Nov-2025 16:48:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php on line 34
+[17-Nov-2025 00:50:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\TranslatorBagInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php on line 17
+[17-Nov-2025 00:50:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php on line 34
+[17-Nov-2025 00:51:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatableInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php on line 20
+[17-Nov-2025 01:02:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[17-Nov-2025 01:04:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php on line 22
+[17-Nov-2025 01:08:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[17-Nov-2025 01:36:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php on line 22
+[17-Nov-2025 03:21:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php on line 19
+[17-Nov-2025 03:24:01 UTC] PHP Fatal error:  Trait "Symfony\Contracts\Translation\TranslatorTrait" not found in /home/gapkindo/public_html/vendor/symfony/translation/IdentityTranslator.php on line 23
+[25-Nov-2025 04:00:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\TranslatorBagInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php on line 17
+[25-Nov-2025 05:12:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[28-Nov-2025 10:30:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php on line 19
+[28-Nov-2025 10:36:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatableInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php on line 20
+[28-Nov-2025 10:36:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[28-Nov-2025 10:42:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php on line 22
+[28-Nov-2025 10:43:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[29-Nov-2025 01:33:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php on line 19
+[29-Nov-2025 08:11:29 UTC] PHP Fatal error:  Trait "Symfony\Contracts\Translation\TranslatorTrait" not found in /home/gapkindo/public_html/vendor/symfony/translation/IdentityTranslator.php on line 23
+[29-Nov-2025 16:26:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[01-Dec-2025 08:18:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php on line 19
+[01-Dec-2025 09:42:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php on line 34
+[01-Dec-2025 10:42:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php on line 22
+[01-Dec-2025 12:06:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[01-Dec-2025 12:23:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php on line 22
+[01-Dec-2025 12:44:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php on line 22
+[01-Dec-2025 16:12:27 UTC] PHP Fatal error:  Trait "Symfony\Contracts\Translation\TranslatorTrait" not found in /home/gapkindo/public_html/vendor/symfony/translation/IdentityTranslator.php on line 23
+[01-Dec-2025 18:16:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatableInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php on line 20
+[01-Dec-2025 20:28:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\TranslatorBagInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php on line 17
+[01-Dec-2025 23:14:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[03-Dec-2025 06:49:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php on line 34
+[03-Dec-2025 19:17:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php on line 22
+[05-Dec-2025 00:23:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php on line 34
+[05-Dec-2025 00:51:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[05-Dec-2025 01:36:55 UTC] PHP Fatal error:  Trait "Symfony\Contracts\Translation\TranslatorTrait" not found in /home/gapkindo/public_html/vendor/symfony/translation/IdentityTranslator.php on line 23
+[05-Dec-2025 01:37:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\TranslatorBagInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php on line 17
+[05-Dec-2025 01:37:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatableInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php on line 20
+[05-Dec-2025 01:37:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[05-Dec-2025 01:55:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php on line 22
+[05-Dec-2025 02:17:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php on line 22
+[05-Dec-2025 02:38:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php on line 19
+[08-Dec-2025 16:46:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatableInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php on line 20
+[08-Dec-2025 19:05:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php on line 22
+[08-Dec-2025 22:13:39 UTC] PHP Fatal error:  Trait "Symfony\Contracts\Translation\TranslatorTrait" not found in /home/gapkindo/public_html/vendor/symfony/translation/IdentityTranslator.php on line 23
+[09-Dec-2025 03:19:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php on line 22
+[09-Dec-2025 05:52:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\TranslatorBagInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php on line 17
+[09-Dec-2025 10:54:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php on line 34
+[09-Dec-2025 13:16:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[09-Dec-2025 13:17:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php on line 19
+[09-Dec-2025 15:04:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[18-Dec-2025 09:03:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\TranslatorBagInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php on line 17
+[18-Dec-2025 09:04:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[18-Dec-2025 09:06:05 UTC] PHP Fatal error:  Trait "Symfony\Contracts\Translation\TranslatorTrait" not found in /home/gapkindo/public_html/vendor/symfony/translation/IdentityTranslator.php on line 23
+[18-Dec-2025 09:06:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php on line 22
+[18-Dec-2025 09:07:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php on line 34
+[18-Dec-2025 09:07:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatableInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php on line 20
+[18-Dec-2025 09:07:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php on line 22
+[18-Dec-2025 09:07:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php on line 19
+[18-Dec-2025 09:08:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[18-Dec-2025 16:27:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php on line 22
+[18-Dec-2025 20:50:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatableInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php on line 20
+[19-Dec-2025 00:14:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php on line 22
+[19-Dec-2025 00:19:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\TranslatorBagInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php on line 17
+[19-Dec-2025 01:19:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php on line 19
+[19-Dec-2025 03:56:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[19-Dec-2025 05:13:43 UTC] PHP Fatal error:  Trait "Symfony\Contracts\Translation\TranslatorTrait" not found in /home/gapkindo/public_html/vendor/symfony/translation/IdentityTranslator.php on line 23
+[19-Dec-2025 05:15:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php on line 34
+[19-Dec-2025 13:02:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[30-Dec-2025 19:20:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php on line 34
+[30-Dec-2025 19:39:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[30-Dec-2025 20:35:47 UTC] PHP Fatal error:  Trait "Symfony\Contracts\Translation\TranslatorTrait" not found in /home/gapkindo/public_html/vendor/symfony/translation/IdentityTranslator.php on line 23
+[30-Dec-2025 20:39:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\TranslatorBagInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php on line 17
+[30-Dec-2025 20:39:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatableInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php on line 20
+[30-Dec-2025 20:39:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[30-Dec-2025 21:19:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php on line 22
+[30-Dec-2025 23:16:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php on line 22
+[31-Dec-2025 01:17:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php on line 19
+[01-Jan-2026 02:10:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php on line 22
+[01-Jan-2026 03:27:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php on line 34
+[01-Jan-2026 05:44:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\TranslatorBagInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php on line 17
+[01-Jan-2026 07:22:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php on line 19
+[01-Jan-2026 07:39:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[01-Jan-2026 08:51:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatableInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php on line 20
+[01-Jan-2026 12:53:10 UTC] PHP Fatal error:  Trait "Symfony\Contracts\Translation\TranslatorTrait" not found in /home/gapkindo/public_html/vendor/symfony/translation/IdentityTranslator.php on line 23
+[01-Jan-2026 13:13:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[01-Jan-2026 19:49:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php on line 22
+[13-Jan-2026 05:32:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[13-Jan-2026 17:15:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\TranslatorBagInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php on line 17
+[13-Jan-2026 18:47:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php on line 19
+[14-Jan-2026 10:03:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php on line 22
+[14-Jan-2026 10:52:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[14-Jan-2026 13:16:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php on line 34
+[14-Jan-2026 22:45:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatableInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php on line 20
+[15-Jan-2026 10:58:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php on line 22
+[15-Jan-2026 20:06:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php on line 22
+[15-Jan-2026 22:31:41 UTC] PHP Fatal error:  Trait "Symfony\Contracts\Translation\TranslatorTrait" not found in /home/gapkindo/public_html/vendor/symfony/translation/IdentityTranslator.php on line 23
+[16-Jan-2026 02:25:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php on line 19
+[16-Jan-2026 12:03:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[16-Jan-2026 15:25:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\TranslatorBagInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php on line 17
+[16-Jan-2026 20:21:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[16-Jan-2026 21:08:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatableInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php on line 20
+[16-Jan-2026 21:52:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php on line 34
+[17-Jan-2026 00:53:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php on line 22
+[17-Jan-2026 07:01:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[17-Jan-2026 15:47:35 UTC] PHP Fatal error:  Trait "Symfony\Contracts\Translation\TranslatorTrait" not found in /home/gapkindo/public_html/vendor/symfony/translation/IdentityTranslator.php on line 23
+[17-Jan-2026 18:03:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php on line 22
+[17-Jan-2026 18:52:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[17-Jan-2026 21:25:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php on line 34
+[20-Jan-2026 06:49:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php on line 22
+[20-Jan-2026 22:00:40 UTC] PHP Fatal error:  Trait "Symfony\Contracts\Translation\TranslatorTrait" not found in /home/gapkindo/public_html/vendor/symfony/translation/IdentityTranslator.php on line 23
+[21-Jan-2026 23:26:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php on line 22
+[21-Jan-2026 23:26:11 UTC] PHP Fatal error:  Trait "Symfony\Contracts\Translation\TranslatorTrait" not found in /home/gapkindo/public_html/vendor/symfony/translation/IdentityTranslator.php on line 23
+[21-Jan-2026 23:26:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[21-Jan-2026 23:26:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php on line 22
+[21-Jan-2026 23:26:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[21-Jan-2026 23:26:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php on line 19
+[21-Jan-2026 23:26:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatableInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php on line 20
+[21-Jan-2026 23:26:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php on line 34
+[21-Jan-2026 23:26:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\TranslatorBagInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php on line 17
+[22-Jan-2026 13:45:41 UTC] PHP Fatal error:  Trait "Symfony\Contracts\Translation\TranslatorTrait" not found in /home/gapkindo/public_html/vendor/symfony/translation/IdentityTranslator.php on line 23
+[22-Jan-2026 13:50:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[22-Jan-2026 21:13:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php on line 19
+[27-Jan-2026 18:03:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 18:03:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php on line 34
+[27-Jan-2026 19:44:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 19:44:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\TranslatorBagInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php on line 17
+[27-Jan-2026 19:46:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 19:46:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatableInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php on line 20
+[30-Jan-2026 10:49:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 10:50:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 10:50:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 10:51:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 10:51:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php on line 19
+[30-Jan-2026 10:51:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 10:51:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatableInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php on line 20
+[30-Jan-2026 10:52:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 10:52:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[30-Jan-2026 10:53:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 10:53:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php on line 22
+[30-Jan-2026 10:54:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 10:56:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 10:56:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[30-Jan-2026 11:51:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 11:51:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\TranslatorBagInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php on line 17
+[30-Jan-2026 12:16:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 12:16:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php on line 22
+[30-Jan-2026 12:17:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 12:17:02 UTC] PHP Fatal error:  Trait "Symfony\Contracts\Translation\TranslatorTrait" not found in /home/gapkindo/public_html/vendor/symfony/translation/IdentityTranslator.php on line 23
+[30-Jan-2026 19:09:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 19:09:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php on line 34
+[31-Jan-2026 07:12:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 08:13:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 08:13:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php on line 19
+[31-Jan-2026 08:22:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 09:23:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 09:23:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[31-Jan-2026 13:33:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 13:33:57 UTC] PHP Fatal error:  Trait "Symfony\Contracts\Translation\TranslatorTrait" not found in /home/gapkindo/public_html/vendor/symfony/translation/IdentityTranslator.php on line 23
+[31-Jan-2026 13:41:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 14:35:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 14:35:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php on line 22
+[31-Jan-2026 14:42:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 14:42:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php on line 22
+[31-Jan-2026 15:08:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 15:08:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\TranslatorBagInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php on line 17
+[31-Jan-2026 15:43:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 15:43:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php on line 34
+[31-Jan-2026 16:51:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 16:51:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatableInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php on line 20
+[31-Jan-2026 19:56:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 19:56:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[02-Feb-2026 01:45:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:45:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[02-Feb-2026 05:47:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:34:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:34:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php on line 19
+[02-Feb-2026 17:35:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:35:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatableInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php on line 20
+[02-Feb-2026 17:36:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:36:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[02-Feb-2026 17:37:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:37:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php on line 22
+[02-Feb-2026 17:38:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:38:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[02-Feb-2026 17:39:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:39:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\TranslatorBagInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatorBag.php on line 17
+[02-Feb-2026 17:40:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:40:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LoggingTranslator.php on line 22
+[02-Feb-2026 17:43:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:43:37 UTC] PHP Fatal error:  Trait "Symfony\Contracts\Translation\TranslatorTrait" not found in /home/gapkindo/public_html/vendor/symfony/translation/IdentityTranslator.php on line 23
+[02-Feb-2026 17:47:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:47:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php on line 34
+[11-Feb-2026 03:03:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:03:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:04:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:04:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 15:33:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 20:08:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 20:41:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 20:41:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DataCollectorTranslator.php on line 22
+[13-Feb-2026 22:03:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 22:03:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[14-Feb-2026 03:27:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 03:27:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatableInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php on line 20
+[14-Feb-2026 07:36:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:36:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Translator.php on line 34
+[14-Feb-2026 08:28:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 08:28:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[14-Feb-2026 09:56:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:56:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[15-Feb-2026 09:04:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 09:04:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatableInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/TranslatableMessage.php on line 20
+[15-Feb-2026 19:38:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 19:38:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[16-Feb-2026 06:44:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 06:44:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\MessageCatalogueInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/MessageCatalogue.php on line 20
+[20-Feb-2026 01:18:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 01:18:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\LocaleAwareInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/LocaleSwitcher.php on line 20
+[20-Feb-2026 12:07:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 12:07:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Translation\TranslatorInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/PseudoLocalizationTranslator.php on line 19

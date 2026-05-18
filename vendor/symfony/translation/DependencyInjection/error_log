@@ -1,0 +1,416 @@
+[31-Oct-2025 16:02:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[31-Oct-2025 18:39:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[31-Oct-2025 21:30:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[31-Oct-2025 22:11:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[31-Oct-2025 23:29:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[16-Nov-2025 14:02:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[16-Nov-2025 14:02:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[16-Nov-2025 14:04:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[16-Nov-2025 14:07:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[16-Nov-2025 18:17:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[27-Nov-2025 06:33:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[27-Nov-2025 06:40:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[27-Nov-2025 06:50:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[27-Nov-2025 06:51:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[27-Nov-2025 07:02:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[27-Nov-2025 07:11:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[05-Dec-2025 10:50:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[05-Dec-2025 10:59:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[05-Dec-2025 16:21:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[05-Dec-2025 18:15:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[05-Dec-2025 21:15:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[05-Dec-2025 22:06:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[08-Dec-2025 21:27:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[08-Dec-2025 21:30:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[08-Dec-2025 21:32:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[08-Dec-2025 21:37:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[08-Dec-2025 21:47:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[08-Dec-2025 22:08:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[12-Dec-2025 03:29:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[12-Dec-2025 05:51:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[12-Dec-2025 08:15:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[12-Dec-2025 08:16:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[12-Dec-2025 11:57:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[14-Dec-2025 03:08:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[14-Dec-2025 03:30:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[14-Dec-2025 03:30:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[14-Dec-2025 03:30:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[14-Dec-2025 03:30:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[14-Dec-2025 03:34:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[18-Dec-2025 11:54:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[18-Dec-2025 11:55:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[18-Dec-2025 11:55:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[18-Dec-2025 11:55:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[18-Dec-2025 11:55:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[18-Dec-2025 11:55:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[21-Dec-2025 17:10:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[21-Dec-2025 17:11:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[22-Dec-2025 01:45:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[22-Dec-2025 03:55:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[22-Dec-2025 09:37:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[22-Dec-2025 12:27:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[05-Jan-2026 21:22:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[06-Jan-2026 00:40:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[06-Jan-2026 00:41:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[06-Jan-2026 00:41:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[06-Jan-2026 00:41:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[06-Jan-2026 01:58:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[07-Jan-2026 16:47:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[07-Jan-2026 18:58:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[07-Jan-2026 20:17:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[07-Jan-2026 21:22:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[07-Jan-2026 22:04:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[07-Jan-2026 23:27:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[15-Jan-2026 04:34:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[15-Jan-2026 07:00:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[15-Jan-2026 09:22:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[16-Jan-2026 00:01:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[16-Jan-2026 10:30:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[17-Jan-2026 05:09:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[20-Jan-2026 11:24:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[21-Jan-2026 03:53:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[21-Jan-2026 11:31:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[21-Jan-2026 16:56:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[21-Jan-2026 21:28:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[22-Jan-2026 08:37:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[23-Jan-2026 00:21:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[23-Jan-2026 09:44:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[23-Jan-2026 16:59:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[26-Jan-2026 04:55:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[30-Jan-2026 15:38:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:38:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[30-Jan-2026 15:39:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:39:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[30-Jan-2026 15:40:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:40:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[30-Jan-2026 15:41:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:41:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[30-Jan-2026 15:42:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:42:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[30-Jan-2026 21:35:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 21:35:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[02-Feb-2026 23:56:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 23:56:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[02-Feb-2026 23:56:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 23:56:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[02-Feb-2026 23:57:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 23:57:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[02-Feb-2026 23:58:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 23:58:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[02-Feb-2026 23:59:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 23:59:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[03-Feb-2026 00:00:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 00:00:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[05-Feb-2026 18:10:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 18:10:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[05-Feb-2026 18:21:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 18:21:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[05-Feb-2026 21:20:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 21:20:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[06-Feb-2026 03:38:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 03:38:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[06-Feb-2026 04:57:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 04:57:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[06-Feb-2026 07:01:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 07:01:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[13-Feb-2026 01:34:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 01:34:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[13-Feb-2026 23:33:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 23:33:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21

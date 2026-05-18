@@ -1,0 +1,79 @@
+[16-Dec-2025 20:10:58 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php on line 10
+[18-Dec-2025 08:57:06 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php on line 10
+[18-Dec-2025 17:57:24 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php on line 10
+[27-Dec-2025 21:30:10 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php on line 10
+[08-Jan-2026 15:39:57 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php on line 10
+[11-Jan-2026 04:38:31 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php on line 10
+[17-Jan-2026 14:14:20 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php on line 10
+[20-Jan-2026 09:42:44 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php on line 10
+[26-Jan-2026 02:51:07 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php on line 10
+[27-Jan-2026 13:19:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 06:47:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 06:47:23 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php on line 10
+[31-Jan-2026 15:48:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 09:37:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 09:37:38 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php on line 10
+[01-Feb-2026 09:56:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 09:56:28 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php on line 10
+[01-Feb-2026 14:06:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 14:06:31 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php on line 10
+[03-Feb-2026 02:29:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:18:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:19:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 07:29:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 14:07:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 14:07:57 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php on line 10
+[06-Feb-2026 03:13:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 06:57:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 06:57:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 03:42:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:34:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:37:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:36:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:36:51 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/inflector/src/Rules/Esperanto/InflectorFactory.php on line 10
+[22-Feb-2026 08:25:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

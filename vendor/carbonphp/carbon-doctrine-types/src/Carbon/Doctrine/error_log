@@ -1,0 +1,274 @@
+[16-Dec-2025 16:10:54 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php on line 5
+[16-Dec-2025 17:21:14 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php on line 5
+[16-Dec-2025 18:27:54 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php on line 8
+[16-Dec-2025 20:04:32 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php on line 8
+[17-Dec-2025 19:35:04 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php on line 8
+[18-Dec-2025 03:38:16 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php on line 8
+[18-Dec-2025 04:49:37 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php on line 5
+[18-Dec-2025 07:13:05 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php on line 5
+[18-Dec-2025 20:14:21 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php on line 8
+[18-Dec-2025 20:14:32 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php on line 5
+[18-Dec-2025 20:14:46 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php on line 8
+[18-Dec-2025 20:14:57 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php on line 5
+[27-Dec-2025 19:46:02 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php on line 5
+[27-Dec-2025 23:33:45 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php on line 5
+[28-Dec-2025 12:25:15 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php on line 8
+[28-Dec-2025 14:47:16 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php on line 8
+[06-Jan-2026 01:24:37 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php on line 5
+[06-Jan-2026 02:03:46 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php on line 8
+[06-Jan-2026 03:19:01 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php on line 8
+[12-Jan-2026 16:08:55 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php on line 8
+[12-Jan-2026 16:09:22 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php on line 8
+[12-Jan-2026 16:12:02 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php on line 5
+[12-Jan-2026 21:45:29 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php on line 5
+[16-Jan-2026 13:03:39 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php on line 8
+[17-Jan-2026 00:51:29 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php on line 5
+[17-Jan-2026 01:08:59 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php on line 5
+[17-Jan-2026 03:09:00 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php on line 8
+[19-Jan-2026 09:52:49 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php on line 5
+[19-Jan-2026 12:39:13 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php on line 8
+[20-Jan-2026 07:57:09 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php on line 8
+[20-Jan-2026 13:08:21 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php on line 5
+[20-Jan-2026 14:30:31 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php on line 8
+[20-Jan-2026 20:32:14 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php on line 5
+[27-Jan-2026 23:19:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 23:19:53 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php on line 5
+[27-Jan-2026 23:20:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 23:20:15 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php on line 8
+[28-Jan-2026 00:10:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 00:10:16 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php on line 5
+[31-Jan-2026 23:45:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 07:00:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 16:10:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 16:10:09 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php on line 5
+[01-Feb-2026 18:33:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 18:51:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 18:51:50 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php on line 5
+[01-Feb-2026 20:40:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 08:40:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:50:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:50:35 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php on line 8
+[03-Feb-2026 09:58:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:58:50 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php on line 8
+[03-Feb-2026 12:11:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 12:11:53 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php on line 5
+[03-Feb-2026 12:43:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 13:50:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 13:50:22 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php on line 8
+[03-Feb-2026 13:58:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 13:58:36 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php on line 8
+[03-Feb-2026 15:38:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 15:38:36 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php on line 5
+[03-Feb-2026 16:36:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 16:36:51 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php on line 5
+[03-Feb-2026 16:57:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 16:57:23 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php on line 5
+[03-Feb-2026 19:55:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 19:55:08 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php on line 5
+[05-Feb-2026 01:04:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 04:53:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 04:53:31 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php on line 5
+[05-Feb-2026 04:56:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 05:59:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 02:13:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 02:13:51 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php on line 8
+[06-Feb-2026 20:01:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 21:36:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 23:35:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 16:58:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 00:52:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 19:53:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 14:05:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 14:05:33 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php on line 8
+[14-Feb-2026 19:53:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 08:23:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 08:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php on line 8
+[16-Feb-2026 10:50:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:26:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:54:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:54:20 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php on line 5
+[16-Feb-2026 18:38:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:38:11 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonType.php on line 5
+[16-Feb-2026 18:56:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:56:09 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeImmutableType.php on line 8
+[16-Feb-2026 20:31:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:31:52 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php on line 5
+[16-Feb-2026 21:04:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 21:04:25 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/DateTimeType.php on line 8
+[16-Feb-2026 21:19:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 22:20:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 22:20:01 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeImmutableType" not found in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine/CarbonImmutableType.php on line 5
+[21-Feb-2026 16:33:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 16:38:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 17:38:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

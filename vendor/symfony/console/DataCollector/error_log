@@ -1,0 +1,116 @@
+[31-Oct-2025 08:52:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[03-Dec-2025 12:42:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[10-Dec-2025 06:56:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[12-Dec-2025 05:27:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[12-Dec-2025 23:49:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[14-Dec-2025 01:52:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[18-Dec-2025 12:29:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[22-Dec-2025 06:37:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[05-Jan-2026 16:46:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[13-Jan-2026 08:36:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[14-Jan-2026 05:22:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[17-Jan-2026 05:09:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[20-Jan-2026 11:35:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[23-Jan-2026 00:47:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[30-Jan-2026 22:26:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 22:26:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[31-Jan-2026 09:13:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 09:13:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[02-Feb-2026 11:34:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:34:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[02-Feb-2026 11:52:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:52:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[11-Feb-2026 09:44:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 09:44:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[13-Feb-2026 10:09:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 10:09:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[13-Feb-2026 21:52:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 21:52:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[14-Feb-2026 20:22:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 20:22:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[17-Feb-2026 05:07:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 05:07:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[17-Feb-2026 07:55:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 07:55:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[17-Feb-2026 20:49:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 20:49:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28
+[19-Feb-2026 21:38:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 21:38:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/DataCollector/CommandDataCollector.php on line 28

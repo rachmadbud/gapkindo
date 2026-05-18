@@ -1,0 +1,89 @@
+[18-Dec-2025 20:43:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/LibYamlFrontMatterParser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/LibYamlFrontMatterParser.php on line 19
+[18-Dec-2025 20:43:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php on line 21
+[19-Dec-2025 18:33:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php on line 21
+[19-Dec-2025 19:30:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/LibYamlFrontMatterParser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/LibYamlFrontMatterParser.php on line 19
+[21-Dec-2025 05:24:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/LibYamlFrontMatterParser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/LibYamlFrontMatterParser.php on line 19
+[21-Dec-2025 15:55:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php on line 21
+[23-Dec-2025 07:55:40 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php on line 21
+[02-Jan-2026 03:17:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php on line 21
+[11-Jan-2026 05:41:46 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/LibYamlFrontMatterParser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/LibYamlFrontMatterParser.php on line 19
+[11-Jan-2026 05:54:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php on line 21
+[22-Jan-2026 04:29:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php on line 21
+[22-Jan-2026 11:12:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/LibYamlFrontMatterParser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/LibYamlFrontMatterParser.php on line 19
+[25-Jan-2026 11:58:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/LibYamlFrontMatterParser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/LibYamlFrontMatterParser.php on line 19
+[26-Jan-2026 01:48:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php on line 21
+[26-Jan-2026 02:48:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/LibYamlFrontMatterParser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/LibYamlFrontMatterParser.php on line 19
+[28-Jan-2026 16:22:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 16:22:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php on line 21
+[29-Jan-2026 21:15:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 02:49:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 19:07:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 19:07:12 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php on line 21
+[19-Feb-2026 19:14:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 19:14:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/LibYamlFrontMatterParser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/LibYamlFrontMatterParser.php on line 19
+[19-Feb-2026 20:03:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:52:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:52:12 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php on line 21
+[22-Feb-2026 06:16:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 06:16:41 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/LibYamlFrontMatterParser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/LibYamlFrontMatterParser.php on line 19
+[22-Feb-2026 08:39:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

@@ -1,0 +1,92 @@
+[16-Nov-2025 12:29:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6
+[30-Nov-2025 05:31:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6
+[30-Nov-2025 07:42:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6
+[30-Nov-2025 10:39:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6
+[30-Nov-2025 13:56:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6
+[30-Nov-2025 15:58:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6
+[30-Nov-2025 17:21:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6
+[10-Dec-2025 19:49:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6
+[12-Dec-2025 02:39:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6
+[18-Dec-2025 11:00:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6
+[21-Dec-2025 17:28:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6
+[02-Jan-2026 15:02:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6
+[05-Jan-2026 12:27:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6
+[06-Jan-2026 14:56:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6
+[12-Jan-2026 22:37:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6
+[14-Jan-2026 05:38:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6
+[17-Jan-2026 13:47:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6
+[21-Jan-2026 02:43:39 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6
+[30-Jan-2026 14:02:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 14:02:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6
+[02-Feb-2026 07:17:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 07:17:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6
+[04-Feb-2026 18:20:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 18:20:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6
+[11-Feb-2026 08:25:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 08:25:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/bin/doctrine-dbal.php on line 6

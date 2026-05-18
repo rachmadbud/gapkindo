@@ -1,0 +1,83 @@
+[18-Dec-2025 20:44:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php on line 18
+[20-Dec-2025 03:31:58 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php on line 18
+[20-Dec-2025 19:19:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php on line 18
+[11-Jan-2026 05:54:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php on line 18
+[22-Jan-2026 07:21:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php on line 18
+[26-Jan-2026 04:24:46 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php on line 18
+[26-Jan-2026 04:40:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php on line 18
+[02-Feb-2026 11:52:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:52:03 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php on line 18
+[02-Feb-2026 12:06:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 12:06:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php on line 18
+[07-Feb-2026 12:53:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 12:53:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php on line 18
+[07-Feb-2026 17:26:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 17:26:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php on line 18
+[09-Feb-2026 06:01:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 06:01:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php on line 18
+[11-Feb-2026 11:42:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 11:42:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php on line 18
+[12-Feb-2026 12:55:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 12:55:21 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php on line 18
+[13-Feb-2026 12:34:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 12:34:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php on line 18
+[14-Feb-2026 02:05:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 02:05:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php on line 18
+[19-Feb-2026 20:07:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 20:07:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php on line 18
+[22-Feb-2026 02:32:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 02:32:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php on line 18

@@ -1,0 +1,57 @@
+[13-Dec-2025 11:52:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\RunInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php on line 22
+[18-Dec-2025 13:13:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\RunInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php on line 22
+[19-Dec-2025 19:09:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\RunInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php on line 22
+[25-Dec-2025 05:03:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\RunInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php on line 22
+[29-Dec-2025 18:57:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\RunInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php on line 22
+[13-Jan-2026 22:02:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\RunInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php on line 22
+[14-Jan-2026 06:55:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\RunInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php on line 22
+[17-Jan-2026 12:13:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\RunInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php on line 22
+[21-Jan-2026 02:44:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\RunInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php on line 22
+[22-Jan-2026 10:17:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\RunInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php on line 22
+[01-Feb-2026 07:16:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 13:41:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 13:41:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\RunInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php on line 22
+[02-Feb-2026 06:14:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 06:14:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\RunInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php on line 22
+[11-Feb-2026 03:12:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 12:17:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 12:17:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\RunInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Run.php on line 22

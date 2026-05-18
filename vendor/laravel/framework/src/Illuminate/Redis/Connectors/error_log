@@ -1,0 +1,96 @@
+[04-Nov-2025 05:02:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php on line 12
+[18-Dec-2025 21:51:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php on line 12
+[18-Dec-2025 21:51:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php on line 15
+[19-Dec-2025 20:54:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php on line 12
+[19-Dec-2025 21:55:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php on line 15
+[20-Dec-2025 19:09:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php on line 15
+[20-Dec-2025 22:08:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php on line 12
+[22-Dec-2025 03:56:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php on line 12
+[22-Dec-2025 12:32:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php on line 15
+[01-Feb-2026 22:38:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 22:38:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php on line 15
+[01-Feb-2026 22:45:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 22:45:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php on line 12
+[02-Feb-2026 01:13:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:13:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php on line 15
+[02-Feb-2026 01:14:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:14:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php on line 12
+[06-Feb-2026 06:50:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 06:50:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php on line 15
+[13-Feb-2026 00:56:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 00:56:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php on line 12
+[13-Feb-2026 03:56:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 03:56:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php on line 15
+[15-Feb-2026 18:29:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 18:29:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php on line 12
+[15-Feb-2026 18:29:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 18:29:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php on line 15
+[18-Feb-2026 05:20:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 05:20:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php on line 12
+[22-Feb-2026 03:13:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 03:13:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php on line 12
+[22-Feb-2026 06:38:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 06:38:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php on line 15

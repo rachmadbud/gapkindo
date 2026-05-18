@@ -1,0 +1,297 @@
+[03-Nov-2025 23:47:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php on line 9
+[04-Nov-2025 02:21:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php on line 8
+[04-Nov-2025 03:40:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php on line 8
+[03-Dec-2025 04:23:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php on line 9
+[03-Dec-2025 05:20:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php on line 9
+[13-Dec-2025 15:23:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php on line 13
+[15-Dec-2025 02:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php on line 8
+[18-Dec-2025 21:11:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php on line 8
+[18-Dec-2025 21:11:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php on line 13
+[18-Dec-2025 21:12:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php on line 9
+[18-Dec-2025 21:12:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php on line 9
+[18-Dec-2025 21:12:16 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php on line 8
+[18-Dec-2025 21:12:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php on line 8
+[19-Dec-2025 15:14:16 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php on line 8
+[19-Dec-2025 16:00:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php on line 8
+[19-Dec-2025 18:51:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php on line 9
+[19-Dec-2025 20:09:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php on line 8
+[19-Dec-2025 23:59:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php on line 9
+[20-Dec-2025 01:35:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php on line 13
+[20-Dec-2025 04:31:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php on line 8
+[20-Dec-2025 14:27:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php on line 8
+[20-Dec-2025 16:03:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php on line 13
+[20-Dec-2025 16:04:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php on line 9
+[20-Dec-2025 19:12:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php on line 8
+[20-Dec-2025 21:41:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php on line 9
+[21-Dec-2025 09:25:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php on line 8
+[21-Dec-2025 12:23:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php on line 8
+[25-Jan-2026 18:59:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php on line 13
+[25-Jan-2026 21:31:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php on line 8
+[25-Jan-2026 21:34:58 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php on line 8
+[26-Jan-2026 01:19:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php on line 9
+[26-Jan-2026 02:52:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php on line 9
+[26-Jan-2026 04:51:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php on line 8
+[01-Feb-2026 01:13:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 01:13:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php on line 8
+[01-Feb-2026 20:37:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 20:37:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php on line 9
+[01-Feb-2026 20:38:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 20:38:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php on line 9
+[01-Feb-2026 20:39:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 20:39:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php on line 13
+[01-Feb-2026 20:41:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 20:41:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php on line 8
+[01-Feb-2026 20:42:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 20:42:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php on line 8
+[01-Feb-2026 20:43:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 20:43:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php on line 8
+[01-Feb-2026 22:29:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 22:29:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php on line 9
+[01-Feb-2026 22:30:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 22:30:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php on line 9
+[01-Feb-2026 22:32:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 22:32:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php on line 13
+[01-Feb-2026 22:34:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 22:34:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php on line 8
+[01-Feb-2026 22:35:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 22:35:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php on line 8
+[01-Feb-2026 22:36:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 22:36:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php on line 8
+[13-Feb-2026 00:58:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 00:58:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php on line 13
+[13-Feb-2026 02:12:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 02:12:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php on line 9
+[13-Feb-2026 02:14:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 02:14:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php on line 9
+[13-Feb-2026 02:16:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 02:16:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php on line 8
+[13-Feb-2026 04:33:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 04:33:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php on line 8
+[13-Feb-2026 05:29:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 05:29:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php on line 8
+[15-Feb-2026 14:39:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 14:39:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php on line 8
+[15-Feb-2026 14:39:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 14:39:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php on line 8
+[15-Feb-2026 14:40:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 14:40:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php on line 8
+[15-Feb-2026 14:40:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 14:40:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php on line 9
+[15-Feb-2026 14:41:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 14:41:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php on line 9
+[15-Feb-2026 14:44:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 14:44:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php on line 13
+[18-Feb-2026 06:58:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 06:58:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php on line 8
+[21-Feb-2026 08:43:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 08:43:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php on line 9
+[21-Feb-2026 22:52:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 22:52:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php on line 8
+[22-Feb-2026 00:01:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 00:01:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php on line 13
+[22-Feb-2026 02:22:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 02:22:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php on line 9
+[22-Feb-2026 04:58:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:58:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php on line 9
+[22-Feb-2026 05:30:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 05:30:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/NotSoftDeletedInDatabase.php on line 8
+[22-Feb-2026 10:17:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 10:17:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php on line 8

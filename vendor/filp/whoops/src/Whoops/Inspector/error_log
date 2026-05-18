@@ -1,0 +1,55 @@
+[17-Dec-2025 03:31:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\Inspector\InspectorFactoryInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php on line 11
+[18-Dec-2025 15:57:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\Inspector\InspectorFactoryInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php on line 11
+[25-Dec-2025 18:14:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\Inspector\InspectorFactoryInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php on line 11
+[27-Dec-2025 23:53:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\Inspector\InspectorFactoryInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php on line 11
+[13-Jan-2026 05:40:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\Inspector\InspectorFactoryInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php on line 11
+[17-Jan-2026 11:46:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\Inspector\InspectorFactoryInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php on line 11
+[20-Jan-2026 15:14:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\Inspector\InspectorFactoryInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php on line 11
+[21-Jan-2026 14:38:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\Inspector\InspectorFactoryInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php on line 11
+[27-Jan-2026 07:13:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 13:56:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 13:56:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\Inspector\InspectorFactoryInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php on line 11
+[30-Jan-2026 01:05:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 16:59:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 08:10:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 08:10:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\Inspector\InspectorFactoryInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php on line 11
+[05-Feb-2026 17:44:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 14:25:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:52:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:44:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:44:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\Inspector\InspectorFactoryInterface" not found in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/filp/whoops/src/Whoops/Inspector/InspectorFactory.php on line 11
+[21-Feb-2026 18:25:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 18:59:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

@@ -1,0 +1,77 @@
+[18-Dec-2025 21:45:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php on line 7
+[19-Dec-2025 18:51:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php on line 7
+[21-Dec-2025 09:22:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php on line 7
+[29-Dec-2025 08:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php on line 7
+[25-Jan-2026 21:53:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php on line 7
+[01-Feb-2026 19:43:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 19:44:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 19:44:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php on line 7
+[01-Feb-2026 19:45:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 19:46:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 21:41:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 21:42:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 21:42:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 21:42:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php on line 7
+[01-Feb-2026 21:43:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 10:44:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 10:45:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 10:45:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 10:45:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php on line 7
+[04-Feb-2026 10:46:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 16:53:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 16:53:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php on line 7
+[09-Feb-2026 14:28:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 03:28:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 04:18:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 04:50:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 04:50:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php on line 7
+[13-Feb-2026 06:02:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 13:05:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 13:05:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php on line 7
+[15-Feb-2026 20:49:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 20:49:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php on line 7
+[21-Feb-2026 09:27:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 00:46:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 03:17:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 05:15:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 05:15:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Exception\HttpException" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php on line 7
+[22-Feb-2026 08:55:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

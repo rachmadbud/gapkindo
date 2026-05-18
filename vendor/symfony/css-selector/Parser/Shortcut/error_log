@@ -1,0 +1,287 @@
+[31-Oct-2025 20:48:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php on line 29
+[31-Oct-2025 23:45:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php on line 28
+[01-Nov-2025 01:09:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php on line 29
+[03-Nov-2025 23:01:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[19-Nov-2025 18:21:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[30-Nov-2025 11:10:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[04-Dec-2025 18:45:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php on line 29
+[04-Dec-2025 23:29:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php on line 28
+[08-Dec-2025 14:25:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php on line 29
+[09-Dec-2025 22:36:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php on line 29
+[09-Dec-2025 23:28:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php on line 29
+[10-Dec-2025 10:07:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php on line 28
+[10-Dec-2025 11:21:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[15-Dec-2025 03:39:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[15-Dec-2025 05:23:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php on line 29
+[15-Dec-2025 11:57:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php on line 29
+[15-Dec-2025 15:42:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php on line 28
+[18-Dec-2025 14:42:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php on line 29
+[18-Dec-2025 14:42:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php on line 29
+[18-Dec-2025 14:42:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[18-Dec-2025 14:42:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php on line 28
+[19-Dec-2025 22:43:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php on line 29
+[19-Dec-2025 22:44:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php on line 29
+[19-Dec-2025 22:44:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php on line 28
+[19-Dec-2025 23:48:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[22-Dec-2025 19:04:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php on line 29
+[22-Dec-2025 19:17:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[23-Dec-2025 05:18:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php on line 28
+[24-Dec-2025 20:19:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php on line 28
+[25-Dec-2025 06:16:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php on line 29
+[25-Dec-2025 07:37:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[25-Dec-2025 08:12:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php on line 29
+[29-Dec-2025 20:23:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php on line 29
+[29-Dec-2025 20:25:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[29-Dec-2025 20:27:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php on line 28
+[29-Dec-2025 20:31:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php on line 29
+[13-Jan-2026 20:02:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[14-Jan-2026 02:05:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php on line 28
+[14-Jan-2026 10:13:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php on line 29
+[16-Jan-2026 22:07:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php on line 29
+[18-Jan-2026 05:22:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php on line 29
+[18-Jan-2026 05:24:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php on line 29
+[18-Jan-2026 05:27:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php on line 28
+[19-Jan-2026 23:50:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php on line 29
+[20-Jan-2026 15:39:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[20-Jan-2026 19:41:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php on line 28
+[23-Jan-2026 14:49:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php on line 29
+[23-Jan-2026 21:05:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[24-Jan-2026 04:57:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php on line 29
+[25-Jan-2026 00:44:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[25-Jan-2026 03:41:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php on line 29
+[25-Jan-2026 07:26:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php on line 28
+[26-Jan-2026 18:55:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php on line 29
+[02-Feb-2026 21:49:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 21:49:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php on line 29
+[02-Feb-2026 21:51:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 21:51:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php on line 28
+[03-Feb-2026 20:10:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 20:10:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[11-Feb-2026 08:16:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 08:16:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[11-Feb-2026 09:20:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 09:20:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php on line 29
+[11-Feb-2026 10:22:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 10:22:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php on line 28
+[12-Feb-2026 21:36:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 21:36:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[14-Feb-2026 00:47:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 00:47:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[15-Feb-2026 16:39:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 16:39:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[15-Feb-2026 22:41:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 22:41:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php on line 29
+[16-Feb-2026 18:49:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:49:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php on line 29
+[18-Feb-2026 14:57:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 14:57:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[18-Feb-2026 19:39:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 19:39:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[20-Feb-2026 04:35:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 04:35:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[20-Feb-2026 21:20:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 21:20:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32

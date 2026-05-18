@@ -1,0 +1,24 @@
+[17-Nov-2025 09:42:42 UTC] PHP Fatal error:  Cannot declare class Normalizer, because the name is already in use in /home/gapkindo/public_html/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php on line 3
+[29-Nov-2025 01:33:07 UTC] PHP Fatal error:  Cannot declare class Normalizer, because the name is already in use in /home/gapkindo/public_html/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php on line 3
+[13-Dec-2025 11:54:06 UTC] PHP Fatal error:  Cannot declare class Normalizer, because the name is already in use in /home/gapkindo/public_html/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php on line 3
+[15-Dec-2025 05:26:37 UTC] PHP Fatal error:  Cannot declare class Normalizer, because the name is already in use in /home/gapkindo/public_html/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php on line 3
+[18-Dec-2025 14:33:09 UTC] PHP Fatal error:  Cannot declare class Normalizer, because the name is already in use in /home/gapkindo/public_html/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php on line 3
+[20-Dec-2025 00:05:52 UTC] PHP Fatal error:  Cannot declare class Normalizer, because the name is already in use in /home/gapkindo/public_html/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php on line 3
+[24-Dec-2025 12:28:50 UTC] PHP Fatal error:  Cannot declare class Normalizer, because the name is already in use in /home/gapkindo/public_html/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php on line 3
+[24-Dec-2025 18:20:53 UTC] PHP Fatal error:  Cannot declare class Normalizer, because the name is already in use in /home/gapkindo/public_html/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php on line 3
+[30-Dec-2025 09:30:13 UTC] PHP Fatal error:  Cannot declare class Normalizer, because the name is already in use in /home/gapkindo/public_html/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php on line 3
+[17-Jan-2026 23:12:15 UTC] PHP Fatal error:  Cannot declare class Normalizer, because the name is already in use in /home/gapkindo/public_html/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php on line 3
+[19-Jan-2026 20:54:28 UTC] PHP Fatal error:  Cannot declare class Normalizer, because the name is already in use in /home/gapkindo/public_html/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php on line 3
+[20-Jan-2026 16:37:05 UTC] PHP Fatal error:  Cannot declare class Normalizer, because the name is already in use in /home/gapkindo/public_html/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php on line 3
+[31-Jan-2026 07:35:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 07:35:16 UTC] PHP Fatal error:  Cannot declare class Normalizer, because the name is already in use in /home/gapkindo/public_html/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php on line 3
+[31-Jan-2026 19:07:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 19:07:20 UTC] PHP Fatal error:  Cannot declare class Normalizer, because the name is already in use in /home/gapkindo/public_html/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php on line 3
+[02-Feb-2026 22:29:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 22:29:55 UTC] PHP Fatal error:  Cannot declare class Normalizer, because the name is already in use in /home/gapkindo/public_html/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php on line 3
+[02-Feb-2026 23:34:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 23:34:37 UTC] PHP Fatal error:  Cannot declare class Normalizer, because the name is already in use in /home/gapkindo/public_html/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php on line 3
+[04-Feb-2026 08:51:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 08:51:00 UTC] PHP Fatal error:  Cannot declare class Normalizer, because the name is already in use in /home/gapkindo/public_html/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php on line 3
+[16-Feb-2026 14:54:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 14:54:12 UTC] PHP Fatal error:  Cannot declare class Normalizer, because the name is already in use in /home/gapkindo/public_html/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php on line 3

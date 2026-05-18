@@ -1,0 +1,147 @@
+[17-Dec-2025 00:02:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[17-Dec-2025 01:29:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[18-Dec-2025 00:02:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[18-Dec-2025 12:57:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[18-Dec-2025 15:58:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[18-Dec-2025 15:58:41 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[27-Dec-2025 22:06:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[28-Dec-2025 15:21:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[05-Jan-2026 17:22:50 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[05-Jan-2026 18:35:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[07-Jan-2026 19:59:21 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[07-Jan-2026 20:00:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[17-Jan-2026 20:57:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[17-Jan-2026 23:54:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[20-Jan-2026 09:52:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[20-Jan-2026 18:58:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[22-Jan-2026 11:45:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[22-Jan-2026 14:42:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[23-Jan-2026 11:36:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[26-Jan-2026 05:48:21 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[26-Jan-2026 11:25:17 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[27-Jan-2026 17:04:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 17:04:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[29-Jan-2026 09:45:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 09:45:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[29-Jan-2026 15:18:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 15:18:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[29-Jan-2026 22:43:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 08:41:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 08:41:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[01-Feb-2026 09:10:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 03:54:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 05:01:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:03:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:03:45 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[02-Feb-2026 08:18:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:18:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[02-Feb-2026 17:13:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:13:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[02-Feb-2026 20:29:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 02:30:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 02:30:32 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[03-Feb-2026 05:31:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:31:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[03-Feb-2026 06:27:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:14:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:16:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:16:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[16-Feb-2026 20:23:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 22:36:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 22:36:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21

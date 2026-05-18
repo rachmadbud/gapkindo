@@ -1,0 +1,251 @@
+[18-Dec-2025 22:35:25 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php on line 5
+[18-Dec-2025 22:35:31 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php on line 5
+[18-Dec-2025 22:35:39 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\en_US\Address" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php on line 5
+[18-Dec-2025 22:35:46 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php on line 7
+[18-Dec-2025 22:35:54 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php on line 5
+[19-Dec-2025 21:18:13 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php on line 5
+[19-Dec-2025 21:19:58 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\en_US\Address" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php on line 5
+[19-Dec-2025 21:52:28 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php on line 5
+[19-Dec-2025 23:22:00 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php on line 7
+[23-Dec-2025 18:42:22 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php on line 5
+[31-Dec-2025 11:20:20 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php on line 5
+[31-Dec-2025 11:21:38 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php on line 7
+[31-Dec-2025 11:21:54 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\en_US\Address" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php on line 5
+[31-Dec-2025 12:22:34 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php on line 5
+[31-Dec-2025 12:46:58 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php on line 5
+[02-Jan-2026 04:33:16 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php on line 5
+[02-Jan-2026 07:12:02 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php on line 5
+[02-Jan-2026 10:47:37 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\en_US\Address" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php on line 5
+[02-Jan-2026 12:46:19 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php on line 7
+[02-Jan-2026 13:46:36 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php on line 5
+[19-Jan-2026 03:46:51 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php on line 5
+[24-Jan-2026 19:51:52 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php on line 7
+[24-Jan-2026 23:51:36 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php on line 5
+[24-Jan-2026 23:52:02 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php on line 5
+[25-Jan-2026 01:42:11 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\en_US\Address" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php on line 5
+[25-Jan-2026 07:02:41 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php on line 5
+[25-Jan-2026 14:43:32 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php on line 5
+[25-Jan-2026 16:24:01 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php on line 5
+[25-Jan-2026 17:20:36 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php on line 7
+[25-Jan-2026 17:29:04 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\en_US\Address" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php on line 5
+[25-Jan-2026 23:49:10 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php on line 5
+[26-Jan-2026 04:07:41 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php on line 5
+[26-Jan-2026 08:11:34 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\en_US\Address" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php on line 5
+[26-Jan-2026 08:11:46 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php on line 7
+[27-Jan-2026 16:22:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 16:22:40 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php on line 5
+[27-Jan-2026 17:10:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 17:10:29 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php on line 5
+[28-Jan-2026 21:29:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 21:29:49 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php on line 5
+[04-Feb-2026 00:13:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 00:13:18 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php on line 5
+[04-Feb-2026 00:22:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 00:22:33 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php on line 5
+[04-Feb-2026 00:35:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 00:35:12 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php on line 5
+[04-Feb-2026 00:51:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 00:51:38 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php on line 7
+[04-Feb-2026 12:12:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 12:12:49 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php on line 5
+[04-Feb-2026 12:16:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 12:16:24 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php on line 7
+[04-Feb-2026 12:18:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 12:18:54 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\en_US\Address" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php on line 5
+[04-Feb-2026 16:23:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:23:33 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php on line 7
+[05-Feb-2026 04:40:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 04:40:17 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php on line 5
+[05-Feb-2026 10:46:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 10:46:49 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php on line 5
+[05-Feb-2026 11:22:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 11:22:54 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\en_US\Address" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php on line 5
+[07-Feb-2026 19:13:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 19:13:08 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php on line 7
+[11-Feb-2026 03:38:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:38:19 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php on line 7
+[11-Feb-2026 07:38:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 07:38:53 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/PhoneNumber.php on line 5
+[11-Feb-2026 07:42:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 07:42:09 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Internet.php on line 5
+[11-Feb-2026 07:48:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 07:48:36 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php on line 5
+[11-Feb-2026 07:59:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 07:59:38 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\en_US\Address" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php on line 5
+[21-Feb-2026 22:15:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 22:15:31 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Person.php on line 7
+[22-Feb-2026 00:07:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 00:07:59 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Company.php on line 5
+[22-Feb-2026 05:43:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 05:43:29 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\en_US\Address" not found in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_ZA/Address.php on line 5

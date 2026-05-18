@@ -1,0 +1,1588 @@
+[30-Oct-2025 19:26:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[30-Oct-2025 20:26:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php on line 19
+[31-Oct-2025 08:32:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[31-Oct-2025 13:20:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[31-Oct-2025 18:59:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[31-Oct-2025 19:08:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php on line 21
+[16-Nov-2025 02:52:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[16-Nov-2025 12:09:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[16-Nov-2025 12:10:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[16-Nov-2025 12:11:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[16-Nov-2025 12:11:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[16-Nov-2025 12:12:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php on line 21
+[16-Nov-2025 12:14:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[16-Nov-2025 12:19:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[16-Nov-2025 12:27:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php on line 19
+[16-Nov-2025 12:43:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[16-Nov-2025 13:36:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[16-Nov-2025 13:38:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[16-Nov-2025 13:39:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[16-Nov-2025 13:41:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php on line 21
+[16-Nov-2025 13:42:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[16-Nov-2025 13:43:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[16-Nov-2025 14:20:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[16-Nov-2025 14:38:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[16-Nov-2025 14:40:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php on line 14
+[17-Nov-2025 00:39:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[17-Nov-2025 00:43:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php on line 14
+[17-Nov-2025 03:18:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[17-Nov-2025 03:19:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[17-Nov-2025 03:19:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[27-Nov-2025 15:40:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[28-Nov-2025 09:23:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[28-Nov-2025 20:51:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php on line 19
+[29-Nov-2025 20:49:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[30-Nov-2025 02:59:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[01-Dec-2025 14:28:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[05-Dec-2025 00:57:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php on line 19
+[05-Dec-2025 00:57:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[05-Dec-2025 01:40:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[05-Dec-2025 01:41:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php on line 14
+[05-Dec-2025 01:41:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[05-Dec-2025 01:41:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php on line 21
+[05-Dec-2025 01:41:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[05-Dec-2025 01:42:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[05-Dec-2025 01:42:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[05-Dec-2025 01:42:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[05-Dec-2025 01:42:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[05-Dec-2025 01:57:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[05-Dec-2025 01:57:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[05-Dec-2025 03:07:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[05-Dec-2025 13:46:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[05-Dec-2025 14:47:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[05-Dec-2025 15:18:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[05-Dec-2025 15:58:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[05-Dec-2025 16:21:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[05-Dec-2025 17:54:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php on line 19
+[05-Dec-2025 18:33:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php on line 21
+[05-Dec-2025 19:27:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[05-Dec-2025 20:40:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[05-Dec-2025 21:13:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php on line 14
+[05-Dec-2025 22:48:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[06-Dec-2025 02:09:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[07-Dec-2025 20:04:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[08-Dec-2025 14:10:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[16-Dec-2025 13:11:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[18-Dec-2025 09:12:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[18-Dec-2025 09:12:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[18-Dec-2025 09:12:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[18-Dec-2025 09:13:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[18-Dec-2025 09:13:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php on line 14
+[18-Dec-2025 09:14:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[18-Dec-2025 09:14:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[18-Dec-2025 09:14:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[18-Dec-2025 09:14:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php on line 21
+[18-Dec-2025 09:15:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php on line 19
+[18-Dec-2025 09:15:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[18-Dec-2025 09:15:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[18-Dec-2025 09:16:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[18-Dec-2025 16:29:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[18-Dec-2025 20:55:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[18-Dec-2025 21:40:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[18-Dec-2025 23:45:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[18-Dec-2025 23:46:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[18-Dec-2025 23:48:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php on line 21
+[19-Dec-2025 04:11:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php on line 14
+[19-Dec-2025 04:58:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php on line 19
+[19-Dec-2025 05:05:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[19-Dec-2025 05:05:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[19-Dec-2025 05:05:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php on line 21
+[19-Dec-2025 05:05:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[19-Dec-2025 05:05:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[19-Dec-2025 05:05:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[19-Dec-2025 05:05:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php on line 14
+[19-Dec-2025 05:05:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[19-Dec-2025 05:06:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[19-Dec-2025 05:06:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[19-Dec-2025 05:06:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[19-Dec-2025 05:06:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[19-Dec-2025 06:20:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php on line 19
+[19-Dec-2025 06:21:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[19-Dec-2025 06:23:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[19-Dec-2025 08:32:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[19-Dec-2025 09:18:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[19-Dec-2025 15:10:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[19-Dec-2025 17:16:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[19-Dec-2025 17:31:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php on line 19
+[19-Dec-2025 17:38:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[19-Dec-2025 18:42:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[19-Dec-2025 18:51:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[19-Dec-2025 18:51:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[20-Dec-2025 20:02:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[22-Dec-2025 04:44:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php on line 21
+[22-Dec-2025 07:58:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[22-Dec-2025 13:55:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php on line 14
+[30-Dec-2025 19:40:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php on line 19
+[30-Dec-2025 19:41:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[30-Dec-2025 20:42:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[30-Dec-2025 20:42:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php on line 14
+[30-Dec-2025 20:43:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[30-Dec-2025 20:43:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php on line 21
+[30-Dec-2025 20:44:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[30-Dec-2025 20:44:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[30-Dec-2025 20:44:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[30-Dec-2025 20:44:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[30-Dec-2025 20:45:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[30-Dec-2025 21:25:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[30-Dec-2025 21:26:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[03-Jan-2026 14:35:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[03-Jan-2026 14:35:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[03-Jan-2026 14:35:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[03-Jan-2026 14:35:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[07-Jan-2026 10:55:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[07-Jan-2026 17:01:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[07-Jan-2026 17:41:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[07-Jan-2026 18:25:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[07-Jan-2026 19:55:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[07-Jan-2026 20:04:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[07-Jan-2026 22:55:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[07-Jan-2026 22:58:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php on line 14
+[07-Jan-2026 23:41:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[08-Jan-2026 00:28:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php on line 19
+[08-Jan-2026 00:39:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[08-Jan-2026 06:03:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php on line 21
+[09-Jan-2026 03:44:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[10-Jan-2026 04:32:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[10-Jan-2026 14:01:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[10-Jan-2026 14:02:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[10-Jan-2026 14:02:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[10-Jan-2026 14:03:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[10-Jan-2026 14:03:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[10-Jan-2026 14:04:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[11-Jan-2026 02:53:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[11-Jan-2026 03:38:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[11-Jan-2026 08:21:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[11-Jan-2026 10:13:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[11-Jan-2026 12:33:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[11-Jan-2026 14:06:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[11-Jan-2026 16:30:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php on line 14
+[12-Jan-2026 05:03:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[12-Jan-2026 07:27:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php on line 21
+[12-Jan-2026 10:09:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php on line 19
+[12-Jan-2026 20:54:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[13-Jan-2026 13:53:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[14-Jan-2026 09:13:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[14-Jan-2026 09:58:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[14-Jan-2026 14:48:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[14-Jan-2026 16:22:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[14-Jan-2026 18:49:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[14-Jan-2026 20:21:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[14-Jan-2026 22:41:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php on line 14
+[15-Jan-2026 05:23:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[15-Jan-2026 06:11:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[15-Jan-2026 16:39:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[16-Jan-2026 03:13:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php on line 21
+[16-Jan-2026 04:01:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php on line 14
+[16-Jan-2026 07:05:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[16-Jan-2026 11:15:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[16-Jan-2026 17:47:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[16-Jan-2026 22:36:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[17-Jan-2026 10:07:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[17-Jan-2026 11:41:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[17-Jan-2026 23:11:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[18-Jan-2026 03:10:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php on line 19
+[20-Jan-2026 16:21:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[20-Jan-2026 17:58:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[21-Jan-2026 23:26:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[21-Jan-2026 23:26:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php on line 14
+[21-Jan-2026 23:26:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[21-Jan-2026 23:26:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[21-Jan-2026 23:26:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[21-Jan-2026 23:26:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php on line 19
+[21-Jan-2026 23:26:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[21-Jan-2026 23:26:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[21-Jan-2026 23:26:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[21-Jan-2026 23:26:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php on line 21
+[21-Jan-2026 23:26:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[21-Jan-2026 23:26:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[21-Jan-2026 23:26:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[22-Jan-2026 00:35:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[22-Jan-2026 00:35:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[22-Jan-2026 00:37:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[22-Jan-2026 00:38:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[22-Jan-2026 00:44:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[22-Jan-2026 00:46:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[22-Jan-2026 13:58:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php on line 21
+[22-Jan-2026 14:01:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[22-Jan-2026 14:04:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[22-Jan-2026 18:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[22-Jan-2026 18:24:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[22-Jan-2026 18:26:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[22-Jan-2026 18:27:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[22-Jan-2026 18:29:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[22-Jan-2026 18:30:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[23-Jan-2026 05:34:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[23-Jan-2026 05:35:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[23-Jan-2026 05:37:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[23-Jan-2026 05:38:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[23-Jan-2026 05:40:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[23-Jan-2026 05:41:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[23-Jan-2026 15:59:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[23-Jan-2026 16:00:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[23-Jan-2026 16:02:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[23-Jan-2026 16:03:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[23-Jan-2026 16:05:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[23-Jan-2026 16:06:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[26-Jan-2026 04:54:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[26-Jan-2026 04:55:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[26-Jan-2026 04:58:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[26-Jan-2026 04:58:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[26-Jan-2026 04:59:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[26-Jan-2026 04:59:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[27-Jan-2026 19:52:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 19:52:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[30-Jan-2026 07:25:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 13:21:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 13:21:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[30-Jan-2026 14:57:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 14:57:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[30-Jan-2026 15:10:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:10:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[30-Jan-2026 15:11:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:11:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php on line 21
+[30-Jan-2026 15:12:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:12:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[30-Jan-2026 15:13:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:13:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[30-Jan-2026 15:14:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:14:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[30-Jan-2026 15:15:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:15:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[30-Jan-2026 15:16:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 15:16:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[30-Jan-2026 16:12:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 16:25:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 16:25:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php on line 14
+[30-Jan-2026 16:26:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 16:26:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[30-Jan-2026 16:35:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 19:24:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 19:24:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[30-Jan-2026 19:33:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 19:33:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[30-Jan-2026 19:45:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 19:45:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[30-Jan-2026 19:45:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 19:45:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[30-Jan-2026 19:45:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 19:45:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[30-Jan-2026 19:45:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 19:45:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[30-Jan-2026 21:31:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 21:31:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[30-Jan-2026 22:12:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:25:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:25:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[31-Jan-2026 01:53:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:53:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php on line 19
+[31-Jan-2026 02:31:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 02:31:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[31-Jan-2026 03:35:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 03:35:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[31-Jan-2026 03:36:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 03:36:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[31-Jan-2026 03:39:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 03:39:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[31-Jan-2026 04:02:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 04:02:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php on line 21
+[31-Jan-2026 04:03:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 04:03:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[31-Jan-2026 04:04:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 04:04:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[31-Jan-2026 04:05:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 04:05:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[31-Jan-2026 04:06:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 04:06:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[31-Jan-2026 04:07:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 04:07:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[31-Jan-2026 04:08:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 04:08:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[31-Jan-2026 04:49:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 05:01:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 05:01:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[31-Jan-2026 05:02:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 05:02:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php on line 14
+[31-Jan-2026 05:09:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:29:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:29:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[31-Jan-2026 06:31:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:31:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[31-Jan-2026 06:36:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:36:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[31-Jan-2026 14:02:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 14:02:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[31-Jan-2026 14:31:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 14:31:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php on line 19
+[31-Jan-2026 18:06:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 18:06:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[31-Jan-2026 19:07:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 19:07:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[31-Jan-2026 20:12:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 20:12:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[31-Jan-2026 21:14:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 21:14:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[31-Jan-2026 22:08:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 22:08:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[01-Feb-2026 05:34:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 05:34:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[01-Feb-2026 11:41:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 11:41:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[01-Feb-2026 18:07:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 18:07:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[02-Feb-2026 01:50:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:50:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php on line 19
+[02-Feb-2026 02:30:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:35:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:35:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[02-Feb-2026 08:52:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:55:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:55:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[02-Feb-2026 15:24:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:24:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[02-Feb-2026 15:26:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:26:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[03-Feb-2026 05:48:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:48:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[03-Feb-2026 05:48:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:48:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[03-Feb-2026 05:49:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:49:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[03-Feb-2026 05:50:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:50:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php on line 21
+[03-Feb-2026 05:51:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:51:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[03-Feb-2026 05:52:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:52:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[03-Feb-2026 05:53:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:53:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[03-Feb-2026 05:54:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:54:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[03-Feb-2026 05:55:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:55:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[03-Feb-2026 05:57:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:57:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[03-Feb-2026 05:58:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:58:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php on line 14
+[03-Feb-2026 05:59:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:59:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[03-Feb-2026 06:00:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 06:00:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php on line 19
+[03-Feb-2026 09:21:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:21:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[03-Feb-2026 09:21:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:21:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[03-Feb-2026 09:22:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:22:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[03-Feb-2026 09:23:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:23:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[03-Feb-2026 09:24:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:24:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[03-Feb-2026 09:25:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:25:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php on line 21
+[03-Feb-2026 09:26:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:26:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[03-Feb-2026 09:27:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:27:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[03-Feb-2026 09:28:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:28:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[03-Feb-2026 09:29:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:29:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php on line 14
+[03-Feb-2026 09:30:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:30:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[03-Feb-2026 09:31:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:31:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[03-Feb-2026 09:32:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:32:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php on line 19
+[05-Feb-2026 16:55:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 16:55:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[05-Feb-2026 19:30:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 19:30:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV5.php on line 21
+[05-Feb-2026 20:09:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 20:09:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[05-Feb-2026 20:35:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 20:35:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUuid.php on line 14
+[05-Feb-2026 20:52:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 21:07:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 21:07:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[05-Feb-2026 21:16:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 21:16:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[05-Feb-2026 21:47:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 21:47:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[05-Feb-2026 22:50:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 22:50:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Uuid.php on line 19
+[06-Feb-2026 00:18:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 00:18:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV3.php on line 21
+[06-Feb-2026 00:56:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 00:56:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/Ulid.php on line 21
+[06-Feb-2026 01:31:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 01:31:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[06-Feb-2026 01:34:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 03:10:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 03:10:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[06-Feb-2026 03:29:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 03:29:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[06-Feb-2026 03:56:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 14:30:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 14:30:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[10-Feb-2026 14:34:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 14:34:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[10-Feb-2026 21:47:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 21:47:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[10-Feb-2026 21:48:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 21:48:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[12-Feb-2026 15:48:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 15:48:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[14-Feb-2026 00:00:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 00:00:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[14-Feb-2026 00:02:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 00:02:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[14-Feb-2026 02:35:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 02:35:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[14-Feb-2026 02:37:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 02:37:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[14-Feb-2026 06:54:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 06:54:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[14-Feb-2026 06:57:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 06:57:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[14-Feb-2026 08:52:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 08:52:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[14-Feb-2026 08:52:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 08:52:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[14-Feb-2026 09:10:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:10:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[14-Feb-2026 09:15:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:15:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[14-Feb-2026 10:06:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:06:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[14-Feb-2026 10:06:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:06:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[14-Feb-2026 10:44:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:44:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[14-Feb-2026 10:46:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:46:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[14-Feb-2026 12:26:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:26:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[14-Feb-2026 12:32:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:32:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[14-Feb-2026 17:28:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:28:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[14-Feb-2026 17:31:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:31:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[14-Feb-2026 21:00:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:00:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[14-Feb-2026 21:04:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 21:04:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[15-Feb-2026 05:14:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:14:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[15-Feb-2026 05:18:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:18:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[15-Feb-2026 10:35:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:35:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[15-Feb-2026 10:40:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:40:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[15-Feb-2026 21:38:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:38:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[15-Feb-2026 21:39:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:39:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[15-Feb-2026 21:43:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:43:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:43:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[15-Feb-2026 21:43:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[18-Feb-2026 19:02:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 19:02:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[18-Feb-2026 19:02:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 19:02:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[19-Feb-2026 23:54:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 23:54:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUlid.php on line 14
+[20-Feb-2026 00:00:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:00:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[20-Feb-2026 01:34:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 01:34:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[20-Feb-2026 01:34:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 01:34:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[21-Feb-2026 17:51:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 17:52:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 17:52:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

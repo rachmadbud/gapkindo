@@ -1,0 +1,54 @@
+[04-Nov-2025 00:45:51 UTC] PHP Warning:  require_once(/home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/index.php): Failed to open stream: No such file or directory in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php on line 16
+[04-Nov-2025 00:45:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/index.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php on line 16
+[09-Dec-2025 16:57:42 UTC] PHP Warning:  require_once(/home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/index.php): Failed to open stream: No such file or directory in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php on line 16
+[09-Dec-2025 16:57:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/index.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php on line 16
+[18-Dec-2025 21:40:17 UTC] PHP Warning:  require_once(/home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/index.php): Failed to open stream: No such file or directory in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php on line 16
+[18-Dec-2025 21:40:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/index.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php on line 16
+[20-Dec-2025 05:02:25 UTC] PHP Warning:  require_once(/home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/index.php): Failed to open stream: No such file or directory in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php on line 16
+[20-Dec-2025 05:02:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/index.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php on line 16
+[21-Dec-2025 05:14:02 UTC] PHP Warning:  require_once(/home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/index.php): Failed to open stream: No such file or directory in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php on line 16
+[21-Dec-2025 05:14:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/index.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php on line 16
+[26-Jan-2026 02:29:25 UTC] PHP Warning:  require_once(/home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/index.php): Failed to open stream: No such file or directory in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php on line 16
+[26-Jan-2026 02:29:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/index.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php on line 16
+[01-Feb-2026 09:31:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 09:31:38 UTC] PHP Warning:  require_once(/home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/index.php): Failed to open stream: No such file or directory in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php on line 16
+[01-Feb-2026 09:31:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php on line 16
+[03-Feb-2026 12:00:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 12:00:08 UTC] PHP Warning:  require_once(/home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/index.php): Failed to open stream: No such file or directory in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php on line 16
+[03-Feb-2026 12:00:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php on line 16
+[04-Feb-2026 16:10:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:10:48 UTC] PHP Warning:  require_once(/home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/index.php): Failed to open stream: No such file or directory in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php on line 16
+[04-Feb-2026 16:10:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php on line 16
+[15-Feb-2026 21:25:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:25:41 UTC] PHP Warning:  require_once(/home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/index.php): Failed to open stream: No such file or directory in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php on line 16
+[15-Feb-2026 21:25:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php on line 16

@@ -1,0 +1,292 @@
+[31-Oct-2025 20:41:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php on line 17
+[31-Oct-2025 21:14:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php on line 15
+[31-Oct-2025 21:27:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php on line 15
+[31-Oct-2025 21:31:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\UnaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php on line 22
+[31-Oct-2025 21:54:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php on line 17
+[31-Oct-2025 23:33:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php on line 15
+[01-Nov-2025 04:55:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[01-Nov-2025 04:57:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php on line 15
+[01-Nov-2025 05:10:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php on line 19
+[02-Nov-2025 12:25:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php on line 19
+[05-Nov-2025 01:12:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php on line 15
+[19-Dec-2025 20:27:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[19-Dec-2025 21:34:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[19-Dec-2025 23:54:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[20-Dec-2025 02:59:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[20-Dec-2025 04:57:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[20-Dec-2025 05:54:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[20-Dec-2025 17:19:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[20-Dec-2025 17:19:58 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\UnaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php on line 22
+[20-Dec-2025 20:37:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php on line 15
+[21-Dec-2025 00:42:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php on line 15
+[21-Dec-2025 06:04:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php on line 19
+[21-Dec-2025 08:26:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php on line 15
+[21-Dec-2025 13:38:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php on line 17
+[27-Dec-2025 07:29:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[31-Dec-2025 10:02:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php on line 15
+[31-Dec-2025 11:32:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\UnaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php on line 22
+[31-Dec-2025 11:32:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php on line 15
+[31-Dec-2025 11:32:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php on line 15
+[31-Dec-2025 12:08:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php on line 19
+[31-Dec-2025 12:53:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[31-Dec-2025 12:53:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php on line 17
+[01-Jan-2026 16:22:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php on line 15
+[01-Jan-2026 17:11:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\UnaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php on line 22
+[01-Jan-2026 18:29:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php on line 19
+[01-Jan-2026 19:25:16 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php on line 15
+[02-Jan-2026 09:12:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php on line 15
+[02-Jan-2026 12:10:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[19-Jan-2026 05:16:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[19-Jan-2026 05:19:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php on line 17
+[25-Jan-2026 00:07:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php on line 15
+[25-Jan-2026 01:43:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php on line 17
+[25-Jan-2026 01:56:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php on line 19
+[25-Jan-2026 03:13:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\UnaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php on line 22
+[25-Jan-2026 04:47:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php on line 15
+[25-Jan-2026 06:59:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[25-Jan-2026 14:12:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[25-Jan-2026 23:50:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php on line 19
+[27-Jan-2026 07:32:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 07:32:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[27-Jan-2026 15:38:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 15:38:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php on line 19
+[27-Jan-2026 22:37:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 22:37:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\UnaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php on line 22
+[28-Jan-2026 00:09:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 00:09:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php on line 15
+[31-Jan-2026 14:25:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 14:25:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php on line 17
+[31-Jan-2026 15:00:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 15:00:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php on line 15
+[04-Feb-2026 01:36:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 01:36:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php on line 15
+[04-Feb-2026 14:11:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 14:11:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\UnaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php on line 22
+[04-Feb-2026 14:13:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 14:13:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php on line 15
+[04-Feb-2026 14:16:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 14:16:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php on line 15
+[04-Feb-2026 20:38:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 20:38:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php on line 19
+[04-Feb-2026 23:22:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 23:22:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\UnaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php on line 22
+[05-Feb-2026 08:27:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 08:27:58 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php on line 15
+[14-Feb-2026 14:29:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 14:29:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php on line 17
+[14-Feb-2026 14:29:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 14:29:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php on line 15
+[14-Feb-2026 14:30:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 14:30:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\UnaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php on line 22
+[14-Feb-2026 14:32:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 14:32:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php on line 15
+[14-Feb-2026 15:43:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 15:43:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php on line 19
+[14-Feb-2026 15:43:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 15:43:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php on line 15
+[14-Feb-2026 15:43:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 15:43:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18

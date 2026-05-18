@@ -1,0 +1,83 @@
+[18-Dec-2025 20:46:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php on line 27
+[18-Dec-2025 20:46:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php on line 27
+[20-Dec-2025 00:09:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php on line 27
+[20-Dec-2025 04:40:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php on line 27
+[21-Dec-2025 07:09:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php on line 27
+[21-Dec-2025 09:31:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php on line 27
+[02-Jan-2026 09:07:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php on line 27
+[02-Jan-2026 10:11:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php on line 27
+[11-Jan-2026 05:14:32 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php on line 27
+[11-Jan-2026 05:14:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php on line 27
+[22-Jan-2026 04:53:03 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php on line 27
+[22-Jan-2026 16:23:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php on line 27
+[25-Jan-2026 18:53:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php on line 27
+[25-Jan-2026 20:22:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php on line 27
+[25-Jan-2026 23:47:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php on line 27
+[26-Jan-2026 01:37:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php on line 27
+[13-Feb-2026 01:38:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 05:47:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 20:34:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 20:36:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 20:36:18 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php on line 27
+[19-Feb-2026 20:37:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 20:38:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 20:38:40 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php on line 27
+[22-Feb-2026 07:01:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 07:01:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php on line 27

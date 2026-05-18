@@ -1,0 +1,39 @@
+[18-Dec-2025 22:08:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\API\ExceptionConverter" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/IBMDB2/ExceptionConverter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/IBMDB2/ExceptionConverter.php on line 26
+[19-Dec-2025 15:23:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\API\ExceptionConverter" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/IBMDB2/ExceptionConverter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/IBMDB2/ExceptionConverter.php on line 26
+[20-Dec-2025 22:44:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\API\ExceptionConverter" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/IBMDB2/ExceptionConverter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/IBMDB2/ExceptionConverter.php on line 26
+[02-Jan-2026 03:49:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\API\ExceptionConverter" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/IBMDB2/ExceptionConverter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/IBMDB2/ExceptionConverter.php on line 26
+[12-Jan-2026 07:08:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\API\ExceptionConverter" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/IBMDB2/ExceptionConverter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/IBMDB2/ExceptionConverter.php on line 26
+[21-Jan-2026 12:09:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\API\ExceptionConverter" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/IBMDB2/ExceptionConverter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/IBMDB2/ExceptionConverter.php on line 26
+[01-Feb-2026 21:08:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 21:08:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\API\ExceptionConverter" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/IBMDB2/ExceptionConverter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/IBMDB2/ExceptionConverter.php on line 26
+[04-Feb-2026 03:19:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 03:19:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\API\ExceptionConverter" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/IBMDB2/ExceptionConverter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/IBMDB2/ExceptionConverter.php on line 26
+[22-Feb-2026 00:03:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 00:03:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\API\ExceptionConverter" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/IBMDB2/ExceptionConverter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/API/IBMDB2/ExceptionConverter.php on line 26

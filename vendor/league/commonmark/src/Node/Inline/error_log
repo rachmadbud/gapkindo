@@ -1,0 +1,277 @@
+[16-Dec-2025 13:19:58 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php on line 19
+[16-Dec-2025 14:09:28 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Node" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php on line 21
+[16-Dec-2025 17:30:43 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php on line 21
+[16-Dec-2025 21:19:21 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractStringContainer" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php on line 19
+[17-Dec-2025 16:04:31 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php on line 19
+[17-Dec-2025 17:18:06 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Node" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php on line 21
+[17-Dec-2025 17:18:31 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php on line 21
+[18-Dec-2025 11:38:24 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractStringContainer" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php on line 19
+[18-Dec-2025 15:59:03 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php on line 19
+[18-Dec-2025 15:59:08 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Node" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php on line 21
+[18-Dec-2025 15:59:21 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php on line 21
+[18-Dec-2025 15:59:28 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractStringContainer" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php on line 19
+[27-Dec-2025 19:13:21 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractStringContainer" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php on line 19
+[27-Dec-2025 22:03:49 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php on line 21
+[27-Dec-2025 22:04:58 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php on line 19
+[28-Dec-2025 10:27:17 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Node" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php on line 21
+[05-Jan-2026 12:33:47 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractStringContainer" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php on line 19
+[05-Jan-2026 15:16:49 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php on line 19
+[05-Jan-2026 18:36:11 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Node" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php on line 21
+[05-Jan-2026 20:50:52 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php on line 21
+[07-Jan-2026 17:13:05 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractStringContainer" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php on line 19
+[07-Jan-2026 17:13:22 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php on line 19
+[07-Jan-2026 17:15:54 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php on line 21
+[07-Jan-2026 17:17:03 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Node" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php on line 21
+[17-Jan-2026 14:05:35 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractStringContainer" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php on line 19
+[17-Jan-2026 17:38:02 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php on line 19
+[17-Jan-2026 23:56:39 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Node" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php on line 21
+[18-Jan-2026 07:27:51 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php on line 21
+[20-Jan-2026 13:57:39 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php on line 19
+[20-Jan-2026 15:08:10 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractStringContainer" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php on line 19
+[20-Jan-2026 17:23:29 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Node" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php on line 21
+[20-Jan-2026 19:53:10 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php on line 21
+[22-Jan-2026 03:38:19 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php on line 21
+[22-Jan-2026 09:10:39 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php on line 19
+[22-Jan-2026 10:52:45 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractStringContainer" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php on line 19
+[22-Jan-2026 13:22:57 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php on line 21
+[22-Jan-2026 13:28:59 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Node" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php on line 21
+[23-Jan-2026 22:08:38 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php on line 19
+[25-Jan-2026 16:13:25 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php on line 19
+[25-Jan-2026 16:26:25 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Node" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php on line 21
+[25-Jan-2026 23:39:15 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php on line 19
+[26-Jan-2026 21:31:39 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractStringContainer" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php on line 19
+[26-Jan-2026 22:15:31 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php on line 21
+[27-Jan-2026 04:09:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 04:09:06 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Node" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php on line 21
+[27-Jan-2026 14:43:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 14:43:49 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractStringContainer" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php on line 19
+[30-Jan-2026 00:58:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 00:58:03 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractStringContainer" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php on line 19
+[30-Jan-2026 01:54:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 01:54:00 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php on line 21
+[01-Feb-2026 20:03:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 20:03:26 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php on line 21
+[01-Feb-2026 22:02:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 22:02:03 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php on line 21
+[02-Feb-2026 04:00:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 05:03:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 06:47:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 06:47:52 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractStringContainer" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php on line 19
+[02-Feb-2026 07:30:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 07:30:28 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractStringContainer" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php on line 19
+[02-Feb-2026 07:56:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 07:56:39 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractStringContainer" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php on line 19
+[02-Feb-2026 10:25:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:37:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:50:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 11:50:56 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php on line 19
+[02-Feb-2026 21:50:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 21:56:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 23:46:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 23:46:48 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php on line 21
+[02-Feb-2026 23:49:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 07:09:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 07:09:36 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php on line 19
+[03-Feb-2026 07:33:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 07:33:57 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Node" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php on line 21
+[03-Feb-2026 10:52:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 10:52:15 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php on line 19
+[03-Feb-2026 11:25:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 11:25:52 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Node" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php on line 21
+[12-Feb-2026 21:00:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 11:13:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 12:39:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 12:39:04 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractStringContainer" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Text.php on line 19
+[16-Feb-2026 16:25:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:25:38 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Node" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php on line 21
+[16-Feb-2026 22:09:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:47:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:47:11 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php on line 21
+[21-Feb-2026 21:22:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 21:22:00 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php on line 19

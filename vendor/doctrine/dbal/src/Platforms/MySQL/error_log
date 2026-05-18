@@ -1,0 +1,54 @@
+[16-Dec-2025 14:14:41 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Comparator" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php on line 20
+[18-Dec-2025 17:40:08 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Comparator" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php on line 20
+[28-Dec-2025 11:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Comparator" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php on line 20
+[09-Jan-2026 21:06:40 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Comparator" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php on line 20
+[17-Jan-2026 14:13:22 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Comparator" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php on line 20
+[20-Jan-2026 21:52:19 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Comparator" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php on line 20
+[22-Jan-2026 09:33:19 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Comparator" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php on line 20
+[25-Jan-2026 17:48:23 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Comparator" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php on line 20
+[27-Jan-2026 18:33:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 18:33:47 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Comparator" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php on line 20
+[30-Jan-2026 06:37:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 17:34:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 20:48:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:48:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:48:20 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Comparator" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php on line 20
+[04-Feb-2026 21:46:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 01:21:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 01:38:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 10:27:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 12:17:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 12:17:42 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Schema\Comparator" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Platforms/MySQL/Comparator.php on line 20

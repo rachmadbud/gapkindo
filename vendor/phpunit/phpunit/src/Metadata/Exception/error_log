@@ -1,0 +1,561 @@
+[17-Dec-2025 08:29:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[17-Dec-2025 08:29:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[17-Dec-2025 08:29:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php on line 21
+[17-Dec-2025 08:31:06 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php on line 20
+[17-Dec-2025 08:31:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[17-Dec-2025 08:36:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[17-Dec-2025 19:23:22 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php on line 20
+[17-Dec-2025 21:36:47 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[17-Dec-2025 22:02:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[18-Dec-2025 04:35:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[18-Dec-2025 05:01:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[18-Dec-2025 08:39:34 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php on line 21
+[19-Dec-2025 20:30:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[19-Dec-2025 20:30:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[19-Dec-2025 20:31:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php on line 21
+[19-Dec-2025 20:32:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[19-Dec-2025 20:32:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php on line 20
+[19-Dec-2025 20:32:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[19-Dec-2025 21:34:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php on line 21
+[19-Dec-2025 21:35:00 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[19-Dec-2025 21:35:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[19-Dec-2025 21:37:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php on line 20
+[19-Dec-2025 21:37:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[19-Dec-2025 21:38:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[19-Dec-2025 23:50:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[19-Dec-2025 23:53:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[19-Dec-2025 23:53:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[19-Dec-2025 23:54:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php on line 21
+[20-Dec-2025 02:30:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[20-Dec-2025 02:46:15 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[20-Dec-2025 02:56:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php on line 21
+[20-Dec-2025 03:02:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[20-Dec-2025 04:57:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php on line 21
+[20-Dec-2025 04:57:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[20-Dec-2025 04:57:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[20-Dec-2025 04:58:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[20-Dec-2025 05:55:06 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php on line 21
+[20-Dec-2025 05:55:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[20-Dec-2025 05:55:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[20-Dec-2025 05:55:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[25-Dec-2025 15:58:22 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[25-Dec-2025 18:18:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php on line 20
+[25-Dec-2025 19:17:01 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[25-Dec-2025 19:43:33 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[25-Dec-2025 19:50:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[25-Dec-2025 20:06:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php on line 21
+[27-Dec-2025 07:30:00 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php on line 21
+[27-Dec-2025 07:30:00 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[27-Dec-2025 07:30:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[27-Dec-2025 07:30:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[27-Dec-2025 17:28:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[27-Dec-2025 20:15:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php on line 21
+[28-Dec-2025 09:06:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[28-Dec-2025 09:08:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php on line 20
+[28-Dec-2025 13:15:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[28-Dec-2025 15:44:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[01-Jan-2026 20:39:31 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[02-Jan-2026 00:04:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[02-Jan-2026 00:08:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php on line 20
+[02-Jan-2026 08:41:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[03-Jan-2026 16:17:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[05-Jan-2026 01:56:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[05-Jan-2026 07:59:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[05-Jan-2026 10:27:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php on line 20
+[05-Jan-2026 11:04:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[05-Jan-2026 12:16:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[06-Jan-2026 01:36:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[06-Jan-2026 03:16:34 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php on line 20
+[06-Jan-2026 04:39:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[06-Jan-2026 04:42:32 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[06-Jan-2026 07:13:22 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[06-Jan-2026 14:37:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[06-Jan-2026 23:22:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php on line 20
+[07-Jan-2026 05:53:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[07-Jan-2026 11:01:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[08-Jan-2026 15:19:51 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[08-Jan-2026 15:29:50 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[08-Jan-2026 15:39:51 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php on line 20
+[08-Jan-2026 20:25:00 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[08-Jan-2026 21:12:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[09-Jan-2026 06:08:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php on line 20
+[09-Jan-2026 14:04:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[09-Jan-2026 14:58:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[15-Jan-2026 20:30:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[16-Jan-2026 01:48:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[16-Jan-2026 22:42:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[18-Jan-2026 01:29:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[18-Jan-2026 09:25:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[18-Jan-2026 09:29:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[18-Jan-2026 09:57:28 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[18-Jan-2026 16:11:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[18-Jan-2026 16:25:38 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[19-Jan-2026 00:37:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[19-Jan-2026 01:35:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[19-Jan-2026 21:02:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php on line 21
+[22-Jan-2026 02:54:34 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[22-Jan-2026 02:54:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php on line 20
+[22-Jan-2026 03:05:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[22-Jan-2026 03:30:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php on line 21
+[22-Jan-2026 07:07:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[22-Jan-2026 09:57:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[22-Jan-2026 14:53:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[22-Jan-2026 23:29:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php on line 20
+[22-Jan-2026 23:30:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[22-Jan-2026 23:30:47 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[22-Jan-2026 23:32:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[22-Jan-2026 23:35:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[22-Jan-2026 23:41:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php on line 21
+[23-Jan-2026 00:21:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php on line 20
+[23-Jan-2026 21:17:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[24-Jan-2026 19:52:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[26-Jan-2026 04:59:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php on line 20
+[26-Jan-2026 11:16:32 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[27-Jan-2026 00:28:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php on line 21
+[27-Jan-2026 08:05:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 08:05:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php on line 21
+[27-Jan-2026 18:32:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 18:32:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[27-Jan-2026 23:22:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 23:22:47 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[29-Jan-2026 15:09:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 15:09:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[30-Jan-2026 04:14:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 04:14:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php on line 21
+[30-Jan-2026 18:26:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 18:26:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[31-Jan-2026 05:26:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 05:26:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php on line 20
+[31-Jan-2026 14:27:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 14:27:22 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[04-Feb-2026 08:10:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 08:10:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[04-Feb-2026 20:44:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 20:44:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[05-Feb-2026 00:24:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 00:24:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidVersionRequirementException.php on line 14
+[14-Feb-2026 00:08:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 00:08:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php on line 21
+[14-Feb-2026 02:44:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 02:44:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php on line 21
+[14-Feb-2026 04:42:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 04:42:01 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/InvalidAttributeException.php on line 22
+[14-Feb-2026 07:08:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:08:32 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[14-Feb-2026 07:15:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:15:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[14-Feb-2026 09:30:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:30:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[14-Feb-2026 09:37:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:37:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12
+[18-Feb-2026 19:01:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 19:01:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php on line 21
+[20-Feb-2026 00:20:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:20:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/NoVersionRequirementException.php on line 14
+[20-Feb-2026 00:40:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:40:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Metadata/Exception/Exception.php on line 12

@@ -1,0 +1,102 @@
+[31-Oct-2025 14:34:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[17-Nov-2025 03:53:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[02-Dec-2025 14:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[03-Dec-2025 04:34:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[10-Dec-2025 00:36:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[12-Dec-2025 12:31:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[14-Dec-2025 00:42:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[18-Dec-2025 11:44:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[21-Dec-2025 18:46:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[05-Jan-2026 09:35:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[06-Jan-2026 05:29:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[10-Jan-2026 21:20:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[13-Jan-2026 20:15:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[15-Jan-2026 21:16:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[18-Jan-2026 07:44:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[18-Jan-2026 09:42:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[19-Jan-2026 08:11:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[26-Jan-2026 20:30:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[30-Jan-2026 00:10:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 00:10:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[31-Jan-2026 05:47:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 05:47:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[31-Jan-2026 17:37:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 17:37:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[01-Feb-2026 06:25:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 06:25:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[11-Feb-2026 04:16:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 04:16:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[15-Feb-2026 05:24:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:24:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27

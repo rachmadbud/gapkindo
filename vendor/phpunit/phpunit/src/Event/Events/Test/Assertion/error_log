@@ -1,0 +1,80 @@
+[24-Dec-2025 20:37:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionFailed.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionFailed.php on line 21
+[24-Dec-2025 21:03:27 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionFailedSubscriber.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionFailedSubscriber.php on line 19
+[25-Dec-2025 06:40:33 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionSucceededSubscriber.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionSucceededSubscriber.php on line 19
+[25-Dec-2025 10:04:47 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionSucceeded.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionSucceeded.php on line 21
+[04-Jan-2026 21:56:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionSucceeded.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionSucceeded.php on line 21
+[04-Jan-2026 23:00:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionFailedSubscriber.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionFailedSubscriber.php on line 19
+[05-Jan-2026 00:42:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionFailed.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionFailed.php on line 21
+[05-Jan-2026 11:03:38 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionSucceededSubscriber.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionSucceededSubscriber.php on line 19
+[06-Jan-2026 02:37:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionFailed.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionFailed.php on line 21
+[06-Jan-2026 04:30:50 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionFailedSubscriber.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionFailedSubscriber.php on line 19
+[06-Jan-2026 12:09:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionSucceeded.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionSucceeded.php on line 21
+[06-Jan-2026 14:17:22 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionSucceededSubscriber.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionSucceededSubscriber.php on line 19
+[11-Jan-2026 05:19:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionFailed.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionFailed.php on line 21
+[11-Jan-2026 05:26:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionSucceeded.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionSucceeded.php on line 21
+[11-Jan-2026 05:51:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionFailedSubscriber.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionFailedSubscriber.php on line 19
+[11-Jan-2026 05:57:34 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionSucceededSubscriber.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionSucceededSubscriber.php on line 19
+[25-Jan-2026 00:11:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionSucceededSubscriber.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionSucceededSubscriber.php on line 19
+[25-Jan-2026 02:27:33 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionFailedSubscriber.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionFailedSubscriber.php on line 19
+[25-Jan-2026 05:20:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionFailed.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionFailed.php on line 21
+[25-Jan-2026 05:20:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionSucceeded.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Events/Test/Assertion/AssertionSucceeded.php on line 21

@@ -1,0 +1,238 @@
+[03-Nov-2025 18:36:24 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 17
+[03-Nov-2025 19:19:23 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php on line 41
+[04-Nov-2025 02:52:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Filesystem\FilesystemAdapter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php on line 10
+[04-Nov-2025 03:16:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Filesystem\Factory" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php on line 28
+[04-Nov-2025 05:03:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php on line 7
+[30-Nov-2025 18:09:08 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 17
+[30-Nov-2025 20:32:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Filesystem\Factory" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php on line 28
+[30-Nov-2025 23:05:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Filesystem\FilesystemAdapter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php on line 10
+[30-Nov-2025 23:35:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php on line 7
+[10-Dec-2025 20:50:34 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php on line 41
+[16-Dec-2025 13:21:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Filesystem\Factory" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php on line 28
+[16-Dec-2025 15:44:19 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php on line 41
+[16-Dec-2025 21:02:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php on line 7
+[16-Dec-2025 23:03:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Filesystem\FilesystemAdapter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php on line 10
+[16-Dec-2025 23:43:09 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 17
+[17-Dec-2025 19:48:28 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php on line 41
+[18-Dec-2025 05:20:13 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 17
+[18-Dec-2025 07:25:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php on line 7
+[18-Dec-2025 08:01:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Filesystem\FilesystemAdapter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php on line 10
+[18-Dec-2025 11:23:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Filesystem\Factory" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php on line 28
+[18-Dec-2025 16:29:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Filesystem\FilesystemAdapter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php on line 10
+[18-Dec-2025 16:29:47 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 17
+[18-Dec-2025 16:30:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php on line 7
+[18-Dec-2025 16:30:19 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php on line 41
+[18-Dec-2025 16:30:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Filesystem\Factory" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php on line 28
+[13-Jan-2026 20:39:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Filesystem\Factory" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php on line 28
+[13-Jan-2026 20:39:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Filesystem\FilesystemAdapter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php on line 10
+[13-Jan-2026 22:23:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php on line 7
+[13-Jan-2026 22:23:33 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php on line 41
+[13-Jan-2026 22:24:00 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 17
+[14-Jan-2026 17:54:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php on line 7
+[20-Jan-2026 06:46:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Filesystem\Factory" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php on line 28
+[20-Jan-2026 13:55:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Filesystem\FilesystemAdapter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php on line 10
+[20-Jan-2026 17:32:16 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 17
+[20-Jan-2026 21:43:19 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php on line 41
+[23-Jan-2026 15:46:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Filesystem\Factory" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php on line 28
+[23-Jan-2026 19:21:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php on line 7
+[28-Jan-2026 00:50:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 00:50:06 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 17
+[29-Jan-2026 23:44:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 23:44:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Filesystem\FilesystemAdapter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php on line 10
+[30-Jan-2026 17:41:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 08:21:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 08:21:13 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php on line 41
+[31-Jan-2026 14:26:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 14:26:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php on line 7
+[31-Jan-2026 22:03:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 13:51:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 13:51:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Filesystem\FilesystemAdapter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php on line 10
+[01-Feb-2026 14:29:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 14:29:00 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php on line 41
+[01-Feb-2026 14:33:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 14:33:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Filesystem\Factory" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php on line 28
+[01-Feb-2026 14:47:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 14:47:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php on line 7
+[01-Feb-2026 15:14:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 15:14:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Filesystem\Factory" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php on line 28
+[01-Feb-2026 17:02:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 17:02:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Filesystem\FilesystemAdapter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php on line 10
+[01-Feb-2026 17:17:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 17:17:30 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php on line 41
+[01-Feb-2026 17:18:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 17:18:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Filesystem\Factory" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php on line 28
+[01-Feb-2026 17:27:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 17:27:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php on line 7
+[01-Feb-2026 21:46:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 21:46:50 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 17
+[01-Feb-2026 23:25:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:25:46 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 17
+[02-Feb-2026 03:56:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:22:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 19:53:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 20:40:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 20:43:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 20:43:02 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php on line 41
+[04-Feb-2026 19:30:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 19:30:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Filesystem\Factory" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php on line 28
+[04-Feb-2026 22:34:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 03:15:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 09:09:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 09:09:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Filesystem\FilesystemAdapter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php on line 10
+[11-Feb-2026 18:03:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 18:03:15 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 17
+[12-Feb-2026 06:37:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 06:37:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php on line 7
+[12-Feb-2026 22:24:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 22:24:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php on line 7
+[13-Feb-2026 02:18:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 02:18:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Filesystem\FilesystemAdapter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php on line 10
+[13-Feb-2026 08:53:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 08:53:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Filesystem\Factory" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php on line 28
+[14-Feb-2026 09:13:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:13:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php on line 7
+[16-Feb-2026 09:51:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 09:51:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Filesystem\Factory" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php on line 28
+[16-Feb-2026 13:12:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:12:13 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 17
+[16-Feb-2026 14:44:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 14:52:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 14:52:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Filesystem\Factory" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php on line 28
+[16-Feb-2026 18:46:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:46:08 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php on line 41
+[16-Feb-2026 21:54:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 21:54:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Filesystem\FilesystemAdapter" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php on line 10
+[17-Feb-2026 01:56:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 01:56:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php on line 7
+[21-Feb-2026 18:16:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 18:22:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 05:03:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

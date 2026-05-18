@@ -1,0 +1,63 @@
+[03-Nov-2025 23:57:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php on line 9
+[18-Dec-2025 22:04:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php on line 9
+[19-Dec-2025 19:27:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php on line 9
+[20-Dec-2025 20:15:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php on line 9
+[30-Dec-2025 18:00:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php on line 9
+[20-Jan-2026 11:57:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php on line 9
+[25-Jan-2026 22:00:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php on line 9
+[02-Feb-2026 17:59:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:59:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php on line 9
+[04-Feb-2026 06:01:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 06:01:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php on line 9
+[04-Feb-2026 18:10:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 18:10:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php on line 9
+[05-Feb-2026 21:34:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 21:34:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php on line 9
+[09-Feb-2026 13:22:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 13:22:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php on line 9
+[15-Feb-2026 18:25:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 18:25:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php on line 9
+[22-Feb-2026 06:46:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 06:46:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php on line 9

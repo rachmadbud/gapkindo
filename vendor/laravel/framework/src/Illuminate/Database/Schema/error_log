@@ -1,0 +1,718 @@
+[01-Nov-2025 08:48:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 5
+[01-Nov-2025 10:53:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[01-Nov-2025 10:55:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[01-Nov-2025 12:25:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[01-Nov-2025 14:20:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[02-Nov-2025 03:51:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[02-Nov-2025 22:50:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[04-Nov-2025 04:48:22 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 15
+[04-Nov-2025 05:00:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[04-Nov-2025 05:55:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[03-Dec-2025 04:08:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[03-Dec-2025 04:50:33 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[03-Dec-2025 05:50:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[03-Dec-2025 05:54:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 5
+[03-Dec-2025 06:02:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php on line 7
+[03-Dec-2025 06:05:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[03-Dec-2025 06:06:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[03-Dec-2025 06:08:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[03-Dec-2025 06:11:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[03-Dec-2025 06:12:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[03-Dec-2025 06:37:44 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 15
+[03-Dec-2025 07:53:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[18-Dec-2025 21:56:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[18-Dec-2025 21:56:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[18-Dec-2025 21:56:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[18-Dec-2025 21:56:27 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 15
+[18-Dec-2025 21:56:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[18-Dec-2025 21:56:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php on line 7
+[18-Dec-2025 21:56:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[18-Dec-2025 21:56:51 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[18-Dec-2025 21:56:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[18-Dec-2025 21:57:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[18-Dec-2025 21:57:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 5
+[18-Dec-2025 21:57:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[18-Dec-2025 21:57:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[19-Dec-2025 16:58:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[19-Dec-2025 16:59:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[19-Dec-2025 17:04:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[19-Dec-2025 19:30:36 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 15
+[19-Dec-2025 19:31:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[19-Dec-2025 19:48:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[19-Dec-2025 20:34:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[19-Dec-2025 21:49:38 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[20-Dec-2025 01:45:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php on line 7
+[20-Dec-2025 01:49:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 5
+[20-Dec-2025 02:36:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[20-Dec-2025 03:27:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[20-Dec-2025 05:22:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[20-Dec-2025 18:07:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[20-Dec-2025 18:16:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[20-Dec-2025 19:02:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[21-Dec-2025 00:18:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[21-Dec-2025 04:15:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[21-Dec-2025 04:15:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php on line 7
+[21-Dec-2025 05:08:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[21-Dec-2025 06:33:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[21-Dec-2025 07:54:29 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 15
+[21-Dec-2025 07:54:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 5
+[21-Dec-2025 08:00:16 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[21-Dec-2025 12:14:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[21-Dec-2025 14:13:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[21-Dec-2025 15:37:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[20-Jan-2026 06:17:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[20-Jan-2026 07:55:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php on line 7
+[20-Jan-2026 08:18:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[20-Jan-2026 10:48:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 5
+[20-Jan-2026 13:02:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[20-Jan-2026 14:00:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[20-Jan-2026 14:50:30 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[20-Jan-2026 14:59:57 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 15
+[20-Jan-2026 15:24:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[20-Jan-2026 16:17:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[20-Jan-2026 17:31:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[20-Jan-2026 18:25:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[20-Jan-2026 21:26:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[27-Jan-2026 05:59:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 05:59:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[27-Jan-2026 16:26:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 16:26:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[27-Jan-2026 17:58:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 17:58:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 5
+[28-Jan-2026 13:20:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 13:20:34 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[29-Jan-2026 02:15:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 10:24:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 10:24:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[31-Jan-2026 06:10:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:10:42 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[31-Jan-2026 09:48:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 09:48:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php on line 7
+[31-Jan-2026 15:11:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 15:11:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[31-Jan-2026 22:00:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 22:00:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[01-Feb-2026 05:57:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:14:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:14:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[02-Feb-2026 08:15:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:15:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 5
+[02-Feb-2026 08:23:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:23:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[02-Feb-2026 08:26:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:26:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[02-Feb-2026 08:27:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:27:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[02-Feb-2026 08:35:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:35:38 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 15
+[02-Feb-2026 08:37:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:37:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[02-Feb-2026 08:40:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:40:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[02-Feb-2026 08:42:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:42:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[02-Feb-2026 08:43:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:43:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[02-Feb-2026 08:44:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:44:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php on line 7
+[02-Feb-2026 08:49:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:49:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[02-Feb-2026 08:50:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 08:50:11 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[02-Feb-2026 08:52:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:07:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:07:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[02-Feb-2026 09:10:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:10:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 5
+[02-Feb-2026 09:12:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:12:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[02-Feb-2026 09:15:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:15:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[02-Feb-2026 09:16:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:16:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[02-Feb-2026 09:19:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:19:53 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 15
+[02-Feb-2026 09:26:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:26:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[02-Feb-2026 09:27:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:27:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[02-Feb-2026 09:29:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:29:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[02-Feb-2026 09:30:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:30:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[02-Feb-2026 09:31:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:31:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php on line 7
+[02-Feb-2026 09:34:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:34:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[02-Feb-2026 09:36:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:36:17 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[02-Feb-2026 10:16:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:58:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 01:58:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[04-Feb-2026 08:06:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 08:06:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php on line 7
+[04-Feb-2026 08:07:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 08:07:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 5
+[04-Feb-2026 08:09:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 08:11:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 08:11:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[04-Feb-2026 08:11:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 08:11:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[04-Feb-2026 08:13:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 08:13:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[04-Feb-2026 08:16:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 08:16:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[04-Feb-2026 13:17:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:17:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[04-Feb-2026 15:40:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 15:40:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[05-Feb-2026 02:00:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 02:00:00 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 15
+[05-Feb-2026 03:48:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 03:48:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[07-Feb-2026 16:06:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 16:06:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[07-Feb-2026 18:21:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 18:21:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[12-Feb-2026 18:20:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 18:20:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[12-Feb-2026 23:16:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 23:16:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[12-Feb-2026 23:49:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 01:13:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 01:13:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[13-Feb-2026 01:15:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 01:15:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[13-Feb-2026 03:16:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 03:16:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[13-Feb-2026 03:42:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 03:42:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[13-Feb-2026 04:08:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 04:08:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 5
+[13-Feb-2026 04:10:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 04:10:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[13-Feb-2026 04:39:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 04:39:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php on line 7
+[13-Feb-2026 04:41:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 04:41:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[13-Feb-2026 05:19:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 05:19:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[14-Feb-2026 01:11:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 01:11:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[14-Feb-2026 03:38:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 03:38:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[14-Feb-2026 07:52:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:52:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[15-Feb-2026 13:18:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 13:18:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[15-Feb-2026 18:12:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 18:12:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[16-Feb-2026 00:06:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 00:06:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[16-Feb-2026 00:09:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 00:09:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[16-Feb-2026 00:15:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 00:15:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[16-Feb-2026 00:17:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 00:17:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[16-Feb-2026 00:23:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 00:23:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[16-Feb-2026 00:28:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 00:28:47 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[16-Feb-2026 00:34:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 00:34:11 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 15
+[16-Feb-2026 11:33:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 11:33:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[16-Feb-2026 12:23:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 12:23:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[16-Feb-2026 12:38:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 12:38:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[16-Feb-2026 13:08:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:08:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[16-Feb-2026 15:41:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:41:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[16-Feb-2026 15:56:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:56:42 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[16-Feb-2026 16:23:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:23:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[16-Feb-2026 19:05:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 19:05:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[16-Feb-2026 20:21:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:21:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[16-Feb-2026 20:46:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:46:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 5
+[16-Feb-2026 22:48:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:48:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php on line 7
+[16-Feb-2026 23:33:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 23:33:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[17-Feb-2026 00:33:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 00:33:06 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 15
+[17-Feb-2026 02:17:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 02:17:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[17-Feb-2026 19:00:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 19:00:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[18-Feb-2026 06:33:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 06:33:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[19-Feb-2026 09:18:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 09:18:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[19-Feb-2026 14:17:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 14:17:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[20-Feb-2026 02:50:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 02:50:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[20-Feb-2026 03:39:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 03:39:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[21-Feb-2026 04:34:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 04:34:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[21-Feb-2026 22:06:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 22:06:03 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[21-Feb-2026 22:48:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 22:48:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[21-Feb-2026 23:36:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 23:36:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[21-Feb-2026 23:36:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 23:36:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[22-Feb-2026 03:39:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

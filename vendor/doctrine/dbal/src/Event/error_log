@@ -1,0 +1,963 @@
+[29-Nov-2025 02:45:15 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php on line 17
+[29-Nov-2025 02:47:16 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php on line 13
+[29-Nov-2025 02:48:22 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php on line 8
+[29-Nov-2025 02:52:27 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php on line 8
+[29-Nov-2025 02:53:22 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php on line 18
+[29-Nov-2025 02:54:24 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php on line 13
+[29-Nov-2025 02:55:27 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php on line 18
+[29-Nov-2025 02:58:27 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php on line 18
+[29-Nov-2025 03:01:17 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php on line 19
+[29-Nov-2025 03:03:07 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php on line 18
+[29-Nov-2025 03:18:55 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php on line 8
+[29-Nov-2025 03:52:38 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php on line 13
+[29-Nov-2025 03:59:04 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php on line 17
+[13-Dec-2025 10:38:09 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php on line 13
+[13-Dec-2025 11:45:12 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php on line 8
+[13-Dec-2025 11:52:03 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php on line 11
+[13-Dec-2025 12:15:01 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php on line 18
+[13-Dec-2025 12:15:39 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php on line 12
+[13-Dec-2025 12:16:27 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php on line 8
+[13-Dec-2025 12:18:37 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php on line 8
+[13-Dec-2025 12:19:09 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php on line 8
+[13-Dec-2025 12:20:13 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php on line 13
+[13-Dec-2025 12:22:07 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php on line 12
+[13-Dec-2025 12:26:18 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php on line 13
+[13-Dec-2025 12:26:20 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php on line 19
+[13-Dec-2025 12:26:24 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php on line 13
+[13-Dec-2025 12:34:25 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php on line 17
+[13-Dec-2025 12:42:46 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php on line 18
+[13-Dec-2025 12:46:06 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php on line 18
+[13-Dec-2025 12:57:09 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php on line 13
+[13-Dec-2025 13:07:56 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php on line 18
+[13-Dec-2025 13:19:11 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php on line 18
+[13-Dec-2025 13:30:08 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php on line 17
+[13-Dec-2025 13:36:26 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php on line 18
+[13-Dec-2025 13:42:02 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php on line 17
+[13-Dec-2025 13:42:29 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php on line 19
+[13-Dec-2025 14:05:17 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php on line 18
+[13-Dec-2025 14:37:24 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php on line 13
+[13-Dec-2025 14:57:14 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php on line 18
+[13-Dec-2025 15:53:25 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php on line 8
+[13-Dec-2025 17:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php on line 17
+[13-Dec-2025 18:39:49 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php on line 13
+[13-Dec-2025 18:45:16 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php on line 13
+[13-Dec-2025 20:33:58 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php on line 8
+[13-Dec-2025 21:17:54 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php on line 11
+[14-Dec-2025 16:37:17 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php on line 13
+[14-Dec-2025 16:38:37 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php on line 17
+[14-Dec-2025 19:57:20 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php on line 18
+[14-Dec-2025 21:44:11 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php on line 18
+[15-Dec-2025 00:05:42 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php on line 13
+[15-Dec-2025 01:01:08 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php on line 8
+[15-Dec-2025 04:42:06 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php on line 12
+[15-Dec-2025 05:33:25 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php on line 8
+[15-Dec-2025 06:16:36 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php on line 18
+[15-Dec-2025 06:17:45 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php on line 13
+[15-Dec-2025 09:56:53 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php on line 8
+[15-Dec-2025 13:03:59 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php on line 17
+[15-Dec-2025 13:05:01 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php on line 18
+[15-Dec-2025 15:51:50 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php on line 11
+[18-Dec-2025 14:20:02 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php on line 12
+[18-Dec-2025 14:20:16 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php on line 17
+[18-Dec-2025 14:20:22 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php on line 8
+[18-Dec-2025 14:20:29 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php on line 18
+[18-Dec-2025 14:20:38 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php on line 11
+[18-Dec-2025 14:20:45 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php on line 13
+[18-Dec-2025 14:20:53 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php on line 13
+[18-Dec-2025 14:21:00 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php on line 17
+[18-Dec-2025 14:21:06 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php on line 18
+[18-Dec-2025 14:22:07 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php on line 18
+[18-Dec-2025 14:22:13 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php on line 8
+[18-Dec-2025 14:22:21 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php on line 19
+[18-Dec-2025 14:22:26 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php on line 18
+[18-Dec-2025 14:22:33 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php on line 13
+[18-Dec-2025 14:22:40 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php on line 13
+[24-Dec-2025 17:00:17 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php on line 11
+[24-Dec-2025 20:35:35 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php on line 18
+[24-Dec-2025 23:13:05 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php on line 13
+[25-Dec-2025 01:19:47 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php on line 17
+[25-Dec-2025 02:11:08 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php on line 18
+[25-Dec-2025 03:33:21 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php on line 12
+[25-Dec-2025 04:16:38 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php on line 18
+[25-Dec-2025 05:54:30 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php on line 8
+[25-Dec-2025 06:25:43 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php on line 13
+[25-Dec-2025 06:26:58 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php on line 8
+[25-Dec-2025 08:27:44 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php on line 8
+[25-Dec-2025 09:25:44 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php on line 19
+[25-Dec-2025 09:26:59 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php on line 17
+[25-Dec-2025 10:29:53 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php on line 13
+[25-Dec-2025 12:33:15 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php on line 18
+[25-Dec-2025 14:25:02 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php on line 13
+[07-Jan-2026 12:32:36 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php on line 11
+[07-Jan-2026 12:38:30 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php on line 13
+[07-Jan-2026 15:21:31 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php on line 18
+[07-Jan-2026 16:33:53 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php on line 12
+[07-Jan-2026 16:44:34 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php on line 18
+[11-Jan-2026 05:51:13 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php on line 18
+[11-Jan-2026 08:57:54 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php on line 13
+[11-Jan-2026 11:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php on line 18
+[11-Jan-2026 14:53:49 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php on line 8
+[12-Jan-2026 14:09:53 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php on line 19
+[13-Jan-2026 05:08:09 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php on line 13
+[13-Jan-2026 20:16:34 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php on line 8
+[13-Jan-2026 21:10:32 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php on line 8
+[13-Jan-2026 21:55:26 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php on line 13
+[13-Jan-2026 21:55:34 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php on line 17
+[13-Jan-2026 23:31:06 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php on line 18
+[13-Jan-2026 23:37:14 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php on line 18
+[14-Jan-2026 04:35:55 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php on line 13
+[14-Jan-2026 04:51:46 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php on line 13
+[14-Jan-2026 05:10:47 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php on line 18
+[14-Jan-2026 05:45:40 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php on line 8
+[14-Jan-2026 08:05:31 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php on line 8
+[14-Jan-2026 08:46:52 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php on line 17
+[14-Jan-2026 19:08:51 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php on line 19
+[14-Jan-2026 21:00:56 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php on line 12
+[14-Jan-2026 21:02:51 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php on line 13
+[14-Jan-2026 21:07:45 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php on line 18
+[14-Jan-2026 21:39:07 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php on line 8
+[14-Jan-2026 22:06:48 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php on line 18
+[14-Jan-2026 23:23:01 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php on line 18
+[15-Jan-2026 02:06:42 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php on line 13
+[15-Jan-2026 04:23:24 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php on line 19
+[15-Jan-2026 05:29:32 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php on line 18
+[15-Jan-2026 10:37:29 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php on line 8
+[15-Jan-2026 11:31:30 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php on line 11
+[15-Jan-2026 15:49:12 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php on line 8
+[15-Jan-2026 20:10:01 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php on line 17
+[16-Jan-2026 10:27:56 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php on line 18
+[16-Jan-2026 10:48:05 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php on line 17
+[16-Jan-2026 11:25:08 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php on line 17
+[16-Jan-2026 15:59:39 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php on line 13
+[16-Jan-2026 23:40:39 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php on line 11
+[17-Jan-2026 00:37:22 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php on line 13
+[17-Jan-2026 00:55:17 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php on line 13
+[17-Jan-2026 01:18:21 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php on line 12
+[18-Jan-2026 04:51:57 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php on line 13
+[18-Jan-2026 12:00:55 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php on line 13
+[18-Jan-2026 12:01:00 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php on line 8
+[18-Jan-2026 22:01:06 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php on line 18
+[19-Jan-2026 01:04:24 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php on line 13
+[19-Jan-2026 03:25:19 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php on line 8
+[19-Jan-2026 10:52:37 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php on line 18
+[19-Jan-2026 20:01:32 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php on line 17
+[19-Jan-2026 22:17:12 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php on line 17
+[19-Jan-2026 23:41:49 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php on line 13
+[20-Jan-2026 03:32:52 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php on line 12
+[20-Jan-2026 07:42:40 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php on line 18
+[20-Jan-2026 07:42:47 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php on line 18
+[20-Jan-2026 08:29:09 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php on line 13
+[21-Jan-2026 00:20:10 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php on line 19
+[21-Jan-2026 02:50:47 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php on line 8
+[21-Jan-2026 13:00:55 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php on line 18
+[21-Jan-2026 15:19:14 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php on line 11
+[21-Jan-2026 22:52:47 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php on line 8
+[22-Jan-2026 01:07:53 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php on line 8
+[22-Jan-2026 17:10:04 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php on line 13
+[22-Jan-2026 17:52:56 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php on line 17
+[22-Jan-2026 21:23:21 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php on line 19
+[23-Jan-2026 00:21:32 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php on line 13
+[23-Jan-2026 02:39:08 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php on line 13
+[23-Jan-2026 09:16:25 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php on line 12
+[23-Jan-2026 12:34:26 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php on line 13
+[23-Jan-2026 13:13:22 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php on line 18
+[23-Jan-2026 13:13:52 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php on line 18
+[23-Jan-2026 13:22:10 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php on line 12
+[23-Jan-2026 14:00:56 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php on line 13
+[23-Jan-2026 20:33:28 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php on line 18
+[24-Jan-2026 10:03:17 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php on line 18
+[26-Jan-2026 04:55:37 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php on line 13
+[26-Jan-2026 07:15:10 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php on line 13
+[26-Jan-2026 15:51:00 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php on line 18
+[26-Jan-2026 16:39:02 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php on line 13
+[26-Jan-2026 17:24:40 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php on line 12
+[26-Jan-2026 20:27:50 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php on line 11
+[26-Jan-2026 22:50:55 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php on line 17
+[26-Jan-2026 22:50:59 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php on line 8
+[26-Jan-2026 23:27:07 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php on line 8
+[29-Jan-2026 19:32:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 19:32:46 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php on line 18
+[30-Jan-2026 00:10:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 00:10:36 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php on line 11
+[30-Jan-2026 02:29:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 02:30:00 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php on line 17
+[30-Jan-2026 02:30:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 02:30:06 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php on line 8
+[30-Jan-2026 03:14:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 03:14:42 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php on line 8
+[31-Jan-2026 10:52:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 10:52:24 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php on line 17
+[31-Jan-2026 10:53:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 10:53:20 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php on line 8
+[31-Jan-2026 10:54:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 10:54:22 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php on line 13
+[31-Jan-2026 10:55:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 10:55:23 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php on line 8
+[31-Jan-2026 10:56:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 10:56:23 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php on line 18
+[31-Jan-2026 10:57:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 10:57:25 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php on line 18
+[31-Jan-2026 10:58:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 10:58:26 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php on line 13
+[31-Jan-2026 10:59:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 10:59:28 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php on line 18
+[31-Jan-2026 11:00:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 11:00:29 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php on line 18
+[31-Jan-2026 11:01:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 11:01:32 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php on line 19
+[31-Jan-2026 12:16:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 12:16:15 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php on line 8
+[31-Jan-2026 13:15:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 13:15:37 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php on line 13
+[31-Jan-2026 13:16:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 13:16:26 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php on line 17
+[01-Feb-2026 05:38:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 05:38:28 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php on line 11
+[01-Feb-2026 07:53:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 07:53:17 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php on line 12
+[02-Feb-2026 16:05:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 16:05:02 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php on line 13
+[02-Feb-2026 16:07:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 16:07:32 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php on line 12
+[02-Feb-2026 16:10:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 16:10:03 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php on line 11
+[02-Feb-2026 22:20:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 22:20:18 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php on line 8
+[03-Feb-2026 05:59:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:59:44 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php on line 8
+[03-Feb-2026 06:02:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 06:02:15 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php on line 8
+[03-Feb-2026 11:42:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 11:42:25 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php on line 13
+[03-Feb-2026 11:44:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 11:44:56 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php on line 17
+[03-Feb-2026 11:47:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 11:47:26 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php on line 17
+[03-Feb-2026 20:58:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 20:58:49 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php on line 13
+[03-Feb-2026 21:01:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 21:01:19 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php on line 13
+[04-Feb-2026 03:40:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 03:40:48 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php on line 18
+[04-Feb-2026 22:12:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 22:12:37 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php on line 18
+[04-Feb-2026 22:15:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 22:15:08 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php on line 18
+[05-Feb-2026 01:12:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 01:12:29 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php on line 18
+[11-Feb-2026 02:02:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 02:02:45 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaIndexDefinitionEventArgs.php on line 13
+[11-Feb-2026 02:15:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 02:15:40 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableEventArgs.php on line 17
+[11-Feb-2026 02:19:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 02:19:41 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableAddColumnEventArgs.php on line 19
+[11-Feb-2026 04:37:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 04:37:21 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableColumnEventArgs.php on line 18
+[11-Feb-2026 05:19:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 05:19:50 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableChangeColumnEventArgs.php on line 18
+[11-Feb-2026 05:38:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 05:38:22 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionCommitEventArgs.php on line 8
+[11-Feb-2026 06:24:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 06:24:09 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRenameColumnEventArgs.php on line 18
+[11-Feb-2026 07:02:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 07:02:27 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaDropTableEventArgs.php on line 13
+[11-Feb-2026 08:15:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 08:15:06 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaCreateTableEventArgs.php on line 17
+[11-Feb-2026 10:12:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 10:12:55 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionRollBackEventArgs.php on line 8
+[11-Feb-2026 11:42:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 11:42:30 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\TransactionEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionBeginEventArgs.php on line 8
+[11-Feb-2026 12:56:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 12:56:55 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/ConnectionEventArgs.php on line 13
+[16-Feb-2026 16:53:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:53:58 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaEventArgs.php on line 12
+[16-Feb-2026 17:32:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:32:21 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaAlterTableRemoveColumnEventArgs.php on line 18
+[16-Feb-2026 19:24:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 19:24:47 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Event\SchemaEventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/SchemaColumnDefinitionEventArgs.php on line 13
+[16-Feb-2026 20:22:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:22:10 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\EventArgs" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Event/TransactionEventArgs.php on line 11

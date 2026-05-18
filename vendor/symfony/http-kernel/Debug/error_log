@@ -1,0 +1,259 @@
+[31-Oct-2025 21:41:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[31-Oct-2025 22:57:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[16-Nov-2025 21:54:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[17-Nov-2025 00:33:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[17-Nov-2025 02:35:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[03-Dec-2025 22:23:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[03-Dec-2025 22:23:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[04-Dec-2025 12:55:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[10-Dec-2025 01:27:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[10-Dec-2025 06:23:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[10-Dec-2025 06:32:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[11-Dec-2025 19:50:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[11-Dec-2025 23:44:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[12-Dec-2025 05:37:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[14-Dec-2025 02:34:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[14-Dec-2025 02:34:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[14-Dec-2025 03:22:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[18-Dec-2025 12:21:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[18-Dec-2025 12:22:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[18-Dec-2025 12:22:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[21-Dec-2025 21:07:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[22-Dec-2025 12:08:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[22-Dec-2025 14:04:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[05-Jan-2026 19:20:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[05-Jan-2026 19:20:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[05-Jan-2026 22:53:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[17-Jan-2026 18:17:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[18-Jan-2026 16:39:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[19-Jan-2026 05:37:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[20-Jan-2026 02:46:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[20-Jan-2026 05:00:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[20-Jan-2026 07:42:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[20-Jan-2026 12:28:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[20-Jan-2026 14:28:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[21-Jan-2026 09:53:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[23-Jan-2026 05:19:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[23-Jan-2026 05:22:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[23-Jan-2026 08:26:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[23-Jan-2026 13:07:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[23-Jan-2026 13:29:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[30-Jan-2026 13:46:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:21:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:21:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[31-Jan-2026 02:53:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 03:56:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 03:56:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[31-Jan-2026 10:58:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 10:58:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[31-Jan-2026 13:59:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 13:59:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[31-Jan-2026 16:12:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 16:12:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[02-Feb-2026 21:43:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 13:54:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 13:54:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[03-Feb-2026 13:55:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 13:55:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[03-Feb-2026 13:56:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 13:56:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[03-Feb-2026 18:10:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 18:10:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[03-Feb-2026 18:10:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 18:10:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[09-Feb-2026 18:07:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 18:07:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[14-Feb-2026 08:35:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 08:35:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[14-Feb-2026 09:58:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:58:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[14-Feb-2026 13:41:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 13:41:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[16-Feb-2026 12:27:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 12:27:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[20-Feb-2026 01:21:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 01:21:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[21-Feb-2026 23:46:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 01:52:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 01:52:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[22-Feb-2026 03:14:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 03:14:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[22-Feb-2026 10:04:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 10:04:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24

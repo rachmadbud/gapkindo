@@ -1,0 +1,51 @@
+[24-Dec-2025 19:35:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\TestData\TestData" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromDataProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromDataProvider.php on line 17
+[24-Dec-2025 21:08:26 UTC] PHP Fatal error:  Could not check compatibility between PHPUnit\Event\TestData\TestDataCollection::getIterator(): PHPUnit\Event\TestData\TestDataCollectionIterator and IteratorAggregate::getIterator(): Traversable, because class PHPUnit\Event\TestData\TestDataCollectionIterator is not available in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/TestDataCollection.php on line 82
+[25-Dec-2025 05:34:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\TestData\TestData" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromTestDependency.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromTestDependency.php on line 17
+[05-Jan-2026 11:18:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\TestData\TestData" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromTestDependency.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromTestDependency.php on line 17
+[05-Jan-2026 19:04:24 UTC] PHP Fatal error:  Could not check compatibility between PHPUnit\Event\TestData\TestDataCollection::getIterator(): PHPUnit\Event\TestData\TestDataCollectionIterator and IteratorAggregate::getIterator(): Traversable, because class PHPUnit\Event\TestData\TestDataCollectionIterator is not available in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/TestDataCollection.php on line 82
+[06-Jan-2026 02:50:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\TestData\TestData" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromDataProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromDataProvider.php on line 17
+[06-Jan-2026 03:22:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\TestData\TestData" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromTestDependency.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromTestDependency.php on line 17
+[06-Jan-2026 04:44:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\TestData\TestData" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromDataProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromDataProvider.php on line 17
+[06-Jan-2026 15:37:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\TestData\TestData" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromTestDependency.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromTestDependency.php on line 17
+[19-Jan-2026 05:21:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\TestData\TestData" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromDataProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromDataProvider.php on line 17
+[19-Jan-2026 13:40:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\TestData\TestData" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromTestDependency.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromTestDependency.php on line 17
+[24-Jan-2026 23:55:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\TestData\TestData" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromTestDependency.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromTestDependency.php on line 17
+[25-Jan-2026 02:20:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\TestData\TestData" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromDataProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/DataFromDataProvider.php on line 17
+[25-Jan-2026 05:47:15 UTC] PHP Fatal error:  Could not check compatibility between PHPUnit\Event\TestData\TestDataCollection::getIterator(): PHPUnit\Event\TestData\TestDataCollectionIterator and IteratorAggregate::getIterator(): Traversable, because class PHPUnit\Event\TestData\TestDataCollectionIterator is not available in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/TestDataCollection.php on line 82
+[04-Feb-2026 01:54:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 20:49:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 20:49:06 UTC] PHP Fatal error:  Could not check compatibility between PHPUnit\Event\TestData\TestDataCollection::getIterator(): PHPUnit\Event\TestData\TestDataCollectionIterator and IteratorAggregate::getIterator(): Traversable, because class PHPUnit\Event\TestData\TestDataCollectionIterator is not available in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Event/Value/Test/TestData/TestDataCollection.php on line 82
+[05-Feb-2026 06:32:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

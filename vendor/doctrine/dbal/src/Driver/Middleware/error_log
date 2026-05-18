@@ -1,0 +1,218 @@
+[15-Dec-2025 22:20:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php on line 12
+[15-Dec-2025 22:22:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php on line 7
+[15-Dec-2025 22:25:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\VersionAwarePlatformDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php on line 13
+[15-Dec-2025 22:27:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php on line 17
+[16-Dec-2025 18:04:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php on line 17
+[16-Dec-2025 18:24:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php on line 7
+[16-Dec-2025 22:22:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php on line 12
+[16-Dec-2025 22:45:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\VersionAwarePlatformDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php on line 13
+[17-Dec-2025 21:47:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php on line 12
+[18-Dec-2025 04:52:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php on line 17
+[18-Dec-2025 15:27:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\VersionAwarePlatformDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php on line 13
+[18-Dec-2025 15:27:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php on line 7
+[18-Dec-2025 17:54:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php on line 7
+[18-Dec-2025 17:54:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php on line 12
+[18-Dec-2025 17:54:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php on line 17
+[18-Dec-2025 17:54:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\VersionAwarePlatformDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php on line 13
+[28-Dec-2025 01:31:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\VersionAwarePlatformDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php on line 13
+[28-Dec-2025 12:26:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php on line 17
+[28-Dec-2025 14:50:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php on line 12
+[28-Dec-2025 15:59:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php on line 7
+[17-Jan-2026 04:23:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\VersionAwarePlatformDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php on line 13
+[17-Jan-2026 12:15:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php on line 17
+[17-Jan-2026 12:26:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php on line 12
+[17-Jan-2026 12:59:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php on line 7
+[20-Jan-2026 08:13:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php on line 17
+[20-Jan-2026 12:46:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php on line 12
+[20-Jan-2026 14:14:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\VersionAwarePlatformDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php on line 13
+[20-Jan-2026 16:26:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php on line 7
+[23-Jan-2026 08:38:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php on line 17
+[24-Jan-2026 18:26:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php on line 12
+[26-Jan-2026 01:59:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\VersionAwarePlatformDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php on line 13
+[26-Jan-2026 07:21:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php on line 7
+[27-Jan-2026 12:00:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 12:00:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php on line 17
+[29-Jan-2026 05:55:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 05:55:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\VersionAwarePlatformDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php on line 13
+[29-Jan-2026 11:17:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 11:17:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php on line 7
+[29-Jan-2026 13:36:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 13:36:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php on line 17
+[30-Jan-2026 05:54:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 05:54:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php on line 12
+[01-Feb-2026 13:34:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 13:34:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php on line 12
+[01-Feb-2026 16:53:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 16:53:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php on line 7
+[01-Feb-2026 16:57:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 16:57:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\VersionAwarePlatformDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php on line 13
+[01-Feb-2026 17:29:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 17:29:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php on line 17
+[01-Feb-2026 17:52:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 17:52:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php on line 7
+[01-Feb-2026 21:27:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 21:27:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php on line 17
+[04-Feb-2026 17:08:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 17:08:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\VersionAwarePlatformDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php on line 13
+[04-Feb-2026 21:48:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 21:48:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php on line 7
+[07-Feb-2026 19:52:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 19:52:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\VersionAwarePlatformDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php on line 13
+[16-Feb-2026 11:59:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 11:59:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\VersionAwarePlatformDriver" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractDriverMiddleware.php on line 13
+[16-Feb-2026 13:53:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:53:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Statement" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractStatementMiddleware.php on line 12
+[16-Feb-2026 18:53:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:53:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\Result" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractResultMiddleware.php on line 7
+[21-Feb-2026 23:07:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 23:07:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\DBAL\Driver\ServerInfoAwareConnection" not found in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/doctrine/dbal/src/Driver/Middleware/AbstractConnectionMiddleware.php on line 17

@@ -1,0 +1,1636 @@
+[03-Dec-2025 04:11:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php on line 86
+[03-Dec-2025 04:23:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Vite.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Vite.php on line 32
+[03-Dec-2025 05:41:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php on line 72
+[03-Dec-2025 06:06:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php on line 85
+[03-Dec-2025 06:17:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Pipeline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Pipeline.php on line 18
+[03-Dec-2025 06:41:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php on line 60
+[03-Dec-2025 07:09:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Process.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Process.php on line 50
+[03-Dec-2025 07:10:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php on line 61
+[03-Dec-2025 08:15:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php on line 23
+[03-Dec-2025 11:11:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php on line 23
+[03-Dec-2025 13:32:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php on line 52
+[06-Dec-2025 11:01:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php on line 20
+[06-Dec-2025 11:25:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php on line 90
+[06-Dec-2025 11:53:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php on line 22
+[06-Dec-2025 14:43:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php on line 44
+[07-Dec-2025 10:00:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php on line 25
+[07-Dec-2025 15:23:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php on line 115
+[07-Dec-2025 19:50:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php on line 105
+[07-Dec-2025 21:02:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php on line 37
+[08-Dec-2025 14:41:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php on line 16
+[08-Dec-2025 18:10:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php on line 22
+[08-Dec-2025 20:54:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php on line 41
+[09-Dec-2025 03:14:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php on line 36
+[13-Dec-2025 16:26:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php on line 24
+[13-Dec-2025 20:10:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php on line 28
+[17-Dec-2025 22:06:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php on line 62
+[18-Dec-2025 05:27:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php on line 30
+[18-Dec-2025 10:08:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php on line 60
+[18-Dec-2025 21:17:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php on line 36
+[18-Dec-2025 21:17:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php on line 30
+[18-Dec-2025 21:17:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php on line 86
+[18-Dec-2025 21:17:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php on line 105
+[18-Dec-2025 21:17:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php on line 25
+[18-Dec-2025 21:18:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php on line 54
+[18-Dec-2025 21:18:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php on line 20
+[18-Dec-2025 21:18:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php on line 22
+[18-Dec-2025 21:18:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php on line 52
+[18-Dec-2025 21:18:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php on line 39
+[18-Dec-2025 21:18:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php on line 16
+[18-Dec-2025 21:18:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Process.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Process.php on line 50
+[18-Dec-2025 21:18:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php on line 22
+[18-Dec-2025 21:19:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php on line 23
+[18-Dec-2025 21:19:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php on line 115
+[18-Dec-2025 21:19:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php on line 36
+[18-Dec-2025 21:19:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php on line 23
+[18-Dec-2025 21:19:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php on line 60
+[18-Dec-2025 21:19:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php on line 35
+[18-Dec-2025 21:19:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php on line 62
+[18-Dec-2025 21:19:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php on line 44
+[18-Dec-2025 21:19:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Vite.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Vite.php on line 32
+[18-Dec-2025 21:20:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php on line 70
+[18-Dec-2025 21:20:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php on line 28
+[18-Dec-2025 21:20:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php on line 185
+[18-Dec-2025 21:20:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php on line 24
+[18-Dec-2025 21:20:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php on line 95
+[18-Dec-2025 21:20:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php on line 24
+[18-Dec-2025 21:20:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php on line 60
+[18-Dec-2025 21:20:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php on line 61
+[18-Dec-2025 21:20:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php on line 90
+[18-Dec-2025 21:21:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php on line 85
+[18-Dec-2025 21:21:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php on line 41
+[18-Dec-2025 21:21:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php on line 37
+[18-Dec-2025 21:21:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php on line 135
+[18-Dec-2025 21:21:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php on line 72
+[18-Dec-2025 21:21:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Pipeline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Pipeline.php on line 18
+[18-Dec-2025 21:21:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php on line 50
+[18-Dec-2025 21:21:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php on line 52
+[19-Dec-2025 10:06:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php on line 24
+[19-Dec-2025 12:17:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php on line 36
+[19-Dec-2025 14:22:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php on line 52
+[19-Dec-2025 14:37:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php on line 35
+[19-Dec-2025 14:47:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php on line 90
+[19-Dec-2025 16:00:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php on line 70
+[19-Dec-2025 16:58:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php on line 62
+[19-Dec-2025 17:29:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php on line 60
+[19-Dec-2025 17:35:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php on line 85
+[19-Dec-2025 18:30:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php on line 36
+[19-Dec-2025 19:39:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php on line 24
+[19-Dec-2025 19:55:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php on line 36
+[19-Dec-2025 20:19:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php on line 60
+[19-Dec-2025 20:25:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php on line 135
+[19-Dec-2025 20:31:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php on line 20
+[19-Dec-2025 21:30:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Process.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Process.php on line 50
+[19-Dec-2025 22:07:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php on line 41
+[19-Dec-2025 22:10:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php on line 16
+[19-Dec-2025 22:19:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php on line 24
+[19-Dec-2025 23:51:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php on line 105
+[20-Dec-2025 00:34:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php on line 37
+[20-Dec-2025 00:40:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php on line 25
+[20-Dec-2025 01:37:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php on line 23
+[20-Dec-2025 01:59:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php on line 50
+[20-Dec-2025 02:43:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Vite.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Vite.php on line 32
+[20-Dec-2025 02:53:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php on line 39
+[20-Dec-2025 04:14:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php on line 61
+[20-Dec-2025 04:35:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php on line 95
+[20-Dec-2025 04:56:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php on line 23
+[20-Dec-2025 05:00:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php on line 52
+[20-Dec-2025 05:15:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php on line 54
+[20-Dec-2025 05:18:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php on line 22
+[20-Dec-2025 05:25:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php on line 28
+[20-Dec-2025 05:42:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php on line 30
+[20-Dec-2025 05:57:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php on line 115
+[20-Dec-2025 06:08:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php on line 72
+[20-Dec-2025 06:16:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php on line 44
+[20-Dec-2025 06:23:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php on line 22
+[20-Dec-2025 07:18:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php on line 185
+[20-Dec-2025 08:08:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php on line 50
+[20-Dec-2025 12:03:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php on line 70
+[20-Dec-2025 16:02:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Pipeline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Pipeline.php on line 18
+[20-Dec-2025 16:27:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Pipeline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Pipeline.php on line 18
+[20-Dec-2025 16:33:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php on line 54
+[20-Dec-2025 17:00:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php on line 44
+[20-Dec-2025 17:01:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php on line 72
+[20-Dec-2025 18:09:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php on line 35
+[20-Dec-2025 21:40:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php on line 41
+[20-Dec-2025 22:11:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php on line 36
+[20-Dec-2025 22:11:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php on line 115
+[20-Dec-2025 22:12:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php on line 60
+[20-Dec-2025 23:10:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php on line 60
+[20-Dec-2025 23:11:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php on line 16
+[20-Dec-2025 23:11:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php on line 61
+[20-Dec-2025 23:12:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php on line 39
+[20-Dec-2025 23:12:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php on line 23
+[21-Dec-2025 00:25:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Vite.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Vite.php on line 32
+[21-Dec-2025 01:48:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php on line 24
+[21-Dec-2025 01:48:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php on line 54
+[21-Dec-2025 01:49:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php on line 95
+[21-Dec-2025 01:49:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php on line 28
+[21-Dec-2025 02:50:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php on line 25
+[21-Dec-2025 02:51:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php on line 22
+[21-Dec-2025 02:51:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php on line 22
+[21-Dec-2025 02:52:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php on line 86
+[21-Dec-2025 03:36:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php on line 36
+[21-Dec-2025 04:26:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php on line 52
+[21-Dec-2025 06:42:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php on line 135
+[21-Dec-2025 06:42:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php on line 50
+[21-Dec-2025 06:42:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php on line 37
+[21-Dec-2025 06:43:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php on line 185
+[21-Dec-2025 06:43:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php on line 30
+[21-Dec-2025 07:03:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php on line 23
+[21-Dec-2025 08:11:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php on line 52
+[21-Dec-2025 09:23:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php on line 90
+[21-Dec-2025 09:24:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Process.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Process.php on line 50
+[21-Dec-2025 11:08:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php on line 105
+[21-Dec-2025 13:19:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php on line 20
+[21-Dec-2025 13:19:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php on line 62
+[21-Dec-2025 14:23:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php on line 24
+[21-Dec-2025 14:24:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php on line 85
+[21-Dec-2025 15:47:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php on line 70
+[21-Dec-2025 15:48:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php on line 35
+[22-Dec-2025 16:27:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php on line 135
+[22-Dec-2025 18:55:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php on line 39
+[24-Dec-2025 12:39:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php on line 52
+[27-Dec-2025 04:09:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php on line 185
+[27-Dec-2025 04:20:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php on line 86
+[27-Jan-2026 06:00:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 06:00:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php on line 70
+[27-Jan-2026 08:06:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 09:46:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 09:46:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php on line 54
+[27-Jan-2026 11:15:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 11:15:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php on line 52
+[27-Jan-2026 13:25:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 13:25:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php on line 16
+[27-Jan-2026 15:42:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 15:42:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php on line 39
+[27-Jan-2026 20:09:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 20:09:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php on line 23
+[27-Jan-2026 22:42:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 22:42:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php on line 72
+[28-Jan-2026 10:40:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 10:40:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php on line 36
+[28-Jan-2026 10:43:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 10:43:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php on line 86
+[28-Jan-2026 10:46:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 10:46:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 10:46:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php on line 24
+[28-Jan-2026 10:49:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 10:49:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php on line 50
+[28-Jan-2026 10:52:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 10:52:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php on line 24
+[28-Jan-2026 10:54:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 10:54:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php on line 37
+[28-Jan-2026 10:58:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 10:58:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php on line 90
+[28-Jan-2026 12:32:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 12:32:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php on line 36
+[28-Jan-2026 12:35:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 12:35:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Pipeline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Pipeline.php on line 18
+[28-Jan-2026 12:38:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 12:38:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php on line 35
+[28-Jan-2026 19:18:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 19:18:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php on line 36
+[28-Jan-2026 19:58:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 19:58:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php on line 185
+[28-Jan-2026 21:37:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 21:37:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Pipeline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Pipeline.php on line 18
+[28-Jan-2026 22:34:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 22:34:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php on line 22
+[28-Jan-2026 23:13:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 23:13:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php on line 95
+[28-Jan-2026 23:14:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 23:14:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php on line 35
+[30-Jan-2026 01:24:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 01:24:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php on line 135
+[30-Jan-2026 01:24:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 01:24:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php on line 105
+[31-Jan-2026 19:12:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 19:12:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php on line 62
+[31-Jan-2026 20:43:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 20:43:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php on line 115
+[02-Feb-2026 09:05:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:05:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php on line 62
+[02-Feb-2026 09:19:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:19:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php on line 23
+[02-Feb-2026 09:22:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:22:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php on line 44
+[02-Feb-2026 09:22:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:22:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php on line 23
+[02-Feb-2026 09:24:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:24:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php on line 36
+[02-Feb-2026 09:25:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:25:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php on line 22
+[02-Feb-2026 09:30:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:37:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:37:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php on line 44
+[02-Feb-2026 09:38:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:38:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php on line 85
+[02-Feb-2026 09:38:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:38:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php on line 23
+[02-Feb-2026 09:39:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:39:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php on line 185
+[02-Feb-2026 09:39:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:39:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php on line 22
+[02-Feb-2026 09:40:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:40:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php on line 22
+[02-Feb-2026 09:41:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:41:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php on line 30
+[02-Feb-2026 09:41:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:41:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php on line 36
+[02-Feb-2026 09:42:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:42:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php on line 28
+[02-Feb-2026 09:43:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:43:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php on line 24
+[02-Feb-2026 09:43:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:43:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php on line 23
+[02-Feb-2026 09:44:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:44:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php on line 72
+[02-Feb-2026 09:45:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:45:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Process.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Process.php on line 50
+[02-Feb-2026 09:46:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:46:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Pipeline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Pipeline.php on line 18
+[02-Feb-2026 09:47:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:47:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php on line 115
+[02-Feb-2026 09:48:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:48:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php on line 135
+[02-Feb-2026 09:49:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:49:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php on line 39
+[02-Feb-2026 09:50:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:50:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php on line 72
+[02-Feb-2026 09:50:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:50:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php on line 54
+[02-Feb-2026 09:50:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:50:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php on line 30
+[02-Feb-2026 09:51:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:51:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php on line 52
+[02-Feb-2026 09:52:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:52:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php on line 85
+[02-Feb-2026 09:52:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:52:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Vite.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Vite.php on line 32
+[02-Feb-2026 09:53:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:53:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php on line 24
+[02-Feb-2026 09:54:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:54:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php on line 35
+[02-Feb-2026 09:54:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:54:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Process.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Process.php on line 50
+[02-Feb-2026 09:55:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:55:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php on line 90
+[02-Feb-2026 09:55:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:55:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php on line 28
+[02-Feb-2026 09:56:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:56:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php on line 185
+[02-Feb-2026 09:56:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:56:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php on line 24
+[02-Feb-2026 09:57:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:57:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php on line 70
+[02-Feb-2026 09:57:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:57:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Pipeline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Pipeline.php on line 18
+[02-Feb-2026 09:58:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:58:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php on line 22
+[02-Feb-2026 09:59:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:59:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php on line 37
+[02-Feb-2026 09:59:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 09:59:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php on line 54
+[02-Feb-2026 10:00:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:00:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php on line 60
+[02-Feb-2026 10:00:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:00:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php on line 115
+[02-Feb-2026 10:01:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:01:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php on line 39
+[02-Feb-2026 10:02:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:02:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php on line 86
+[02-Feb-2026 10:02:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:02:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php on line 135
+[02-Feb-2026 10:03:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:03:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php on line 25
+[02-Feb-2026 10:03:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:03:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php on line 52
+[02-Feb-2026 10:04:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:04:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php on line 36
+[02-Feb-2026 10:04:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:04:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php on line 35
+[02-Feb-2026 10:05:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:05:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php on line 52
+[02-Feb-2026 10:06:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:06:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php on line 60
+[02-Feb-2026 10:07:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:07:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php on line 105
+[02-Feb-2026 10:07:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:07:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php on line 37
+[02-Feb-2026 10:08:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:08:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php on line 41
+[02-Feb-2026 10:08:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:08:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php on line 24
+[02-Feb-2026 10:09:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:09:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php on line 95
+[02-Feb-2026 10:09:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:09:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php on line 90
+[02-Feb-2026 10:10:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:10:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php on line 50
+[02-Feb-2026 10:10:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:10:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php on line 62
+[02-Feb-2026 10:11:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:11:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php on line 52
+[02-Feb-2026 10:11:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:11:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php on line 41
+[02-Feb-2026 10:12:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:12:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php on line 60
+[02-Feb-2026 10:14:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:14:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php on line 20
+[02-Feb-2026 10:14:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:14:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php on line 105
+[02-Feb-2026 10:15:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:15:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php on line 61
+[02-Feb-2026 10:15:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:15:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php on line 60
+[02-Feb-2026 10:16:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:16:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php on line 70
+[02-Feb-2026 10:17:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:17:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php on line 36
+[02-Feb-2026 10:18:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:18:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php on line 16
+[02-Feb-2026 10:20:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:20:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php on line 86
+[02-Feb-2026 10:21:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:21:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php on line 50
+[02-Feb-2026 10:22:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:22:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Vite.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Vite.php on line 32
+[02-Feb-2026 10:24:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:24:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php on line 95
+[02-Feb-2026 10:25:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:25:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php on line 20
+[02-Feb-2026 10:26:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:26:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php on line 61
+[02-Feb-2026 14:40:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 02:46:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 02:46:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Vite.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Vite.php on line 32
+[05-Feb-2026 02:47:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 02:47:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php on line 86
+[05-Feb-2026 02:47:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 02:47:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php on line 23
+[05-Feb-2026 02:48:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 02:48:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php on line 52
+[05-Feb-2026 02:50:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 02:50:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php on line 85
+[05-Feb-2026 02:54:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 02:54:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php on line 72
+[05-Feb-2026 03:02:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 03:02:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php on line 52
+[05-Feb-2026 03:16:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 03:16:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php on line 105
+[05-Feb-2026 03:39:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 03:39:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php on line 30
+[05-Feb-2026 11:30:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 11:30:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php on line 185
+[05-Feb-2026 11:30:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 11:30:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php on line 35
+[05-Feb-2026 11:31:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 11:31:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php on line 28
+[05-Feb-2026 11:32:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 11:32:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php on line 22
+[05-Feb-2026 11:34:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 11:34:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php on line 60
+[05-Feb-2026 11:39:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 11:39:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Process.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Process.php on line 50
+[05-Feb-2026 11:48:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 11:48:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Pipeline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Pipeline.php on line 18
+[05-Feb-2026 12:05:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 12:05:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php on line 22
+[05-Feb-2026 12:39:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 12:39:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php on line 23
+[05-Feb-2026 15:52:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 15:52:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php on line 60
+[05-Feb-2026 15:53:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 15:53:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php on line 61
+[05-Feb-2026 16:36:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 16:36:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php on line 24
+[05-Feb-2026 16:37:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 16:37:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Vite.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Vite.php on line 32
+[05-Feb-2026 16:43:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 16:43:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php on line 44
+[05-Feb-2026 16:43:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 16:43:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php on line 62
+[05-Feb-2026 16:44:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 16:44:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php on line 39
+[05-Feb-2026 16:45:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 16:45:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php on line 36
+[05-Feb-2026 16:48:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 16:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php on line 95
+[05-Feb-2026 16:54:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 16:54:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php on line 25
+[05-Feb-2026 17:07:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 17:07:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php on line 37
+[05-Feb-2026 17:15:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 17:15:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php on line 24
+[05-Feb-2026 17:29:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 17:29:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php on line 61
+[05-Feb-2026 18:00:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 18:00:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php on line 85
+[05-Feb-2026 18:05:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 18:05:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php on line 60
+[06-Feb-2026 03:21:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 03:21:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 03:21:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php on line 41
+[06-Feb-2026 03:22:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 03:22:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php on line 90
+[06-Feb-2026 03:23:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 03:23:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php on line 115
+[06-Feb-2026 03:24:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 03:24:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php on line 16
+[06-Feb-2026 03:28:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 03:28:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php on line 24
+[06-Feb-2026 03:35:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 03:35:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php on line 20
+[06-Feb-2026 16:20:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 16:20:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php on line 37
+[07-Feb-2026 01:16:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 01:16:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php on line 28
+[07-Feb-2026 04:44:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 04:44:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php on line 60
+[07-Feb-2026 04:44:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 04:44:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php on line 36
+[07-Feb-2026 04:45:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 04:45:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php on line 50
+[07-Feb-2026 04:46:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 04:46:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php on line 70
+[07-Feb-2026 04:48:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 04:48:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php on line 24
+[07-Feb-2026 05:39:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 05:39:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php on line 54
+[07-Feb-2026 05:41:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 05:41:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php on line 135
+[09-Feb-2026 14:28:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 14:28:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php on line 105
+[12-Feb-2026 21:37:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 21:37:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php on line 85
+[13-Feb-2026 01:16:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 01:16:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php on line 24
+[13-Feb-2026 01:56:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 01:56:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php on line 22
+[14-Feb-2026 07:05:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 07:05:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php on line 22
+[14-Feb-2026 08:08:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 08:08:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php on line 20
+[15-Feb-2026 12:47:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 12:47:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php on line 36
+[15-Feb-2026 14:17:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 14:17:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php on line 16
+[15-Feb-2026 14:18:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 14:18:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php on line 37
+[15-Feb-2026 17:54:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 17:54:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php on line 25
+[15-Feb-2026 17:56:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 17:56:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php on line 86
+[15-Feb-2026 18:39:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 18:39:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php on line 36
+[15-Feb-2026 23:45:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 23:45:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php on line 23
+[15-Feb-2026 23:48:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 23:48:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php on line 22
+[16-Feb-2026 00:25:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 00:25:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Process.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Process.php on line 50
+[16-Feb-2026 01:02:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 01:02:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php on line 22
+[21-Feb-2026 19:10:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 19:10:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php on line 86
+[21-Feb-2026 22:36:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 22:36:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php on line 54
+[21-Feb-2026 23:28:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 23:28:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php on line 72
+[21-Feb-2026 23:33:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 23:33:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php on line 25
+[21-Feb-2026 23:46:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 23:46:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php on line 30
+[21-Feb-2026 23:49:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 23:49:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php on line 90
+[22-Feb-2026 00:32:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 00:32:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php on line 41
+[22-Feb-2026 00:48:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 00:48:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php on line 115
+[22-Feb-2026 01:21:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 01:21:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php on line 22
+[22-Feb-2026 01:53:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 01:53:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php on line 35
+[22-Feb-2026 03:10:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 03:10:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Vite.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Vite.php on line 32
+[22-Feb-2026 03:56:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 03:56:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php on line 23
+[22-Feb-2026 04:00:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:00:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php on line 23
+[22-Feb-2026 04:01:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:01:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php on line 52
+[22-Feb-2026 04:14:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:14:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php on line 50
+[22-Feb-2026 04:25:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:25:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php on line 44
+[22-Feb-2026 04:46:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:46:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php on line 62
+[22-Feb-2026 04:47:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:47:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php on line 60
+[22-Feb-2026 04:57:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:57:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php on line 85
+[22-Feb-2026 05:05:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 05:18:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 05:18:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php on line 135
+[22-Feb-2026 06:45:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 06:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php on line 60
+[22-Feb-2026 06:50:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 06:50:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php on line 70
+[22-Feb-2026 07:00:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 07:00:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php on line 86
+[22-Feb-2026 07:14:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 07:14:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php on line 20
+[22-Feb-2026 07:16:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 07:16:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php on line 36
+[22-Feb-2026 07:18:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 07:18:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php on line 24
+[22-Feb-2026 07:33:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 07:33:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php on line 22
+[22-Feb-2026 07:57:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 07:57:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php on line 28
+[22-Feb-2026 08:24:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 08:24:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php on line 185
+[22-Feb-2026 08:47:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 08:47:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Process.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Process.php on line 50
+[22-Feb-2026 09:33:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 09:33:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php on line 16
+[22-Feb-2026 09:42:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 09:42:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php on line 95
+[22-Feb-2026 10:29:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 10:29:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php on line 24
+[22-Feb-2026 10:30:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 10:30:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php on line 36
+[22-Feb-2026 10:46:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 10:46:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php on line 37

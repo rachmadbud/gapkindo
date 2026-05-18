@@ -1,0 +1,123 @@
+[27-Nov-2025 06:33:01 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php on line 25
+[27-Nov-2025 06:34:06 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php on line 25
+[06-Dec-2025 06:28:29 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php on line 25
+[06-Dec-2025 09:28:19 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php on line 25
+[10-Dec-2025 01:34:32 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php on line 25
+[10-Dec-2025 07:07:24 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php on line 25
+[11-Dec-2025 16:35:02 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php on line 25
+[11-Dec-2025 23:02:56 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php on line 25
+[17-Dec-2025 05:51:30 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php on line 25
+[17-Dec-2025 07:41:03 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php on line 25
+[18-Dec-2025 10:27:24 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php on line 25
+[18-Dec-2025 10:27:35 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php on line 25
+[21-Dec-2025 21:32:50 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php on line 25
+[22-Dec-2025 15:45:30 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php on line 25
+[25-Dec-2025 10:07:22 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php on line 25
+[25-Dec-2025 10:07:37 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php on line 25
+[13-Jan-2026 22:47:53 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php on line 25
+[14-Jan-2026 01:03:12 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php on line 25
+[18-Jan-2026 19:42:32 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php on line 25
+[19-Jan-2026 03:24:23 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php on line 25
+[19-Jan-2026 22:16:43 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php on line 25
+[20-Jan-2026 07:41:59 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php on line 25
+[23-Jan-2026 13:10:56 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php on line 25
+[27-Jan-2026 20:47:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 20:47:08 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php on line 25
+[02-Feb-2026 03:47:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 03:47:55 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php on line 25
+[05-Feb-2026 17:34:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 17:34:44 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php on line 25
+[11-Feb-2026 09:18:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 09:18:15 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php on line 25
+[11-Feb-2026 11:04:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 11:04:38 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Error.php on line 25
+[11-Feb-2026 14:33:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 10:35:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 10:35:00 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/graham-campbell/result-type/src/Success.php on line 25

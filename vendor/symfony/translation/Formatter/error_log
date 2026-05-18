@@ -1,0 +1,156 @@
+[31-Oct-2025 13:14:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[04-Nov-2025 08:26:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[16-Nov-2025 19:37:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[16-Nov-2025 19:38:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[27-Nov-2025 06:28:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[05-Dec-2025 06:44:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[05-Dec-2025 13:28:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[09-Dec-2025 00:58:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[09-Dec-2025 01:20:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[11-Dec-2025 16:22:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[12-Dec-2025 05:55:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[14-Dec-2025 01:07:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[14-Dec-2025 01:07:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[18-Dec-2025 11:51:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[18-Dec-2025 11:51:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[22-Dec-2025 07:26:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[22-Dec-2025 07:28:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[22-Dec-2025 09:31:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[05-Jan-2026 13:39:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[05-Jan-2026 13:39:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[07-Jan-2026 20:33:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[09-Jan-2026 06:24:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[18-Jan-2026 19:42:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[19-Jan-2026 12:23:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[22-Jan-2026 21:11:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[23-Jan-2026 22:55:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[23-Jan-2026 23:27:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[28-Jan-2026 01:11:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 01:11:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[30-Jan-2026 16:19:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 22:26:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 22:26:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 22:26:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 22:26:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[30-Jan-2026 22:27:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 22:27:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[31-Jan-2026 09:54:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 20:26:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 20:26:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[02-Feb-2026 20:26:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 20:26:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[05-Feb-2026 18:11:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 18:11:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[05-Feb-2026 23:21:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 00:44:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 00:44:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[06-Feb-2026 01:33:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 06:55:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 13:44:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 22:27:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 22:27:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23

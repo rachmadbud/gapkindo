@@ -1,0 +1,649 @@
+[01-Nov-2025 08:04:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php on line 11
+[01-Nov-2025 14:52:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php on line 8
+[03-Nov-2025 23:06:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php on line 9
+[04-Nov-2025 08:46:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php on line 11
+[04-Nov-2025 09:06:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php on line 9
+[29-Nov-2025 02:23:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php on line 9
+[29-Nov-2025 02:24:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php on line 11
+[29-Nov-2025 02:26:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php on line 8
+[29-Nov-2025 02:28:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php on line 10
+[29-Nov-2025 02:29:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php on line 11
+[29-Nov-2025 03:15:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php on line 10
+[29-Nov-2025 03:25:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php on line 9
+[29-Nov-2025 03:30:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php on line 9
+[29-Nov-2025 07:32:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php on line 10
+[29-Nov-2025 07:34:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php on line 9
+[29-Nov-2025 07:35:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php on line 11
+[29-Nov-2025 07:39:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php on line 11
+[29-Nov-2025 07:40:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php on line 8
+[29-Nov-2025 07:41:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php on line 10
+[29-Nov-2025 07:42:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php on line 9
+[29-Nov-2025 07:49:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php on line 9
+[30-Nov-2025 21:30:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php on line 11
+[04-Dec-2025 20:40:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php on line 8
+[04-Dec-2025 23:20:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php on line 9
+[06-Dec-2025 06:59:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php on line 9
+[10-Dec-2025 18:48:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php on line 11
+[10-Dec-2025 20:05:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php on line 9
+[11-Dec-2025 14:31:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php on line 10
+[13-Dec-2025 10:40:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php on line 11
+[13-Dec-2025 11:50:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php on line 8
+[13-Dec-2025 13:24:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php on line 10
+[13-Dec-2025 18:48:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php on line 10
+[13-Dec-2025 19:16:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php on line 9
+[13-Dec-2025 21:11:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php on line 11
+[13-Dec-2025 23:47:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php on line 9
+[14-Dec-2025 19:41:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php on line 10
+[14-Dec-2025 22:09:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php on line 9
+[15-Dec-2025 06:07:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php on line 11
+[15-Dec-2025 08:13:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php on line 9
+[15-Dec-2025 09:46:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php on line 11
+[15-Dec-2025 11:54:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php on line 10
+[15-Dec-2025 11:55:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php on line 9
+[15-Dec-2025 12:34:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php on line 8
+[15-Dec-2025 18:16:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php on line 8
+[15-Dec-2025 18:16:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php on line 9
+[15-Dec-2025 18:17:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php on line 9
+[15-Dec-2025 18:17:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php on line 10
+[15-Dec-2025 18:18:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php on line 11
+[15-Dec-2025 18:21:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php on line 9
+[15-Dec-2025 18:26:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php on line 10
+[15-Dec-2025 18:35:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php on line 11
+[18-Dec-2025 15:26:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php on line 9
+[18-Dec-2025 15:26:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php on line 11
+[18-Dec-2025 15:26:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php on line 10
+[18-Dec-2025 15:26:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php on line 11
+[18-Dec-2025 15:26:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php on line 9
+[18-Dec-2025 15:27:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php on line 8
+[18-Dec-2025 15:27:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php on line 10
+[18-Dec-2025 15:27:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php on line 9
+[20-Dec-2025 09:49:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php on line 10
+[24-Dec-2025 16:53:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php on line 9
+[24-Dec-2025 17:42:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php on line 8
+[24-Dec-2025 18:04:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php on line 10
+[25-Dec-2025 00:52:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php on line 11
+[25-Dec-2025 06:10:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php on line 9
+[25-Dec-2025 10:12:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php on line 10
+[25-Dec-2025 10:13:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php on line 9
+[25-Dec-2025 15:26:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php on line 11
+[26-Dec-2025 04:49:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php on line 9
+[05-Jan-2026 21:47:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php on line 11
+[05-Jan-2026 22:42:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php on line 9
+[05-Jan-2026 22:43:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php on line 9
+[05-Jan-2026 23:32:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php on line 10
+[06-Jan-2026 01:43:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php on line 9
+[19-Jan-2026 07:24:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php on line 11
+[20-Jan-2026 06:38:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php on line 8
+[20-Jan-2026 10:31:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php on line 9
+[20-Jan-2026 11:21:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php on line 9
+[20-Jan-2026 13:04:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php on line 11
+[20-Jan-2026 18:17:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php on line 10
+[20-Jan-2026 18:45:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php on line 10
+[20-Jan-2026 18:48:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php on line 9
+[20-Jan-2026 21:12:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php on line 11
+[21-Jan-2026 14:37:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php on line 11
+[21-Jan-2026 17:38:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php on line 10
+[21-Jan-2026 18:24:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php on line 9
+[22-Jan-2026 20:09:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php on line 9
+[23-Jan-2026 09:18:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php on line 8
+[24-Jan-2026 02:39:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php on line 11
+[24-Jan-2026 11:39:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php on line 10
+[24-Jan-2026 17:41:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php on line 11
+[24-Jan-2026 19:11:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php on line 9
+[25-Jan-2026 19:50:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php on line 10
+[26-Jan-2026 06:47:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php on line 11
+[26-Jan-2026 08:11:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php on line 9
+[26-Jan-2026 13:30:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php on line 8
+[26-Jan-2026 22:08:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php on line 9
+[26-Jan-2026 23:45:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php on line 10
+[27-Jan-2026 07:19:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 07:19:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php on line 11
+[29-Jan-2026 12:05:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 12:05:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php on line 9
+[29-Jan-2026 13:39:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 13:39:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php on line 9
+[29-Jan-2026 15:25:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 01:49:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 01:49:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php on line 9
+[30-Jan-2026 03:31:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 03:31:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php on line 10
+[30-Jan-2026 06:26:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 06:26:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php on line 8
+[31-Jan-2026 10:27:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 10:27:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php on line 8
+[31-Jan-2026 10:28:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 10:28:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php on line 11
+[31-Jan-2026 10:29:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 10:29:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php on line 9
+[31-Jan-2026 10:30:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 10:31:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 10:31:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php on line 11
+[31-Jan-2026 10:32:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 10:32:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php on line 10
+[31-Jan-2026 12:13:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 12:13:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php on line 10
+[31-Jan-2026 12:29:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 12:29:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php on line 9
+[31-Jan-2026 12:30:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 12:30:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php on line 9
+[31-Jan-2026 21:33:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 21:33:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php on line 8
+[31-Jan-2026 21:34:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 21:34:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php on line 9
+[31-Jan-2026 21:35:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 21:35:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php on line 11
+[31-Jan-2026 21:36:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 21:37:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 21:37:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php on line 11
+[31-Jan-2026 21:38:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 21:38:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php on line 10
+[31-Jan-2026 23:25:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 23:25:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php on line 10
+[31-Jan-2026 23:36:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 23:36:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php on line 9
+[31-Jan-2026 23:37:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 23:37:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php on line 9
+[01-Feb-2026 17:33:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 17:33:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php on line 9
+[01-Feb-2026 19:11:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:08:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:08:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php on line 11
+[03-Feb-2026 09:56:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:56:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php on line 9
+[03-Feb-2026 09:59:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 09:59:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php on line 9
+[03-Feb-2026 14:54:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 14:54:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php on line 8
+[03-Feb-2026 14:54:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 14:54:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php on line 11
+[03-Feb-2026 14:55:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 14:55:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php on line 9
+[03-Feb-2026 14:56:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 14:56:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php on line 11
+[03-Feb-2026 14:57:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 14:57:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php on line 10
+[03-Feb-2026 14:58:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 14:58:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php on line 10
+[03-Feb-2026 15:00:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 15:00:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php on line 9
+[03-Feb-2026 15:01:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 15:01:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php on line 9
+[03-Feb-2026 18:35:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 18:35:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php on line 10
+[03-Feb-2026 18:37:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:18:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:18:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php on line 9
+[04-Feb-2026 13:20:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:20:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php on line 8
+[04-Feb-2026 13:23:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:23:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php on line 10
+[05-Feb-2026 04:15:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 04:15:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php on line 11
+[16-Feb-2026 12:18:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 12:18:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddEnvironmentInformation.php on line 9
+[16-Feb-2026 15:05:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:05:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php on line 10
+[16-Feb-2026 16:37:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:37:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddLogs.php on line 9
+[16-Feb-2026 19:23:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 19:23:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php on line 8
+[16-Feb-2026 19:27:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:28:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:28:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionInformation.php on line 10
+[16-Feb-2026 21:59:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 21:59:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddExceptionHandledStatus.php on line 11
+[16-Feb-2026 23:16:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 23:16:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php on line 9
+[17-Feb-2026 10:14:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 10:14:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddContext.php on line 11
+[18-Feb-2026 12:32:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 12:32:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddJobs.php on line 9
+[19-Feb-2026 11:09:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 11:09:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddNotifierName.php on line 8
+[20-Feb-2026 17:46:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 08:13:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 08:13:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\FlareClient\FlareMiddleware\FlareMiddleware" not found in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/spatie/laravel-ignition/src/FlareMiddleware/AddDumps.php on line 10

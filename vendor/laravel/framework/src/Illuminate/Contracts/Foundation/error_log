@@ -1,0 +1,60 @@
+[18-Dec-2025 20:59:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php on line 7
+[19-Dec-2025 20:22:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php on line 7
+[21-Dec-2025 05:02:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php on line 7
+[02-Jan-2026 10:02:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php on line 7
+[26-Jan-2026 02:12:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php on line 7
+[27-Jan-2026 11:13:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 21:01:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 21:01:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php on line 7
+[27-Jan-2026 21:07:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 15:22:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 15:23:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 15:33:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 15:33:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php on line 7
+[01-Feb-2026 15:58:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 17:30:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 17:59:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 17:59:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 18:02:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 18:02:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php on line 7
+[01-Feb-2026 18:40:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 19:42:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 21:48:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 21:48:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 21:48:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 21:48:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 21:49:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 21:49:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php on line 7
+[13-Feb-2026 01:19:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 01:19:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 10:17:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 22:48:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 01:37:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:26:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

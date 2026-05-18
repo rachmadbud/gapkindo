@@ -1,0 +1,293 @@
+[31-Oct-2025 15:54:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php on line 9
+[31-Oct-2025 15:57:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php on line 9
+[29-Nov-2025 08:12:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php on line 9
+[29-Nov-2025 08:13:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php on line 9
+[29-Nov-2025 08:19:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php on line 9
+[29-Nov-2025 08:26:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9
+[13-Dec-2025 07:45:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php on line 9
+[13-Dec-2025 09:26:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php on line 9
+[13-Dec-2025 14:30:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9
+[13-Dec-2025 15:34:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php on line 9
+[14-Dec-2025 16:31:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php on line 9
+[14-Dec-2025 18:34:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php on line 9
+[15-Dec-2025 01:55:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9
+[18-Dec-2025 15:03:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php on line 9
+[18-Dec-2025 15:04:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9
+[18-Dec-2025 15:04:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php on line 9
+[18-Dec-2025 15:04:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php on line 9
+[19-Dec-2025 23:39:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php on line 9
+[19-Dec-2025 23:50:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php on line 9
+[19-Dec-2025 23:51:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php on line 9
+[20-Dec-2025 00:06:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9
+[23-Dec-2025 18:53:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php on line 9
+[23-Dec-2025 18:53:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php on line 9
+[23-Dec-2025 18:54:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php on line 9
+[23-Dec-2025 18:55:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9
+[24-Dec-2025 20:26:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php on line 9
+[25-Dec-2025 00:01:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php on line 9
+[25-Dec-2025 01:15:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9
+[25-Dec-2025 13:20:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php on line 9
+[02-Jan-2026 02:58:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php on line 9
+[02-Jan-2026 07:21:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php on line 9
+[02-Jan-2026 12:13:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9
+[02-Jan-2026 12:39:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php on line 9
+[18-Jan-2026 11:22:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9
+[20-Jan-2026 00:29:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php on line 9
+[20-Jan-2026 20:29:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php on line 9
+[20-Jan-2026 21:19:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php on line 9
+[23-Jan-2026 06:19:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php on line 9
+[24-Jan-2026 04:14:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php on line 9
+[24-Jan-2026 19:11:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9
+[25-Jan-2026 02:11:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php on line 9
+[25-Jan-2026 15:35:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php on line 9
+[25-Jan-2026 17:51:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php on line 9
+[25-Jan-2026 22:39:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php on line 9
+[26-Jan-2026 01:10:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9
+[27-Jan-2026 05:40:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 05:40:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php on line 9
+[29-Jan-2026 18:12:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 18:48:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 18:48:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php on line 9
+[31-Jan-2026 18:49:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 18:49:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php on line 9
+[31-Jan-2026 18:53:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 18:53:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php on line 9
+[31-Jan-2026 19:00:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 19:00:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9
+[31-Jan-2026 19:06:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 11:03:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 11:03:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php on line 9
+[03-Feb-2026 11:06:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 20:16:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 20:16:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php on line 9
+[04-Feb-2026 08:58:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 08:58:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9
+[05-Feb-2026 00:28:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 00:28:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php on line 9
+[05-Feb-2026 00:29:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 00:29:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php on line 9
+[05-Feb-2026 00:30:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 00:30:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php on line 9
+[05-Feb-2026 00:31:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 00:31:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9
+[13-Feb-2026 13:32:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 13:32:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php on line 9
+[13-Feb-2026 15:55:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 15:55:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9
+[13-Feb-2026 17:09:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 17:09:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9
+[13-Feb-2026 17:18:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 17:18:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php on line 9
+[15-Feb-2026 16:54:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 16:54:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9
+[17-Feb-2026 13:56:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 13:56:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9
+[18-Feb-2026 09:29:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 09:29:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9
+[19-Feb-2026 15:45:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 15:45:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9
+[20-Feb-2026 04:55:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 04:55:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9
+[21-Feb-2026 14:16:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 14:16:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php on line 9

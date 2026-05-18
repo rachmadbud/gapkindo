@@ -1,0 +1,84 @@
+[01-Nov-2025 06:02:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\GlobalLimit" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php on line 5
+[01-Nov-2025 06:06:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\Limit" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php on line 5
+[07-Dec-2025 06:24:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\Limit" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php on line 5
+[15-Dec-2025 22:25:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\GlobalLimit" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php on line 5
+[18-Dec-2025 21:50:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\Limit" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php on line 5
+[18-Dec-2025 21:50:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\GlobalLimit" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php on line 5
+[19-Dec-2025 18:13:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\Limit" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php on line 5
+[19-Dec-2025 19:30:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\GlobalLimit" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php on line 5
+[21-Dec-2025 02:29:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\GlobalLimit" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php on line 5
+[21-Dec-2025 05:57:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\Limit" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php on line 5
+[02-Feb-2026 01:06:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:06:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\GlobalLimit" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php on line 5
+[02-Feb-2026 01:07:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:07:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\Limit" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php on line 5
+[02-Feb-2026 02:26:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:38:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:38:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\GlobalLimit" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php on line 5
+[02-Feb-2026 02:39:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 02:39:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\Limit" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php on line 5
+[02-Feb-2026 04:05:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 18:06:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 18:06:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\GlobalLimit" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php on line 5
+[15-Feb-2026 18:07:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 19:24:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 19:24:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\Limit" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php on line 5
+[22-Feb-2026 03:44:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 03:44:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\Limit" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php on line 5
+[22-Feb-2026 04:11:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:11:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\GlobalLimit" not found in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php on line 5
+[22-Feb-2026 08:10:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

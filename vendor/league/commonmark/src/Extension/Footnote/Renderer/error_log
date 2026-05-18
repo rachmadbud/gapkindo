@@ -1,0 +1,218 @@
+[17-Dec-2025 03:15:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[18-Dec-2025 20:45:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[18-Dec-2025 20:45:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[18-Dec-2025 20:45:40 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[18-Dec-2025 20:45:45 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[19-Dec-2025 13:38:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[19-Dec-2025 22:03:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[20-Dec-2025 14:39:12 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[21-Dec-2025 00:30:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[21-Dec-2025 12:27:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[21-Dec-2025 12:28:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[21-Dec-2025 12:28:50 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[01-Jan-2026 19:18:26 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[02-Jan-2026 05:44:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[02-Jan-2026 10:14:17 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[02-Jan-2026 12:56:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[11-Jan-2026 04:59:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[11-Jan-2026 05:15:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[11-Jan-2026 05:29:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[21-Jan-2026 07:44:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[22-Jan-2026 01:49:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[23-Jan-2026 21:02:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[24-Jan-2026 22:58:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[25-Jan-2026 06:24:41 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[25-Jan-2026 10:28:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[25-Jan-2026 22:52:26 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[26-Jan-2026 12:49:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[28-Jan-2026 20:48:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 20:48:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[29-Jan-2026 18:51:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 18:51:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[31-Jan-2026 10:39:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 10:39:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[03-Feb-2026 15:52:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 15:52:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[03-Feb-2026 15:53:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 15:53:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[03-Feb-2026 15:54:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 15:54:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[03-Feb-2026 16:40:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 16:40:32 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[03-Feb-2026 20:11:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 20:11:12 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[03-Feb-2026 20:11:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 20:11:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[03-Feb-2026 20:36:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 20:36:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[03-Feb-2026 20:45:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[04-Feb-2026 15:46:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 15:46:26 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[05-Feb-2026 00:41:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 00:41:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[05-Feb-2026 00:42:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 00:42:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[05-Feb-2026 12:26:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 12:26:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[07-Feb-2026 18:29:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 18:29:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[19-Feb-2026 22:00:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 22:00:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[19-Feb-2026 22:03:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 22:03:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[19-Feb-2026 22:10:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 22:10:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[19-Feb-2026 22:24:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 22:24:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[22-Feb-2026 02:06:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 02:06:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[22-Feb-2026 09:26:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 09:26:46 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26

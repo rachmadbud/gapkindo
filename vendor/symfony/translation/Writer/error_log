@@ -1,0 +1,67 @@
+[27-Nov-2025 06:43:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Writer\TranslationWriterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php on line 24
+[05-Dec-2025 19:35:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Writer\TranslationWriterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php on line 24
+[09-Dec-2025 02:02:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Writer\TranslationWriterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php on line 24
+[14-Dec-2025 00:05:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Writer\TranslationWriterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php on line 24
+[18-Dec-2025 11:51:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Writer\TranslationWriterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php on line 24
+[22-Dec-2025 05:23:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Writer\TranslationWriterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php on line 24
+[05-Jan-2026 11:14:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Writer\TranslationWriterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php on line 24
+[07-Jan-2026 12:02:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Writer\TranslationWriterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php on line 24
+[18-Jan-2026 08:52:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Writer\TranslationWriterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php on line 24
+[20-Jan-2026 10:47:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Writer\TranslationWriterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php on line 24
+[23-Jan-2026 16:37:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Writer\TranslationWriterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php on line 24
+[31-Jan-2026 01:54:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:54:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Writer\TranslationWriterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php on line 24
+[31-Jan-2026 01:55:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 09:55:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 05:44:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 05:44:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Writer\TranslationWriterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php on line 24
+[02-Feb-2026 22:25:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 22:25:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Writer\TranslationWriterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php on line 24
+[06-Feb-2026 00:40:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 00:40:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Writer\TranslationWriterInterface" not found in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/translation/Writer/TranslationWriter.php on line 24
+[06-Feb-2026 05:38:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0

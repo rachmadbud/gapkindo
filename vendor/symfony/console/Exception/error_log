@@ -1,0 +1,818 @@
+[31-Oct-2025 03:27:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[31-Oct-2025 03:29:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[31-Oct-2025 09:32:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[31-Oct-2025 21:57:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[17-Nov-2025 07:53:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[17-Nov-2025 07:54:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[17-Nov-2025 07:55:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[17-Nov-2025 07:57:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[05-Dec-2025 14:05:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[05-Dec-2025 23:42:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[09-Dec-2025 23:50:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[09-Dec-2025 23:53:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[10-Dec-2025 00:08:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[10-Dec-2025 00:10:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[10-Dec-2025 00:37:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[10-Dec-2025 00:42:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[10-Dec-2025 04:23:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[10-Dec-2025 04:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[10-Dec-2025 04:24:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[10-Dec-2025 04:26:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[10-Dec-2025 04:29:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[10-Dec-2025 04:35:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[10-Dec-2025 04:47:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[10-Dec-2025 06:07:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[10-Dec-2025 07:14:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[10-Dec-2025 20:09:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[11-Dec-2025 19:33:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[11-Dec-2025 23:28:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[11-Dec-2025 23:29:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[12-Dec-2025 05:28:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[12-Dec-2025 07:56:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[12-Dec-2025 08:50:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[12-Dec-2025 08:51:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[14-Dec-2025 00:03:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[14-Dec-2025 00:33:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[14-Dec-2025 01:54:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[14-Dec-2025 02:16:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[14-Dec-2025 02:38:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[14-Dec-2025 02:38:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[14-Dec-2025 02:56:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[14-Dec-2025 02:56:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[18-Dec-2025 12:29:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[18-Dec-2025 12:29:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[18-Dec-2025 12:29:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[18-Dec-2025 12:29:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[18-Dec-2025 12:29:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[18-Dec-2025 12:29:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[18-Dec-2025 12:30:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[18-Dec-2025 12:30:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[20-Dec-2025 10:14:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[20-Dec-2025 12:03:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[21-Dec-2025 00:39:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[21-Dec-2025 23:01:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[22-Dec-2025 01:15:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[22-Dec-2025 03:32:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[22-Dec-2025 06:38:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[22-Dec-2025 08:04:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[22-Dec-2025 08:05:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[22-Dec-2025 11:40:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[22-Dec-2025 15:05:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[22-Dec-2025 16:19:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[01-Jan-2026 08:17:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[02-Jan-2026 05:07:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[04-Jan-2026 15:59:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[04-Jan-2026 18:04:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[05-Jan-2026 11:14:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[05-Jan-2026 12:15:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[05-Jan-2026 14:07:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[05-Jan-2026 16:14:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[05-Jan-2026 16:48:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[05-Jan-2026 17:57:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[05-Jan-2026 18:07:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[05-Jan-2026 19:24:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[05-Jan-2026 19:25:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[05-Jan-2026 20:20:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[05-Jan-2026 20:20:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[07-Jan-2026 01:10:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[07-Jan-2026 19:43:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[08-Jan-2026 23:15:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[11-Jan-2026 03:16:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[12-Jan-2026 08:41:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[12-Jan-2026 19:24:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[12-Jan-2026 22:38:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[13-Jan-2026 20:20:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[13-Jan-2026 21:25:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[13-Jan-2026 22:16:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[13-Jan-2026 23:22:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[14-Jan-2026 00:50:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[14-Jan-2026 04:49:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[14-Jan-2026 05:21:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[14-Jan-2026 05:21:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[14-Jan-2026 07:48:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[14-Jan-2026 10:15:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[14-Jan-2026 22:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[15-Jan-2026 17:32:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[15-Jan-2026 19:44:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[16-Jan-2026 06:20:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[16-Jan-2026 06:51:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[16-Jan-2026 11:16:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[16-Jan-2026 13:38:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[16-Jan-2026 15:20:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[16-Jan-2026 22:32:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[17-Jan-2026 03:21:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[17-Jan-2026 08:27:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[17-Jan-2026 08:33:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[17-Jan-2026 13:18:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[17-Jan-2026 13:18:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[17-Jan-2026 15:48:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[17-Jan-2026 18:16:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[18-Jan-2026 03:11:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[18-Jan-2026 09:26:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[18-Jan-2026 14:04:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[18-Jan-2026 22:28:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[19-Jan-2026 05:36:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[20-Jan-2026 14:44:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[20-Jan-2026 22:03:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[22-Jan-2026 19:07:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[23-Jan-2026 00:52:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[23-Jan-2026 03:02:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[23-Jan-2026 05:40:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[23-Jan-2026 05:42:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[25-Jan-2026 16:59:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[28-Jan-2026 07:30:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 07:30:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[31-Jan-2026 00:52:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 00:52:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[31-Jan-2026 00:54:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 00:54:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[31-Jan-2026 12:40:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 12:40:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[31-Jan-2026 12:41:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 12:41:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[31-Jan-2026 12:42:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 12:42:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[31-Jan-2026 12:43:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 12:43:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[31-Jan-2026 12:44:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 12:44:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[31-Jan-2026 12:45:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 12:45:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[31-Jan-2026 12:46:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 12:46:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[31-Jan-2026 13:03:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 13:03:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[31-Jan-2026 13:07:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 17:16:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 17:16:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[01-Feb-2026 13:23:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 13:23:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[02-Feb-2026 05:41:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 05:41:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[02-Feb-2026 08:39:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 21:27:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 21:27:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[02-Feb-2026 21:28:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 21:28:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[02-Feb-2026 21:29:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 21:29:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[02-Feb-2026 21:30:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 21:30:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[02-Feb-2026 21:38:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 21:38:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[02-Feb-2026 21:43:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 21:43:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[02-Feb-2026 21:46:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 21:46:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[02-Feb-2026 21:49:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 21:49:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[02-Feb-2026 22:37:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 22:37:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[02-Feb-2026 22:38:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 22:38:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[03-Feb-2026 20:17:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 20:17:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[04-Feb-2026 07:42:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 07:42:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[04-Feb-2026 11:57:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 11:57:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[04-Feb-2026 16:44:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:44:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[05-Feb-2026 15:24:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 15:24:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[06-Feb-2026 19:17:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 19:17:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[07-Feb-2026 04:25:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 06:29:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 06:29:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[08-Feb-2026 10:59:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 10:59:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[08-Feb-2026 20:09:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 20:09:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[08-Feb-2026 20:57:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 20:57:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[09-Feb-2026 01:33:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 01:33:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[09-Feb-2026 07:10:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 07:10:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[09-Feb-2026 20:35:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 20:35:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[09-Feb-2026 23:24:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[09-Feb-2026 23:24:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[10-Feb-2026 02:05:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 02:05:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[10-Feb-2026 03:48:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 03:48:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[10-Feb-2026 09:12:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 09:12:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[10-Feb-2026 19:26:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 19:26:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[10-Feb-2026 21:12:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 21:12:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[11-Feb-2026 02:03:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 02:03:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[11-Feb-2026 04:18:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 04:18:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[11-Feb-2026 04:19:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 04:19:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[11-Feb-2026 04:21:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 04:21:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[11-Feb-2026 06:56:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 06:56:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[11-Feb-2026 07:34:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 08:18:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 08:18:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[11-Feb-2026 09:08:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 09:08:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[11-Feb-2026 11:58:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 11:58:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[12-Feb-2026 13:28:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 13:28:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[12-Feb-2026 14:15:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 14:15:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[12-Feb-2026 23:57:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 23:57:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[13-Feb-2026 09:07:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 09:07:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[13-Feb-2026 09:48:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 09:48:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[13-Feb-2026 10:01:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 10:16:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 10:16:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[14-Feb-2026 03:05:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 03:05:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[14-Feb-2026 13:49:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 13:49:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[14-Feb-2026 23:58:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 23:58:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[15-Feb-2026 20:29:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 20:29:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[16-Feb-2026 16:41:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:41:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[16-Feb-2026 21:55:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 21:55:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[16-Feb-2026 22:21:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:21:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[17-Feb-2026 23:03:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 23:03:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Exception/LogicException.php on line 17

@@ -1,0 +1,683 @@
+[31-Oct-2025 23:00:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php on line 19
+[01-Nov-2025 01:52:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[01-Nov-2025 04:02:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php on line 21
+[01-Nov-2025 04:14:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php on line 21
+[01-Nov-2025 05:00:10 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 22
+[01-Nov-2025 05:57:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php on line 24
+[01-Nov-2025 15:08:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php on line 25
+[01-Nov-2025 17:27:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php on line 22
+[03-Nov-2025 18:55:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php on line 19
+[03-Nov-2025 18:59:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php on line 27
+[04-Nov-2025 01:19:17 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php on line 22
+[04-Nov-2025 04:01:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php on line 21
+[17-Dec-2025 16:06:14 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php on line 22
+[17-Dec-2025 17:21:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php on line 24
+[17-Dec-2025 18:15:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php on line 30
+[17-Dec-2025 20:50:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php on line 19
+[17-Dec-2025 21:09:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php on line 19
+[17-Dec-2025 22:41:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php on line 25
+[17-Dec-2025 22:41:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[18-Dec-2025 01:18:01 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 22
+[18-Dec-2025 01:18:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php on line 22
+[18-Dec-2025 06:03:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php on line 21
+[18-Dec-2025 06:03:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php on line 22
+[18-Dec-2025 07:39:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php on line 27
+[18-Dec-2025 10:29:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php on line 21
+[20-Dec-2025 05:03:55 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 22
+[27-Dec-2025 07:26:05 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 22
+[27-Dec-2025 18:00:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php on line 22
+[27-Dec-2025 18:58:12 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 22
+[27-Dec-2025 18:59:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[27-Dec-2025 19:20:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php on line 22
+[27-Dec-2025 20:53:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php on line 19
+[27-Dec-2025 20:55:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php on line 30
+[28-Dec-2025 01:07:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php on line 25
+[28-Dec-2025 06:21:05 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php on line 22
+[28-Dec-2025 06:22:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php on line 19
+[28-Dec-2025 07:51:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php on line 27
+[28-Dec-2025 07:52:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php on line 24
+[28-Dec-2025 09:01:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php on line 21
+[28-Dec-2025 11:13:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php on line 21
+[28-Dec-2025 11:15:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php on line 21
+[03-Jan-2026 14:31:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[05-Jan-2026 19:55:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php on line 22
+[05-Jan-2026 20:47:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php on line 21
+[05-Jan-2026 20:47:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php on line 25
+[05-Jan-2026 21:41:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php on line 22
+[05-Jan-2026 21:41:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php on line 19
+[05-Jan-2026 21:42:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php on line 19
+[05-Jan-2026 22:33:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php on line 21
+[05-Jan-2026 22:33:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php on line 24
+[05-Jan-2026 22:34:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php on line 30
+[06-Jan-2026 00:22:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php on line 27
+[06-Jan-2026 01:03:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php on line 21
+[06-Jan-2026 01:03:21 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 22
+[06-Jan-2026 02:07:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[06-Jan-2026 02:08:10 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php on line 22
+[06-Jan-2026 04:07:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php on line 30
+[06-Jan-2026 07:20:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php on line 21
+[06-Jan-2026 07:31:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php on line 25
+[06-Jan-2026 10:53:18 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 22
+[06-Jan-2026 11:17:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php on line 21
+[07-Jan-2026 00:21:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php on line 27
+[07-Jan-2026 00:22:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php on line 19
+[07-Jan-2026 01:58:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php on line 22
+[07-Jan-2026 03:11:28 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php on line 22
+[07-Jan-2026 13:18:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php on line 22
+[07-Jan-2026 13:26:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php on line 24
+[07-Jan-2026 16:15:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php on line 21
+[07-Jan-2026 19:13:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php on line 19
+[07-Jan-2026 21:15:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[18-Jan-2026 03:28:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php on line 22
+[18-Jan-2026 07:08:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php on line 21
+[18-Jan-2026 07:10:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php on line 25
+[22-Jan-2026 00:33:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[22-Jan-2026 18:22:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[23-Jan-2026 05:32:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[23-Jan-2026 15:57:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[26-Jan-2026 04:54:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[26-Jan-2026 23:57:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[27-Jan-2026 07:21:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 09:33:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 09:33:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php on line 22
+[27-Jan-2026 17:50:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 17:50:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php on line 19
+[27-Jan-2026 18:32:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 18:32:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php on line 21
+[27-Jan-2026 19:17:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 19:17:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[27-Jan-2026 20:59:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[27-Jan-2026 20:59:58 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php on line 22
+[28-Jan-2026 20:41:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 20:41:39 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php on line 22
+[28-Jan-2026 20:41:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 20:41:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php on line 21
+[28-Jan-2026 20:42:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 20:42:35 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 22
+[28-Jan-2026 20:42:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 20:42:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php on line 21
+[28-Jan-2026 20:43:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[28-Jan-2026 20:43:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php on line 21
+[30-Jan-2026 02:09:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 02:09:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php on line 24
+[30-Jan-2026 03:43:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 03:43:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[30-Jan-2026 10:19:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 10:19:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php on line 21
+[30-Jan-2026 18:26:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 18:26:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php on line 30
+[30-Jan-2026 19:25:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 19:25:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[31-Jan-2026 03:35:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 03:35:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[31-Jan-2026 06:30:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 06:30:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[31-Jan-2026 09:03:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 09:03:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php on line 19
+[31-Jan-2026 10:32:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 10:32:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php on line 30
+[31-Jan-2026 11:21:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 11:21:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php on line 25
+[31-Jan-2026 12:50:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 12:50:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php on line 19
+[31-Jan-2026 18:06:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 18:06:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[31-Jan-2026 19:07:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 19:07:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[31-Jan-2026 20:14:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 20:14:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[31-Jan-2026 21:14:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 21:14:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[31-Jan-2026 22:11:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 22:11:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[01-Feb-2026 05:34:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 05:34:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[01-Feb-2026 11:42:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 11:42:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[01-Feb-2026 15:14:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 15:14:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php on line 27
+[01-Feb-2026 16:05:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 16:05:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php on line 22
+[01-Feb-2026 18:07:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 18:07:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[02-Feb-2026 04:35:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:35:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[02-Feb-2026 10:56:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:56:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[02-Feb-2026 15:24:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:24:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[02-Feb-2026 20:13:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 20:13:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php on line 22
+[02-Feb-2026 23:31:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 23:31:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php on line 21
+[02-Feb-2026 23:34:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 23:34:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php on line 25
+[03-Feb-2026 03:42:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 03:42:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php on line 19
+[03-Feb-2026 03:45:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 03:45:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php on line 19
+[03-Feb-2026 08:33:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 08:33:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php on line 21
+[03-Feb-2026 08:35:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 08:35:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php on line 24
+[03-Feb-2026 23:45:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 23:45:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php on line 27
+[04-Feb-2026 06:40:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 06:40:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php on line 21
+[04-Feb-2026 06:43:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 06:43:05 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 22
+[04-Feb-2026 13:22:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 13:22:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php on line 25
+[04-Feb-2026 17:56:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 17:56:49 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 22
+[04-Feb-2026 18:44:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 18:44:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php on line 27
+[04-Feb-2026 18:56:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 18:56:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[04-Feb-2026 18:58:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 18:58:40 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php on line 22
+[04-Feb-2026 19:36:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 19:36:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php on line 27
+[05-Feb-2026 02:19:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 02:19:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php on line 21
+[05-Feb-2026 02:35:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 02:35:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php on line 24
+[05-Feb-2026 12:08:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 12:08:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php on line 22
+[05-Feb-2026 13:10:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 16:06:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 16:06:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php on line 25
+[07-Feb-2026 20:36:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 20:36:03 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 22
+[07-Feb-2026 21:26:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 21:26:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php on line 27
+[08-Feb-2026 03:34:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 03:34:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php on line 22
+[08-Feb-2026 14:27:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 14:27:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php on line 19
+[10-Feb-2026 14:30:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 14:30:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[10-Feb-2026 21:47:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 21:47:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[14-Feb-2026 00:00:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 00:00:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[14-Feb-2026 02:35:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 02:35:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[14-Feb-2026 06:54:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 06:54:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[14-Feb-2026 09:09:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:09:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[14-Feb-2026 10:44:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 10:44:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[14-Feb-2026 12:26:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 12:26:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[14-Feb-2026 17:28:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 17:28:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[14-Feb-2026 20:59:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 20:59:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[15-Feb-2026 05:13:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 05:13:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[15-Feb-2026 10:34:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 10:34:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[15-Feb-2026 21:37:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:37:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[15-Feb-2026 21:38:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 21:38:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[19-Feb-2026 23:53:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 23:53:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24

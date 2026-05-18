@@ -1,0 +1,60 @@
+[29-Nov-2025 04:36:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php on line 17
+[13-Dec-2025 20:26:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php on line 17
+[15-Dec-2025 14:28:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php on line 17
+[18-Dec-2025 14:53:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php on line 17
+[19-Dec-2025 23:19:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php on line 17
+[24-Dec-2025 18:12:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php on line 17
+[30-Dec-2025 10:33:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php on line 17
+[15-Jan-2026 19:07:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php on line 17
+[20-Jan-2026 07:43:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php on line 17
+[22-Jan-2026 04:14:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php on line 17
+[31-Jan-2026 20:16:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 20:16:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php on line 17
+[01-Feb-2026 04:47:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 04:47:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php on line 17
+[03-Feb-2026 05:25:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:25:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php on line 17
+[16-Feb-2026 23:12:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 23:12:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php on line 17

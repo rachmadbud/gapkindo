@@ -1,0 +1,97 @@
+[16-Nov-2025 21:56:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php on line 20
+[09-Dec-2025 20:13:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php on line 20
+[09-Dec-2025 20:13:32 UTC] PHP Warning:  Class "Symfony\Contracts\Service\Test\ServiceLocatorTestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTest.php on line 14
+[10-Dec-2025 03:23:36 UTC] PHP Warning:  Class "Symfony\Contracts\Service\Test\ServiceLocatorTestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTest.php on line 14
+[10-Dec-2025 08:09:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php on line 20
+[12-Dec-2025 09:24:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php on line 20
+[12-Dec-2025 15:38:29 UTC] PHP Warning:  Class "Symfony\Contracts\Service\Test\ServiceLocatorTestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTest.php on line 14
+[14-Dec-2025 00:28:43 UTC] PHP Warning:  Class "Symfony\Contracts\Service\Test\ServiceLocatorTestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTest.php on line 14
+[14-Dec-2025 01:29:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php on line 20
+[18-Dec-2025 11:23:15 UTC] PHP Warning:  Class "Symfony\Contracts\Service\Test\ServiceLocatorTestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTest.php on line 14
+[18-Dec-2025 11:23:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php on line 20
+[22-Dec-2025 07:25:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php on line 20
+[22-Dec-2025 15:32:15 UTC] PHP Warning:  Class "Symfony\Contracts\Service\Test\ServiceLocatorTestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTest.php on line 14
+[25-Dec-2025 12:12:04 UTC] PHP Warning:  Class "Symfony\Contracts\Service\Test\ServiceLocatorTestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTest.php on line 14
+[30-Dec-2025 10:55:15 UTC] PHP Warning:  Class "Symfony\Contracts\Service\Test\ServiceLocatorTestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTest.php on line 14
+[02-Jan-2026 04:48:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php on line 20
+[05-Jan-2026 14:49:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php on line 20
+[10-Jan-2026 13:53:18 UTC] PHP Warning:  Class "Symfony\Contracts\Service\Test\ServiceLocatorTestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTest.php on line 14
+[14-Jan-2026 03:55:04 UTC] PHP Warning:  Class "Symfony\Contracts\Service\Test\ServiceLocatorTestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTest.php on line 14
+[14-Jan-2026 08:11:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php on line 20
+[17-Jan-2026 13:29:06 UTC] PHP Warning:  Class "Symfony\Contracts\Service\Test\ServiceLocatorTestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTest.php on line 14
+[19-Jan-2026 02:32:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php on line 20
+[20-Jan-2026 10:45:58 UTC] PHP Warning:  Class "Symfony\Contracts\Service\Test\ServiceLocatorTestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTest.php on line 14
+[22-Jan-2026 09:21:10 UTC] PHP Warning:  Class "Symfony\Contracts\Service\Test\ServiceLocatorTestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTest.php on line 14
+[23-Jan-2026 10:15:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php on line 20
+[23-Jan-2026 16:33:18 UTC] PHP Warning:  Class "Symfony\Contracts\Service\Test\ServiceLocatorTestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTest.php on line 14
+[26-Jan-2026 14:16:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php on line 20
+[31-Jan-2026 11:08:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 11:08:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php on line 20
+[31-Jan-2026 11:09:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 11:09:19 UTC] PHP Warning:  Class "Symfony\Contracts\Service\Test\ServiceLocatorTestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTest.php on line 14
+[01-Feb-2026 19:51:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 19:51:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php on line 20
+[02-Feb-2026 10:48:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 10:48:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php on line 20
+[07-Feb-2026 04:35:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 04:35:07 UTC] PHP Warning:  Class "Symfony\Contracts\Service\Test\ServiceLocatorTestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTest.php on line 14
+[11-Feb-2026 12:13:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 12:13:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php on line 20
+[11-Feb-2026 12:24:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[11-Feb-2026 12:24:31 UTC] PHP Warning:  Class "Symfony\Contracts\Service\Test\ServiceLocatorTestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTest.php on line 14
+[13-Feb-2026 08:09:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 08:09:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTestCase.php on line 20

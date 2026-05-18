@@ -1,0 +1,59 @@
+[18-Dec-2025 22:57:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php on line 29
+[19-Dec-2025 16:34:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php on line 29
+[20-Dec-2025 20:31:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php on line 29
+[31-Dec-2025 10:56:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php on line 29
+[14-Jan-2026 21:51:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php on line 29
+[25-Jan-2026 21:48:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php on line 29
+[03-Feb-2026 17:18:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 17:18:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php on line 29
+[03-Feb-2026 20:39:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 20:39:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php on line 29
+[04-Feb-2026 09:41:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 09:41:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php on line 29
+[12-Feb-2026 12:39:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 12:39:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php on line 29
+[15-Feb-2026 15:56:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[15-Feb-2026 15:56:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php on line 29
+[21-Feb-2026 14:01:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 14:01:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php on line 29
+[22-Feb-2026 01:35:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 01:35:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php on line 29

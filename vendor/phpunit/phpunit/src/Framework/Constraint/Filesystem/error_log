@@ -1,0 +1,144 @@
+[31-Oct-2025 23:42:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php on line 18
+[01-Nov-2025 04:50:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/DirectoryExists.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/DirectoryExists.php on line 18
+[20-Dec-2025 16:18:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsReadable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsReadable.php on line 18
+[20-Dec-2025 16:19:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php on line 18
+[21-Dec-2025 00:42:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/DirectoryExists.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/DirectoryExists.php on line 18
+[21-Dec-2025 08:26:16 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/FileExists.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/FileExists.php on line 18
+[31-Dec-2025 11:31:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/FileExists.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/FileExists.php on line 18
+[31-Dec-2025 12:07:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsReadable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsReadable.php on line 18
+[31-Dec-2025 12:07:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php on line 18
+[31-Dec-2025 12:07:58 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/DirectoryExists.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/DirectoryExists.php on line 18
+[01-Jan-2026 16:20:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/DirectoryExists.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/DirectoryExists.php on line 18
+[01-Jan-2026 18:27:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsReadable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsReadable.php on line 18
+[02-Jan-2026 01:59:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/FileExists.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/FileExists.php on line 18
+[02-Jan-2026 02:16:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php on line 18
+[17-Jan-2026 13:49:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php on line 18
+[18-Jan-2026 11:28:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php on line 18
+[19-Jan-2026 12:38:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php on line 18
+[24-Jan-2026 12:06:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/DirectoryExists.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/DirectoryExists.php on line 18
+[24-Jan-2026 19:20:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsReadable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsReadable.php on line 18
+[25-Jan-2026 00:21:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/FileExists.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/FileExists.php on line 18
+[25-Jan-2026 02:03:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php on line 18
+[01-Feb-2026 03:30:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 03:30:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/DirectoryExists.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/DirectoryExists.php on line 18
+[03-Feb-2026 19:40:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 19:40:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsReadable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsReadable.php on line 18
+[04-Feb-2026 20:30:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 20:30:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsReadable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsReadable.php on line 18
+[04-Feb-2026 20:33:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 20:33:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php on line 18
+[04-Feb-2026 20:36:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 20:36:00 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/DirectoryExists.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/DirectoryExists.php on line 18
+[05-Feb-2026 06:52:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 06:52:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsReadable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsReadable.php on line 18
+[12-Feb-2026 13:25:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 13:25:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php on line 18
+[14-Feb-2026 20:24:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 20:24:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsWritable.php on line 18
+[14-Feb-2026 20:26:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 20:26:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsReadable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/IsReadable.php on line 18
+[14-Feb-2026 22:22:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 22:22:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/FileExists.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/FileExists.php on line 18
+[14-Feb-2026 23:09:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 23:09:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/DirectoryExists.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/DirectoryExists.php on line 18
+[21-Feb-2026 05:03:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 05:03:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/FileExists.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Filesystem/FileExists.php on line 18

@@ -1,0 +1,2113 @@
+[13-Dec-2025 23:59:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php on line 5
+[16-Dec-2025 13:13:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php on line 5
+[16-Dec-2025 13:36:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php on line 5
+[16-Dec-2025 13:47:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php on line 5
+[16-Dec-2025 14:47:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php on line 5
+[16-Dec-2025 14:55:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php on line 5
+[16-Dec-2025 15:28:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php on line 5
+[16-Dec-2025 15:30:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php on line 5
+[16-Dec-2025 15:46:34 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php on line 5
+[16-Dec-2025 15:46:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php on line 5
+[16-Dec-2025 16:24:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php on line 5
+[16-Dec-2025 16:26:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php on line 5
+[16-Dec-2025 16:50:18 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\NoDNSRecord" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php on line 8
+[16-Dec-2025 17:22:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php on line 5
+[16-Dec-2025 17:26:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php on line 5
+[16-Dec-2025 17:35:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php on line 5
+[16-Dec-2025 17:50:05 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php on line 5
+[16-Dec-2025 18:09:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php on line 5
+[16-Dec-2025 18:23:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php on line 5
+[16-Dec-2025 19:20:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php on line 5
+[16-Dec-2025 19:24:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php on line 5
+[16-Dec-2025 20:30:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php on line 5
+[16-Dec-2025 20:34:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php on line 5
+[16-Dec-2025 20:40:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php on line 5
+[16-Dec-2025 21:25:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php on line 5
+[16-Dec-2025 21:33:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php on line 5
+[16-Dec-2025 21:50:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php on line 5
+[16-Dec-2025 22:26:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php on line 5
+[16-Dec-2025 22:57:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php on line 5
+[16-Dec-2025 23:24:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php on line 5
+[17-Dec-2025 00:47:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php on line 5
+[17-Dec-2025 01:11:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php on line 5
+[17-Dec-2025 03:40:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php on line 5
+[17-Dec-2025 17:58:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php on line 5
+[17-Dec-2025 18:56:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php on line 5
+[17-Dec-2025 18:57:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php on line 5
+[17-Dec-2025 19:39:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php on line 5
+[17-Dec-2025 19:40:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php on line 5
+[17-Dec-2025 19:40:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php on line 5
+[17-Dec-2025 20:28:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php on line 5
+[17-Dec-2025 21:52:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php on line 5
+[17-Dec-2025 22:19:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php on line 5
+[17-Dec-2025 22:19:43 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php on line 5
+[17-Dec-2025 22:20:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php on line 5
+[17-Dec-2025 23:32:05 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php on line 5
+[17-Dec-2025 23:32:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php on line 5
+[18-Dec-2025 02:55:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php on line 5
+[18-Dec-2025 02:55:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php on line 5
+[18-Dec-2025 02:56:24 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\NoDNSRecord" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php on line 8
+[18-Dec-2025 05:15:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php on line 5
+[18-Dec-2025 06:39:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php on line 5
+[18-Dec-2025 06:39:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php on line 5
+[18-Dec-2025 06:40:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php on line 5
+[18-Dec-2025 06:40:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php on line 5
+[18-Dec-2025 06:41:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php on line 5
+[18-Dec-2025 06:41:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php on line 5
+[18-Dec-2025 09:05:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php on line 5
+[18-Dec-2025 09:06:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php on line 5
+[18-Dec-2025 09:06:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php on line 5
+[18-Dec-2025 10:09:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php on line 5
+[18-Dec-2025 12:38:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php on line 5
+[18-Dec-2025 12:39:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php on line 5
+[18-Dec-2025 14:28:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php on line 5
+[18-Dec-2025 16:14:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php on line 5
+[18-Dec-2025 16:14:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php on line 5
+[18-Dec-2025 16:15:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php on line 5
+[18-Dec-2025 16:15:15 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php on line 5
+[18-Dec-2025 16:15:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php on line 5
+[18-Dec-2025 16:15:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php on line 5
+[18-Dec-2025 16:15:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php on line 5
+[18-Dec-2025 16:15:45 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\NoDNSRecord" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php on line 8
+[18-Dec-2025 16:15:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php on line 5
+[18-Dec-2025 16:16:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php on line 5
+[18-Dec-2025 16:16:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php on line 5
+[18-Dec-2025 16:16:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php on line 5
+[18-Dec-2025 16:16:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php on line 5
+[18-Dec-2025 16:16:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php on line 5
+[18-Dec-2025 16:16:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php on line 5
+[18-Dec-2025 16:16:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php on line 5
+[18-Dec-2025 16:16:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php on line 5
+[18-Dec-2025 16:16:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php on line 5
+[18-Dec-2025 16:16:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php on line 5
+[18-Dec-2025 16:17:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php on line 5
+[18-Dec-2025 16:17:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php on line 5
+[18-Dec-2025 16:17:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php on line 5
+[18-Dec-2025 16:17:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php on line 5
+[18-Dec-2025 16:17:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php on line 5
+[18-Dec-2025 16:17:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php on line 5
+[18-Dec-2025 16:17:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php on line 5
+[18-Dec-2025 16:17:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php on line 5
+[18-Dec-2025 16:18:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php on line 5
+[18-Dec-2025 16:18:13 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php on line 5
+[18-Dec-2025 16:18:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php on line 5
+[18-Dec-2025 16:18:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php on line 5
+[18-Dec-2025 16:18:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php on line 5
+[18-Dec-2025 16:18:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php on line 5
+[25-Dec-2025 18:55:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php on line 5
+[25-Dec-2025 19:11:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php on line 5
+[25-Dec-2025 19:11:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php on line 5
+[25-Dec-2025 19:25:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php on line 5
+[25-Dec-2025 19:26:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php on line 5
+[25-Dec-2025 19:26:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php on line 5
+[25-Dec-2025 19:26:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php on line 5
+[25-Dec-2025 19:26:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php on line 5
+[25-Dec-2025 19:27:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php on line 5
+[25-Dec-2025 19:27:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php on line 5
+[25-Dec-2025 19:27:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php on line 5
+[25-Dec-2025 19:27:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php on line 5
+[25-Dec-2025 19:36:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php on line 5
+[25-Dec-2025 19:37:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php on line 5
+[25-Dec-2025 19:37:18 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php on line 5
+[25-Dec-2025 19:37:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php on line 5
+[25-Dec-2025 19:37:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php on line 5
+[25-Dec-2025 19:38:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php on line 5
+[25-Dec-2025 19:38:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php on line 5
+[25-Dec-2025 19:38:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php on line 5
+[25-Dec-2025 19:47:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php on line 5
+[25-Dec-2025 19:47:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php on line 5
+[25-Dec-2025 19:52:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php on line 5
+[25-Dec-2025 19:52:53 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php on line 5
+[25-Dec-2025 19:53:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php on line 5
+[25-Dec-2025 19:57:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php on line 5
+[25-Dec-2025 19:59:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php on line 5
+[25-Dec-2025 19:59:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php on line 5
+[25-Dec-2025 19:59:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php on line 5
+[25-Dec-2025 19:59:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php on line 5
+[25-Dec-2025 20:00:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php on line 5
+[25-Dec-2025 20:01:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php on line 5
+[25-Dec-2025 20:04:35 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\NoDNSRecord" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php on line 8
+[27-Dec-2025 16:42:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php on line 5
+[27-Dec-2025 18:33:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php on line 5
+[27-Dec-2025 18:34:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php on line 5
+[27-Dec-2025 19:56:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php on line 5
+[27-Dec-2025 20:29:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php on line 5
+[27-Dec-2025 20:31:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php on line 5
+[27-Dec-2025 21:34:51 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php on line 5
+[27-Dec-2025 21:36:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php on line 5
+[27-Dec-2025 22:49:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php on line 5
+[27-Dec-2025 22:50:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php on line 5
+[28-Dec-2025 00:08:35 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\NoDNSRecord" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php on line 8
+[28-Dec-2025 00:10:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php on line 5
+[28-Dec-2025 01:40:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php on line 5
+[28-Dec-2025 01:41:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php on line 5
+[28-Dec-2025 02:14:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php on line 5
+[28-Dec-2025 02:15:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php on line 5
+[28-Dec-2025 03:30:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php on line 5
+[28-Dec-2025 03:32:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php on line 5
+[28-Dec-2025 04:29:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php on line 5
+[28-Dec-2025 05:02:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php on line 5
+[28-Dec-2025 06:53:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php on line 5
+[28-Dec-2025 07:32:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php on line 5
+[28-Dec-2025 07:34:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php on line 5
+[28-Dec-2025 08:46:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php on line 5
+[28-Dec-2025 08:47:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php on line 5
+[28-Dec-2025 10:04:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php on line 5
+[28-Dec-2025 11:52:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php on line 5
+[28-Dec-2025 12:36:57 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php on line 5
+[28-Dec-2025 12:38:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php on line 5
+[28-Dec-2025 12:39:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php on line 5
+[28-Dec-2025 13:47:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php on line 5
+[28-Dec-2025 14:00:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php on line 5
+[28-Dec-2025 15:04:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php on line 5
+[14-Jan-2026 01:20:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php on line 5
+[14-Jan-2026 01:41:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php on line 5
+[14-Jan-2026 01:44:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php on line 5
+[14-Jan-2026 02:07:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php on line 5
+[14-Jan-2026 03:41:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php on line 5
+[14-Jan-2026 03:47:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php on line 5
+[14-Jan-2026 03:54:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php on line 5
+[14-Jan-2026 04:22:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php on line 5
+[14-Jan-2026 04:24:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php on line 5
+[14-Jan-2026 04:35:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php on line 5
+[14-Jan-2026 06:12:02 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php on line 5
+[14-Jan-2026 06:26:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php on line 5
+[14-Jan-2026 06:57:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php on line 5
+[14-Jan-2026 07:20:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php on line 5
+[14-Jan-2026 07:21:03 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\NoDNSRecord" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php on line 8
+[14-Jan-2026 07:26:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php on line 5
+[14-Jan-2026 07:30:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php on line 5
+[14-Jan-2026 07:34:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php on line 5
+[14-Jan-2026 08:25:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php on line 5
+[14-Jan-2026 08:40:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php on line 5
+[14-Jan-2026 09:13:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php on line 5
+[14-Jan-2026 09:52:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php on line 5
+[14-Jan-2026 10:08:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php on line 5
+[14-Jan-2026 10:17:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php on line 5
+[14-Jan-2026 10:41:26 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php on line 5
+[14-Jan-2026 10:50:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php on line 5
+[14-Jan-2026 10:53:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php on line 5
+[14-Jan-2026 10:59:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php on line 5
+[14-Jan-2026 11:17:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php on line 5
+[14-Jan-2026 11:19:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php on line 5
+[14-Jan-2026 11:33:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php on line 5
+[14-Jan-2026 11:44:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php on line 5
+[14-Jan-2026 12:23:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php on line 5
+[14-Jan-2026 12:42:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php on line 5
+[14-Jan-2026 15:13:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php on line 5
+[18-Jan-2026 21:28:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php on line 5
+[19-Jan-2026 02:41:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php on line 5
+[19-Jan-2026 02:44:06 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php on line 5
+[19-Jan-2026 02:46:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php on line 5
+[19-Jan-2026 06:53:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php on line 5
+[19-Jan-2026 09:58:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php on line 5
+[19-Jan-2026 10:00:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php on line 5
+[19-Jan-2026 10:03:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php on line 5
+[19-Jan-2026 10:05:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php on line 5
+[19-Jan-2026 10:08:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php on line 5
+[19-Jan-2026 12:44:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php on line 5
+[19-Jan-2026 16:02:25 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\NoDNSRecord" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php on line 8
+[19-Jan-2026 22:23:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php on line 5
+[19-Jan-2026 22:25:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php on line 5
+[19-Jan-2026 22:28:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php on line 5
+[19-Jan-2026 22:31:41 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\NoDNSRecord" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php on line 8
+[19-Jan-2026 22:38:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php on line 5
+[19-Jan-2026 22:51:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php on line 5
+[19-Jan-2026 23:22:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php on line 5
+[19-Jan-2026 23:29:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php on line 5
+[19-Jan-2026 23:33:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php on line 5
+[19-Jan-2026 23:37:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php on line 5
+[19-Jan-2026 23:45:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php on line 5
+[19-Jan-2026 23:53:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php on line 5
+[20-Jan-2026 00:10:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php on line 5
+[20-Jan-2026 02:08:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php on line 5
+[20-Jan-2026 03:17:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php on line 5
+[20-Jan-2026 03:24:43 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php on line 5
+[20-Jan-2026 03:28:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php on line 5
+[20-Jan-2026 03:34:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php on line 5
+[20-Jan-2026 03:41:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php on line 5
+[20-Jan-2026 03:53:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php on line 5
+[20-Jan-2026 04:08:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php on line 5
+[20-Jan-2026 04:27:26 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php on line 5
+[20-Jan-2026 04:45:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php on line 5
+[20-Jan-2026 05:01:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php on line 5
+[20-Jan-2026 05:17:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php on line 5
+[20-Jan-2026 05:31:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php on line 5
+[20-Jan-2026 05:44:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php on line 5
+[20-Jan-2026 05:58:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php on line 5
+[20-Jan-2026 06:25:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php on line 5
+[20-Jan-2026 06:47:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php on line 5
+[20-Jan-2026 06:49:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php on line 5
+[20-Jan-2026 06:58:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php on line 5
+[20-Jan-2026 07:06:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php on line 5
+[20-Jan-2026 07:13:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php on line 5
+[20-Jan-2026 07:18:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php on line 5
+[20-Jan-2026 07:34:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php on line 5
+[20-Jan-2026 08:53:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php on line 5
+[20-Jan-2026 09:47:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php on line 5
+[20-Jan-2026 10:13:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php on line 5
+[20-Jan-2026 10:28:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php on line 5
+[20-Jan-2026 10:47:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php on line 5
+[20-Jan-2026 10:48:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php on line 5
+[20-Jan-2026 10:55:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php on line 5
+[20-Jan-2026 11:00:09 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\NoDNSRecord" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php on line 8
+[20-Jan-2026 11:13:07 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php on line 5
+[20-Jan-2026 11:28:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php on line 5
+[20-Jan-2026 11:28:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php on line 5
+[20-Jan-2026 11:48:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php on line 5
+[20-Jan-2026 12:33:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php on line 5
+[20-Jan-2026 12:43:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php on line 5
+[20-Jan-2026 12:58:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php on line 5
+[20-Jan-2026 13:07:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php on line 5
+[20-Jan-2026 13:32:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php on line 5
+[20-Jan-2026 14:04:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php on line 5
+[20-Jan-2026 14:40:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php on line 5
+[20-Jan-2026 15:01:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php on line 5
+[20-Jan-2026 15:12:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php on line 5
+[20-Jan-2026 17:28:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php on line 5
+[20-Jan-2026 18:35:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php on line 5
+[20-Jan-2026 18:37:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php on line 5
+[20-Jan-2026 19:15:01 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php on line 5
+[20-Jan-2026 19:39:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php on line 5
+[20-Jan-2026 19:58:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php on line 5
+[20-Jan-2026 20:13:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php on line 5
+[20-Jan-2026 21:21:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php on line 5
+[21-Jan-2026 14:38:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php on line 5
+[21-Jan-2026 16:13:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php on line 5
+[21-Jan-2026 18:30:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php on line 5
+[21-Jan-2026 22:06:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php on line 5
+[21-Jan-2026 23:35:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php on line 5
+[22-Jan-2026 04:15:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php on line 5
+[22-Jan-2026 04:51:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php on line 5
+[22-Jan-2026 05:35:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php on line 5
+[22-Jan-2026 05:35:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php on line 5
+[22-Jan-2026 09:23:41 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\NoDNSRecord" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php on line 8
+[22-Jan-2026 10:53:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php on line 5
+[22-Jan-2026 13:22:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php on line 5
+[22-Jan-2026 17:12:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php on line 5
+[22-Jan-2026 17:12:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php on line 5
+[22-Jan-2026 19:22:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php on line 5
+[22-Jan-2026 19:23:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php on line 5
+[23-Jan-2026 01:53:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php on line 5
+[23-Jan-2026 05:18:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php on line 5
+[23-Jan-2026 09:09:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php on line 5
+[23-Jan-2026 13:21:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php on line 5
+[23-Jan-2026 22:56:54 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php on line 5
+[23-Jan-2026 23:29:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php on line 5
+[24-Jan-2026 00:25:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php on line 5
+[24-Jan-2026 01:01:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php on line 5
+[24-Jan-2026 02:38:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php on line 5
+[24-Jan-2026 10:08:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php on line 5
+[24-Jan-2026 14:36:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php on line 5
+[24-Jan-2026 19:48:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php on line 5
+[25-Jan-2026 20:39:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php on line 5
+[26-Jan-2026 06:29:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php on line 5
+[26-Jan-2026 09:37:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php on line 5
+[26-Jan-2026 10:25:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php on line 5
+[26-Jan-2026 11:10:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php on line 5
+[26-Jan-2026 12:41:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php on line 5
+[26-Jan-2026 12:42:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php on line 5
+[26-Jan-2026 17:27:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php on line 5
+[26-Jan-2026 18:12:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php on line 5
+[26-Jan-2026 20:31:55 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php on line 5
+[29-Jan-2026 14:22:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 14:22:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php on line 5
+[29-Jan-2026 15:11:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 15:11:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php on line 5
+[29-Jan-2026 16:29:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 16:29:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php on line 5
+[29-Jan-2026 16:30:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 16:30:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php on line 5
+[29-Jan-2026 21:06:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 21:06:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php on line 5
+[29-Jan-2026 21:56:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[29-Jan-2026 21:56:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php on line 5
+[30-Jan-2026 00:13:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 00:13:35 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php on line 5
+[30-Jan-2026 08:07:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 08:07:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php on line 5
+[30-Jan-2026 16:18:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 16:18:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php on line 5
+[31-Jan-2026 07:04:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 07:04:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php on line 5
+[31-Jan-2026 15:58:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 15:58:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php on line 5
+[31-Jan-2026 17:31:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 17:31:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php on line 5
+[31-Jan-2026 18:23:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 18:23:39 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php on line 5
+[31-Jan-2026 21:17:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 21:17:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php on line 5
+[31-Jan-2026 21:17:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 21:17:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php on line 5
+[31-Jan-2026 23:32:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 23:32:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php on line 5
+[01-Feb-2026 20:49:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 20:49:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php on line 5
+[01-Feb-2026 22:45:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 22:45:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php on line 5
+[01-Feb-2026 23:52:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[01-Feb-2026 23:52:06 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\NoDNSRecord" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php on line 8
+[02-Feb-2026 01:29:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:29:12 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\NoDNSRecord" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php on line 8
+[02-Feb-2026 03:45:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 03:45:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php on line 5
+[02-Feb-2026 03:47:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 03:47:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php on line 5
+[02-Feb-2026 03:48:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 03:48:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php on line 5
+[02-Feb-2026 04:29:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:29:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php on line 5
+[02-Feb-2026 05:29:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 05:29:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php on line 5
+[02-Feb-2026 05:37:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 05:37:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php on line 5
+[02-Feb-2026 05:42:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 05:42:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php on line 5
+[02-Feb-2026 05:54:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 05:54:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php on line 5
+[02-Feb-2026 12:04:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 12:04:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php on line 5
+[02-Feb-2026 12:05:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 12:05:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php on line 5
+[02-Feb-2026 12:06:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 12:06:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php on line 5
+[02-Feb-2026 12:08:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 12:08:35 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php on line 5
+[02-Feb-2026 12:14:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 12:14:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php on line 5
+[02-Feb-2026 12:16:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 12:16:47 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php on line 5
+[02-Feb-2026 12:17:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 12:17:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php on line 5
+[02-Feb-2026 12:18:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 12:18:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php on line 5
+[02-Feb-2026 13:09:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 13:09:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php on line 5
+[02-Feb-2026 13:23:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 13:23:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php on line 5
+[02-Feb-2026 14:39:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 14:39:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php on line 5
+[02-Feb-2026 14:46:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 14:46:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php on line 5
+[02-Feb-2026 14:51:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 14:51:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php on line 5
+[02-Feb-2026 14:57:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 14:57:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php on line 5
+[02-Feb-2026 15:24:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:24:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php on line 5
+[02-Feb-2026 15:25:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:25:23 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php on line 5
+[02-Feb-2026 15:28:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:28:43 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php on line 5
+[02-Feb-2026 15:29:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:29:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php on line 5
+[02-Feb-2026 15:29:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:29:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php on line 5
+[02-Feb-2026 15:30:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:30:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php on line 5
+[02-Feb-2026 15:31:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:31:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php on line 5
+[02-Feb-2026 15:34:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:34:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php on line 5
+[02-Feb-2026 15:35:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:35:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php on line 5
+[02-Feb-2026 15:38:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:38:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php on line 5
+[02-Feb-2026 15:51:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:51:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php on line 5
+[02-Feb-2026 15:55:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 15:55:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php on line 5
+[02-Feb-2026 16:21:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 16:21:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php on line 5
+[02-Feb-2026 16:26:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 16:26:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php on line 5
+[02-Feb-2026 17:39:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:39:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php on line 5
+[02-Feb-2026 17:41:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:41:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php on line 5
+[02-Feb-2026 17:48:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:48:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php on line 5
+[02-Feb-2026 17:50:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:50:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php on line 5
+[02-Feb-2026 17:53:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:53:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php on line 5
+[02-Feb-2026 17:55:56 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:55:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php on line 5
+[02-Feb-2026 17:57:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:57:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php on line 5
+[02-Feb-2026 18:01:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 18:01:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php on line 5
+[02-Feb-2026 18:06:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 18:06:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php on line 5
+[02-Feb-2026 18:07:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 18:07:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php on line 5
+[02-Feb-2026 18:10:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 18:10:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php on line 5
+[02-Feb-2026 18:12:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 18:12:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php on line 5
+[02-Feb-2026 18:36:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 18:36:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php on line 5
+[02-Feb-2026 18:37:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 18:37:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php on line 5
+[02-Feb-2026 18:55:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 18:55:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php on line 5
+[02-Feb-2026 18:58:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 18:58:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php on line 5
+[02-Feb-2026 19:32:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 19:32:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php on line 5
+[02-Feb-2026 20:08:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 20:08:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php on line 5
+[02-Feb-2026 20:11:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 20:11:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php on line 5
+[02-Feb-2026 21:05:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 21:05:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php on line 5
+[02-Feb-2026 22:38:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 22:38:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php on line 5
+[02-Feb-2026 23:49:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 23:49:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php on line 5
+[03-Feb-2026 03:00:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:07:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 05:07:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php on line 5
+[03-Feb-2026 08:41:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 08:41:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php on line 5
+[03-Feb-2026 09:57:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 12:12:23 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 12:12:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php on line 5
+[03-Feb-2026 12:48:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 12:48:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php on line 5
+[03-Feb-2026 13:56:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 16:12:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 16:12:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php on line 5
+[03-Feb-2026 16:38:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 16:38:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php on line 5
+[03-Feb-2026 21:22:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 21:22:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php on line 5
+[04-Feb-2026 03:53:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 03:53:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php on line 5
+[04-Feb-2026 03:56:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 03:56:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php on line 5
+[04-Feb-2026 10:09:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 10:09:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php on line 5
+[04-Feb-2026 10:11:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 10:11:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php on line 5
+[04-Feb-2026 10:14:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 10:14:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php on line 5
+[04-Feb-2026 10:16:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 10:16:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php on line 5
+[04-Feb-2026 10:19:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 10:19:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php on line 5
+[04-Feb-2026 10:21:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 10:21:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php on line 5
+[04-Feb-2026 10:24:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 10:24:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php on line 5
+[04-Feb-2026 10:26:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 10:26:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php on line 5
+[04-Feb-2026 10:29:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 10:29:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php on line 5
+[04-Feb-2026 16:14:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:14:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php on line 5
+[04-Feb-2026 16:17:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:17:04 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php on line 5
+[04-Feb-2026 16:19:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:19:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php on line 5
+[04-Feb-2026 16:22:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:22:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php on line 5
+[04-Feb-2026 16:24:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:24:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php on line 5
+[04-Feb-2026 16:27:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 16:27:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php on line 5
+[04-Feb-2026 22:32:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 22:32:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php on line 5
+[04-Feb-2026 22:35:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Feb-2026 22:35:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php on line 5
+[05-Feb-2026 01:23:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 01:23:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php on line 5
+[05-Feb-2026 01:25:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 01:25:34 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php on line 5
+[05-Feb-2026 01:28:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 01:28:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php on line 5
+[05-Feb-2026 02:35:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 02:35:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php on line 5
+[05-Feb-2026 03:28:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 03:28:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php on line 5
+[05-Feb-2026 03:56:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 03:56:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php on line 5
+[05-Feb-2026 05:06:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 05:06:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php on line 5
+[05-Feb-2026 05:08:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 05:08:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php on line 5
+[05-Feb-2026 05:11:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 05:11:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php on line 5
+[05-Feb-2026 05:14:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 05:14:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php on line 5
+[05-Feb-2026 06:05:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 06:05:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php on line 5
+[05-Feb-2026 06:11:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 06:11:39 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php on line 5
+[05-Feb-2026 06:11:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 06:11:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php on line 5
+[05-Feb-2026 07:51:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 07:51:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php on line 5
+[05-Feb-2026 09:19:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 09:19:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php on line 5
+[05-Feb-2026 10:04:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 10:04:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php on line 5
+[05-Feb-2026 11:31:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 11:31:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php on line 5
+[05-Feb-2026 12:30:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 12:30:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php on line 5
+[05-Feb-2026 14:14:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 14:14:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php on line 5
+[06-Feb-2026 01:37:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 01:37:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php on line 5
+[06-Feb-2026 03:47:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 03:47:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php on line 5
+[06-Feb-2026 04:31:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 04:31:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php on line 5
+[06-Feb-2026 05:10:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 07:21:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 07:21:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php on line 5
+[06-Feb-2026 11:10:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 11:10:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php on line 5
+[06-Feb-2026 15:25:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 15:25:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php on line 5
+[06-Feb-2026 21:29:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 21:29:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php on line 5
+[07-Feb-2026 15:39:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 15:39:16 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\NoDNSRecord" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php on line 8
+[07-Feb-2026 17:45:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 17:45:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php on line 5
+[07-Feb-2026 20:46:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[07-Feb-2026 20:46:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php on line 5
+[08-Feb-2026 03:43:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[08-Feb-2026 03:43:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php on line 5
+[10-Feb-2026 15:54:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 15:54:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php on line 5
+[10-Feb-2026 18:13:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 18:13:17 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\NoDNSRecord" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php on line 8
+[10-Feb-2026 20:37:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 20:37:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php on line 5
+[10-Feb-2026 23:50:55 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Feb-2026 23:50:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php on line 5
+[13-Feb-2026 18:18:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 18:18:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php on line 5
+[16-Feb-2026 10:39:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 10:39:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedComment.php on line 5
+[16-Feb-2026 11:30:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 11:30:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtEnd.php on line 5
+[16-Feb-2026 12:34:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 12:34:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDomainPart.php on line 5
+[16-Feb-2026 12:49:42 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 12:49:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/EmptyReason.php on line 5
+[16-Feb-2026 13:25:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:25:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DotAtStart.php on line 5
+[16-Feb-2026 13:27:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 13:27:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LocalOrReservedDomain.php on line 5
+[16-Feb-2026 14:21:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 14:21:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveAt.php on line 5
+[16-Feb-2026 14:30:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 14:30:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ConsecutiveDot.php on line 5
+[16-Feb-2026 14:48:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 14:48:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnOpenedComment.php on line 5
+[16-Feb-2026 15:04:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:17:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:17:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRNoLF.php on line 5
+[16-Feb-2026 15:36:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:36:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFX2.php on line 5
+[16-Feb-2026 15:47:17 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 15:47:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnclosedQuotedString.php on line 5
+[16-Feb-2026 16:19:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:19:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/SpoofEmail.php on line 5
+[16-Feb-2026 16:33:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:33:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDomainLiteralClose.php on line 5
+[16-Feb-2026 16:39:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:39:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingDTEXT.php on line 5
+[16-Feb-2026 16:51:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:51:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainTooLong.php on line 5
+[16-Feb-2026 17:18:41 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:18:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DetailedReason.php on line 5
+[16-Feb-2026 17:36:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:36:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommentsInIDRight.php on line 5
+[16-Feb-2026 17:51:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 17:51:12 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingATEXT.php on line 5
+[16-Feb-2026 18:18:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:18:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/RFCWarnings.php on line 5
+[16-Feb-2026 18:21:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:21:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainAcceptsNoMail.php on line 5
+[16-Feb-2026 18:25:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:25:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoDNSRecord.php on line 5
+[16-Feb-2026 19:48:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 19:48:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/NoLocalPart.php on line 5
+[16-Feb-2026 20:08:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:08:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExceptionFound.php on line 5
+[16-Feb-2026 20:43:02 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:43:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/AtextAfterCFWS.php on line 5
+[16-Feb-2026 20:48:19 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:48:19 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\DetailedReason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/DomainHyphened.php on line 5
+[16-Feb-2026 20:54:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 20:54:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/LabelTooLong.php on line 5
+[16-Feb-2026 22:43:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 22:43:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CharNotAllowed.php on line 5
+[16-Feb-2026 23:11:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 23:11:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/ExpectingCTEXT.php on line 5
+[16-Feb-2026 23:32:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 23:32:37 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\Reason\NoDNSRecord" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnableToGetDNSRecord.php on line 8
+[22-Feb-2026 04:58:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:58:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CRLFAtTheEnd.php on line 5
+[22-Feb-2026 06:35:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 06:35:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/UnusualElements.php on line 5
+[22-Feb-2026 07:27:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 07:27:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Reason\Reason" not found in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/egulias/email-validator/src/Result/Reason/CommaInDomain.php on line 5

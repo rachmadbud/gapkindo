@@ -1,0 +1,242 @@
+[16-Dec-2025 14:33:39 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 17
+[16-Dec-2025 18:47:37 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 17
+[16-Dec-2025 23:26:04 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17
+[18-Dec-2025 09:59:00 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17
+[18-Dec-2025 10:03:43 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 17
+[18-Dec-2025 17:59:55 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 17
+[18-Dec-2025 18:00:02 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 17
+[18-Dec-2025 18:00:10 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17
+[27-Dec-2025 21:16:11 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 17
+[28-Dec-2025 02:59:22 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17
+[28-Dec-2025 05:54:00 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 17
+[28-Dec-2025 06:41:53 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 17
+[30-Dec-2025 12:02:35 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 17
+[31-Dec-2025 04:08:34 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 17
+[31-Dec-2025 04:08:49 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17
+[31-Dec-2025 05:54:05 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 17
+[01-Jan-2026 23:51:12 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17
+[08-Jan-2026 13:07:43 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17
+[08-Jan-2026 13:09:35 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 17
+[08-Jan-2026 13:13:20 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 17
+[18-Jan-2026 01:03:21 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 17
+[18-Jan-2026 01:05:51 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17
+[18-Jan-2026 05:46:09 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 17
+[19-Jan-2026 20:54:59 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17
+[19-Jan-2026 22:21:23 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 17
+[20-Jan-2026 15:12:50 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 17
+[20-Jan-2026 18:46:07 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17
+[20-Jan-2026 21:04:09 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 17
+[02-Feb-2026 17:47:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 17:47:09 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 17
+[03-Feb-2026 03:44:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 03:44:03 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 17
+[03-Feb-2026 04:16:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 04:16:49 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 17
+[03-Feb-2026 12:19:07 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 12:19:07 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 17
+[03-Feb-2026 12:32:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 12:32:46 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17
+[03-Feb-2026 17:00:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 17:00:18 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 17
+[03-Feb-2026 17:01:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 17:01:49 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17
+[12-Feb-2026 14:49:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 14:49:20 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17
+[12-Feb-2026 19:02:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[12-Feb-2026 19:02:28 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17
+[13-Feb-2026 00:52:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 00:52:54 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 17
+[13-Feb-2026 21:09:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 21:09:29 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17
+[13-Feb-2026 23:46:27 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 23:46:27 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 17
+[16-Feb-2026 12:29:20 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 12:29:20 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 17
+[16-Feb-2026 16:28:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 16:28:33 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17
+[16-Feb-2026 18:07:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 18:07:11 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17
+[16-Feb-2026 23:55:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 23:55:03 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 17
+[17-Feb-2026 10:43:34 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[17-Feb-2026 10:43:34 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 17
+[18-Feb-2026 07:02:09 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 07:02:09 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17
+[18-Feb-2026 12:48:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[18-Feb-2026 12:48:39 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 17
+[19-Feb-2026 00:28:57 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 00:28:57 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 17
+[19-Feb-2026 04:58:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 04:58:26 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17
+[19-Feb-2026 21:18:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[19-Feb-2026 21:18:13 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17
+[20-Feb-2026 00:21:21 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 00:21:21 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 17
+[21-Feb-2026 00:21:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 00:21:46 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17
+[21-Feb-2026 04:25:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[21-Feb-2026 04:25:51 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 17
+[22-Feb-2026 04:21:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[22-Feb-2026 04:21:53 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 17

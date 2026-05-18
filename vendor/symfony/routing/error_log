@@ -1,0 +1,353 @@
+[31-Oct-2025 14:01:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[31-Oct-2025 20:31:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Router.php on line 38
+[17-Nov-2025 02:37:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[17-Nov-2025 02:37:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Router.php on line 38
+[17-Nov-2025 02:38:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[17-Nov-2025 06:06:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[17-Nov-2025 06:26:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[17-Nov-2025 06:53:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Router.php on line 38
+[24-Nov-2025 16:44:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[28-Nov-2025 09:12:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[28-Nov-2025 19:58:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[05-Dec-2025 00:24:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Router.php on line 38
+[05-Dec-2025 01:38:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[05-Dec-2025 02:06:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[05-Dec-2025 15:50:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Router.php on line 38
+[05-Dec-2025 17:51:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[05-Dec-2025 22:18:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[08-Dec-2025 17:25:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[08-Dec-2025 20:08:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Router.php on line 38
+[09-Dec-2025 09:10:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[18-Dec-2025 08:25:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Router.php on line 38
+[18-Dec-2025 08:26:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[18-Dec-2025 08:27:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[18-Dec-2025 20:54:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[18-Dec-2025 20:55:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[19-Dec-2025 00:28:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[19-Dec-2025 00:28:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[19-Dec-2025 10:42:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[19-Dec-2025 12:27:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Router.php on line 38
+[19-Dec-2025 13:57:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[20-Dec-2025 17:40:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Router.php on line 38
+[30-Dec-2025 19:20:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Router.php on line 38
+[30-Dec-2025 20:41:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[30-Dec-2025 22:18:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[01-Jan-2026 21:17:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[05-Jan-2026 05:27:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[07-Jan-2026 11:12:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Router.php on line 38
+[07-Jan-2026 13:12:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[07-Jan-2026 14:29:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[07-Jan-2026 22:41:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[09-Jan-2026 10:26:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[11-Jan-2026 20:24:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[12-Jan-2026 01:08:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Router.php on line 38
+[12-Jan-2026 21:43:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[13-Jan-2026 04:46:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Router.php on line 38
+[13-Jan-2026 22:36:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[14-Jan-2026 03:05:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[15-Jan-2026 03:05:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[17-Jan-2026 10:19:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[17-Jan-2026 10:54:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[21-Jan-2026 23:25:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[21-Jan-2026 23:25:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Router.php on line 38
+[21-Jan-2026 23:25:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[30-Jan-2026 06:13:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 07:08:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 07:56:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 07:58:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 09:28:33 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 09:28:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[30-Jan-2026 12:01:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 12:02:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 12:02:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[30-Jan-2026 16:34:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 19:50:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 19:53:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 19:53:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Router.php on line 38
+[30-Jan-2026 22:43:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 22:43:13 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 22:43:15 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[30-Jan-2026 22:43:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 00:23:44 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 00:23:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[31-Jan-2026 01:15:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:15:50 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 01:15:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[31-Jan-2026 05:10:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 07:14:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 07:14:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[31-Jan-2026 07:14:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Router.php on line 38
+[02-Feb-2026 00:48:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:09:58 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 01:09:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Router.php on line 38
+[02-Feb-2026 03:42:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:25:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[02-Feb-2026 04:25:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[02-Feb-2026 05:50:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 11:38:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 11:38:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[03-Feb-2026 11:39:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 11:39:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[03-Feb-2026 11:39:01 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 11:39:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Router.php on line 38
+[03-Feb-2026 15:52:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 15:52:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[03-Feb-2026 15:52:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 15:52:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[03-Feb-2026 15:52:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[03-Feb-2026 15:52:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Router.php on line 38
+[05-Feb-2026 15:16:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 16:26:05 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 17:10:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 17:17:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 18:15:40 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 19:09:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 19:09:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/Router.php on line 38
+[05-Feb-2026 21:05:45 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 21:05:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[05-Feb-2026 21:36:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[05-Feb-2026 21:36:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[06-Feb-2026 01:10:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[06-Feb-2026 05:09:14 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 00:41:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[13-Feb-2026 00:41:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[14-Feb-2026 03:42:22 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 03:42:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[14-Feb-2026 08:15:54 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 08:15:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[14-Feb-2026 09:50:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[14-Feb-2026 09:50:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[16-Feb-2026 10:49:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 10:49:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 10:49:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 10:50:18 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 10:50:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 10:50:46 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Feb-2026 10:50:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 01:05:28 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[20-Feb-2026 01:05:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gapkindo/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
