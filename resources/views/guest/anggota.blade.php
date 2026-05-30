@@ -22,10 +22,10 @@
 @push('styles')
     <style>
         /* ============================================================
-                                                                                       ANGGOTA PAGE — Scoped Modern Dashboard Styles
-                                                                                       Variabel di-scope di .gpk-anggota-page supaya tidak
-                                                                                       mengganggu navbar/footer global.
-                                                                                       ============================================================ */
+                                                                                                                                               ANGGOTA PAGE — Scoped Modern Dashboard Styles
+                                                                                                                                               Variabel di-scope di .gpk-anggota-page supaya tidak
+                                                                                                                                               mengganggu navbar/footer global.
+                                                                                                                                               ============================================================ */
         .gpk-anggota-page {
             /* Backgrounds */
             --c-bg: #f8fafc;
@@ -89,8 +89,8 @@
         }
 
         /* Base container — GLOBAL (tidak di-scope) supaya footer & navbar
-                                                                                       yang juga pakai class .gpk-container ikut ter-style.
-                                                                                       Override 12px khusus konten anggota ada di rule berikutnya. */
+                                                                                                                                               yang juga pakai class .gpk-container ikut ter-style.
+                                                                                                                                               Override 12px khusus konten anggota ada di rule berikutnya. */
         .gpk-container {
             max-width: 1320px;
             margin: 0 auto;
@@ -98,7 +98,7 @@
         }
 
         /* Container override untuk konten antara ticker (date & time) dan footer:
-                                                                                       padding kanan/kiri = 12px (sesuai permintaan), full-bleed (max-width: 100%) */
+                                                                                                                                               padding kanan/kiri = 12px (sesuai permintaan), full-bleed (max-width: 100%) */
         .gpk-anggota-page .ang-stats .gpk-container,
         .gpk-anggota-page .ang-main .gpk-container,
         .gpk-anggota-page .ang-cta .gpk-container {
@@ -108,8 +108,8 @@
         }
 
         /* ============================================================
-                                                                                       1. BANNER HEADER (Lama — navy + checkerboard + Fraunces)
-                                                                                       ============================================================ */
+                                                                                                                                               1. BANNER HEADER (Lama — navy + checkerboard + Fraunces)
+                                                                                                                                               ============================================================ */
         .gpk-anggota-page .ang-hero {
             background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 55%, #1a237e 100%);
             color: var(--c-cream);
@@ -180,8 +180,8 @@
         }
 
         /* ============================================================
-                                                                                       2. GRADIENT STAT CARDS (di bawah banner, tidak overlap)
-                                                                                       ============================================================ */
+                                                                                                                                               2. GRADIENT STAT CARDS (di bawah banner, tidak overlap)
+                                                                                                                                               ============================================================ */
         .gpk-anggota-page .ang-stats {
             padding: clamp(1.25rem, 3vh, 2rem) 0 clamp(1rem, 2vh, 1.5rem);
             position: relative;
@@ -271,8 +271,8 @@
         }
 
         /* ============================================================
-                                                                                       3. MAIN PANEL — Tabs + Toolbar + Table
-                                                                                       ============================================================ */
+                                                                                                                                               3. MAIN PANEL — Tabs + Toolbar + Table
+                                                                                                                                               ============================================================ */
         .gpk-anggota-page .ang-main {
             padding: 0 0 clamp(2rem, 5vh, 4rem);
         }
@@ -575,8 +575,8 @@
         }
 
         /* ============================================================
-                                                                                       4. CTA BACK
-                                                                                       ============================================================ */
+                                                                                                                                               4. CTA BACK
+                                                                                                                                               ============================================================ */
         .gpk-anggota-page .ang-cta {
             padding: 0 0 clamp(2rem, 5vh, 4rem);
             text-align: center;
@@ -613,8 +613,8 @@
         }
 
         /* ============================================================
-                                                                                       5. MOBILE RESPONSIVE — Table → Stacked Cards
-                                                                                       ============================================================ */
+                                                                                                                                               5. MOBILE RESPONSIVE — Table → Stacked Cards
+                                                                                                                                               ============================================================ */
         @media (max-width: 768px) {
             .gpk-anggota-page .ang-toolbar {
                 padding: 1rem;
@@ -949,7 +949,7 @@
                                             <td data-label="Cabang"><span
                                                     class="badge-prov">{{ __('province.North Sumatra') }}</span></td>
                                             <td data-label="Perusahaan" class="col-perusahaan">
-                                                {{ __('comp.PERKEBUNAN NUSANTARA IV REGIONAL') }}</td>
+                                                {{ __('comp.PERKEBUNAN NUSANTARA IV REGIONAL 3') }}</td>
                                             <td data-label="Email"><a
                                                     href="mailto:pemasaran.ptpn5@gmail.com">pemasaran.ptpn5@gmail.com</a>
                                             </td>
@@ -961,6 +961,53 @@
                                                 {{ __('comp.PAMOR GANDA') }}</td>
                                             <td data-label="Email"><a
                                                     href="mailto:pamorganda_bengkulu@yahoo.com">pamorganda_bengkulu@yahoo.com</a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-label="No">7</td>
+                                            <td data-label="Cabang"><span
+                                                    class="badge-prov">{{ __('province.South Sumatra') }}</span></td>
+                                            <td data-label="Perusahaan" class="col-perusahaan">
+                                                {{ __('comp.LONDON SUMATRA INDONESIA Tbk') }}</td>
+                                            <td data-label="Email"><a
+                                                    href="mailto:pamorganda_bengkulu@yahoo.com">pamorganda_bengkulu@yahoo.com</a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-label="No">8</td>
+                                            <td data-label="Cabang"><span
+                                                    class="badge-prov">{{ __('province.South Sumatra') }}</span></td>
+                                            <td data-label="Perusahaan" class="col-perusahaan">
+                                                {{ __('comp.PINAGO UTAMA Tbk') }}</td>
+                                            <td data-label="Email"><a
+                                                    href="mailto:hasan.tantri@gmail.com">hasan.tantri@gmail.com</a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-label="No">9</td>
+                                            <td data-label="Cabang"><span class="badge-prov">Lampung</span></td>
+                                            <td data-label="Perusahaan" class="col-perusahaan">
+                                                {{ __('comp.HUMA INDAH MEKAR') }}</td>
+                                            <td data-label="Email"><a
+                                                    href="mailto:itsupport.him@bakriesumatera.com">itsupport.him@bakriesumatera.com</a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-label="No">10</td>
+                                            <td data-label="Cabang"><span class="badge-prov">Lampung</span></td>
+                                            <td data-label="Perusahaan" class="col-perusahaan">
+                                                {{ __('comp.PERKEBUNAN NUSANTARA I REGIONAL 7') }}</td>
+                                            <td data-label="Email"><a
+                                                    href="mailto:sekretariat@ptpn7.com">sekretariat@ptpn7.com</a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-label="No">11</td>
+                                            <td data-label="Cabang"><span class="badge-prov">Lampung</span></td>
+                                            <td data-label="Perusahaan" class="col-perusahaan">
+                                                {{ __('comp.SILVA INHUTANI LAMPUNG') }}</td>
+                                            <td data-label="Email"><a
+                                                    href="mailto:silva.jakarta@gmail.com">silva.jakarta@gmail.com</a>
                                             </td>
                                         </tr>
                                     </tbody>

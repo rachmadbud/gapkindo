@@ -9,7 +9,10 @@ use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\Session;
 
 
-Route::get('/', 'GuestController@index')->name('guest.index');
+// Route::get('/', 'GuestController@index')->name('guest.index');
+Route::get('/', function () {
+  return view('perbaikan');
+});
 
 
 Route::get('/change-language/{locale}', function ($locale) {
