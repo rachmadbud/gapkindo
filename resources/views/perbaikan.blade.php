@@ -10,8 +10,8 @@
         body {
             background: #0f172a;
             color: #fff;
-            overflow: hidden;
             font-family: Inter, Arial, sans-serif;
+            margin: 0;
         }
 
         body::before {
@@ -31,8 +31,7 @@
         }
 
         .maintenance-page {
-            width: 100vw;
-            height: 100vh;
+            min-height: 100vh;
 
             display: flex;
             flex-direction: column;
@@ -89,8 +88,8 @@
         }
 
         .logo img {
-            width: 90px;
-            height: auto;
+            width: auto;
+            height: 110px;
 
             object-fit: contain;
 
@@ -98,13 +97,28 @@
             background: #fff;
             padding: 6px;
 
-            height: 110px;
-            width: auto;
             display: block;
-            transform: translateX(33px);
+            margin: 0 auto;
         }
 
         #maintenance-animation {
+            width: 280px;
+            height: 280px;
+        }
+
+        .animation-wrapper {
+            display: flex;
+            justify-content: center;
+            margin: 5px auto 10px;
+        }
+
+        .animation-wrapper dotlottie-player {
+            width: 260px;
+            height: 260px;
+        }
+
+        .animation-wrapper dotlottie-player,
+        .animation-wrapper iframe {
             width: 180px;
             height: 180px;
         }
@@ -119,43 +133,28 @@
             <img src="{{ asset('guest/assets/img/logo-gapkindo.jpg') }}" alt="Logo">
         </div>
 
-        <div id="maintenance-animation"></div>
+        <div class="animation-wrapper">
+            <dotlottie-player src="https://lottie.host/28faf264-8262-4082-92d7-9e4255da40e0/hDvYKDspRx.lottie" autoplay
+                loop style="width: 300px; height: 300px;">
+            </dotlottie-player>
+        </div>
 
         <div class="content">
 
             <h1>Website Sedang Dalam Perbaikan</h1>
 
             <p>
-                Kami sedang melakukan pemeliharaan sistem.
-                Silakan kembali beberapa saat lagi.
+                Website Under Maintenance
             </p>
 
             <div class="line"></div>
 
-            <h2>Website Under Maintenance</h2>
-
-            <p>
-                We are currently performing system maintenance.
-                Please check back again shortly.
-            </p>
 
         </div>
 
     </div>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.12.2/lottie.min.js"></script>
-
-    <script>
-        lottie.loadAnimation({
-            container: document.getElementById('maintenance-animation'),
-            renderer: 'svg',
-            loop: true,
-            autoplay: true,
-
-            // Animasi maintenance
-            path: 'https://assets10.lottiefiles.com/packages/lf20_j1adxtyb.json'
-        });
-    </script>
+    <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
 
 </body>
 
