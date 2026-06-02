@@ -106,7 +106,7 @@ Route::get('/excel', function () {
 
 Route::get('/form-permasalahan', function () {
   return view('guest.form-permasalahana');
-})->name('');
+})->name('formPermasalahan');
 
 
 
