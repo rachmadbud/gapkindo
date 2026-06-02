@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\DB;
 class TsrProducers extends Model
 {
     use HasFactory;
-    protected $table = 'trs_producers';
+    protected $table = 'tsr_producers';
     protected $fillable = [];
 
     public function getData()
