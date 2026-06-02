@@ -14,6 +14,6 @@ class TsrProducers extends Model
 
     public function getData()
     {
-        return $dataTsrProducers = DB::table('trs_producers')->paginate(10);
+        return $dataTsrProducers = DB::table('tsr_producers')->paginate(10);
     }
 }
