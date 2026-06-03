@@ -1043,7 +1043,7 @@
 
                 try {
 
-                    const response = await fetch("https://gapkindo.org/api/form", {
+                    const response = await fetch("http://apps-gapkindo.gapkindo.org/api/form", {
                         method: "POST",
                         headers: {
                             "Content-Type": "application/json",
