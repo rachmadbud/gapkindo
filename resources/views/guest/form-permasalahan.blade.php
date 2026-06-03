@@ -1062,7 +1062,7 @@
                         document.getElementById("complaintForm").reset();
 
                         setTimeout(() => {
-                            window.location.href = "/https://gapkindo.org/";
+                            window.location.href = "https://gapkindo.org/";
                         }, 1000);
 
                     } else {
