@@ -54,6 +54,10 @@
             .container {
                 margin-top: 80px;
             }
+
+            .editor {
+                min-height: 801px;
+            }
         }
 
         /* Mobile kecil */
@@ -70,7 +74,7 @@
         }
 
         .container {
-            max-width: 600px;
+            max-width: 800px;
             margin: 30px auto;
             background: white;
             padding: 30px;
@@ -100,7 +104,7 @@
         }
 
         textarea {
-            min-height: 120px;
+            height: 320px;
             resize: vertical;
         }
 
@@ -482,8 +486,6 @@
             button {
                 font-size: 16px;
             }
-
-
         }
 
 
@@ -704,10 +706,10 @@
                     </div>
 
                     <label>Tantangan</label>
-                    <textarea class="permasalahan editor"></textarea>
+                    <textarea class="permasalahan editor" style="height: 801px;"></textarea>
 
                     <label>Usul/Solusi/Harapan Anda (opsional)</label>
-                    <textarea class="harapan editor"></textarea>
+                    <textarea class="harapan editor" style="height: 801px;"></textarea>
 
                 </div>
 
@@ -985,6 +987,14 @@
                 editors.forEach(editor => {
                     editor.updateSourceElement();
                 });
+
+                // Tambahkan di sini
+                if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+                    showToast("Format email tidak valid", "error");
+                    return;
+                }
+
+
                 let complaints = [];
 
                 pages.forEach(page => {
@@ -1035,8 +1045,6 @@
                     // Ambil response sebagai text dulu
                     const text = await response.text();
 
-                    console.log("Response:", text);
-
                     // Cek apakah response sukses
                     if (!response.ok) {
                         throw new Error(`HTTP Error ${response.status}`);
@@ -1044,8 +1052,6 @@
 
                     // Parse JSON hanya jika response valid
                     const result = JSON.parse(text);
-
-                    console.log(result);
 
                     if (result.success) {
 
