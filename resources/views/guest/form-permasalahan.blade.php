@@ -866,10 +866,10 @@
       
     </div>
 
-    <label>Permasalahan</label>
+    <label>Tantangan</label>
     <textarea class="permasalahan editor"></textarea>
 
-    <label>Harapan Anda</label>
+    <label>Usul/Solusi/Harapan Anda (opsional)</label>
     <textarea class="harapan editor"></textarea>
   `;
 
