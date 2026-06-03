@@ -36,6 +36,10 @@
                 top: 20px;
                 left: 20px;
             }
+
+            .editor {
+                min-height: 301px;
+            }
         }
 
         /* Mobile */
