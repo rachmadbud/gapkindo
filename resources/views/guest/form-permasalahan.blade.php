@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Form Permasalahan</title>
+    <title>Form Gapkindo</title>
     <!-- CSS -->
     <link rel="stylesheet" href="https://raw.githack.com/mrbudbud/fontawesome-pro/master/src/css/all.css">
 
@@ -20,18 +20,45 @@
 
         .floating-logo {
             position: fixed;
-
             top: 30px;
             left: 30px;
-
             width: 70px;
             height: auto;
-
             z-index: 999;
-
             opacity: 0.95;
+            transition: all 0.3s ease;
+        }
 
-            transition: 0.3s ease;
+        /* Tablet */
+        @media (max-width: 992px) {
+            .floating-logo {
+                width: 60px;
+                top: 20px;
+                left: 20px;
+            }
+        }
+
+        /* Mobile */
+        @media (max-width: 768px) {
+            .floating-logo {
+                width: 50px;
+                top: 10px;
+                left: 10px;
+                opacity: 0.85;
+            }
+
+            .container {
+                margin-top: 80px;
+            }
+        }
+
+        /* Mobile kecil */
+        @media (max-width: 480px) {
+            .floating-logo {
+                width: 40px;
+                top: 8px;
+                left: 8px;
+            }
         }
 
         .floating-logo:hover {
@@ -156,8 +183,18 @@
 
         #pagesContainer {
             position: relative;
-            perspective: 1200px;
-            min-height: 320px;
+            min-height: 350px;
+        }
+
+        @media (max-width:768px) {
+
+            .prev-btn,
+            .next-btn,
+            .add-btn,
+            .submit-btn {
+                height: 48px;
+            }
+
         }
 
         .complaint-page {
@@ -426,17 +463,220 @@
         .loading-overlay.hidden {
             display: none !important;
         }
+
+        /* Desktop Besar */
+        @media (min-width: 1200px) {
+
+            .container {
+                max-width: 700px;
+            }
+
+            h2 {
+                font-size: 32px;
+            }
+
+            button {
+                font-size: 16px;
+            }
+
+
+        }
+
+
+        /* Tablet */
+        @media (max-width: 992px) {
+
+            label {
+                font-size: 17px;
+            }
+
+            .floating-logo {
+                position: relative;
+
+                width: 60px;
+                top: 15px;
+                left: 50%;
+                transform: translateX(-50%);
+            }
+
+            .container {
+                margin-top: 90px;
+            }
+
+            h2 {
+                font-size: 28px;
+            }
+
+            button {
+                font-size: 15px;
+            }
+        }
+
+
+        /* Mobile */
+        @media (max-width: 768px) {
+
+            body {
+                padding: 10px;
+            }
+
+            ..floating-logo {
+                position: relative;
+                width: 45px;
+                top: 10px;
+                left: 10px;
+                z-index: 1000;
+            }
+
+            .container {
+                width: calc(100% - 20px);
+                margin: 70px auto 15px auto;
+                padding: 15px;
+                border-radius: 12px;
+            }
+
+
+            h2 {
+                font-size: 24px;
+            }
+
+            label {
+                font-size: 17px;
+            }
+
+            input,
+            textarea {
+                font-size: 14px;
+                padding: 12px;
+            }
+
+            .button-group {
+                flex-direction: column;
+                gap: 15px;
+                align-items: stretch;
+            }
+
+            .left-buttons {
+                width: 100%;
+                justify-content: center;
+                flex-wrap: wrap;
+            }
+
+            .left-buttons button {
+                flex: 1;
+                min-width: 80px;
+            }
+
+            .submit-btn {
+                width: 100%;
+            }
+
+            #toast {
+                min-width: unset;
+                width: calc(100% - 30px);
+                max-width: 100%;
+                font-size: 14px;
+            }
+
+            .page-counter {
+                font-size: 14px;
+            }
+
+            .ck.ck-toolbar {
+                flex-wrap: wrap !important;
+                padding: 6px;
+            }
+
+            .ck.ck-toolbar__items {
+                flex-wrap: wrap !important;
+                row-gap: 4px;
+            }
+
+            .ck.ck-button {
+                min-width: 34px;
+                min-height: 34px;
+            }
+
+            .ck.ck-dropdown {
+                margin-bottom: 4px;
+            }
+
+            .ck-editor__editable {
+                min-height: 220px;
+            }
+        }
+
+
+        /* Mobile kecil */
+        @media (max-width: 480px) {
+
+            .container {
+                padding: 15px;
+            }
+
+            h2 {
+                font-size: 20px;
+            }
+
+            .floating-logo {
+                width: 40px;
+            }
+
+            button {
+                padding: 12px;
+                font-size: 14px;
+            }
+
+            input,
+            textarea {
+                font-size: 23px;
+            }
+
+            #toast {
+                font-size: 13px;
+                padding: 12px;
+            }
+
+            /* Editor */
+            .ck-editor__editable {
+                min-height: 180px;
+            }
+
+            /* Toolbar utama */
+            .ck.ck-toolbar {
+                flex-wrap: wrap !important;
+            }
+
+            /* Group tombol */
+            .ck.ck-toolbar__items {
+                flex-wrap: wrap !important;
+            }
+
+            /* Tombol toolbar */
+            .ck.ck-button {
+                min-width: 32px;
+            }
+
+            /* Dropdown heading/font */
+            .ck.ck-dropdown {
+                max-width: 100%;
+            }
+        }
     </style>
 
 </head>
 
 <body>
 
-    <img src="https://gapkindo.org/guest/assets/img/logo-gapkindo.jpg" alt="Logo" class="floating-logo">
+
 
     <div class="container">
 
-        <h2>Form Permasalahan</h2>
+        <img src="https://gapkindo.org/guest/assets/img/logo-gapkindo.jpg" alt="Logo" class="floating-logo">
+        <br>
+
+        <br>
+        <h2>Tantangan Industri Karet Alam Saat ini</h2>
 
         <div class="progress-wrapper">
             <div class="progress-bar" id="progressBar"></div>
@@ -459,11 +699,11 @@
                         <br><br>
                     </div>
 
-                    <label>Permasalahan</label>
-                    <textarea class="permasalahan" required></textarea>
+                    <label>Tantangan</label>
+                    <textarea class="permasalahan editor"></textarea>
 
-                    <label>Harapan Anda</label>
-                    <textarea class="harapan" required></textarea>
+                    <label>Usul/Solusi/Harapan Anda (opsional)</label>
+                    <textarea class="harapan editor"></textarea>
 
                 </div>
 
@@ -505,6 +745,64 @@
     </div>
     <!-- Javascript -->
     <script src="https://raw.githack.com/mrbudbud/fontawesome-pro/master/src/js/all.min.js"></script>
+    <script src="https://cdn.ckeditor.com/ckeditor5/41.4.2/classic/ckeditor.js"></script>
+
+    <script>
+        let editors = [];
+
+        function initEditors() {
+
+            document.querySelectorAll('.editor').forEach(el => {
+
+                if (el.dataset.initialized) return;
+
+                ClassicEditor
+                    .create(el)
+                    .then(editor => {
+
+                        editors.push(editor);
+
+                        el.dataset.initialized = true;
+
+                    })
+                    .catch(error => {
+                        console.error(error);
+                    });
+
+            });
+
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            initEditors();
+            // validasi format email
+            document.getElementById("email")
+                .addEventListener("blur", function() {
+
+                    const email = this.value.trim();
+
+                    const emailPattern =
+                        /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+                    if (email !== "" && !emailPattern.test(email)) {
+
+                        this.style.borderColor = "#dc3545";
+
+                        showToast(
+                            "Email tidak valid",
+                            "error"
+                        );
+
+                        console.log("EMAIL BLUR");
+                    } else {
+
+                        this.style.borderColor = "#28a745";
+
+                    }
+
+                });
+        });
+    </script>
 
     <script>
         let currentPage = 0;
@@ -528,6 +826,9 @@
         }
 
         function showPage(index) {
+            editors.forEach(editor => {
+                editor.updateSourceElement();
+            });
 
             const pages = document.querySelectorAll(".complaint-page");
 
@@ -560,19 +861,22 @@
     </div>
 
     <label>Permasalahan</label>
-    <textarea class="permasalahan"></textarea>
+    <textarea class="permasalahan editor"></textarea>
 
     <label>Harapan Anda</label>
-    <textarea class="harapan"></textarea>
+    <textarea class="harapan editor"></textarea>
   `;
 
             container.appendChild(newPage);
 
             currentPage = totalPages;
+            // INISIALISASI CKEDITOR BARU
+            initEditors();
 
             showPage(currentPage, "next");
 
         }
+
 
         function nextPage() {
 
@@ -650,7 +954,6 @@
 
             });
             updateUI();
-            saveDraft();
 
         }
 
@@ -674,35 +977,27 @@
 
                 }
 
-                // validasi format email
-                const emailPattern =
-                    /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-
-                if (!emailPattern.test(email)) {
-
-                    showToast(
-                        "Email tidak valid",
-                        "error"
-                    );
-
-                    return;
-
-                }
-
                 const pages = document.querySelectorAll(".complaint-page");
-
+                editors.forEach(editor => {
+                    editor.updateSourceElement();
+                });
                 let complaints = [];
 
                 pages.forEach(page => {
 
+                    const permasalahanEl =
+                        page.querySelector(".permasalahan");
+
+                    const harapanEl =
+                        page.querySelector(".harapan");
+
                     const permasalahan =
-                        page.querySelector(".permasalahan").value.trim();
+                        permasalahanEl ? permasalahanEl.value.trim() : "";
 
                     const harapan =
-                        page.querySelector(".harapan").value.trim();
+                        harapanEl ? harapanEl.value.trim() : "";
 
-                    // hanya kirim yang lengkap
-                    if (permasalahan !== "" && harapan !== "") {
+                    if (permasalahan !== "") {
 
                         complaints.push({
                             permasalahan,
@@ -712,6 +1007,7 @@
                     }
 
                 });
+                console.log(complaints);
 
                 if (complaints.length === 0) {
                     showToast("Minimal isi 1", "warning");
@@ -720,62 +1016,56 @@
 
                 try {
 
-                    showLoading();
+                    const response = await fetch("http://127.0.0.1:8000/api/form", {
+                        method: "POST",
+                        headers: {
+                            "Content-Type": "application/json",
+                            "Accept": "application/json"
+                        },
+                        body: JSON.stringify({
+                            email,
+                            complaints
+                        })
+                    });
 
-                    const response = await fetch(
-                        "http://127.0.0.1:8000/api/form", {
-                            method: "POST",
-                            headers: {
-                                "Content-Type": "application/json",
-                                "Accept": "application/json"
-                            },
-                            body: JSON.stringify({
-                                email,
-                                complaints
-                            })
-                        }
-                    );
+                    // Ambil response sebagai text dulu
+                    const text = await response.text();
 
-                    const result = await response.json();
+                    console.log("Response:", text);
+
+                    // Cek apakah response sukses
+                    if (!response.ok) {
+                        throw new Error(`HTTP Error ${response.status}`);
+                    }
+
+                    // Parse JSON hanya jika response valid
+                    const result = JSON.parse(text);
 
                     console.log(result);
 
-                    showToast("Berhasil", "success");
-
                     if (result.success) {
 
-                        showToast(result.message, "success");
+                        showToast(result.message || "Berhasil", "success");
 
                         localStorage.removeItem("complaintDraft");
 
                         document.getElementById("complaintForm").reset();
 
                         setTimeout(() => {
-
-                            window.location.href = "/terimaksih";
-
+                            window.location.href = "/terimakasih";
                         }, 1000);
-
 
                     } else {
 
-                        showToast("Gagal menyimpan data", "error");
+                        showToast(result.message || "Gagal menyimpan data", "error");
 
                     }
 
                 } catch (error) {
 
-                    console.log(error);
+                    console.error(error);
 
-                    if (error.name === "AbortError") {
-
-                        showToast("Request timeout", "error");
-
-                    } else {
-
-                        showToast("Gagal mengirim data", "error");
-
-                    }
+                    showToast(error.message, "error");
 
                 } finally {
 

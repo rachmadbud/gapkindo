@@ -130,6 +130,7 @@ class AnggotaController extends Controller
         $locale = app()->getLocale();
 
         $dataTsrProducers = $this->modelTsrProducers->getData();
+        // dd($dataTsrProducers);
         return response()->json([
             'current_page' => $dataTsrProducers->currentPage(),
             'last_page' => $dataTsrProducers->lastPage(),
