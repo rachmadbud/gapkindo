@@ -103,11 +103,6 @@
             box-sizing: border-box;
         }
 
-        textarea {
-            height: 320px;
-            resize: vertical;
-        }
-
         .button-group {
             display: flex;
             justify-content: space-between;
@@ -169,6 +164,33 @@
 
             transition: all 0.2s ease;
             transform: scale(1);
+        }
+
+        /* Desktop */
+        input,
+        textarea {
+            width: 100%;
+            padding: 12px;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            box-sizing: border-box;
+            font-size: 16px;
+        }
+
+        /* TEXTAREA DESKTOP FIX */
+        textarea {
+            min-height: 280px;
+            max-height: 420px;
+            resize: vertical;
+            line-height: 1.5;
+        }
+
+        .ck-editor__editable {
+            min-height: 280px;
+            max-height: 420px;
+            line-height: 1.6;
+            font-size: 16px;
         }
 
         /* Saat hover */
@@ -309,15 +331,6 @@
             margin-bottom: 15px;
             color: #666;
             font-weight: bold;
-        }
-
-        /* Animasi lebih smooth */
-        .complaint-page {
-            width: 100%;
-            backface-visibility: hidden;
-            transform-origin: center;
-            transition: all 0.5s ease;
-            opacity: 1;
         }
 
         /* NEXT */
@@ -526,7 +539,7 @@
                 padding: 10px;
             }
 
-            ..floating-logo {
+            .floating-logo {
                 position: relative;
                 width: 45px;
                 top: 10px;
