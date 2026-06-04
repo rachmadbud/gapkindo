@@ -108,8 +108,10 @@ Route::get('/form-tantangan', function () {
   return view('guest.form-permasalahan');
 })->name('formPermasalahan');
 
-
-
+// Route::get('/statistik', 'StatistikController@statistik')->name('statistik');
+Route::get('/manajement', function () {
+  return view('guest.manajement');
+})->name('manajement');
 
 Auth::routes();
 

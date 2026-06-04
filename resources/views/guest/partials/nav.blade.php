@@ -700,8 +700,8 @@
                             </a>
                         </li>
                         <li>
-                            <a class="gpk-nav__dropdown-item {{ request()->routeIs('soon') ? 'is-active' : '' }}"
-                                href="{{ route('soon') }}">
+                            <a class="gpk-nav__dropdown-item {{ request()->routeIs('manajement') ? 'is-active' : '' }}"
+                                href="{{ route('manajement') }}">
                                 <i class="far fa-sitemap"></i>
                                 Management
                             </a>
@@ -732,13 +732,13 @@
                             </a>
                         </li>
                         <li>
-                            <a class="gpk-nav__dropdown-item {{ request()->routeIs('galeri') ? 'is-active' : '' }}"
+                            <a class="gpk-nav__dropdown-item {{ request()->routeIs('soon') ? 'is-active' : '' }}"
                                 href="{{ route('soon') }}">
                                 <i class="far fa-chart-line"></i>Statistik
                             </a>
                         </li>
                         <li>
-                            <a class="gpk-nav__dropdown-item {{ request()->routeIs('galeri') ? 'is-active' : '' }}"
+                            <a class="gpk-nav__dropdown-item {{ request()->routeIs('soon') ? 'is-active' : '' }}"
                                 href="{{ route('soon') }}">
                                 <i class="far fa-file-pdf"></i>Publikasi
                             </a>

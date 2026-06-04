@@ -15,9 +15,9 @@
 
     <style>
         /* ============================================
-                                       GAPKINDO PUSAT — PREMIUM HOME
-                                       Refined Botanical Editorial Design System
-                                       ============================================ */
+                                                   GAPKINDO PUSAT — PREMIUM HOME
+                                                   Refined Botanical Editorial Design System
+                                                   ============================================ */
 
         :root {
             --c-bg: #FAF7F0;
@@ -106,8 +106,8 @@
         }
 
         /* ============================================
-                                       1. HERO CAROUSEL
-                                       ============================================ */
+                                                   1. HERO CAROUSEL
+                                                   ============================================ */
 
         .gpk-hero {
             position: relative;
@@ -169,7 +169,7 @@
 
         /* ===== Optional: brightness booster jika foto asli memang gelap ===== */
         /* Kalau foto asli sendiri gelap (low exposure), aktifkan filter di bawah
-                                       dengan menghapus tanda komentar pada baris brightness(...) saturate(...) */
+                                                   dengan menghapus tanda komentar pada baris brightness(...) saturate(...) */
         .gpk-hero__image {
             /* filter: brightness(1.12) saturate(1.10) contrast(1.05); */
         }
@@ -592,8 +592,8 @@
         }
 
         /* ============================================
-                                       2. SECTION BASE
-                                       ============================================ */
+                                                   2. SECTION BASE
+                                                   ============================================ */
 
         .gpk-section {
             padding: clamp(2.5rem, 5vh, 4rem) 0;
@@ -709,8 +709,8 @@
 
 
         /* ============================================
-                                       3. INTRO BRAND SECTION
-                                       ============================================ */
+                                                   3. INTRO BRAND SECTION
+                                                   ============================================ */
 
         .gpk-intro {
             background: var(--c-bg);
@@ -879,8 +879,8 @@
         }
 
         /* ============================================
-                                       4. NEWS SECTION
-                                       ============================================ */
+                                                   4. NEWS SECTION
+                                                   ============================================ */
 
         .gpk-news__grid {
             display: grid;
@@ -1028,8 +1028,8 @@
         }
 
         /* ============================================
-                                       5. QUICK ACCESS — Colorful Card Style
-                                       ============================================ */
+                                                   5. QUICK ACCESS — Colorful Card Style
+                                                   ============================================ */
 
         .gpk-quick {
             background: var(--c-bg);
@@ -1225,9 +1225,9 @@
         }
 
         /* ============================================
-                                       6. ORGANIZATION (Team Thumbnail Row)
-                                       Foto thumbnail circle, mencegah download/drag
-                                       ============================================ */
+                                                   6. ORGANIZATION (Team Thumbnail Row)
+                                                   Foto thumbnail circle, mencegah download/drag
+                                                   ============================================ */
 
         .gpk-team {
             display: flex;
@@ -1375,8 +1375,8 @@
         }
 
         /* ============================================
-                                       7. CONTACT CTA
-                                       ============================================ */
+                                                   7. CONTACT CTA
+                                                   ============================================ */
 
         .gpk-cta {
             background: var(--c-bg);
@@ -1535,8 +1535,8 @@
         }
 
         /* ============================================
-                                       8. SECRETARIAT
-                                       ============================================ */
+                                                   8. SECRETARIAT
+                                                   ============================================ */
 
         .gpk-secretariat__grid {
             display: grid;
@@ -1592,8 +1592,8 @@
         }
 
         /* ============================================
-                                       9. SCROLL REVEAL
-                                       ============================================ */
+                                                   9. SCROLL REVEAL
+                                                   ============================================ */
 
         .gpk-reveal {
             opacity: 0;
@@ -1807,290 +1807,9 @@
             </div>
         </section>
 
-
         {{-- =====================================================
-         GAPKINDO NEWS — DYNAMIC
+            ORGANIZATION — Team thumbnail row
          ===================================================== --}}
-        <section class="gpk-section gpk-section--soft" id="news">
-            <div class="gpk-container">
-                <div class="gpk-section__head">
-                    <div class="gpk-reveal">
-                        <span class="gpk-eyebrow">Latest Update</span>
-                        <h2 class="gpk-section__title">Kabar terbaru dari <em>industri karet alam</em></h2>
-                    </div>
-                    <div class="gpk-reveal" data-delay="2">
-                        <p class="gpk-section__lead">
-                            Mengikuti perkembangan harga, regulasi, dan dinamika pasar karet
-                            nasional maupun global yang menentukan masa depan industri.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="gpk-news__grid">
-                    @foreach (collect($dataNews)->take(6) as $idx => $news)
-                        <a href="{{ route('detail.news', app(\App\Helpers\Helper::class)->enkrip($news->id)) }}"
-                            class="gpk-news-card gpk-reveal" data-delay="{{ ($idx % 3) + 1 }}"
-                            title="{{ $news->title }}">
-                            <div class="gpk-news-card__image">
-                                <img src="{{ asset('guest/assets/img/news/' . $news->image) }}"
-                                    alt="{{ $news->title }}" loading="lazy">
-                            </div>
-                            <div class="gpk-news-card__meta">
-                                <span>{{ date('d M Y', strtotime($news->created_at)) }}</span>
-                                <span class="gpk-news-card__meta-tag">News</span>
-                            </div>
-                            <h3 class="gpk-news-card__title">{{ \Illuminate\Support\Str::limit($news->title, 80) }}</h3>
-                            <span class="gpk-news-card__cta">
-                                Baca Selengkapnya
-                                <svg class="gpk-news-card__cta-arrow" viewBox="0 0 24 24" fill="none"
-                                    stroke="currentColor" stroke-width="3" stroke-linecap="round"
-                                    stroke-linejoin="round" aria-hidden="true">
-                                    <path d="M5 12h14" />
-                                    <path d="M13 6l6 6-6 6" />
-                                </svg>
-                            </span>
-                        </a>
-                    @endforeach
-                </div>
-            </div>
-        </section>
-
-
-        {{-- Quick Access dipindah ke sebelum footer (lihat di bawah CTA) --}}
-
-
-        {{-- =====================================================
-         BADAN PENGAWAS
-         ===================================================== --}}
-        <section class="gpk-section">
-            <div class="gpk-container">
-                <div class="gpk-section__head">
-                    <div class="gpk-reveal">
-                        <span class="gpk-eyebrow">Periode 2025 – 2028</span>
-                        <h2 class="gpk-section__title">{{ trans('global.badanPengawas') }}</h2>
-                    </div>
-                    <div class="gpk-reveal" data-delay="2">
-                        <p class="gpk-section__lead">
-                            Mengawal jalannya organisasi dan memastikan setiap keputusan strategis
-                            sejalan dengan visi GAPKINDO.
-                        </p>
-                    </div>
-                </div>
-
-                {{-- Team: 1 baris (Ketua + 4 Anggota) --}}
-                <div class="gpk-team gpk-reveal">
-
-                    {{-- Ketua (featured dengan gold ring) --}}
-                    <a href="{{ route('soon') }}" class="gpk-team__member gpk-team__member--featured">
-                        <div class="gpk-team__photo">
-                            <img src="{{ asset('guest/assets/img/demo/MARTINUS-S-SINARYA.png') }}"
-                                alt="Martinus S. Sinarya" draggable="false" oncontextmenu="return false">
-                        </div>
-                        <div class="gpk-team__name">Martinus S. Sinarya</div>
-                        <div class="gpk-team__role gpk-team__role--gold">Ketua</div>
-                    </a>
-
-                    {{-- 4 Anggota --}}
-                    @php
-                        $pengawasAnggota = [
-                            ['name' => 'Ryanto Wisnuardhy', 'img' => 'RYANTO WISNUARDHI.png'],
-                            ['name' => 'Moagraha Gunawan', 'img' => 'MOAGRAHA-GUNAWAN.png'],
-                            ['name' => 'Santo Sumono', 'img' => 'SANTO-SUMONO.png'],
-                            ['name' => 'Vincentius Oei Kok Sen', 'img' => 'VINCENTIUS-OEI.png'],
-                        ];
-                    @endphp
-
-                    @foreach ($pengawasAnggota as $p)
-                        <a href="{{ route('soon') }}" class="gpk-team__member">
-                            <div class="gpk-team__photo">
-                                <img src="{{ asset('guest/assets/img/demo/' . $p['img']) }}" alt="{{ $p['name'] }}"
-                                    draggable="false" oncontextmenu="return false">
-                            </div>
-                            <div class="gpk-team__name">{{ $p['name'] }}</div>
-                            <div class="gpk-team__role">Anggota</div>
-                        </a>
-                    @endforeach
-
-                </div>
-            </div>
-        </section>
-
-
-        {{-- =====================================================
-         BADAN PENGURUS
-         ===================================================== --}}
-        <section class="gpk-section gpk-section--soft">
-            <div class="gpk-container">
-                <div class="gpk-section__head">
-                    <div class="gpk-reveal">
-                        <span class="gpk-eyebrow">Periode 2025 – 2028</span>
-                        <h2 class="gpk-section__title">Badan <em>Pengurus</em></h2>
-                    </div>
-                    <div class="gpk-reveal" data-delay="2">
-                        <p class="gpk-section__lead">
-                            Menjalankan operasional organisasi dan mengeksekusi strategi pengembangan
-                            industri karet alam nasional.
-                        </p>
-                    </div>
-                </div>
-
-                {{-- Team: 1 baris (Ketua Umum + 4 Bidang) --}}
-                <div class="gpk-team gpk-reveal" style="margin-bottom: 3rem;">
-
-                    {{-- Ketua Umum (featured dengan gold ring) --}}
-                    <a href="{{ route('soon') }}" class="gpk-team__member gpk-team__member--featured">
-                        <div class="gpk-team__photo">
-                            <img src="{{ asset('guest/assets/img/demo/alex-img.png') }}" alt="Alex Kurniawan Edy"
-                                draggable="false" oncontextmenu="return false">
-                        </div>
-                        <div class="gpk-team__name">Alex Kurniawan Edy</div>
-                        <div class="gpk-team__role gpk-team__role--gold">Ketua Umum</div>
-                    </a>
-
-                    {{-- 4 Bidang --}}
-                    @php
-                        $pengurus = [
-                            ['name' => 'Timmie Melvin', 'role' => 'Sekretaris Umum', 'img' => 'timmie-img.png'],
-                            [
-                                'name' => 'Vargo Gunawan',
-                                'role' => 'Ketua Bidang Organisasi/Bendahara',
-                                'img' => 'vargo-img.png',
-                            ],
-                            [
-                                'name' => 'Erikson Ginting',
-                                'role' => 'Ketua Bidang Produksi',
-                                'img' => 'edrikson-img.png',
-                            ],
-                            [
-                                'name' => 'I. Widyantoko Sumarlin',
-                                'role' => 'Ketua Bidang Pemasaran',
-                                'img' => 'widiyantoko-img.png',
-                            ],
-                        ];
-                    @endphp
-
-                    @foreach ($pengurus as $p)
-                        <a href="{{ route('soon') }}" class="gpk-team__member">
-                            <div class="gpk-team__photo">
-                                <img src="{{ asset('guest/assets/img/demo/' . $p['img']) }}" alt="{{ $p['name'] }}"
-                                    draggable="false" oncontextmenu="return false">
-                            </div>
-                            <div class="gpk-team__name">{{ $p['name'] }}</div>
-                            <div class="gpk-team__role">{{ $p['role'] }}</div>
-                        </a>
-                    @endforeach
-
-                </div>
-
-                {{-- Sub-title untuk DPW --}}
-                <div class="gpk-reveal"
-                    style="margin-bottom: 1.5rem; padding-top: 2rem; border-top: 1px solid var(--c-line); text-align: center;">
-                    <h3
-                        style="font-family: var(--f-display); font-size: 1.6rem; font-weight: 500; letter-spacing: -0.02em; margin-top: 0.6rem; margin-bottom: 0;">
-                        Ketua <em style="font-style: italic; color: var(--c-gold); font-weight: 400;">Cabang / </em>
-                        Anggota
-                    </h3>
-                </div>
-
-                {{-- 8 Ketua DPW dalam 1 baris, rata kiri-kanan sejajar Quick Access --}}
-                <div class="gpk-team gpk-team--cabang gpk-reveal">
-                    @php
-                        $dpw = [
-                            [
-                                'name' => 'Ishak Leono',
-                                'region' => 'Sumatera Utara',
-                                'img' => 'cabang/ketua/IshakLeono-sumut.png',
-                            ],
-                            [
-                                'name' => 'Gusnar Sunardi',
-                                'region' => 'Jambi',
-                                'img' => 'cabang/ketua/Gusnar Sunardi - Jambi.png',
-                            ],
-                            [
-                                'name' => 'Budiman Sutanto',
-                                'region' => 'Bengkulu',
-                                'img' => 'cabang/ketua/Budiman Sutanto - Bengkulu.png',
-                            ],
-                            [
-                                'name' => 'Irwan Mualim',
-                                'region' => 'Sumatera Selatan',
-                                'img' => 'cabang/ketua/Irwan Mualim - Sumsel.png',
-                            ],
-                            ['name' => 'Tedi Noviandi', 'region' => 'Lampung', 'img' => 'demo/tedi1.jpg'],
-                            [
-                                'name' => 'Arif',
-                                'region' => 'Kalimantan Barat',
-                                'img' => 'cabang/ketua/Arif - Kalbar.png',
-                            ],
-                            [
-                                'name' => 'Andreas Winata',
-                                'region' => 'Kalsel-Teng-Tim',
-                                'img' => 'cabang/ketua/userDefault.png',
-                            ],
-                            [
-                                'name' => 'Anthonya M. Saputra',
-                                'region' => 'Jawa',
-                                'img' => 'cabang/ketua/Anthonya M. Saputera - Jawa',
-                            ],
-                        ];
-                    @endphp
-
-                    @foreach ($dpw as $d)
-                        <a href="{{ route('soon') }}" class="gpk-team__member">
-                            <div class="gpk-team__photo">
-                                <img src="{{ asset('guest/assets/img/' . $d['img']) }}" alt="{{ $d['name'] }}"
-                                    draggable="false" oncontextmenu="return false">
-                            </div>
-                            <div class="gpk-team__name">{{ $d['name'] }}</div>
-                            <div class="gpk-team__role gpk-team__role--gold">{{ $d['region'] }}</div>
-                        </a>
-                    @endforeach
-                </div>
-            </div>
-        </section>
-
-
-        {{-- =====================================================
-         SEKRETARIAT
-         ===================================================== --}}
-        <section class="gpk-section">
-            <div class="gpk-container">
-                <div class="gpk-section__head">
-                    <div class="gpk-reveal">
-                        <span class="gpk-eyebrow">Operations</span>
-                        <h2 class="gpk-section__title">Sekretariat <em>GAPKINDO</em></h2>
-                    </div>
-                    <div class="gpk-reveal" data-delay="2">
-                        <p class="gpk-section__lead">
-                            Menjalankan operasional harian organisasi dan menjadi penghubung antara
-                            pengurus, anggota, dan stakeholder.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="gpk-secretariat__grid">
-                    <a href="{{ route('soon') }}" class="gpk-sec-card gpk-reveal">
-                        <div class="gpk-sec-card__photo">
-                            <img src="{{ asset('guest/assets/img/demo/ERWIN-TUNAS.png') }}" alt="Erwin Tunas">
-                        </div>
-                        <div>
-                            <div class="gpk-sec-card__name">Erwin Tunas</div>
-                            <div class="gpk-sec-card__role">Direktur Eksekutif</div>
-                        </div>
-                    </a>
-
-                    <a href="{{ route('soon') }}" class="gpk-sec-card gpk-reveal" data-delay="2">
-                        <div class="gpk-sec-card__photo">
-                            <img src="{{ asset('guest/assets/img/demo/UHENDI-HARIS.png') }}" alt="Uhendi Haris">
-                        </div>
-                        <div>
-                            <div class="gpk-sec-card__name">Uhendi Haris</div>
-                            <div class="gpk-sec-card__role">Asisten Direktur Eksekutif</div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </section>
 
 
         {{-- =====================================================
