@@ -18,8 +18,8 @@
 @push('styles')
     <style>
         /* ============================================================
-                                                            SEJARAH PAGE — Scoped Styles
-                                                            ============================================================ */
+                                                                    SEJARAH PAGE — Scoped Styles
+                                                                    ============================================================ */
         :root {
             --c-bg: #FAF7F0;
             --c-bg-soft: #F4EFE3;
@@ -92,8 +92,8 @@
         }
 
         /* ============================================================
-                                                            1. PAGE HEADER (Hero) — Compact navy with checkerboard
-                                                            ============================================================ */
+                                                                    1. PAGE HEADER (Hero) — Compact navy with checkerboard
+                                                                    ============================================================ */
         .sejarah-hero {
             background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 55%, #1a237e 100%);
             color: var(--c-cream);
@@ -164,8 +164,8 @@
         }
 
         /* ============================================================
-                                                            2. TIMELINE VISUAL (adaptasi pola PowerPoint)
-                                                            ============================================================ */
+                                                                    2. TIMELINE VISUAL (adaptasi pola PowerPoint)
+                                                                    ============================================================ */
         .sejarah-timeline {
             background: var(--c-bg);
             padding: clamp(2.5rem, 6vh, 4.5rem) 0;
@@ -424,8 +424,8 @@
         }
 
         /* ============================================================
-                                                            3. SEJARAH DETAIL — Card Layout
-                                                            ============================================================ */
+                                                                    3. SEJARAH DETAIL — Card Layout
+                                                                    ============================================================ */
         .sejarah-detail {
             background: var(--c-bg-soft);
             padding: clamp(2.5rem, 6vh, 4rem) 0;
@@ -610,8 +610,8 @@
         }
 
         /* ============================================================
-                                                            4. CTA BACK TO HOME
-                                                            ============================================================ */
+                                                                    4. CTA BACK TO HOME
+                                                                    ============================================================ */
         .sejarah-cta {
             background: var(--c-bg);
             padding: clamp(2rem, 5vh, 3.5rem) 0;
@@ -664,8 +664,8 @@
         }
 
         /* ============================================================
-                                                            RESPONSIVE
-                                                            ============================================================ */
+                                                                    RESPONSIVE
+                                                                    ============================================================ */
         @media (max-width: 768px) {
             .timeline-track {
                 min-width: 900px;
@@ -744,8 +744,8 @@
         }
 
         /* ============================================
-                                                                   2. SECTION BASE
-                                                                   ============================================ */
+                                                                           2. SECTION BASE
+                                                                           ============================================ */
 
         .gpk-section {
             padding: clamp(2.5rem, 5vh, 4rem) 0;
@@ -1090,7 +1090,7 @@
                 <div class="gpk-section__head">
                     <div class="gpk-reveal">
                         <span class="gpk-eyebrow">Periode 2025 – 2028</span>
-                        <h2 class="gpk-section__title">{{ trans('global.badanPengawas') }}</h2>
+                        <h2 class="gpk-section__title">Badan <em>Pengawas</em></h2>
                     </div>
                     <div class="gpk-reveal" data-delay="2">
                         <p class="gpk-section__lead">
