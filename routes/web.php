@@ -113,6 +113,11 @@ Route::get('/manajement', function () {
   return view('guest.manajement');
 })->name('manajement');
 
+// route statistik
+Route::get('/statistik', function () {
+  return view('guest.statistik');
+})->name('statistik');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');

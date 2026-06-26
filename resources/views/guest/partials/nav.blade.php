@@ -732,8 +732,8 @@
                             </a>
                         </li>
                         <li>
-                            <a class="gpk-nav__dropdown-item {{ request()->routeIs('soon') ? 'is-active' : '' }}"
-                                href="{{ route('soon') }}">
+                            <a class="gpk-nav__dropdown-item {{ request()->routeIs('statistik') ? 'is-active' : '' }}"
+                                href="{{ route('statistik') }}">
                                 <i class="far fa-chart-line"></i>Statistik
                             </a>
                         </li>

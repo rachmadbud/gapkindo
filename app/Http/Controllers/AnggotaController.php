@@ -15,6 +15,7 @@ class AnggotaController extends Controller
         $this->modelTsrProducers = new \App\Models\TsrProducers();
         $this->modelBrownCrapeProducer = new \App\Models\BrownCrapeProducer();
         $this->modelTraders = new \App\Models\Traders();
+        $this->modelTsrProducers = new \App\Models\TsrProducers();
     }
 
     public function index()
@@ -130,7 +131,6 @@ class AnggotaController extends Controller
         $locale = app()->getLocale();
 
         $dataTsrProducers = $this->modelTsrProducers->getData();
-        // dd($dataTsrProducers);
         return response()->json([
             'current_page' => $dataTsrProducers->currentPage(),
             'last_page' => $dataTsrProducers->lastPage(),

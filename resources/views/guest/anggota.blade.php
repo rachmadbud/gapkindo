@@ -22,10 +22,10 @@
 @push('styles')
     <style>
         /* ============================================================
-                                                                                                                                               ANGGOTA PAGE — Scoped Modern Dashboard Styles
-                                                                                                                                               Variabel di-scope di .gpk-anggota-page supaya tidak
-                                                                                                                                               mengganggu navbar/footer global.
-                                                                                                                                               ============================================================ */
+                                                                                                                                                       ANGGOTA PAGE — Scoped Modern Dashboard Styles
+                                                                                                                                                       Variabel di-scope di .gpk-anggota-page supaya tidak
+                                                                                                                                                       mengganggu navbar/footer global.
+                                                                                                                                                       ============================================================ */
         .gpk-anggota-page {
             /* Backgrounds */
             --c-bg: #f8fafc;
@@ -89,8 +89,8 @@
         }
 
         /* Base container — GLOBAL (tidak di-scope) supaya footer & navbar
-                                                                                                                                               yang juga pakai class .gpk-container ikut ter-style.
-                                                                                                                                               Override 12px khusus konten anggota ada di rule berikutnya. */
+                                                                                                                                                       yang juga pakai class .gpk-container ikut ter-style.
+                                                                                                                                                       Override 12px khusus konten anggota ada di rule berikutnya. */
         .gpk-container {
             max-width: 1320px;
             margin: 0 auto;
@@ -98,7 +98,7 @@
         }
 
         /* Container override untuk konten antara ticker (date & time) dan footer:
-                                                                                                                                               padding kanan/kiri = 12px (sesuai permintaan), full-bleed (max-width: 100%) */
+                                                                                                                                                       padding kanan/kiri = 12px (sesuai permintaan), full-bleed (max-width: 100%) */
         .gpk-anggota-page .ang-stats .gpk-container,
         .gpk-anggota-page .ang-main .gpk-container,
         .gpk-anggota-page .ang-cta .gpk-container {
@@ -108,8 +108,8 @@
         }
 
         /* ============================================================
-                                                                                                                                               1. BANNER HEADER (Lama — navy + checkerboard + Fraunces)
-                                                                                                                                               ============================================================ */
+                                                                                                                                                       1. BANNER HEADER (Lama — navy + checkerboard + Fraunces)
+                                                                                                                                                       ============================================================ */
         .gpk-anggota-page .ang-hero {
             background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 55%, #1a237e 100%);
             color: var(--c-cream);
@@ -180,8 +180,8 @@
         }
 
         /* ============================================================
-                                                                                                                                               2. GRADIENT STAT CARDS (di bawah banner, tidak overlap)
-                                                                                                                                               ============================================================ */
+                                                                                                                                                       2. GRADIENT STAT CARDS (di bawah banner, tidak overlap)
+                                                                                                                                                       ============================================================ */
         .gpk-anggota-page .ang-stats {
             padding: clamp(1.25rem, 3vh, 2rem) 0 clamp(1rem, 2vh, 1.5rem);
             position: relative;
@@ -271,8 +271,8 @@
         }
 
         /* ============================================================
-                                                                                                                                               3. MAIN PANEL — Tabs + Toolbar + Table
-                                                                                                                                               ============================================================ */
+                                                                                                                                                       3. MAIN PANEL — Tabs + Toolbar + Table
+                                                                                                                                                       ============================================================ */
         .gpk-anggota-page .ang-main {
             padding: 0 0 clamp(2rem, 5vh, 4rem);
         }
@@ -575,8 +575,8 @@
         }
 
         /* ============================================================
-                                                                                                                                               4. CTA BACK
-                                                                                                                                               ============================================================ */
+                                                                                                                                                       4. CTA BACK
+                                                                                                                                                       ============================================================ */
         .gpk-anggota-page .ang-cta {
             padding: 0 0 clamp(2rem, 5vh, 4rem);
             text-align: center;
@@ -613,8 +613,8 @@
         }
 
         /* ============================================================
-                                                                                                                                               5. MOBILE RESPONSIVE — Table → Stacked Cards
-                                                                                                                                               ============================================================ */
+                                                                                                                                                       5. MOBILE RESPONSIVE — Table → Stacked Cards
+                                                                                                                                                       ============================================================ */
         @media (max-width: 768px) {
             .gpk-anggota-page .ang-toolbar {
                 padding: 1rem;
@@ -1244,16 +1244,22 @@
                 tab4: {
                     tableBodyId: 'table-body-TsrProducers',
                     paginationId: 'pagination-TsrProducers',
-                    url: '/tsr-producers',
+                    url: '/tsr-producers', // Pastikan Route ini sesuai di web.php
                     colCount: 6,
-                    rowRenderer: (item, index, currentPage, perPage) => `
-                <td data-label="No">${(currentPage-1)*perPage + index + 1}</td>
+                    rowRenderer: (item, index, currentPage, perPage) => {
+                        // Kalkulasi nomor urut/indeks tabel
+                        const rowNumber = (currentPage - 1) * perPage + index + 1;
+
+                        // Mengembalikan string HTML LANGSUNG berupa kumpulan <td> (Tanpa bungkus <tr>)
+                        return `
+                <td data-label="No">${rowNumber}</td>
                 <td data-label="Cabang"><span class="badge-prov">${escapeHtml(item.prov)}</span></td>
                 <td data-label="Perusahaan" class="col-perusahaan">${escapeHtml(item.company)}</td>
-                <td data-label="Tipe Produk">${escapeHtml(item.tsr_product || '-')}</td>
-                <td data-label="Kode Produsen">${escapeHtml(item.product_code || '-')}</td>
-                <td data-label="Email"><a href="mailto:${escapeHtml(item.email)}">${escapeHtml(item.email)}</a></td>
-            `
+                <td data-label="Tipe Produk">${escapeHtml(item.tsr_product)}</td>
+                <td data-label="Kode Produsen">${escapeHtml(item.product_code)}</td>
+                <td data-label="Email">${item.email ? `<a href="mailto:${escapeHtml(item.email)}">${escapeHtml(item.email)}</a>` : '-'}</td>
+            `;
+                    }
                 },
                 tab5: {
                     tableBodyId: 'table-body-brownCrapeProducer',
