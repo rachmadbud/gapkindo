@@ -10,8 +10,9 @@
     <meta property="og:url" content="https://gapkindo.org/form-tantangan">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Tantangan Industri Karet Alam">
-    <meta property="og:description" content="">
-    <meta property="og:image" content=""><!-- Load error, please check URL -->
+    <meta property="og:description" content="Tantangan Industri Karet Alam">
+    <meta property="og:image" content="https://gapkindo.org/guest/assets/img/logo-gapkindo.jpg">
+    <!-- Load error, please check URL -->
 
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
@@ -19,7 +20,7 @@
     <meta property="twitter:url" content="https://gapkindo.org/form-tantangan">
     <meta name="twitter:title" content="Tantangan Industri Karet Alam">
     <meta name="twitter:description" content="">
-    <meta name="twitter:image" content="">
+    <meta name="twitter:image" content="https://gapkindo.org/guest/assets/img/logo-gapkindo.jpg">
 
     <!-- Meta Tags Generated via https://opengraph.dev -->
     <!-- CSS -->
