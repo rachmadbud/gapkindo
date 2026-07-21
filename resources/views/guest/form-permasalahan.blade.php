@@ -17,7 +17,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta property="twitter:domain" content="gapkindo.org">
     <meta property="twitter:url" content="https://gapkindo.org/form-tantangan">
-    <meta name="twitter:title" content="Form Gapkindo">
+    <meta name="twitter:title" content="Tantangan Industri Karet Alam">
     <meta name="twitter:description" content="">
     <meta name="twitter:image" content="">
 
