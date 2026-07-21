@@ -2,14 +2,26 @@
 <html lang="id">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- HTML Meta Tags -->
+    <title>Form Gapkindo</title>
+    <meta name="description" content="">
 
-    <meta property="og:title" content="Form Gapkindo" />
-    <meta property="og:description" content="Tantangan Industri Karet Alam" />
-    <meta property="og:image" content="https://gapkindo.org/guest/assets/img/logo-gapkindo.jpg" />
-    <meta property="og:url" content="https://gapkindo.org/form-tantangan" />
-    <meta property="og:type" content="website" />
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:url" content="https://gapkindo.org/form-tantangan">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Tantangan Industri Karet Alam">
+    <meta property="og:description" content="">
+    <meta property="og:image" content=""><!-- Load error, please check URL -->
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="gapkindo.org">
+    <meta property="twitter:url" content="https://gapkindo.org/form-tantangan">
+    <meta name="twitter:title" content="Form Gapkindo">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:image" content="">
+
+    <!-- Meta Tags Generated via https://opengraph.dev -->
     <!-- CSS -->
     <link rel="stylesheet" href="https://raw.githack.com/mrbudbud/fontawesome-pro/master/src/css/all.css">
 
