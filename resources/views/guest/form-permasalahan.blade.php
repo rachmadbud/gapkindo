@@ -321,7 +321,7 @@
         .progress-bar {
             height: 100%;
             width: 100%;
-            background: linear-gradient(90deg, #17a2b8, #007bff);
+            background: linear-gradient(90deg, #044638, #03503f);
             transition: width 0.4s ease;
         }
 
@@ -695,7 +695,7 @@
         <br>
 
         <br>
-        <h2>Tantangan Industri Karet Alam Saat ini</h2>
+        <h2 style="color: #044638;">Tantangan Industri Karet Alam Saat ini</h2>
 
         <div class="progress-wrapper">
             <div class="progress-bar" id="progressBar"></div>
@@ -718,7 +718,7 @@
                         <br><br>
                     </div>
 
-                    <label>Tantangan</label>
+                    <label>Tantangan/Permasalahan</label>
                     <textarea class="permasalahan editor" style="height: 801px;"></textarea>
 
                     <label>Usul/Solusi/Harapan Anda (opsional)</label>
@@ -879,7 +879,7 @@
       
     </div>
 
-    <label>Tantangan</label>
+    <label>Tantangan/Permasalahan</label>
     <textarea class="permasalahan editor"></textarea>
 
     <label>Usul/Solusi/Harapan Anda (opsional)</label>
