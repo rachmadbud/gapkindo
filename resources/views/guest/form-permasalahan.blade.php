@@ -5,7 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Form Gapkindo</title>
+    <meta property="og:title" content="Form Gapkindo" />
+    <meta property="og:description" content="Tantangan Industri Karet Alam" />
+    <meta property="og:image" content="https://gapkindo.org/guest/assets/img/logo-gapkindo.jpg" />
+    <meta property="og:url" content="https://gapkindo.org/form-tantangan" />
+    <meta property="og:type" content="website" />
     <!-- CSS -->
     <link rel="stylesheet" href="https://raw.githack.com/mrbudbud/fontawesome-pro/master/src/css/all.css">
 
