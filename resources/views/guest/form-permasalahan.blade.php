@@ -695,7 +695,7 @@
         <br>
 
         <br>
-        <h2 style="color: #044638;">Tantangan Industri Karet Alam Saat ini</h2>
+        <h2 style="color: #044638;">Tantangan Industri Karet Alam Saat Ini</h2>
 
         <div class="progress-wrapper">
             <div class="progress-bar" id="progressBar"></div>
