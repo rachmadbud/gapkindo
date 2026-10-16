@@ -26,24 +26,65 @@
     <!-- CSS -->
     <link rel="stylesheet" href="https://raw.githack.com/mrbudbud/fontawesome-pro/master/src/css/all.css">
 
+    <!--Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Tauri&display=swap"
+        rel="stylesheet">
+    <!--Font -->
+
+
 
     <style>
+        /* Update pada selector body */
         body {
-            font-family: Arial, sans-serif;
-            background: #f4f4f4;
+            font-family: "Tauri", sans-serif;
+            /* Gradient modern dengan nuansa hijau tua dan sentuhan ornamen mesh / blur effect */
+            background: radial-gradient(circle at 20% 20%, #08604d 0%, transparent 40%),
+                radial-gradient(circle at 80% 80%, #022b22 0%, transparent 40%),
+                linear-gradient(135deg, #044638 0%, #022018 100%);
+            background-attachment: fixed;
             margin: 0;
             padding: 0;
+            min-height: 100vh;
+        }
+
+        /* Update pada selector .container agar lebih menyatu (Modern Glassmorphism / Clean Card) */
+        .container {
+            max-width: 800px;
+            margin: 30px auto;
+            /* Putih transparan dengan efek blur kaca */
+            background: rgba(255, 255, 255, 0.85);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            padding: 30px;
+            border-radius: 16px;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
         }
 
         .floating-logo {
-            position: fixed;
-            top: 30px;
-            left: 30px;
-            width: 70px;
+            display: block;
+            width: 80px;
+            /* Ukuran logo pas */
             height: auto;
-            z-index: 999;
-            opacity: 0.95;
-            transition: all 0.3s ease;
+            margin: 0 auto 20px;
+            /* Center otomatis & beri jarak ke judul */
+            opacity: 1;
+            transition: transform 0.3s ease;
+        }
+
+        .floating-logo:hover {
+            transform: scale(1.05);
+        }
+
+        /* Responsif HP */
+        @media (max-width: 768px) {
+            .floating-logo {
+                width: 65px;
+                margin-bottom: 15px;
+            }
         }
 
         /* Tablet */
@@ -59,21 +100,17 @@
             }
         }
 
-        /* Mobile */
+        /* Penyesuaian responsif mobile agar background tetap proporsional */
         @media (max-width: 768px) {
-            .floating-logo {
-                width: 50px;
-                top: 10px;
-                left: 10px;
-                opacity: 0.85;
+            body {
+                padding: 10px 0;
             }
 
             .container {
-                margin-top: 80px;
-            }
-
-            .editor {
-                min-height: 801px;
+                width: calc(100% - 30px);
+                margin: 60px auto 20px auto;
+                padding: 20px;
+                border-radius: 12px;
             }
         }
 
@@ -88,15 +125,6 @@
 
         .floating-logo:hover {
             transform: scale(1.05);
-        }
-
-        .container {
-            max-width: 800px;
-            margin: 30px auto;
-            background: white;
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
 
         h2 {
@@ -709,9 +737,6 @@
     <div class="container">
 
         <img src="https://gapkindo.org/guest/assets/img/logo-gapkindo.jpg" alt="Logo" class="floating-logo">
-        <br>
-
-        <br>
         <h2 style="color: #044638;">Tantangan Industri Karet Alam Saat Ini</h2>
 
         <div class="progress-wrapper">
