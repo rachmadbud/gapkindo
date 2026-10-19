@@ -17,7 +17,9 @@
     {{-- Premium fonts (Fraunces serif + Manrope sans + JetBrains Mono) --}}
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500;9..144,600;9..144,700&family=Manrope:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500;9..144,600;9..144,700&family=Manrope:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@300;400;500&display=swap"
+        rel="stylesheet">
 
     {{-- Legacy font for backward compat (halaman-halaman lain masih pakai) --}}
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800' rel='stylesheet' type='text/css'>
@@ -43,6 +45,8 @@
     <link rel="stylesheet" href="{{ asset('guest/assets/css/style.css') }}">
     <link rel="stylesheet" href="{{ asset('guest/assets/css/responsive.css') }}">
     <link rel="stylesheet" href="{{ asset('guest/assets/css/custom.css') }}">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
     {{-- Font Awesome Pro & Leaflet --}}
     <link rel="stylesheet" href="https://raw.githack.com/mrbudbud/fontawesome-pro/master/src/css/all.css">
@@ -80,12 +84,15 @@
         }
 
         /* Preloader supaya tetap putih clean, bukan bumerang */
-        #preloader { background: var(--c-bg); }
+        #preloader {
+            background: var(--c-bg);
+        }
 
         /* Non-home pages: push konten ke bawah navbar fixed */
         body:not(.is-home) {
             padding-top: var(--nav-h-desktop);
         }
+
         @media (max-width: 991px) {
             body:not(.is-home) {
                 padding-top: var(--nav-h-mobile);

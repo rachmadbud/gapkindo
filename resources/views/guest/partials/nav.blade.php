@@ -732,12 +732,6 @@
                             </a>
                         </li>
                         <li>
-                            <a class="gpk-nav__dropdown-item {{ request()->routeIs('statistik') ? 'is-active' : '' }}"
-                                href="{{ route('statistik') }}">
-                                <i class="far fa-chart-line"></i>Statistik
-                            </a>
-                        </li>
-                        <li>
                             <a class="gpk-nav__dropdown-item {{ request()->routeIs('soon') ? 'is-active' : '' }}"
                                 href="{{ route('soon') }}">
                                 <i class="far fa-file-pdf"></i>Publikasi
@@ -745,8 +739,14 @@
                         </li>
                     </ul>
                 </li>
+                <li class="gpk-nav__item">
+                    <a class="gpk-nav__link {{ request()->routeIs('statistik') ? 'is-active' : '' }}"
+                        href="{{ route('statistik') }}">
+                        <i class="far fa-chart-line"></i>Statistik
+                    </a>
+                </li>
 
-                <li class="gpk-nav__item gpk-nav__item--dropdown" data-dropdown>
+                <li class="gpk-nav__item">
                     <a class="gpk-nav__link" href="#" role="button" aria-expanded="false">
                         <i class="fas fa-book"></i>{{ __('global.regulasi') }}
                         <i class="fas fa-chevron-down gpk-nav__caret"></i>
