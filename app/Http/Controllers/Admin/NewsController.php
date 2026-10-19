@@ -88,6 +88,8 @@ class NewsController extends Controller
      */
     public function destroy(string $id)
     {
-        //
+        $this->modelNews->deleteData($id);
+
+        return redirect()->route('admin.news')->with('success', 'News deleted successfully.');
     }
 }

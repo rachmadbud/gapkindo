@@ -30,4 +30,13 @@ class News extends Model
         $data = DB::table('news')->where('id', $id)->first();
         return $data;
     }
+
+    public function deleteData($id)
+    {
+        $dekripId = app(\App\Helpers\Helper::class)->dekrip($id);
+
+        $delete = DB::table('news')->where('id', $dekripId)->delete();
+
+        return $delete;
+    }
 }

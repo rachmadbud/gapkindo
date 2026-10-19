@@ -10,7 +10,7 @@ Route::post('news/insert', 'Admin\\NewsController@store')->name('newsInsert');
 
 Route::get('cabang', 'Admin\\CabangController@cabang')->name('cabang');
 Route::post('cabang', 'Admin\\CabangController@cabangPost')->name('cabangPost');
-Route::post('/hapus/{id}', 'Admin\\CabangController@hapus')->name('hapus');
+Route::post('/hapus/news/{id}', 'Admin\\NewsController@destroy')->name('hapusNews');
 
 Route::get('/galery', 'Admin\\GaleryController@index')->name('galery');
 Route::post('/galery/{id}', 'Admin\\GaleryController@destroy')->name('destroy');

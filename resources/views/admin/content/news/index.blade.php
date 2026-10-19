@@ -259,28 +259,21 @@
                                                 <div class="modal-content">
                                                     <div class="modal-header">
                                                         <h5 class="modal-title" id="exampleModalLabel">
-                                                            <p class="text-muted">Edit: <b></b> </p>
+                                                            <p class="text-muted">Hapus <b></b> </p>
                                                         </h5>
                                                         <button type="button" class="close" data-dismiss="modal"
                                                             aria-label="Close">
                                                             <span aria-hidden="true">&times;</span>
                                                         </button>
                                                     </div>
-                                                    <form action="" method="post">
+                                                    <form
+                                                        action="{{ route('admin.hapusNews', app(\App\Helpers\Helper::class)->enkrip($news->id)) }}"
+                                                        method="post">
                                                         @csrf
-                                                        <div class="modal-body">
-                                                            <input type="text" name="id_barang" value="" hidden>
-                                                            <label for="jumlah" class="col-form-label">Jumlah</label>
-                                                            <input type="number" id="jumlah_barang" name="jumlah_barang"
-                                                                class="form-control " placeholder="contoh: 12">
-                                                            <span class="invalid-feedback" role="alert">
-                                                                <strong></strong>
-                                                            </span>
-                                                        </div>
                                                         <div class="modal-footer">
                                                             <button type="button" class="btn btn-secondary"
                                                                 data-dismiss="modal">Close</button>
-                                                            <button type="submit" class="btn btn-primary">Save
+                                                            <button type="submit" class="btn btn-danger">Hapus
                                                             </button>
                                                         </div>
                                                     </form>
