@@ -80,6 +80,15 @@
                     </a>
                 </li>
 
+                <li class="nav-item">
+                    <a href="{{ route('admin.exportDestinations') }}" class="nav-link">
+                        <i class="nav-icon fas fa-chart-bar"></i>
+                        <p>
+                            Statistik Ekspor
+                        </p>
+                    </a>
+                </li>
+
             </ul>
 
         </nav>

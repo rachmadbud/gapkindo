@@ -23,3 +23,7 @@ Route::get('/destroyDetail/{id}', 'Admin\\GaleryController@destroyDetail')->name
 Route::get('publikasi', 'Admin\\PublikasiController@index')->name('publikasi');
 Route::post('publikasi/insert', 'Admin\\PublikasiController@store')->name('publikasiInsert');
 Route::post('destroyPublikasi/{id}', 'Admin\\PublikasiController@destroy')->name('destroyPublikasi');
+
+Route::get('export-destinations', 'Admin\\ExportDestinationController@index')->name('exportDestinations');
+Route::post('export-destinations/upload', 'Admin\\ExportDestinationController@upload')->name('exportDestinations.upload');
+Route::get('export-destinations/template', 'Admin\\ExportDestinationController@downloadTemplate')->name('exportDestinations.template');

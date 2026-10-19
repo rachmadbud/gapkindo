@@ -108,15 +108,17 @@ Route::get('/form-tantangan', function () {
   return view('guest.form-permasalahan');
 })->name('formPermasalahan');
 
-// Route::get('/statistik', 'StatistikController@statistik')->name('statistik');
 Route::get('/manajement', function () {
   return view('guest.manajement');
 })->name('manajement');
 
 // route statistik
 Route::get('/statistik', function () {
-  return view('guest.statistik');
+  return view('guest.statistik.index');
 })->name('statistik');
+
+// tujuan ekspor
+Route::get('/tujuan-ekspor', 'StatistikController@tujuanEkspor')->name('tujuan-ekspor');
 
 Auth::routes();
 

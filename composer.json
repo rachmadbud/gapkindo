@@ -9,6 +9,7 @@
         "doctrine/dbal": "^3.6",
         "laravel/framework": "^10.0",
         "laravel/ui": "^4.0",
+        "phpoffice/phpspreadsheet": "^2.4.8",
         "spatie/laravel-permission": "6.0",
         "vildanbina/laravel-auto-translation": "^1.5"
     },
