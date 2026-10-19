@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\ExportDataset;
+use App\Models\ExportDestination;
 use Illuminate\Http\Request;
 
 class StatistikController extends Controller
@@ -21,6 +22,23 @@ class StatistikController extends Controller
         11 => 'November',
         12 => 'Desember',
     ];
+
+    public function index()
+    {
+        $exportYear = ExportDataset::query()->max('year');
+        $destinationsForYear = ExportDestination::query()
+            ->whereHas('dataset', fn ($query) => $query->where('year', $exportYear));
+        $totalExportVolumeKg = (clone $destinationsForYear)->sum('volume');
+        $destinationCountryCount = $destinationsForYear
+            ->selectRaw('COUNT(DISTINCT LOWER(TRIM(country))) as country_count')
+            ->value('country_count');
+
+        return view('guest.statistik.index', [
+            'totalExportVolumeKg' => $totalExportVolumeKg,
+            'destinationCountryCount' => (int) $destinationCountryCount,
+            'exportYear' => $exportYear,
+        ]);
+    }
 
     public function tujuanEkspor(Request $request)
     {

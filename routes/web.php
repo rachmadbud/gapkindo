@@ -113,9 +113,7 @@ Route::get('/manajement', function () {
 })->name('manajement');
 
 // route statistik
-Route::get('/statistik', function () {
-  return view('guest.statistik.index');
-})->name('statistik');
+Route::get('/statistik', 'StatistikController@index')->name('statistik');
 
 // tujuan ekspor
 Route::get('/tujuan-ekspor', 'StatistikController@tujuanEkspor')->name('tujuan-ekspor');

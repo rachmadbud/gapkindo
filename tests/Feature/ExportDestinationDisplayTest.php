@@ -67,6 +67,49 @@ class ExportDestinationDisplayTest extends TestCase
             ->assertSee('HONGKONG');
     }
 
+    public function test_statistics_dashboard_aggregates_export_volume_and_unique_countries_for_latest_year(): void
+    {
+        $oldDataset = ExportDataset::create([
+            'month' => 12,
+            'year' => 2025,
+            'source_filename' => 'december-2025.xlsx',
+        ]);
+        $oldDataset->destinations()->create([
+            'country' => 'OLD COUNTRY',
+            'volume' => 9000000000,
+            'value' => 100,
+            'position' => 1,
+        ]);
+
+        $julyDataset = ExportDataset::create([
+            'month' => 7,
+            'year' => 2026,
+            'source_filename' => 'july-2026.xlsx',
+        ]);
+        $julyDataset->destinations()->createMany([
+            ['country' => 'JAPAN', 'volume' => 20000000, 'value' => 100, 'position' => 1],
+            ['country' => 'HONGKONG', 'volume' => 10000000, 'value' => 50, 'position' => 2],
+        ]);
+
+        $augustDataset = ExportDataset::create([
+            'month' => 8,
+            'year' => 2026,
+            'source_filename' => 'august-2026.xlsx',
+        ]);
+        $augustDataset->destinations()->createMany([
+            ['country' => 'Japan', 'volume' => 30000000, 'value' => 150, 'position' => 1],
+            ['country' => 'SINGAPORE', 'volume' => null, 'value' => null, 'position' => 2],
+        ]);
+
+        $this->get('/statistik')
+            ->assertOk()
+            ->assertSee('60.000.000')
+            ->assertSee('Volume ekspor · 2026')
+            ->assertSee('3 <span class="gpk-stat-unit">negara</span>', false)
+            ->assertSee('3 negara tujuan tercatat pada 2026')
+            ->assertDontSee('OLD COUNTRY');
+    }
+
     public function test_admin_upload_replaces_the_selected_period_with_excel_rows(): void
     {
         $existingDataset = ExportDataset::create([

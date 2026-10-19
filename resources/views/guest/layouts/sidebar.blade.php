@@ -38,7 +38,7 @@
         color: #e2e8f0;
         text-decoration: none;
         border-radius: 6px;
-        font-size: 1rem;
+        font-size: 1.89rem;
         font-weight: 400;
         transition: background 0.2s;
     }
