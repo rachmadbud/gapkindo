@@ -19,12 +19,12 @@
 
     foreach ($monthlyPrices as $index => $point) {
         $plotPoints[] = [
-            'x' => $plotLeft + ($index * (($plotRight - $plotLeft) / (count($monthlyPrices) - 1))),
-            'highY' => $plotBottom - (($point['high'] - 170) * $priceScale),
-            'lowY' => $plotBottom - (($point['low'] - 170) * $priceScale),
-            'openY' => $plotBottom - (($point['open'] - 170) * $priceScale),
-            'closeY' => $plotBottom - (($point['close'] - 170) * $priceScale),
-            'closeLabelY' => max(42, $plotBottom - (($point['high'] - 170) * $priceScale) - 8),
+            'x' => $plotLeft + $index * (($plotRight - $plotLeft) / (count($monthlyPrices) - 1)),
+            'highY' => $plotBottom - ($point['high'] - 170) * $priceScale,
+            'lowY' => $plotBottom - ($point['low'] - 170) * $priceScale,
+            'openY' => $plotBottom - ($point['open'] - 170) * $priceScale,
+            'closeY' => $plotBottom - ($point['close'] - 170) * $priceScale,
+            'closeLabelY' => max(42, $plotBottom - ($point['high'] - 170) * $priceScale - 8),
         ];
     }
 @endphp
@@ -45,9 +45,10 @@
     <g aria-hidden="true">
         @foreach (range(170, 270, 10) as $level)
             @php
-                $gridY = $plotBottom - (($level - 170) * $priceScale);
+                $gridY = $plotBottom - ($level - 170) * $priceScale;
             @endphp
-            <line class="gpk-price-chart-grid" x1="72" y1="{{ $gridY }}" x2="920" y2="{{ $gridY }}" />
+            <line class="gpk-price-chart-grid" x1="72" y1="{{ $gridY }}" x2="920"
+                y2="{{ $gridY }}" />
             <text class="gpk-price-chart-axis-label" x="22" y="{{ $gridY + 4 }}">{{ $level }},0</text>
         @endforeach
         <text class="gpk-price-chart-axis-title" x="24" y="24">US$/kg</text>
@@ -91,7 +92,7 @@
     @endforeach
 </svg>
 
-<div class="gpk-price-chart-table-wrap">
+{{-- <div class="gpk-price-chart-table-wrap">
     <table class="gpk-price-chart-detail">
         <thead>
             <tr>
@@ -129,4 +130,4 @@
             @endforeach
         </tbody>
     </table>
-</div>
+</div> --}}

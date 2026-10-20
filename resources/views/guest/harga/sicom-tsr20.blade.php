@@ -62,19 +62,19 @@
                         <span class="gpk-stat-tag">JAN–OKT 2026</span>
                     </div>
                     <div class="gpk-price-overview-chart">
-                    <div class="gpk-price-overview-chart">
-                        @include('guest.harga.partials.chart')
-                    </div>
+                        <div class="gpk-price-overview-chart">
+                            @include('guest.harga.partials.chart')
+                        </div>
 
-                    <p class="gpk-price-chart-caption">
-                        Titik bulanan ditaksir dari posisi grafik pada gambar yang diberikan; tidak mewakili penutupan
-                        bulanan resmi atau data harian.
-                    </p>
+                        <p class="gpk-price-chart-caption">
+                            Titik bulanan ditaksir dari posisi grafik pada gambar yang diberikan; tidak mewakili penutupan
+                            bulanan resmi atau data harian.
+                        </p>
 
-                    <a class="gpk-price-chart-action" href="https://id.tradingview.com/chart/?symbol=SGX%3ATF1%21"
-                        target="_blank" rel="noopener noreferrer">
-                        Lihat Chart di TradingView <i class="fas fa-external-link-alt" aria-hidden="true"></i>
-                    </a>
+                        <a class="gpk-price-chart-action" href="https://id.tradingview.com/chart/?symbol=SGX%3ATF1%21"
+                            target="_blank" rel="noopener noreferrer">
+                            Lihat Chart di TradingView <i class="fas fa-external-link-alt" aria-hidden="true"></i>
+                        </a>
                 </article>
             </section>
 
