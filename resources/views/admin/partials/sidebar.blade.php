@@ -80,13 +80,28 @@
                     </a>
                 </li>
 
-                <li class="nav-item">
-                    <a href="{{ route('admin.exportDestinations') }}" class="nav-link">
+                <li class="nav-item {{ request()->routeIs('admin.exportDestinations*', 'admin.indonesiaProduction*') ? 'menu-open' : '' }}">
+                    <a href="#" class="nav-link {{ request()->routeIs('admin.exportDestinations*', 'admin.indonesiaProduction*') ? 'active' : '' }}">
                         <i class="nav-icon fas fa-chart-bar"></i>
                         <p>
-                            Statistik Ekspor
+                            Statistics
+                            <i class="right fas fa-angle-left"></i>
                         </p>
                     </a>
+                    <ul class="nav nav-treeview">
+                        <li class="nav-item">
+                            <a href="{{ route('admin.exportDestinations') }}" class="nav-link {{ request()->routeIs('admin.exportDestinations*') ? 'active' : '' }}">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Export Destinations</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="{{ route('admin.indonesiaProduction') }}" class="nav-link {{ request()->routeIs('admin.indonesiaProduction*') ? 'active' : '' }}">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Production in Indonesia</p>
+                            </a>
+                        </li>
+                    </ul>
                 </li>
 
             </ul>

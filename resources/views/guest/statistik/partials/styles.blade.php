@@ -456,22 +456,6 @@
         font-size: 0.9rem;
     }
 
-    .gpk-sidebar {
-        background-color: #14331a;
-    }
-
-    .gpk-sidebar-title {
-        color: #d4b355;
-    }
-
-    .gpk-sidebar-menu li a.active {
-        background-color: #2c5530;
-    }
-
-    .gpk-sidebar-toggle {
-        background: #14331a;
-    }
-
     @media (max-width: 1100px) {
         .gpk-stat-cards {
             grid-template-columns: repeat(2, minmax(0, 1fr));

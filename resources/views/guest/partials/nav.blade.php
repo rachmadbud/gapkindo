@@ -706,6 +706,19 @@
                                 Management
                             </a>
                         </li>
+                        <li>
+                            <a class="gpk-nav__dropdown-item {{ request()->routeIs('anggota') ? 'is-active' : '' }}"
+                                href="{{ route('anggota') }}">
+                                <i class="fas fa-user-friends"></i>
+                                {{ __('global.anggota') }}
+                            </a>
+                        </li>
+                        <li>
+                            <a class="gpk-nav__dropdown-item {{ request()->routeIs('kontak') ? 'is-active' : '' }}"
+                                href="{{ route('kontak') }}">
+                                <i class="fas fa-phone"></i>{{ __('global.kontak') }}
+                            </a>
+                        </li>
                     </ul>
                 </li>
 
@@ -746,7 +759,7 @@
                     </a>
                 </li>
 
-                <li class="gpk-nav__item">
+                <li class="gpk-nav__item gpk-nav__item--dropdown">
                     <a class="gpk-nav__link" href="#" role="button" aria-expanded="false">
                         <i class="fas fa-book"></i>{{ __('global.regulasi') }}
                         <i class="fas fa-chevron-down gpk-nav__caret"></i>
@@ -763,8 +776,9 @@
                                     rel="noopener"><i class="fas fa-industry"></i>Kementerian Perindustrian</a>
                                 <a class="gpk-nav__dropdown-item" href="https://dephub.go.id/" target="_blank"
                                     rel="noopener"><i class="fas fa-truck"></i>Kementerian Perhubungan</a>
-                                <a class="gpk-nav__dropdown-item" href="https://www.kemenkeu.go.id/home" target="_blank"
-                                    rel="noopener"><i class="fas fa-coins"></i>Kementerian Keuangan</a>
+                                <a class="gpk-nav__dropdown-item" href="https://www.kemenkeu.go.id/home"
+                                    target="_blank" rel="noopener"><i class="fas fa-coins"></i>Kementerian
+                                    Keuangan</a>
                                 <a class="gpk-nav__dropdown-item" href="https://kadin.id/" target="_blank"
                                     rel="noopener"><i class="fas fa-handshake"></i>KADIN Indonesia</a>
                             </div>
@@ -793,26 +807,10 @@
                     </div>
                 </li>
 
-                <li class="gpk-nav__item gpk-nav__item--dropdown {{ request()->routeIs('anggota') ? 'is-active' : '' }}"
-                    data-dropdown>
-                    <a class="gpk-nav__link" href="#" role="button" aria-expanded="false">
-                        <i class="fas fa-users"></i>{{ __('global.anggota') }}
-                        <i class="fas fa-chevron-down gpk-nav__caret"></i>
-                    </a>
-                    <ul class="gpk-nav__dropdown">
-                        <li>
-                            <a class="gpk-nav__dropdown-item {{ request()->routeIs('anggota') ? 'is-active' : '' }}"
-                                href="{{ route('anggota') }}">
-                                <i class="fas fa-user-friends"></i>{{ __('global.anggota') }}
-                            </a>
-                        </li>
-                    </ul>
-                </li>
-
                 <li class="gpk-nav__item">
-                    <a class="gpk-nav__link {{ request()->routeIs('kontak') ? 'is-active' : '' }}"
-                        href="{{ route('kontak') }}">
-                        <i class="fas fa-phone"></i>{{ __('global.kontak') }}
+                    <a class="gpk-nav__link {{ request()->routeIs('harga', 'sicom-tsr20') ? 'is-active' : '' }}"
+                        href="{{ route('harga') }}">
+                        <i class="fas fa-dollar-sign"></i>Harga
                     </a>
                 </li>
 

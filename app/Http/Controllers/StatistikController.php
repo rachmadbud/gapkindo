@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\ExportDataset;
 use App\Models\ExportDestination;
+use App\Models\IndonesiaProductionDataset;
 use Illuminate\Http\Request;
 
 class StatistikController extends Controller
@@ -98,6 +99,61 @@ class StatistikController extends Controller
             'totalVolume' => $totalVolume,
             'totalValue' => $totalValue,
             'chartMaximum' => $chartMaximum,
+        ]);
+    }
+
+    public function produksiIndonesia(Request $request)
+    {
+        $validated = $request->validate([
+            'month' => 'nullable|integer|between:1,12',
+            'year' => 'nullable|integer|between:2000,2100',
+        ]);
+
+        $latestDataset = IndonesiaProductionDataset::orderByDesc('year')
+            ->orderByDesc('month')
+            ->first();
+        $years = IndonesiaProductionDataset::query()
+            ->select('year')
+            ->distinct()
+            ->orderByDesc('year')
+            ->pluck('year')
+            ->map(fn ($year) => (int) $year)
+            ->all();
+
+        if ($years === []) {
+            $years = [now()->year];
+        }
+
+        $selectedMonth = (int) ($validated['month'] ?? $latestDataset?->month ?? now()->month);
+        $selectedYear = (int) ($validated['year'] ?? $latestDataset?->year ?? now()->year);
+
+        if (!in_array($selectedYear, $years, true)) {
+            $years[] = $selectedYear;
+            rsort($years);
+        }
+
+        $dataset = IndonesiaProductionDataset::with([
+            'productions' => fn ($query) => $query->orderBy('position'),
+        ])
+            ->where('month', $selectedMonth)
+            ->where('year', $selectedYear)
+            ->first();
+
+        $productions = $dataset
+            ? $dataset->productions->map(fn ($production) => [
+                'province' => $production->province,
+                'production_ton' => (float) $production->production_ton,
+            ])->all()
+            : [];
+
+        return view('guest.statistik.produksi-indonesia', [
+            'months' => self::MONTHS,
+            'years' => $years,
+            'selectedMonth' => $selectedMonth,
+            'selectedYear' => $selectedYear,
+            'productions' => $productions,
+            'totalProduction' => array_sum(array_column($productions, 'production_ton')),
+            'chartMaximum' => max(1, max(array_column($productions, 'production_ton') ?: [0])),
         ]);
     }
 }

@@ -118,6 +118,13 @@ Route::get('/statistik', 'StatistikController@index')->name('statistik');
 // tujuan ekspor
 Route::get('/tujuan-ekspor', 'StatistikController@tujuanEkspor')->name('tujuan-ekspor');
 
+// produksi di Indonesia
+Route::get('/produksi-indonesia', 'StatistikController@produksiIndonesia')->name('produksi-indonesia');
+
+// prices dashboard and SICOM TSR20 chart
+Route::view('/harga', 'guest.harga.index')->name('harga');
+Route::view('/sicom-tsr20', 'guest.harga.sicom-tsr20')->name('sicom-tsr20');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');

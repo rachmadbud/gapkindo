@@ -29,7 +29,7 @@
                     <p>Pilih periode data ekspor yang ingin ditampilkan.</p>
                 </div>
                 <div class="gpk-export-filter-field">
-                    <label for="export-month">Bulan</label>
+                    <label for="export-month">Periode</label>
                     <select id="export-month" name="month">
                         @foreach ($months as $monthNumber => $monthName)
                             <option value="{{ $monthNumber }}" {{ $selectedMonth === $monthNumber ? 'selected' : '' }}>
@@ -152,7 +152,8 @@
 
             <p class="gpk-stat-note">
                 <i class="fas fa-info-circle" aria-hidden="true"></i>
-                <span>Data pada grafik dan ringkasan mengikuti file Excel yang diunggah admin untuk periode yang dipilih.</span>
+                <span>Data pada grafik dan ringkasan mengikuti file Excel yang diunggah admin untuk periode yang
+                    dipilih.</span>
             </p>
         </main>
     </div>

@@ -27,3 +27,7 @@ Route::post('destroyPublikasi/{id}', 'Admin\\PublikasiController@destroy')->name
 Route::get('export-destinations', 'Admin\\ExportDestinationController@index')->name('exportDestinations');
 Route::post('export-destinations/upload', 'Admin\\ExportDestinationController@upload')->name('exportDestinations.upload');
 Route::get('export-destinations/template', 'Admin\\ExportDestinationController@downloadTemplate')->name('exportDestinations.template');
+
+Route::get('indonesia-production', 'Admin\\IndonesiaProductionController@index')->name('indonesiaProduction');
+Route::post('indonesia-production/upload', 'Admin\\IndonesiaProductionController@upload')->name('indonesiaProduction.upload');
+Route::get('indonesia-production/template', 'Admin\\IndonesiaProductionController@downloadTemplate')->name('indonesiaProduction.template');
