@@ -12,7 +12,7 @@
 
 @extends('guest.layouts.master')
 
-@section('title', 'Cabang GAPKINDO')
+@section('title', __('global.guest.branchesTitle'))
 
 @push('styles')
 {{-- Leaflet CSS --}}
@@ -662,13 +662,12 @@
     <section class="cab-hero">
         <div class="gpk-container">
             <div class="cab-hero__inner">
-                <div class="cab-hero__eyebrow">Jaringan Nasional</div>
+                <div class="cab-hero__eyebrow">{{ __('global.guest.nationalNetwork') }}</div>
                 <h1 class="cab-hero__title">
-                    Cabang <em>GAPKINDO</em>
+                    {{ __('global.guest.branchesTitle') }}
                 </h1>
                 <p class="cab-hero__lead">
-                    Jaringan {{ $totalCabang }} cabang DPW yang tersebar di provinsi-provinsi penghasil karet utama Indonesia—siap
-                    mendukung industri karet alam di setiap daerah.
+                    {{ __('global.guest.cabangLead', ['count' => $totalCabang]) }}
                 </p>
             </div>
         </div>
@@ -685,15 +684,15 @@
             <div class="cab-stats__grid">
                 <div class="cab-stat">
                     <div class="cab-stat__num">{{ $totalCabang }}</div>
-                    <div class="cab-stat__label">Cabang</div>
+                    <div class="cab-stat__label">{{ __('global.guest.branches') }}</div>
                 </div>
                 <div class="cab-stat">
                     <div class="cab-stat__num">16</div>
-                    <div class="cab-stat__label">Provinsi</div>
+                    <div class="cab-stat__label">{{ __('global.guest.provinces') }}</div>
                 </div>
                 <div class="cab-stat">
                     <div class="cab-stat__num">100+</div>
-                    <div class="cab-stat__label">Negara Ekspor</div>
+                    <div class="cab-stat__label">{{ __('global.guest.exportCountries') }}</div>
                 </div>
             </div>
         </div>
@@ -706,16 +705,16 @@
     <section class="cab-map-section">
         <div class="gpk-container">
             <div class="cab-map-section__head">
-                <div class="cab-section__num">— 01 / Peta Cabang</div>
-                <span class="cab-section__eyebrow">Lokasi Cabang</span>
+                <div class="cab-section__num">— 01 / {{ __('global.guest.branchMap') }}</div>
+                <span class="cab-section__eyebrow">{{ __('global.guest.branchLocations') }}</span>
                 <h2 class="cab-section__title">
-                    Tersebar di seluruh <em>Indonesia</em>
+                    {{ __('global.guest.acrossIndonesia') }}
                 </h2>
             </div>
 
             <div class="cab-map-wrap">
                 <div id="cabangMap" class="cab-map"></div>
-                <button type="button" class="cab-map-reset" id="cabangMapReset" aria-label="Reset tampilan peta">
+                <button type="button" class="cab-map-reset" id="cabangMapReset" aria-label="{{ __('global.guest.resetMap') }}">
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
                         <polyline points="23 4 23 10 17 10"/>
                         <polyline points="1 20 1 14 7 14"/>
@@ -723,7 +722,7 @@
                     </svg>
                 </button>
             </div>
-            <div class="cab-map-hint">🗺️ Klik pin untuk melihat detail cabang • Scroll untuk zoom • Klik tombol ↻ untuk reset</div>
+            <div class="cab-map-hint">🗺️ {{ __('global.guest.mapHint') }}</div>
         </div>
     </section>
 
@@ -734,21 +733,21 @@
     <section class="cab-grid-section">
         <div class="gpk-container">
             <div class="cab-grid-section__head">
-                <div class="cab-section__num">— 02 / Daftar Lengkap</div>
-                <span class="cab-section__eyebrow">Direktori Cabang</span>
+                <div class="cab-section__num">— 02 / {{ __('global.guest.completeDirectory') }}</div>
+                <span class="cab-section__eyebrow">{{ __('global.guest.branchDirectory') }}</span>
                 <h2 class="cab-section__title">
-                    Semua cabang <em>GAPKINDO</em>
+                    {{ __('global.guest.allBranches') }}
                 </h2>
             </div>
 
             <div class="cab-grid">
                 @foreach ($data as $idx => $item)
                     <a href="{{ route('detail-cabanag', app(\App\Helpers\Helper::class)->enkrip($item->id)) }}"
-                       class="cab-card" title="Detail cabang {{ $item->propinsi }}">
+                       class="cab-card" title="{{ __('global.guest.branchDetails') }} {{ $item->propinsi }}">
                         <div class="cab-card__photo">
                             <span class="cab-card__num">DPW {{ str_pad($idx + 1, 2, '0', STR_PAD_LEFT) }}</span>
                             <img src="{{ asset('guest/assets/img/cabang/' . $item->img) }}"
-                                 alt="Cabang {{ $item->propinsi }}" loading="lazy">
+                                 alt="{{ __('global.guest.branch') }} {{ $item->propinsi }}" loading="lazy">
                         </div>
                         <div class="cab-card__body">
                             <h3 class="cab-card__name">
@@ -758,9 +757,9 @@
                                 </svg>
                                 {{ $item->propinsi }}
                             </h3>
-                            <div class="cab-card__meta">GAPKINDO Cabang</div>
+                            <div class="cab-card__meta">{{ __('global.guest.branchEstablished') }}</div>
                             <span class="cab-card__cta">
-                                Lihat Detail
+                                {{ __('global.guest.viewDetails') }}
                                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
                                     <path d="M5 12h14M13 6l6 6-6 6"/>
                                 </svg>
@@ -779,7 +778,7 @@
     <section class="cab-cta">
         <div class="gpk-container">
             <a href="{{ url('/') }}" class="cab-cta__btn">
-                <span>Kembali ke Beranda</span>
+                <span>{{ __('global.guest.backHome') }}</span>
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
                     <path d="M5 12h14"/>
                     <path d="M13 6l6 6-6 6"/>
@@ -805,6 +804,7 @@
     if (!document.getElementById('cabangMap')) return;
 
     const cabangData = {!! $cabangJS->toJson() !!};
+    const branchDetailsLabel = @json(__('global.guest.branchDetails'));
 
     // Initialize map centered on Indonesia
     const map = L.map('cabangMap', {
@@ -844,7 +844,7 @@
                     ${c.propinsi}
                 </h4>
                 <a href="${c.detailUrl}" class="cab-popup__btn">
-                    Detail Cabang
+                    ${branchDetailsLabel}
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
                         <path d="M5 12h14M13 6l6 6-6 6"/>
                     </svg>

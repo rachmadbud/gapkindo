@@ -1,6 +1,6 @@
 @extends('guest.layouts.master')
 
-@section('title', 'Home | GAPKINDO')
+@section('title', __('global.guest.homeTitle') . ' | GAPKINDO')
 @section('bodyClass', 'is-home')
 
 {{--
@@ -1653,54 +1653,48 @@
                             'img' => '1.jpg',
                             'ribbon' => 'NATURAL',
                             'color' => 'success',
-                            'title' => 'INDUSTRI KARET ALAM INDONESIA',
-                            'lead' =>
-                                'GAPKINDO mengawal dan mengembangkan industri primer karet alam Indonesia sebagai komoditas ekspor utama nasional.',
+                            'title' => __('global.guest.heroTitle1'),
+                            'lead' => __('global.guest.heroLead1'),
                             'cta' => null,
                         ],
                         [
                             'img' => '2.jpg',
                             'ribbon' => 'HERITAGE',
                             'color' => 'warning',
-                            'title' => 'WARISAN PERKEBUNAN BERKELANJUTAN',
-                            'lead' =>
-                                'Dari hulu ke hilir, mengawal mutu dan standar produksi karet Indonesia agar tetap relevan di pasar global.',
-                            'cta' => ['url' => route('sejarah'), 'text' => 'SEJARAH'],
+                            'title' => __('global.guest.heroTitle2'),
+                            'lead' => __('global.guest.heroLead2'),
+                            'cta' => ['url' => route('sejarah'), 'text' => __('global.guest.history')],
                         ],
                         [
                             'img' => '3.jpg',
                             'ribbon' => 'PROCESSING',
                             'color' => 'primary',
-                            'title' => 'PENGOLAHAN BERSTANDAR DUNIA',
-                            'lead' =>
-                                'Setiap tahap produksi mengikuti standar mutu internasional, dari pengolahan hingga pengiriman ke pelabuhan tujuan.',
+                            'title' => __('global.guest.heroTitle3'),
+                            'lead' => __('global.guest.heroLead3'),
                             'cta' => null,
                         ],
                         [
                             'img' => '4.jpg',
                             'ribbon' => 'GLOBAL MARKET',
                             'color' => 'info',
-                            'title' => 'KOMODITAS EKSPOR UTAMA',
-                            'lead' =>
-                                'Karet alam Indonesia menjangkau lebih dari 50 negara dan menjadi penopang devisa nasional yang signifikan.',
+                            'title' => __('global.guest.heroTitle4'),
+                            'lead' => __('global.guest.heroLead4'),
                             'cta' => null,
                         ],
                         [
                             'img' => '5.jpg',
                             'ribbon' => 'COMMUNITY',
                             'color' => 'danger',
-                            'title' => 'EKOSISTEM PERKARETAN NASIONAL',
-                            'lead' =>
-                                'Menyatukan pelaku usaha, pemerintah, dan petani dalam satu visi pengembangan industri karet alam Indonesia.',
-                            'cta' => ['url' => route('anggota'), 'text' => 'ANGGOTA'],
+                            'title' => __('global.guest.heroTitle5'),
+                            'lead' => __('global.guest.heroLead5'),
+                            'cta' => ['url' => route('anggota'), 'text' => __('global.guest.members')],
                         ],
                         [
                             'img' => '6.jpg',
                             'ribbon' => 'SUSTAINABLE',
                             'color' => 'success',
-                            'title' => 'KARET ALAM RAMAH LINGKUNGAN',
-                            'lead' =>
-                                'Industri yang menyerap karbon, menjaga keanekaragaman hayati, dan menyejahterakan masyarakat sekitar perkebunan.',
+                            'title' => __('global.guest.heroTitle6'),
+                            'lead' => __('global.guest.heroLead6'),
                             'cta' => null,
                         ],
                     ];
@@ -1743,17 +1737,17 @@
             {{-- Scroll cue --}}
             <div class="gpk-hero__scroll">
                 <span class="gpk-hero__scroll-line"></span>
-                <span>Scroll</span>
+                <span>{{ __('global.guest.scroll') }}</span>
             </div>
 
             {{-- Controls --}}
             <div class="gpk-hero__controls">
-                <button class="gpk-hero__btn" id="gpkHeroPrev" aria-label="Previous">
+                <button class="gpk-hero__btn" id="gpkHeroPrev" aria-label="{{ __('global.guest.previous') }}">
                     <svg viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.4">
                         <path d="M8.5 2L3.5 7l5 5" />
                     </svg>
                 </button>
-                <button class="gpk-hero__btn" id="gpkHeroNext" aria-label="Next">
+                <button class="gpk-hero__btn" id="gpkHeroNext" aria-label="{{ __('global.guest.next') }}">
                     <svg viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.4">
                         <path d="M5.5 2L10.5 7l-5 5" />
                     </svg>
@@ -1776,15 +1770,12 @@
 
                 {{-- HEAD: centered intro --}}
                 <div class="gpk-intro__head gpk-reveal">
-                    <span class="gpk-eyebrow">Tentang GAPKINDO</span>
+                    <span class="gpk-eyebrow">{{ __('global.guest.aboutGapkindo') }}</span>
                     <h2 class="gpk-intro__title">
-                        Gabungan <em>Perusahaan Karet</em> Indonesia
+                        {{ __('global.Penjelasan') }}
                     </h2>
                     <p class="gpk-intro__body">
-                        GAPKINDO adalah perkumpulan yang bergerak dalam bidang industri primer karet alam.
-                        Tujuan kami adalah mengembangkan serta meningkatkan usaha perkaretan—baik secara
-                        kuantitatif maupun kualitatif—ditinjau dari segi produksi, pengolahan, dan pemasarannya
-                        sebagai salah satu komoditas ekspor utama Indonesia.
+                        {{ __('global.guest.associationDescription') }}
                     </p>
                 </div>
 
@@ -1792,15 +1783,15 @@
                 <div class="gpk-stats gpk-reveal" data-delay="2">
                     <div class="gpk-stat">
                         <div class="gpk-stat__num">1947</div>
-                        <div class="gpk-stat__label">Tahun Berdiri</div>
+                        <div class="gpk-stat__label">{{ __('global.guest.establishedYear') }}</div>
                     </div>
                     <div class="gpk-stat">
                         <div class="gpk-stat__num">8</div>
-                        <div class="gpk-stat__label">Cabang</div>
+                        <div class="gpk-stat__label">{{ __('global.guest.branches') }}</div>
                     </div>
                     <div class="gpk-stat">
                         <div class="gpk-stat__num">100+</div>
-                        <div class="gpk-stat__label">Negara Tujuan Ekspor</div>
+                        <div class="gpk-stat__label">{{ __('global.guest.exportDestinations') }}</div>
                     </div>
                 </div>
 
@@ -1821,9 +1812,9 @@
 
                 {{-- HEAD --}}
                 <div class="gpk-quick__head gpk-reveal">
-                    <div class="gpk-quick__num">— Quick Navigation</div>
-                    <span class="gpk-eyebrow">Akses Cepat</span>
-                    <h2 class="gpk-quick__title">Jelajahi lebih lanjut <em>GAPKINDO</em></h2>
+                    <div class="gpk-quick__num">— {{ __('global.guest.quickNavigation') }}</div>
+                    <span class="gpk-eyebrow">{{ __('global.guest.quickAccess') }}</span>
+                    <h2 class="gpk-quick__title">{{ __('global.guest.exploreMore') }}</h2>
                 </div>
 
                 {{-- GRID 4 COLORFUL CARDS --}}
@@ -1833,16 +1824,16 @@
                     <a href="#" class="gpk-quick-card gpk-quick-card--teal gpk-reveal" data-delay="1"
                         id="quickOpenTautan">
                         <div class="gpk-quick-card__top">
-                            <div class="gpk-quick-card__label">Mitra Resmi</div>
-                            <div class="gpk-quick-card__title">Link Eksternal</div>
-                            <p class="gpk-quick-card__sub">Akses cepat ke menu Tautan: kementerian & mitra internasional
+                            <div class="gpk-quick-card__label">{{ __('global.guest.officialPartners') }}</div>
+                            <div class="gpk-quick-card__title">{{ __('global.guest.externalLinks') }}</div>
+                            <p class="gpk-quick-card__sub">{{ __('global.guest.quickLinksDescription') }}
                             </p>
                         </div>
                         <svg class="gpk-quick-card__icon-bg" viewBox="0 0 24 24" fill="currentColor">
                             <path
                                 d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z" />
                         </svg>
-                        <span class="gpk-quick-card__cta">Buka Menu Tautan <span
+                        <span class="gpk-quick-card__cta">{{ __('global.guest.openLinksMenu') }} <span
                                 class="gpk-quick-card__cta-arrow">→</span></span>
                     </a>
 
@@ -1850,15 +1841,15 @@
                     <a href="{{ route('berita') }}" class="gpk-quick-card gpk-quick-card--purple gpk-reveal"
                         data-delay="2">
                         <div class="gpk-quick-card__top">
-                            <div class="gpk-quick-card__label">Media › Berita</div>
-                            <div class="gpk-quick-card__title">Arsip Berita</div>
-                            <p class="gpk-quick-card__sub">Kabar terbaru industri karet alam Indonesia</p>
+                            <div class="gpk-quick-card__label">{{ __('global.guest.media') }} › {{ __('global.news') }}</div>
+                            <div class="gpk-quick-card__title">{{ __('global.guest.newsArchive') }}</div>
+                            <p class="gpk-quick-card__sub">{{ __('global.guest.latestRubberNews') }}</p>
                         </div>
                         <svg class="gpk-quick-card__icon-bg" viewBox="0 0 24 24" fill="currentColor">
                             <path
                                 d="M20 3H3c-1.1 0-2 .9-2 2v11c0 1.1.9 2 2 2h3v3l3-3h11c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM5 7h13v2H5V7zm8 7H5v-2h8v2zm5-3H5V9h13v2z" />
                         </svg>
-                        <span class="gpk-quick-card__cta">Baca Berita <span
+                        <span class="gpk-quick-card__cta">{{ __('global.guest.readNews') }} <span
                                 class="gpk-quick-card__cta-arrow">→</span></span>
                     </a>
 
@@ -1866,15 +1857,15 @@
                     <a href="{{ route('galeri') }}" class="gpk-quick-card gpk-quick-card--emerald gpk-reveal"
                         data-delay="3">
                         <div class="gpk-quick-card__top">
-                            <div class="gpk-quick-card__label">Media › Galeri</div>
-                            <div class="gpk-quick-card__title">Galeri Kegiatan</div>
-                            <p class="gpk-quick-card__sub">Dokumentasi acara, kongres, dan kegiatan GAPKINDO</p>
+                            <div class="gpk-quick-card__label">{{ __('global.guest.media') }} › {{ __('global.guest.gallery') }}</div>
+                            <div class="gpk-quick-card__title">{{ __('global.guest.galleryActivity') }}</div>
+                            <p class="gpk-quick-card__sub">{{ __('global.guest.eventsAndCongresses') }}</p>
                         </div>
                         <svg class="gpk-quick-card__icon-bg" viewBox="0 0 24 24" fill="currentColor">
                             <path
                                 d="M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zM8.5 13.5l2.5 3.01L14.5 12l4.5 6H5l3.5-4.5z" />
                         </svg>
-                        <span class="gpk-quick-card__cta">Lihat Galeri <span
+                        <span class="gpk-quick-card__cta">{{ __('global.guest.viewGallery') }} <span
                                 class="gpk-quick-card__cta-arrow">→</span></span>
                     </a>
 
@@ -1882,15 +1873,15 @@
                     <a href="{{ route('cabang') }}" class="gpk-quick-card gpk-quick-card--amber gpk-reveal"
                         data-delay="4">
                         <div class="gpk-quick-card__top">
-                            <div class="gpk-quick-card__label">Tentang Kami › Cabang</div>
-                            <div class="gpk-quick-card__title">Cabang GAPKINDO</div>
-                            <p class="gpk-quick-card__sub">Jaringan 8 cabang di provinsi penghasil karet</p>
+                            <div class="gpk-quick-card__label">{{ __('global.guest.aboutBranches') }} › {{ __('global.cabang') }}</div>
+                            <div class="gpk-quick-card__title">{{ __('global.guest.branchesTitle') }}</div>
+                            <p class="gpk-quick-card__sub">{{ __('global.guest.branchNetworkDescription') }}</p>
                         </div>
                         <svg class="gpk-quick-card__icon-bg" viewBox="0 0 24 24" fill="currentColor">
                             <path
                                 d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z" />
                         </svg>
-                        <span class="gpk-quick-card__cta">Lihat Cabang <span
+                        <span class="gpk-quick-card__cta">{{ __('global.guest.viewBranches') }} <span
                                 class="gpk-quick-card__cta-arrow">→</span></span>
                     </a>
 
@@ -1906,15 +1897,14 @@
         <section class="gpk-cta">
             <div class="gpk-container">
                 <div class="gpk-cta__inner gpk-reveal">
-                    <div class="gpk-cta__eyebrow">— Get in touch</div>
-                    <h2 class="gpk-cta__title">Punya pertanyaan?<br><em>Mari berdiskusi.</em></h2>
+                    <div class="gpk-cta__eyebrow">— {{ __('global.guest.contactInformation') }}</div>
+                    <h2 class="gpk-cta__title">{{ __('global.guest.haveQuestion') }}<br><em>{{ __('global.guest.letsTalk') }}.</em></h2>
                     <p class="gpk-cta__sub">
-                        Tim GAPKINDO siap membantu Anda dengan informasi seputar industri karet alam,
-                        keanggotaan, regulasi, dan kemitraan.
+                        {{ __('global.guest.mainContactCenter') }}
                     </p>
                     <div class="gpk-cta__phone">(62-21) 3501510, 3501511, 3846813</div>
                     <a href="{{ route('kontak') }}" class="gpk-cta__btn">
-                        <span>Peta Lokasi</span>
+                        <span>{{ __('global.guest.viewMap') }}</span>
                         <svg class="gpk-cta__btn-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                             stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
                             <path d="M5 12h14" />

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="{{ app()->getLocale() }}">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tampilkan Excel Otomatis</title>
+    <title>{{ __('global.guest.excelTable') }}</title>
 
     <!-- SheetJS CDN -->
     <script src="https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>
@@ -28,6 +28,13 @@
         h2 {
             text-align: center;
             color: #333;
+        }
+
+        .language-switch {
+            display: flex;
+            justify-content: flex-end;
+            gap: 0.75rem;
+            margin-bottom: 1rem;
         }
 
         table {
@@ -56,8 +63,12 @@
 
 <body>
     <div class="container">
-        <h2>📊 Tabel Excel Otomatis</h2>
-        <div id="output">Memuat data...</div>
+        <nav class="language-switch" aria-label="{{ __('global.guest.language') }}">
+            <a href="{{ route('langSwitch', 'id') }}" lang="id" hreflang="id">ID</a>
+            <a href="{{ route('langSwitch', 'en') }}" lang="en" hreflang="en">EN</a>
+        </nav>
+        <h2>📊 {{ __('global.guest.excelTable') }}</h2>
+        <div id="output">{{ __('global.guest.loadingData') }}</div>
     </div>
 
     <script>
@@ -66,7 +77,7 @@
 
         fetch(filePath)
             .then(response => {
-                if (!response.ok) throw new Error("Gagal memuat file Excel");
+                if (!response.ok) throw new Error(@json(__('global.guest.excelLoadError')));
                 return response.arrayBuffer();
             })
             .then(data => {

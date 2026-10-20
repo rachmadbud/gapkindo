@@ -268,6 +268,58 @@
         opacity: 1;
     }
 
+    .gpk-language-switch {
+        display: inline-flex;
+        align-items: center;
+        gap: 4px;
+        padding: 4px 10px;
+        background: rgba(255, 255, 255, 0.08);
+        border: 1px solid rgba(255, 255, 255, 0.25);
+        border-radius: 6px;
+        transition: background 0.25s ease;
+        margin-right: 7.5rem;
+    }
+
+    /* Teks Tombol Bahasa (Lebih Besar & Jelas) */
+    .gpk-language-switch__link {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0.5rem 1rem;
+        ;
+        color: #ffffff;
+        font-size: 0.9rem;
+        /* Ukuran font lebih besar */
+        font-weight: 700;
+        text-decoration: none;
+        border-radius: 4px;
+        transition: all 0.2s ease-in-out;
+    }
+
+    /* Garis Pemisah Vertikal (|) */
+    .gpk-language-switch__divider {
+        width: 1px;
+        height: 1rem;
+        background-color: rgba(160, 160, 160, 0.3);
+        margin: 0 2px;
+    }
+
+    /* State Aktif (Tombol yang sedang dipilih) */
+    .gpk-language-switch__link.is-active {
+        background-color: #0066cc;
+        /* Warna background biru seperti di gambar */
+        padding: 0.5rem 1rem;
+        color: #ffffff;
+        text-decoration: none;
+    }
+
+    /* Hover State */
+    .gpk-language-switch__link:hover:not(.is-active) {
+        background-color: rgba(255, 255, 255, 0.15);
+        color: #ffffff;
+        text-decoration: none;
+    }
+
     /* ==========================================
        SECTION 6: DESKTOP DROPDOWN (≥1200px)
        ========================================== */
@@ -453,6 +505,11 @@
             margin: 0 !important;
             align-items: stretch !important;
             flex: none !important;
+        }
+
+        .gpk-language-switch {
+            align-self: flex-start;
+            margin: 0.7rem 3 0;
         }
 
         .gpk-nav__item {
@@ -645,7 +702,7 @@
 {{-- ============================================================
      NAVBAR MARKUP
      ============================================================ --}}
-<nav class="gpk-nav" id="gpkNav" role="navigation" aria-label="Primary navigation">
+<nav class="gpk-nav" id="gpkNav" role="navigation" aria-label="{{ __('global.guest.primaryNavigation') }}">
     <div class="gpk-nav__container">
 
         {{-- LOGO + BRAND --}}
@@ -655,8 +712,8 @@
         </a>
 
         {{-- HAMBURGER (mobile/tablet) — animated 3 bars to X --}}
-        <button type="button" class="gpk-nav__toggler" id="gpkNavToggler" aria-label="Toggle navigation"
-            aria-expanded="false">
+        <button type="button" class="gpk-nav__toggler" id="gpkNavToggler"
+            aria-label="{{ __('global.guest.toggleNavigation') }}" aria-expanded="false">
             <span class="gpk-nav__toggler-icon">
                 <span></span>
                 <span></span>
@@ -703,7 +760,7 @@
                             <a class="gpk-nav__dropdown-item {{ request()->routeIs('manajement') ? 'is-active' : '' }}"
                                 href="{{ route('manajement') }}">
                                 <i class="far fa-sitemap"></i>
-                                Management
+                                {{ __('global.guest.management') }}
                             </a>
                         </li>
                         <li>
@@ -725,7 +782,7 @@
                 <li class="gpk-nav__item gpk-nav__item--dropdown {{ request()->routeIs(['galeri', 'berita']) ? 'is-active' : '' }}"
                     data-dropdown>
                     <a class="gpk-nav__link" href="#" role="button" aria-expanded="false">
-                        <i class="fas fa-photo-video"></i>Media
+                        <i class="fas fa-photo-video"></i>{{ __('global.guest.media') }}
                         <i class="fas fa-chevron-down gpk-nav__caret"></i>
                     </a>
                     <ul class="gpk-nav__dropdown">
@@ -747,7 +804,7 @@
                         <li>
                             <a class="gpk-nav__dropdown-item {{ request()->routeIs('soon') ? 'is-active' : '' }}"
                                 href="{{ route('soon') }}">
-                                <i class="far fa-file-pdf"></i>Publikasi
+                                <i class="far fa-file-pdf"></i>{{ __('global.publikasi') }}
                             </a>
                         </li>
                     </ul>
@@ -755,7 +812,7 @@
                 <li class="gpk-nav__item">
                     <a class="gpk-nav__link {{ request()->routeIs('statistik') ? 'is-active' : '' }}"
                         href="{{ route('statistik') }}">
-                        <i class="far fa-chart-line"></i>Statistik
+                        <i class="far fa-chart-line"></i>{{ __('global.guest.statistics') }}
                     </a>
                 </li>
 
@@ -767,23 +824,30 @@
                     <div class="gpk-nav__dropdown gpk-nav__dropdown--wide">
                         <div class="gpk-nav__dropdown-grid">
                             <div>
-                                <div class="gpk-nav__dropdown-col-title">Mitra Nasional</div>
+                                <div class="gpk-nav__dropdown-col-title">{{ __('global.guest.nationalPartners') }}
+                                </div>
                                 <a class="gpk-nav__dropdown-item" href="https://www.ekon.go.id/" target="_blank"
-                                    rel="noopener"><i class="fas fa-landmark"></i>Kemenko Perekonomian</a>
+                                    rel="noopener"><i
+                                        class="fas fa-landmark"></i>{{ __('global.guest.ministryEconomic') }}</a>
                                 <a class="gpk-nav__dropdown-item" href="https://www.pertanian.go.id/" target="_blank"
-                                    rel="noopener"><i class="fas fa-seedling"></i>Kementerian Pertanian</a>
+                                    rel="noopener"><i
+                                        class="fas fa-seedling"></i>{{ __('global.guest.ministryAgriculture') }}</a>
                                 <a class="gpk-nav__dropdown-item" href="https://kemenperin.go.id/" target="_blank"
-                                    rel="noopener"><i class="fas fa-industry"></i>Kementerian Perindustrian</a>
+                                    rel="noopener"><i
+                                        class="fas fa-industry"></i>{{ __('global.guest.ministryIndustry') }}</a>
                                 <a class="gpk-nav__dropdown-item" href="https://dephub.go.id/" target="_blank"
-                                    rel="noopener"><i class="fas fa-truck"></i>Kementerian Perhubungan</a>
+                                    rel="noopener"><i
+                                        class="fas fa-truck"></i>{{ __('global.guest.ministryTransport') }}</a>
                                 <a class="gpk-nav__dropdown-item" href="https://www.kemenkeu.go.id/home"
-                                    target="_blank" rel="noopener"><i class="fas fa-coins"></i>Kementerian
-                                    Keuangan</a>
+                                    target="_blank" rel="noopener"><i
+                                        class="fas fa-coins"></i>{{ __('global.guest.ministryFinance') }}</a>
                                 <a class="gpk-nav__dropdown-item" href="https://kadin.id/" target="_blank"
-                                    rel="noopener"><i class="fas fa-handshake"></i>KADIN Indonesia</a>
+                                    rel="noopener"><i
+                                        class="fas fa-handshake"></i>{{ __('global.guest.kadinIndonesia') }}</a>
                             </div>
                             <div>
-                                <div class="gpk-nav__dropdown-col-title">Mitra Internasional</div>
+                                <div class="gpk-nav__dropdown-col-title">
+                                    {{ __('global.guest.internationalPartners') }}</div>
                                 <a class="gpk-nav__dropdown-item" href="https://www.thainr.com/en/?" target="_blank"
                                     rel="noopener"><i class="fas fa-globe-asia"></i>Thai Rubber Association</a>
                                 <a class="gpk-nav__dropdown-item" href="https://www.lgm.gov.my/webv2/home"
@@ -810,11 +874,25 @@
                 <li class="gpk-nav__item">
                     <a class="gpk-nav__link {{ request()->routeIs('harga', 'sicom-tsr20') ? 'is-active' : '' }}"
                         href="{{ route('harga') }}">
-                        <i class="fas fa-dollar-sign"></i>Harga
+                        <i class="fas fa-dollar-sign"></i>{{ __('global.guest.price') }}
                     </a>
                 </li>
 
             </ul>
+
+            <div class="gpk-language-switch" role="group" aria-label="{{ __('global.guest.language') }}">
+                <a href="{{ route('langSwitch', 'id') }}"
+                    class="gpk-language-switch__link {{ app()->getLocale() === 'id' ? 'is-active' : '' }}"
+                    lang="id" hreflang="id" @if (app()->getLocale() === 'id') aria-current="true" @endif>
+                    ID
+                </a>
+                <span class="gpk-language-switch__divider"></span>
+                <a href="{{ route('langSwitch', 'en') }}"
+                    class="gpk-language-switch__link {{ app()->getLocale() === 'en' ? 'is-active' : '' }}"
+                    lang="en" hreflang="en" @if (app()->getLocale() === 'en') aria-current="true" @endif>
+                    EN
+                </a>
+            </div>
 
         </div>
     </div>

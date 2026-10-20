@@ -135,7 +135,7 @@
 
 <section class="gpk-ticker" role="banner">
     <div class="gpk-ticker__inner">
-        <div class="gpk-ticker__date" aria-label="Tanggal hari ini">
+        <div class="gpk-ticker__date" aria-label="{{ __('global.guest.today') }}">
             <svg class="gpk-ticker__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
                 <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
                 <line x1="16" y1="2" x2="16" y2="6"/>
@@ -146,9 +146,7 @@
         </div>
         <div class="gpk-ticker__rail" aria-live="polite">
             <div class="gpk-ticker__text">
-                <strong>📢 INFO EUDR:</strong> EUDR kembali ditunda untuk kedua kalinya sehingga akan berlaku mulai
-                <strong>30 Desember 2026</strong> untuk perusahaan besar (selaku operator) dan
-                <strong>30 Juni 2027</strong> untuk usaha kecil (selaku UKM)
+                <strong>📢 {{ __('global.guest.eudrInfo') }}</strong> {{ __('global.guest.eudrAnnouncement') }}
                 <span class="dot">•</span>
             </div>
         </div>
@@ -165,9 +163,8 @@
         if (!el) return;
 
         const now = new Date();
-        const days = ['Minggu', 'Senin', 'Selasa', 'Rabu', 'Kamis', "Jum'at", 'Sabtu'];
-        const months = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni',
-                        'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember'];
+        const days = @json(__('global.guest.weekdays'));
+        const months = @json(__('global.guest.months'));
 
         const day = days[now.getDay()];
         const date = now.getDate();

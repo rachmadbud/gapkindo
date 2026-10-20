@@ -1,8 +1,8 @@
 @include('guest.partials.sidebar-styles')
 
 <!-- Tombol Burger Mobile untuk memunculkan Sidebar -->
-<button type="button" class="gpk-sidebar-toggle" id="sidebarToggle" aria-label="Toggle sidebar">
-    <i class="fas fa-bars"></i> {{ $sidebarToggleLabel ?? 'Menu Statistik' }}
+<button type="button" class="gpk-sidebar-toggle" id="sidebarToggle" aria-label="{{ __('global.guest.statistics') }}">
+    <i class="fas fa-bars"></i> {{ $sidebarToggleLabel ?? __('global.guest.statistics') }}
 </button>
 
 <!-- Backdrop Gelap di Mobile -->
@@ -10,13 +10,13 @@
 
 <!-- SIDEBAR KIRI -->
 <aside class="gpk-sidebar" id="gpkSidebar">
-    <div class="gpk-sidebar-title">{{ $sidebarTitle ?? 'Statistik Karet' }}</div>
+    <div class="gpk-sidebar-title">{{ $sidebarTitle ?? __('global.guest.statistics') }}</div>
 
     <ul class="gpk-sidebar-menu">
         @foreach ($sidebarItems ?? [
-            ['route' => 'statistik', 'icon' => 'fa-tachometer-alt', 'label' => 'Dashboard'],
-            ['route' => 'tujuan-ekspor', 'icon' => 'fa-shipping-fast', 'label' => 'Tujuan Ekspor'],
-            ['route' => 'produksi-indonesia', 'icon' => 'fa-flag', 'label' => 'Produksi Indonesia'],
+            ['route' => 'statistik', 'icon' => 'fa-tachometer-alt', 'label' => __('global.guest.dashboard')],
+            ['route' => 'tujuan-ekspor', 'icon' => 'fa-shipping-fast', 'label' => __('global.guest.exportDestinations')],
+            ['route' => 'produksi-indonesia', 'icon' => 'fa-flag', 'label' => __('global.guest.productionInIndonesia')],
         ] as $item)
             <li>
                 <a href="{{ route($item['route']) }}" class="{{ request()->routeIs($item['route']) ? 'active' : '' }}">

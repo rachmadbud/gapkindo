@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="{{ app()->getLocale() }}">
 
 <head>
     <!-- HTML Meta Tags -->
-    <title>Form Gapkindo</title>
+    <title>{{ __('global.guest.challengeForm') }} | GAPKINDO</title>
     <meta name="description" content="">
 
     <!-- Open Graph Meta Tags -->
     <meta property="og:url" content="https://gapkindo.org/form-tantangan">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Tantangan Industri Karet Alam">
-    <meta property="og:description" content="Tantangan Industri Karet Alam">
+    <meta property="og:title" content="{{ __('global.guest.currentChallengesTitle') }}">
+    <meta property="og:description" content="{{ __('global.guest.currentChallengesTitle') }}">
     <meta property="og:image" content="https://gapkindo.org/guest/assets/img/logo-gapkindo.jpg">
     <!-- Load error, please check URL -->
 
@@ -18,7 +18,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta property="twitter:domain" content="gapkindo.org">
     <meta property="twitter:url" content="https://gapkindo.org/form-tantangan">
-    <meta name="twitter:title" content="Tantangan Industri Karet Alam">
+    <meta name="twitter:title" content="{{ __('global.guest.currentChallengesTitle') }}">
     <meta name="twitter:description" content="">
     <meta name="twitter:image" content="https://gapkindo.org/guest/assets/img/logo-gapkindo.jpg">
 
@@ -33,6 +33,19 @@
             background: #f4f4f4;
             margin: 0;
             padding: 0;
+        }
+
+        .language-switch {
+            position: fixed;
+            top: 1rem;
+            right: 1rem;
+            z-index: 10;
+            display: flex;
+            gap: 0.75rem;
+            padding: 0.6rem 0.8rem;
+            border-radius: 999px;
+            background: #fff;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
         }
 
         .floating-logo {
@@ -704,7 +717,10 @@
 
 <body>
 
-
+    <nav class="language-switch" aria-label="{{ __('global.guest.language') }}">
+        <a href="{{ route('langSwitch', 'id') }}" lang="id" hreflang="id">ID</a>
+        <a href="{{ route('langSwitch', 'en') }}" lang="en" hreflang="en">EN</a>
+    </nav>
 
     <div class="container">
 
@@ -712,7 +728,7 @@
         <br>
 
         <br>
-        <h2 style="color: #044638;">Tantangan Industri Karet Alam Saat Ini</h2>
+        <h2 style="color: #044638;">{{ __('global.guest.currentChallengesTitle') }}</h2>
 
         <div class="progress-wrapper">
             <div class="progress-bar" id="progressBar"></div>
@@ -723,7 +739,7 @@
         </div>
 
         <label>Email</label>
-        <input type="email" id="email" placeholder="Masukkan email">
+        <input type="email" id="email" placeholder="{{ __('global.guest.emailPlaceholder') }}">
 
         <form id="complaintForm">
             @csrf
@@ -735,10 +751,10 @@
                         <br><br>
                     </div>
 
-                    <label>Tantangan/Permasalahan</label>
+                    <label>{{ __('global.guest.challenge') }}</label>
                     <textarea class="permasalahan editor" style="height: 801px;"></textarea>
 
-                    <label>Usul/Solusi/Harapan Anda (opsional)</label>
+                    <label>{{ __('global.guest.suggestion') }}</label>
                     <textarea class="harapan editor" style="height: 801px;"></textarea>
 
                 </div>
@@ -757,12 +773,12 @@
                     </button>
 
                     <button type="button" class="add-btn" onclick="addMore()">
-                        <i class="fas fa-plus"></i> Add More
+                        <i class="fas fa-plus"></i> {{ __('global.guest.addMore') }}
                     </button>
                 </div>
 
                 <button type="submit" class="submit-btn">
-                    Submit <i class="fad fa-save"></i>
+                    {{ __('global.guest.submit') }} <i class="fad fa-save"></i>
                 </button>
 
             </div>
@@ -777,13 +793,26 @@
     <!-- Loading Overlay -->
     <div id="loadingOverlay" class="loading-overlay hidden">
         <div class="spinner"></div>
-        <p>Mengirim data...</p>
+        <p>{{ __('global.guest.sendingData') }}</p>
     </div>
     <!-- Javascript -->
     <script src="https://raw.githack.com/mrbudbud/fontawesome-pro/master/src/js/all.min.js"></script>
     <script src="https://cdn.ckeditor.com/ckeditor5/41.4.2/classic/ckeditor.js"></script>
 
     <script>
+        const formTranslations = {
+            locale: @json(app()->getLocale()),
+            invalidEmail: @json(__('global.guest.invalidEmail')),
+            emailRequired: @json(__('global.guest.emailRequired')),
+            invalidEmailFormat: @json(__('global.guest.invalidEmailFormat')),
+            confirmSubmission: @json(__('global.guest.confirmSubmission')),
+            minimumOneChallenge: @json(__('global.guest.minimumOneChallenge')),
+            success: @json(__('global.guest.success')),
+            saveFailed: @json(__('global.guest.saveFailed')),
+            requestFailed: @json(__('global.guest.requestFailed')),
+            challenge: @json(__('global.guest.challenge')),
+            suggestion: @json(__('global.guest.suggestion')),
+        };
         let editors = [];
 
         function initEditors() {
@@ -825,7 +854,7 @@
                         this.style.borderColor = "#dc3545";
 
                         showToast(
-                            "Email tidak valid",
+                            formTranslations.invalidEmail,
                             "error"
                         );
 
@@ -896,10 +925,10 @@
       
     </div>
 
-    <label>Tantangan/Permasalahan</label>
+    <label>${formTranslations.challenge}</label>
     <textarea class="permasalahan editor"></textarea>
 
-    <label>Usul/Solusi/Harapan Anda (opsional)</label>
+    <label>${formTranslations.suggestion}</label>
     <textarea class="harapan editor"></textarea>
   `;
 
@@ -998,7 +1027,7 @@
 
                 e.preventDefault();
                 const confirmSubmit = confirm(
-                    "Apa form sudah benar dan siap dikirim?"
+                    formTranslations.confirmSubmission
                 );
 
                 if (!confirmSubmit) return;
@@ -1008,7 +1037,7 @@
 
                 if (email === "") {
 
-                    showToast("Email wajib diisi", "warning");
+                    showToast(formTranslations.emailRequired, "warning");
                     return;
 
                 }
@@ -1020,7 +1049,7 @@
 
                 // Tambahkan di sini
                 if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
-                    showToast("Format email tidak valid", "error");
+                    showToast(formTranslations.invalidEmailFormat, "error");
                     return;
                 }
 
@@ -1054,7 +1083,7 @@
                 console.log(complaints);
 
                 if (complaints.length === 0) {
-                    showToast("Minimal isi 1", "warning");
+                    showToast(formTranslations.minimumOneChallenge, "warning");
                     return;
                 }
 
@@ -1064,7 +1093,8 @@
                         method: "POST",
                         headers: {
                             "Content-Type": "application/json",
-                            "Accept": "application/json"
+                            "Accept": "application/json",
+                            "Accept-Language": formTranslations.locale
                         },
                         body: JSON.stringify({
                             email,
@@ -1085,7 +1115,7 @@
 
                     if (result.success) {
 
-                        showToast(result.message || "Berhasil", "success");
+                        showToast(result.message || formTranslations.success, "success");
 
                         localStorage.removeItem("complaintDraft");
 
@@ -1097,7 +1127,7 @@
 
                     } else {
 
-                        showToast(result.message || "Gagal menyimpan data", "error");
+                        showToast(result.message || formTranslations.saveFailed, "error");
 
                     }
 
@@ -1105,7 +1135,7 @@
 
                     console.error(error);
 
-                    showToast(error.message, "error");
+                    showToast(formTranslations.requestFailed, "error");
 
                 } finally {
 

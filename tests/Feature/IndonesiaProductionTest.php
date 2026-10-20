@@ -66,7 +66,7 @@ class IndonesiaProductionTest extends TestCase
 
         $this->get('/produksi-indonesia?month=5&year=2025')
             ->assertOk()
-            ->assertSee('Production in Indonesia')
+            ->assertSee('Produksi Indonesia')
             ->assertSee('Mei')
             ->assertSee('Sumatera Utara')
             ->assertSee('12.345,500 ton')

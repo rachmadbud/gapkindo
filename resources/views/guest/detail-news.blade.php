@@ -654,7 +654,7 @@
 @section('content')
 @php
     $publishDate = $dataNews->created_at
-        ? \Carbon\Carbon::parse($dataNews->created_at)->locale('id')->isoFormat('D MMMM Y')
+        ? \Carbon\Carbon::parse($dataNews->created_at)->locale(app()->getLocale())->isoFormat('D MMMM Y')
         : '-';
     $relativeDate = $dataNews->created_at
         ? \Carbon\Carbon::parse($dataNews->created_at)->diffForHumans()
@@ -682,9 +682,9 @@
     <section class="nd-hero">
         <div class="gpk-container">
             <div class="nd-hero__inner">
-                <a href="{{ url('/') }}">Beranda</a>
+                <a href="{{ url('/') }}">{{ __('global.guest.home') }}</a>
                 <span class="nd-hero__sep">/</span>
-                <a href="{{ route('berita') ?? url('/berita') }}">Berita</a>
+                <a href="{{ route('berita') ?? url('/berita') }}">{{ __('global.guest.news') }}</a>
                 <span class="nd-hero__sep">/</span>
                 <span>Detail</span>
             </div>
@@ -698,7 +698,7 @@
     <section class="nd-hero-content">
         <div class="gpk-container">
             <div class="nd-hero-content__inner">
-                <div class="nd-eyebrow">Artikel Berita</div>
+                <div class="nd-eyebrow">{{ __('global.guest.article') }}</div>
                 <h1 class="nd-title">{{ $dataNews->title }}</h1>
                 <div class="nd-meta">
                     <span class="nd-meta__item">
@@ -717,7 +717,7 @@
                             <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/>
                             <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>
                         </svg>
-                        Sumber: <strong>{{ $dataNews->source }}</strong>
+                        {{ __('global.guest.source') }}: <strong>{{ $dataNews->source }}</strong>
                     </span>
                     @endif
                 </div>
@@ -756,7 +756,7 @@
                         <circle cx="12" cy="12" r="10"/>
                         <polyline points="12 6 12 12 16 14"/>
                     </svg>
-                    <strong>{{ $readingTime }}</strong> menit baca
+                    <strong>{{ $readingTime }}</strong> {{ __('global.guest.readTime') }}
                 </span>
                 <span class="nd-reading-info__divider"></span>
                 <span class="nd-reading-info__item">
@@ -766,13 +766,13 @@
                         <line x1="16" y1="13" x2="8" y2="13"/>
                         <line x1="16" y1="17" x2="8" y2="17"/>
                     </svg>
-                    <strong>{{ number_format($wordCount) }}</strong> kata
+                    <strong>{{ number_format($wordCount) }}</strong> {{ __('global.guest.words') }}
                 </span>
             </div>
 
             {{-- Book-style page --}}
             <div class="nd-body__inner">
-                <div class="nd-body__label">— Artikel —</div>
+                <div class="nd-body__label">{{ __('global.guest.articleSection') }}</div>
                 <div class="nd-content">
                     @foreach($paragraphs as $para)
                         <p>{!! nl2br(e($para)) !!}</p>
@@ -827,7 +827,7 @@
                             <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/>
                             <rect x="6" y="14" width="12" height="8"/>
                         </svg>
-                        Cetak Artikel
+                        {{ __('global.guest.printArticle') }}
                     </button>
                     <button type="button" class="nd-action-btn" id="ndShareBtn">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -837,7 +837,7 @@
                             <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/>
                             <line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/>
                         </svg>
-                        Bagikan
+                        {{ __('global.guest.share') }}
                     </button>
                     <a href="https://wa.me/?text={{ urlencode($dataNews->title . ' - ' . url()->current()) }}"
                        target="_blank" rel="noopener" class="nd-action-btn">
@@ -864,10 +864,10 @@
                         <path d="M19 12H5"/>
                         <path d="M11 18l-6-6 6-6"/>
                     </svg>
-                    <span>Semua Berita</span>
+                    <span>{{ __('global.guest.allNews') }}</span>
                 </a>
                 <a href="{{ url('/') }}" class="nd-cta__btn nd-cta__btn--primary">
-                    <span>Kembali ke Beranda</span>
+                    <span>{{ __('global.guest.backHome') }}</span>
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
                         <path d="M5 12h14"/>
                         <path d="M13 6l6 6-6 6"/>

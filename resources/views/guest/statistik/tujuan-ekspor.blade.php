@@ -1,6 +1,6 @@
 @extends('guest.layouts.master')
 
-@section('title', 'Tujuan Ekspor | GAPKINDO')
+@section('title', __('global.guest.exportDestinations') . ' | GAPKINDO')
 
 @push('styles')
     @include('guest.statistik.partials.styles')
@@ -13,23 +13,23 @@
         <main class="gpk-stat-content">
             <header class="gpk-stat-heading">
                 <div>
-                    <span class="gpk-stat-eyebrow">Pusat Data GAPKINDO</span>
-                    <h1>Tujuan Ekspor</h1>
-                    <p>Informasi pasar tujuan ekspor karet alam Indonesia.</p>
+                    <span class="gpk-stat-eyebrow">{{ __('global.guest.dataCenter') }}</span>
+                    <h1>{{ __('global.guest.exportDestinations') }}</h1>
+                    <p>{{ __('global.guest.exportMarket') }} — {{ __('global.guest.indonesiaRubberMarketReach') }}</p>
                 </div>
                 <a class="gpk-stat-button" href="{{ route('statistik') }}">
                     <i class="fas fa-arrow-left" aria-hidden="true"></i>
-                    Kembali ke dashboard
+                    {{ __('global.guest.backToDashboard') }}
                 </a>
             </header>
 
             <form class="gpk-export-filters" method="GET" action="{{ route('tujuan-ekspor') }}">
                 <div class="gpk-export-filters-heading">
-                    <span class="gpk-stat-eyebrow">Filter laporan</span>
-                    <p>Pilih periode data ekspor yang ingin ditampilkan.</p>
+                    <span class="gpk-stat-eyebrow">{{ __('global.guest.reportFilter') }}</span>
+                    <p>{{ __('global.guest.selectExportPeriod') }}</p>
                 </div>
                 <div class="gpk-export-filter-field">
-                    <label for="export-month">Periode</label>
+                    <label for="export-month">{{ __('global.guest.period') }}</label>
                     <select id="export-month" name="month">
                         @foreach ($months as $monthNumber => $monthName)
                             <option value="{{ $monthNumber }}" {{ $selectedMonth === $monthNumber ? 'selected' : '' }}>
@@ -39,7 +39,7 @@
                     </select>
                 </div>
                 <div class="gpk-export-filter-field">
-                    <label for="export-year">Tahun</label>
+                    <label for="export-year">{{ __('global.guest.year') }}</label>
                     <select id="export-year" name="year">
                         @foreach ($years as $year)
                             <option value="{{ $year }}" {{ $selectedYear === $year ? 'selected' : '' }}>
@@ -50,47 +50,47 @@
                 </div>
                 <button class="gpk-stat-button" type="submit">
                     <i class="fas fa-filter" aria-hidden="true"></i>
-                    Tampilkan
+                    {{ __('global.guest.show') }}
                 </button>
             </form>
 
             <section class="gpk-stat-cards" aria-label="Ringkasan ekspor {{ $months[$selectedMonth] }} {{ $selectedYear }}">
                 <article class="gpk-stat-card">
                     <div class="gpk-stat-card-top">
-                        <span class="gpk-stat-label">Total volume ekspor</span>
+                        <span class="gpk-stat-label">{{ __('global.guest.totalExportVolume') }}</span>
                         <span class="gpk-stat-icon"><i class="fas fa-shipping-fast" aria-hidden="true"></i></span>
                     </div>
                     <p class="gpk-stat-value gpk-stat-value--compact">{{ number_format($totalVolume, 0, ',', '.') }} <span
                             class="gpk-stat-unit">KG</span></p>
-                    <p class="gpk-stat-caption">Volume bulan terpilih</p>
+                    <p class="gpk-stat-caption">{{ __('global.guest.selectedMonthVolume') }}</p>
                 </article>
 
                 <article class="gpk-stat-card">
                     <div class="gpk-stat-card-top">
-                        <span class="gpk-stat-label">Total nilai ekspor</span>
+                        <span class="gpk-stat-label">{{ __('global.guest.totalExportValue') }}</span>
                         <span class="gpk-stat-icon"><i class="fas fa-dollar-sign" aria-hidden="true"></i></span>
                     </div>
                     <p class="gpk-stat-value gpk-stat-value--compact">US$ {{ number_format($totalValue, 0, ',', '.') }}</p>
-                    <p class="gpk-stat-caption">Nilai bulan terpilih</p>
+                    <p class="gpk-stat-caption">{{ __('global.guest.selectedMonthValue') }}</p>
                 </article>
 
                 <article class="gpk-stat-card">
                     <div class="gpk-stat-card-top">
-                        <span class="gpk-stat-label">Periode data</span>
+                        <span class="gpk-stat-label">{{ __('global.guest.dataPeriod') }}</span>
                         <span class="gpk-stat-icon"><i class="fas fa-calendar-alt" aria-hidden="true"></i></span>
                     </div>
                     <p class="gpk-stat-value">{{ $months[$selectedMonth] }}</p>
-                    <p class="gpk-stat-caption">Tahun {{ $selectedYear }}</p>
+                    <p class="gpk-stat-caption">{{ __('global.guest.year') }} {{ $selectedYear }}</p>
                 </article>
 
                 <article class="gpk-stat-card">
                     <div class="gpk-stat-card-top">
-                        <span class="gpk-stat-label">Negara tujuan</span>
+                        <span class="gpk-stat-label">{{ __('global.guest.destinationCountries') }}</span>
                         <span class="gpk-stat-icon"><i class="fas fa-globe-asia" aria-hidden="true"></i></span>
                     </div>
-                    <p class="gpk-stat-value">{{ count($exportDestinations) }} <span class="gpk-stat-unit">negara</span>
+                    <p class="gpk-stat-value">{{ count($exportDestinations) }} <span class="gpk-stat-unit">{{ __('global.guest.country') }}</span>
                     </p>
-                    <p class="gpk-stat-caption">Baris data pada periode ini</p>
+                    <p class="gpk-stat-caption">{{ __('global.guest.dataRowsInPeriod') }}</p>
                 </article>
             </section>
 
@@ -98,18 +98,18 @@
                 <article class="gpk-stat-panel">
                     <div class="gpk-stat-panel-heading">
                         <div>
-                            <h2>Volume ekspor per negara tujuan</h2>
-                            <p>Volume (KG) dan nilai ekspor (US$) · {{ $months[$selectedMonth] }} {{ $selectedYear }}</p>
+                            <h2>{{ __('global.guest.exportVolumeByCountry') }}</h2>
+                            <p>{{ __('global.guest.volumeKg') }} {{ __('global.guest.and') }} {{ __('global.guest.valueUsd') }} · {{ $months[$selectedMonth] }} {{ $selectedYear }}</p>
                         </div>
                         <span class="gpk-stat-tag">DATA EXCEL</span>
                     </div>
                     @if (count($exportDestinations))
                         <div class="gpk-export-chart-legend" aria-hidden="true">
-                            <span>Negara tujuan</span>
-                            <span>Volume (KG)</span>
-                            <span>Nilai (US$)</span>
+                            <span>{{ __('global.guest.destinationCountry') }}</span>
+                            <span>{{ __('global.guest.volumeKg') }}</span>
+                            <span>{{ __('global.guest.valueUsd') }}</span>
                         </div>
-                        <div class="gpk-export-chart" role="list" aria-label="Volume dan nilai ekspor per negara tujuan">
+                        <div class="gpk-export-chart" role="list" aria-label="{{ __('global.guest.exportVolumeByCountry') }}">
                             @foreach ($exportDestinations as $destination)
                                 @php
                                     $volume = $destination['volume'];
@@ -118,7 +118,7 @@
                                 <div class="gpk-export-chart-row" role="listitem">
                                     <span class="gpk-export-chart-country">{{ $destination['country'] }}</span>
                                     <div class="gpk-export-chart-track" role="progressbar"
-                                        aria-label="Volume ekspor {{ $destination['country'] }}" aria-valuemin="0"
+                                        aria-label="{{ __('global.guest.exportVolume') }} {{ $destination['country'] }}" aria-valuemin="0"
                                         aria-valuemax="{{ $chartMaximum }}" aria-valuenow="{{ $volume ?? 0 }}">
                                         <div class="gpk-export-chart-bar" style="--bar-width: {{ $barWidth }}%;"></div>
                                     </div>
@@ -142,9 +142,8 @@
                         <div class="gpk-stat-empty">
                             <span class="gpk-stat-empty-icon"><i class="fas fa-calendar-times"
                                     aria-hidden="true"></i></span>
-                            <h3>Data belum tersedia</h3>
-                            <p>Tidak ada data ekspor untuk {{ $months[$selectedMonth] }} {{ $selectedYear }}. Pilih
-                                periode lain untuk melihat data yang tersedia.</p>
+                            <h3>{{ __('global.guest.noDataAvailable') }}</h3>
+                            <p>{{ __('global.guest.selectAnotherPeriod', ['period' => $months[$selectedMonth] . ' ' . $selectedYear]) }}</p>
                         </div>
                     @endif
                 </article>
@@ -152,8 +151,7 @@
 
             <p class="gpk-stat-note">
                 <i class="fas fa-info-circle" aria-hidden="true"></i>
-                <span>Data pada grafik dan ringkasan mengikuti file Excel yang diunggah admin untuk periode yang
-                    dipilih.</span>
+                <span>{{ __('global.guest.uploadedExcelDataNote') }}</span>
             </p>
         </main>
     </div>

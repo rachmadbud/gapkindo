@@ -12,7 +12,7 @@
 
 @extends('guest.layouts.master')
 
-@section('title', 'Kontak | GAPKINDO')
+@section('title', __('global.guest.contactTitle') . ' | GAPKINDO')
 
 @push('styles')
 {{-- Leaflet CSS --}}
@@ -788,13 +788,12 @@
     <section class="kn-hero">
         <div class="gpk-container">
             <div class="kn-hero__inner">
-                <div class="kn-hero__eyebrow">Hubungi Kami</div>
+                <div class="kn-hero__eyebrow">{{ __('global.titleKontak') }}</div>
                 <h1 class="kn-hero__title">
-                    Kontak <em>GAPKINDO</em>
+                    {{ __('global.guest.contactTitle') }} <em>GAPKINDO</em>
                 </h1>
                 <p class="kn-hero__lead">
-                    Pusat informasi & layanan GAPKINDO siap membantu pertanyaan Anda terkait keanggotaan,
-                    regulasi, dan industri karet alam Indonesia.
+                    {{ __('global.guest.mainContactCenter') }}
                 </p>
             </div>
         </div>
@@ -809,9 +808,9 @@
     <section class="kn-cards">
         <div class="gpk-container">
             <div class="kn-cards__head">
-                <span class="kn-section__eyebrow">Informasi Kontak</span>
+                <span class="kn-section__eyebrow">{{ __('global.guest.contactInformation') }}</span>
                 <h2 class="kn-section__title">
-                    Mari <em>berkomunikasi</em> dengan kami
+                    {{ __('global.guest.letsTalk') }} <em>{{ __('global.guest.withUs') }}</em>
                 </h2>
             </div>
 
@@ -831,7 +830,7 @@
                         </div>
                     </div>
                     <div class="kn-card__label">{{ __('global.Alamat') }}</div>
-                    <h3 class="kn-card__title">Sekretariat GAPKINDO</h3>
+                    <h3 class="kn-card__title">{{ __('global.guest.headOffice') }}</h3>
                     <div class="kn-card__body">
                         Jl. Cideng Barat No.62-A, RT.14/RW.2, Cideng,
                         Kecamatan Gambir, Kota Jakarta Pusat,
@@ -840,7 +839,7 @@
                         <span class="kn-card__country-pill">Indonesia</span>
                     </div>
                     <a href="{{ $googleMapsUrl }}" target="_blank" rel="noopener" class="kn-card__action">
-                        <span>Buka di Maps</span>
+                        <span>{{ __('global.guest.openMaps') }}</span>
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
                             <path d="M7 17L17 7"/>
                             <path d="M7 7h10v10"/>
@@ -861,23 +860,23 @@
                         </div>
                     </div>
                     <div class="kn-card__label">{{ __('global.PusatPanggilan') }}</div>
-                    <h3 class="kn-card__title">Telepon &amp; Fax</h3>
+                    <h3 class="kn-card__title">{{ __('global.guest.phoneFax') }}</h3>
 
                     <div class="kn-card__contact-box">
-                        <div class="kn-card__contact-label">Telepon</div>
+                        <div class="kn-card__contact-label">{{ __('global.guest.phone') }}</div>
                         <div class="kn-card__contact-value">(62-21) 3501510</div>
                         <div class="kn-card__contact-value">(62-21) 3501511</div>
                         <div class="kn-card__contact-value">(62-21) 3846813</div>
                     </div>
 
                     <div class="kn-card__contact-box">
-                        <div class="kn-card__contact-label">Fax</div>
+                        <div class="kn-card__contact-label">{{ __('global.guest.fax') }}</div>
                         <div class="kn-card__contact-value">(62-21) 3846811</div>
                         <div class="kn-card__contact-value">(62-21) 3500368</div>
                     </div>
 
                     <a href="tel:+62213501510" class="kn-card__action">
-                        <span>Telepon Sekarang</span>
+                        <span>{{ __('global.guest.callNow') }}</span>
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
                             <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/>
                         </svg>
@@ -900,17 +899,16 @@
                     <div class="kn-card__label">{{ __('global.DukunganElektronik') }}</div>
                     <h3 class="kn-card__title">Email</h3>
                     <div class="kn-card__body">
-                        Jangan ragu menulis email kepada kami untuk pertanyaan
-                        keanggotaan, regulasi, atau informasi industri karet.
+                        {{ __('global.guest.dontHesitateEmail') }}
                     </div>
 
                     <div class="kn-card__contact-box">
-                        <div class="kn-card__contact-label">Email Pusat</div>
+                        <div class="kn-card__contact-label">{{ __('global.guest.centralEmail') }}</div>
                         <a href="mailto:{{ $emailPusat }}" class="kn-card__email-link" title="{{ $emailPusat }}">{{ $emailPusat }}</a>
                     </div>
 
                     <a href="mailto:{{ $emailPusat }}" class="kn-card__action">
-                        <span>Kirim Email</span>
+                        <span>{{ __('global.guest.sendEmail') }}</span>
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
                             <line x1="22" y1="2" x2="11" y2="13"/>
                             <polygon points="22 2 15 22 11 13 2 9 22 2"/>
@@ -929,15 +927,15 @@
     <section class="kn-map-section">
         <div class="gpk-container">
             <div class="kn-map-section__head">
-                <span class="kn-section__eyebrow">Cideng, Jakarta Pusat</span>
+                <span class="kn-section__eyebrow">{{ __('global.guest.locationInCentralJakarta') }}</span>
                 <h2 class="kn-section__title">
-                    Temukan kami di <em>Jakarta Pusat</em>
+                    {{ __('global.guest.locationInCentralJakarta') }}
                 </h2>
             </div>
 
             <div class="kn-map-wrap">
                 <div id="map" class="kn-map"></div>
-                <button type="button" class="kn-map-reset" id="kontakMapReset" aria-label="Reset tampilan peta">
+                <button type="button" class="kn-map-reset" id="kontakMapReset" aria-label="{{ __('global.guest.resetMap') }}">
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
                         <polyline points="23 4 23 10 17 10"/>
                         <polyline points="1 20 1 14 7 14"/>
@@ -945,7 +943,7 @@
                     </svg>
                 </button>
             </div>
-            <div class="kn-map-hint">🗺️ Klik pin untuk detail • Scroll untuk zoom • Klik tombol ↻ untuk reset</div>
+            <div class="kn-map-hint">🗺️ {{ __('global.guest.mapHintContact') }}</div>
         </div>
     </section>
 
@@ -961,10 +959,10 @@
                         <path d="M19 12H5"/>
                         <path d="M11 18l-6-6 6-6"/>
                     </svg>
-                    <span>Beranda</span>
+                    <span>{{ __('global.guest.home') }}</span>
                 </a>
                 <a href="{{ route('cabang') ?? url('/cabang') }}" class="kn-cta__btn kn-cta__btn--primary">
-                    <span>Lihat Semua Cabang</span>
+                    <span>{{ __('global.guest.viewAllBranches') }}</span>
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
                         <path d="M5 12h14"/>
                         <path d="M13 6l6 6-6 6"/>

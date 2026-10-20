@@ -1,6 +1,6 @@
 @extends('guest.layouts.master')
 
-@section('title', 'Galery | GAPKINDO')
+@section('title', __('global.guest.galleryTitle') . ' | GAPKINDO')
 
 @section('content')
 
@@ -36,7 +36,7 @@
                                     @foreach ($data as $item)
                                         <li data-thumb="{{ asset('guest/assets/img/galeri/' . $item->foto_detail) }}">
                                             <img src="{{ asset('guest/assets/img/galeri/' . $item->foto_detail) }}"
-                                                alt="foto galeri">
+                                                alt="{{ __('global.guest.galleryPhoto') }}">
                                         </li>
                                     @endforeach
                                 </ul>

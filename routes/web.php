@@ -2,11 +2,11 @@
 
 use App\Http\Controllers\AnggotaController;
 use Illuminate\Routing\RouteGroup;
-use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\Redirect;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\Session;
+use Illuminate\Support\Facades\Cookie;
 
 
 Route::get('/', 'GuestController@index')->name('guest.index');
@@ -20,8 +20,7 @@ Route::get('/change-language/{locale}', function ($locale) {
     abort(400);
   }
 
-  App::setLocale($locale);
-  Cookie::queue('locale', $locale, 525600); // simpan 1 tahun
+  Cookie::queue('locale', $locale, 525600);
   return Redirect::back();
 })->name('langSwitch');
 // Route::get('/', function () {

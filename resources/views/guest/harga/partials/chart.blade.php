@@ -1,15 +1,17 @@
 @php
+    $monthNames = __('global.guest.months');
+    $monthAbbreviations = __('global.guest.monthAbbreviations');
     $monthlyPrices = [
-        ['month' => 'Jan', 'name' => 'Januari', 'open' => 181.0, 'high' => 189.0, 'low' => 177.0, 'close' => 183.0],
-        ['month' => 'Feb', 'name' => 'Februari', 'open' => 183.0, 'high' => 200.0, 'low' => 181.0, 'close' => 195.0],
-        ['month' => 'Mar', 'name' => 'Maret', 'open' => 195.0, 'high' => 208.0, 'low' => 188.0, 'close' => 193.0],
-        ['month' => 'Apr', 'name' => 'April', 'open' => 193.0, 'high' => 212.0, 'low' => 190.0, 'close' => 205.0],
-        ['month' => 'Mei', 'name' => 'Mei', 'open' => 205.0, 'high' => 232.0, 'low' => 202.0, 'close' => 223.0],
-        ['month' => 'Jun', 'name' => 'Juni', 'open' => 223.0, 'high' => 231.0, 'low' => 205.0, 'close' => 218.0],
-        ['month' => 'Jul', 'name' => 'Juli', 'open' => 218.0, 'high' => 226.0, 'low' => 210.0, 'close' => 217.0],
-        ['month' => 'Agu', 'name' => 'Agustus', 'open' => 217.0, 'high' => 230.0, 'low' => 214.0, 'close' => 222.0],
-        ['month' => 'Sep', 'name' => 'September', 'open' => 222.0, 'high' => 252.0, 'low' => 218.0, 'close' => 244.0],
-        ['month' => 'Okt', 'name' => 'Oktober', 'open' => 244.0, 'high' => 263.0, 'low' => 240.0, 'close' => 258.2],
+        ['open' => 181.0, 'high' => 189.0, 'low' => 177.0, 'close' => 183.0],
+        ['open' => 183.0, 'high' => 200.0, 'low' => 181.0, 'close' => 195.0],
+        ['open' => 195.0, 'high' => 208.0, 'low' => 188.0, 'close' => 193.0],
+        ['open' => 193.0, 'high' => 212.0, 'low' => 190.0, 'close' => 205.0],
+        ['open' => 205.0, 'high' => 232.0, 'low' => 202.0, 'close' => 223.0],
+        ['open' => 223.0, 'high' => 231.0, 'low' => 205.0, 'close' => 218.0],
+        ['open' => 218.0, 'high' => 226.0, 'low' => 210.0, 'close' => 217.0],
+        ['open' => 217.0, 'high' => 230.0, 'low' => 214.0, 'close' => 222.0],
+        ['open' => 222.0, 'high' => 252.0, 'low' => 218.0, 'close' => 244.0],
+        ['open' => 244.0, 'high' => 263.0, 'low' => 240.0, 'close' => 258.2],
     ];
     $plotLeft = 82;
     $plotRight = 900;
@@ -29,17 +31,16 @@
     }
 @endphp
 
-<div class="gpk-price-chart-legend" aria-label="Legenda grafik">
-    <span class="gpk-price-chart-legend-up">Naik (close &ge; open)</span>
-    <span class="gpk-price-chart-legend-down">Turun (close &lt; open)</span>
+<div class="gpk-price-chart-legend" aria-label="{{ __('global.guest.chartLegend') }}">
+    <span class="gpk-price-chart-legend-up">{{ __('global.guest.up') }}</span>
+    <span class="gpk-price-chart-legend-down">{{ __('global.guest.down') }}</span>
 </div>
 
 <svg class="gpk-price-chart" viewBox="0 0 960 360" role="img"
     aria-labelledby="sicom-chart-title sicom-chart-description" preserveAspectRatio="xMidYMid meet">
-    <title id="sicom-chart-title">Grafik candlestick perkiraan harga SICOM TSR20 Januari hingga Oktober 2026</title>
+    <title id="sicom-chart-title">{{ __('global.guest.chartDescription') }}</title>
     <desc id="sicom-chart-description">
-        Candlestick bulanan memperlihatkan estimasi harga pembukaan, tertinggi, terendah, dan penutupan berdasarkan
-        pembacaan visual gambar referensi. Harga meningkat dari sekitar 183 pada Januari menjadi 258,2 pada Oktober.
+        {{ __('global.guest.candlestickDescription') }}
     </desc>
 
     <g aria-hidden="true">
@@ -57,7 +58,7 @@
             <line class="gpk-price-chart-grid" x1="{{ $plotPoints[$index]['x'] }}" y1="54"
                 x2="{{ $plotPoints[$index]['x'] }}" y2="{{ $plotBottom }}" stroke-dasharray="2 5" />
             <text class="gpk-price-chart-month" x="{{ $plotPoints[$index]['x'] }}" y="338" text-anchor="middle">
-                {{ $point['month'] }}
+                {{ $monthAbbreviations[$index] }}
             </text>
         @endforeach
     </g>
@@ -73,12 +74,12 @@
         @endphp
         <g class="gpk-price-chart-candle gpk-price-chart-candle--{{ $directionClass }}">
             <title>
-                {{ $point['name'] }} 2026 — Buka: {{ number_format($point['open'], 1, ',', '.') }},
-                Tinggi: {{ number_format($point['high'], 1, ',', '.') }},
-                Rendah: {{ number_format($point['low'], 1, ',', '.') }},
-                Tutup: {{ number_format($point['close'], 1, ',', '.') }}
+                {{ __('global.guest.priceMonth', ['month' => $monthNames[$index]]) }} — {{ __('global.guest.open') }}: {{ number_format($point['open'], 1, ',', '.') }},
+                {{ __('global.guest.high') }}: {{ number_format($point['high'], 1, ',', '.') }},
+                {{ __('global.guest.low') }}: {{ number_format($point['low'], 1, ',', '.') }},
+                {{ __('global.guest.close') }}: {{ number_format($point['close'], 1, ',', '.') }}
                 @if ($change !== null)
-                    , perubahan: {{ $change > 0 ? '+' : '' }}{{ number_format($change, 1, ',', '.') }}
+                    , {{ __('global.guest.change') }}: {{ $change > 0 ? '+' : '' }}{{ number_format($change, 1, ',', '.') }}
                     ({{ $changePercent > 0 ? '+' : '' }}{{ number_format($changePercent, 1, ',', '.') }}%)
                 @endif
             </title>

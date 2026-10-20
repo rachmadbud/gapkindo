@@ -12,7 +12,7 @@
 
 @extends('guest.layouts.master')
 
-@section('title', 'Berita | GAPKINDO')
+@section('title', __('global.guest.newsTitle') . ' | GAPKINDO')
 
 @push('styles')
 <style>
@@ -504,7 +504,7 @@
 @php
     $totalBerita = count($dataNews ?? []);
     $latestDate = $totalBerita > 0
-        ? \Carbon\Carbon::parse($dataNews[0]->created_at)->locale('id')->isoFormat('D MMM Y')
+        ? \Carbon\Carbon::parse($dataNews[0]->created_at)->locale(app()->getLocale())->isoFormat('D MMM Y')
         : '-';
     $perPage = 8; // 8 berita per halaman supaya tampilan rapi
     $totalPages = max(1, ceil($totalBerita / $perPage));
@@ -518,13 +518,12 @@
     <section class="news-hero">
         <div class="gpk-container">
             <div class="news-hero__inner">
-                <div class="news-hero__eyebrow">Latest Update</div>
+                <div class="news-hero__eyebrow">{{ __('global.guest.latestUpdate') }}</div>
                 <h1 class="news-hero__title">
-                    Berita <em>GAPKINDO</em>
+                    {{ __('global.guest.news') }} <em>GAPKINDO</em>
                 </h1>
                 <p class="news-hero__lead">
-                    Mengikuti perkembangan harga, regulasi, dan dinamika pasar karet alam nasional maupun global
-                    yang menentukan masa depan industri.
+                    {{ __('global.guest.newsPageDescription') }}
                 </p>
             </div>
         </div>
@@ -541,15 +540,15 @@
             <div class="news-stats__grid">
                 <div class="news-stat">
                     <div class="news-stat__num">{{ $totalBerita }}</div>
-                    <div class="news-stat__label">Total Berita</div>
+                    <div class="news-stat__label">{{ __('global.guest.totalNews') }}</div>
                 </div>
                 <div class="news-stat">
                     <div class="news-stat__num">{{ $totalPages }}</div>
-                    <div class="news-stat__label">Halaman</div>
+                    <div class="news-stat__label">{{ __('global.guest.page') }}</div>
                 </div>
                 <div class="news-stat">
                     <div class="news-stat__num" style="font-size: clamp(1.2rem, 2.5vw, 1.8rem); padding-top: 0.5rem;">{{ $latestDate }}</div>
-                    <div class="news-stat__label">Update Terakhir</div>
+                    <div class="news-stat__label">{{ __('global.guest.lastUpdated') }}</div>
                 </div>
             </div>
         </div>
@@ -562,10 +561,10 @@
     <section class="news-grid-section">
         <div class="gpk-container">
             <div class="news-grid-section__head">
-                <div class="news-section__num">— Arsip Berita</div>
-                <span class="news-section__eyebrow">Newsroom</span>
+                <div class="news-section__num">— {{ __('global.guest.newsArchive') }}</div>
+                <span class="news-section__eyebrow">{{ __('global.guest.newsroom') }}</span>
                 <h2 class="news-section__title">
-                    Kabar terbaru dari <em>industri karet alam</em>
+                    {{ __('global.guest.latestNewsLead') }}
                 </h2>
             </div>
 
@@ -574,14 +573,14 @@
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
                         <path d="M20 3H3c-1.1 0-2 .9-2 2v11c0 1.1.9 2 2 2h3v3l3-3h11c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"/>
                     </svg>
-                    <p>Belum ada berita yang dipublikasikan.</p>
+                    <p>{{ __('global.guest.noNews') }}</p>
                 </div>
             @else
                 <div class="news-grid" id="newsGrid">
                     @foreach ($dataNews as $idx => $news)
                         @php
                             $createdAt = \Carbon\Carbon::parse($news->created_at);
-                            $formattedDate = $createdAt->locale('id')->isoFormat('D MMM Y');
+                            $formattedDate = $createdAt->locale(app()->getLocale())->isoFormat('D MMM Y');
                             $isRecent = $createdAt->greaterThan(now()->subDays(7));
                             $pageNum = floor($idx / $perPage) + 1;
                         @endphp
@@ -591,9 +590,9 @@
                            title="{{ $news->title }}">
                             <div class="news-card__photo">
                                 @if($isRecent)
-                                    <span class="news-card__badge news-card__badge--new">Baru</span>
+                                    <span class="news-card__badge news-card__badge--new">{{ __('global.guest.new') }}</span>
                                 @else
-                                    <span class="news-card__badge">Berita</span>
+                                    <span class="news-card__badge">{{ __('global.guest.news') }}</span>
                                 @endif
                                 <img src="{{ asset('guest/assets/img/news/' . $news->image) }}"
                                      alt="{{ $news->title }}"
@@ -612,7 +611,7 @@
                                 </div>
                                 <h3 class="news-card__title">{{ \Illuminate\Support\Str::limit($news->title, 110) }}</h3>
                                 <span class="news-card__cta">
-                                    Baca Selengkapnya
+                                    {{ __('global.guest.readMore') }}
                                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
                                         <path d="M5 12h14M13 6l6 6-6 6"/>
                                     </svg>
@@ -625,9 +624,9 @@
                 {{-- PAGINATION (selalu tampil, JS handle single-page case) --}}
                 <div class="news-pagination" id="newsPagination" data-total-pages="{{ $totalPages }}">
                     <div class="news-pagination__info">
-                        Menampilkan <strong><span id="pgFrom">1</span>–<span id="pgTo">{{ min($perPage, $totalBerita) }}</span></strong>
-                        dari <strong>{{ $totalBerita }}</strong> berita
-                        @if($totalPages > 1) • Halaman <strong><span id="pgCurr">1</span></strong> dari <strong>{{ $totalPages }}</strong>@endif
+                        {{ __('global.guest.showing') }} <strong><span id="pgFrom">1</span>–<span id="pgTo">{{ min($perPage, $totalBerita) }}</span></strong>
+                        {{ __('global.guest.of') }} <strong>{{ $totalBerita }}</strong> {{ __('global.guest.newsItems') }}
+                        @if($totalPages > 1) • {{ __('global.guest.page') }} <strong><span id="pgCurr">1</span></strong> {{ __('global.guest.of') }} <strong>{{ $totalPages }}</strong>@endif
                     </div>
                     {{-- Buttons di-generate via JS --}}
                 </div>
@@ -642,7 +641,7 @@
     <section class="news-cta">
         <div class="gpk-container">
             <a href="{{ url('/') }}" class="news-cta__btn">
-                <span>Kembali ke Beranda</span>
+                <span>{{ __('global.guest.backHome') }}</span>
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
                     <path d="M5 12h14"/>
                     <path d="M13 6l6 6-6 6"/>
@@ -659,6 +658,12 @@
 <script>
 (function() {
     'use strict';
+
+    const paginationLabels = {
+        previous: @json(__('global.guest.previous')),
+        next: @json(__('global.guest.next')),
+        page: @json(__('global.guest.page')),
+    };
 
     const grid = document.getElementById('newsGrid');
     const pagWrap = document.getElementById('newsPagination');
@@ -689,7 +694,7 @@
         prev.type = 'button';
         prev.className = 'news-pg-btn news-pg-btn--arrow';
         prev.disabled = active === 1;
-        prev.innerHTML = arrowLeft + ' <span>Prev</span>';
+        prev.innerHTML = arrowLeft + ' <span>' + paginationLabels.previous + '</span>';
         prev.addEventListener('click', () => goPage(active - 1));
         container.appendChild(prev);
 
@@ -706,7 +711,7 @@
                 btn.type = 'button';
                 btn.className = 'news-pg-btn' + (p === active ? ' is-active' : '');
                 btn.textContent = p;
-                btn.setAttribute('aria-label', 'Halaman ' + p);
+                btn.setAttribute('aria-label', paginationLabels.page + ' ' + p);
                 if (p === active) btn.setAttribute('aria-current', 'page');
                 btn.addEventListener('click', () => goPage(p));
                 container.appendChild(btn);
@@ -718,7 +723,7 @@
         next.type = 'button';
         next.className = 'news-pg-btn news-pg-btn--arrow';
         next.disabled = active === totalPages;
-        next.innerHTML = '<span>Next</span> ' + arrowRight;
+        next.innerHTML = '<span>' + paginationLabels.next + '</span> ' + arrowRight;
         next.addEventListener('click', () => goPage(active + 1));
         container.appendChild(next);
 

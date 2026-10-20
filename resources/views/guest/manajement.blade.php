@@ -13,7 +13,7 @@
 
 @extends('guest.layouts.master')
 
-@section('title', 'Manajemen | GAPKINDO')
+@section('title', __('global.guest.managementTitle') . ' | GAPKINDO')
 
 @push('styles')
     <style>
@@ -1068,13 +1068,12 @@
         <section class="sejarah-hero">
             <div class="gpk-container">
                 <div class="sejarah-hero__inner">
-                    <div class="sejarah-hero__eyebrow">Heritage Sejak 1971</div>
+                    <div class="sejarah-hero__eyebrow">{{ __('global.guest.heritageSince1971') }}</div>
                     <h1 class="sejarah-hero__title">
-                        Manajemen <em>GAPKINDO</em>
+                        {{ __('global.guest.managementTitle') }} <em>GAPKINDO</em>
                     </h1>
                     <p class="sejarah-hero__lead">
-                        Menjalankan operasional organisasi dan mengeksekusi strategi pengembangan industri karet alam
-                        nasional.
+                        {{ __('global.guest.managementLead') }}
                     </p>
                 </div>
             </div>
@@ -1089,13 +1088,12 @@
             <div class="gpk-container">
                 <div class="gpk-section__head">
                     <div class="gpk-reveal">
-                        <span class="gpk-eyebrow">Periode 2025 – 2028</span>
-                        <h2 class="gpk-section__title">Badan <em>Pengawas</em></h2>
+                        <span class="gpk-eyebrow">{{ __('global.guest.managementPeriod') }}</span>
+                        <h2 class="gpk-section__title">{{ __('global.guest.supervisoryBoard') }}</h2>
                     </div>
                     <div class="gpk-reveal" data-delay="2">
                         <p class="gpk-section__lead">
-                            Mengawal jalannya organisasi dan memastikan setiap keputusan strategis
-                            sejalan dengan visi GAPKINDO.
+                            {{ __('global.guest.supervisoryDescription') }}
                         </p>
                     </div>
                 </div>
@@ -1110,7 +1108,7 @@
                                 draggable="false" oncontextmenu="return false">
                         </div>
                         <div class="gpk-team__name">Martinus S. Sinarya</div>
-                        <div class="gpk-team__role gpk-team__role--gold">Ketua</div>
+                        <div class="gpk-team__role gpk-team__role--gold">{{ __('global.ketua') }}</div>
                     </a>
 
                     {{-- 4 Anggota --}}
@@ -1130,7 +1128,7 @@
                                     draggable="false" oncontextmenu="return false">
                             </div>
                             <div class="gpk-team__name">{{ $p['name'] }}</div>
-                            <div class="gpk-team__role">Anggota</div>
+                            <div class="gpk-team__role">{{ __('global.Anggota') }}</div>
                         </a>
                     @endforeach
 
@@ -1146,13 +1144,12 @@
             <div class="gpk-container">
                 <div class="gpk-section__head">
                     <div class="gpk-reveal">
-                        <span class="gpk-eyebrow">Periode 2025 – 2028</span>
-                        <h2 class="gpk-section__title">Badan <em>Pengurus</em></h2>
+                        <span class="gpk-eyebrow">{{ __('global.guest.managementPeriod') }}</span>
+                        <h2 class="gpk-section__title">{{ __('global.guest.governingBoard') }}</h2>
                     </div>
                     <div class="gpk-reveal" data-delay="2">
                         <p class="gpk-section__lead">
-                            Menjalankan operasional organisasi dan mengeksekusi strategi pengembangan
-                            industri karet alam nasional.
+                            {{ __('global.guest.governingDescription') }}
                         </p>
                     </div>
                 </div>
@@ -1173,20 +1170,20 @@
                     {{-- 4 Bidang --}}
                     @php
                         $pengurus = [
-                            ['name' => 'Timmie Melvin', 'role' => 'Sekretaris Umum', 'img' => 'timmie-img.png'],
+                            ['name' => 'Timmie Melvin', 'role' => __('global.SekUm'), 'img' => 'timmie-img.png'],
                             [
                                 'name' => 'Vargo Gunawan',
-                                'role' => 'Ketua Bidang Organisasi/Bendahara',
+                                'role' => __('global.KabidOrganisasi') . ' / ' . __('global.bendahara'),
                                 'img' => 'vargo-img.png',
                             ],
                             [
                                 'name' => 'Erikson Ginting',
-                                'role' => 'Ketua Bidang Produksi',
+                                'role' => __('global.KabidProduksi'),
                                 'img' => 'edrikson-img.png',
                             ],
                             [
                                 'name' => 'I. Widyantoko Sumarlin',
-                                'role' => 'Ketua Bidang Pemasaran',
+                                'role' => __('global.KeBidPemasaran'),
                                 'img' => 'widiyantoko-img.png',
                             ],
                         ];
@@ -1210,14 +1207,14 @@
                     style="margin-bottom: 1.5rem; padding-top: 2rem; border-top: 1px solid var(--c-line); text-align: center;">
                     <h3
                         style="font-family: var(--f-display); font-size: 1.6rem; font-weight: 500; letter-spacing: -0.02em; margin-top: 0.6rem; margin-bottom: 0;">
-                        Ketua <em style="font-style: italic; color: var(--c-gold); font-weight: 400;">Cabang / </em>
-                        Anggota
+                        {{ __('global.guest.branchChairs') }}
                     </h3>
                 </div>
 
                 {{-- 8 Ketua DPW dalam 1 baris, rata kiri-kanan sejajar Quick Access --}}
                 <div class="gpk-team gpk-team--cabang gpk-reveal">
                     @php
+                        $regions = __('global.guest.regions');
                         $dpw = [
                             [
                                 'name' => 'Ishak Leono',
@@ -1258,14 +1255,14 @@
                         ];
                     @endphp
 
-                    @foreach ($dpw as $d)
+                    @foreach ($dpw as $index => $d)
                         <a href="{{ route('soon') }}" class="gpk-team__member">
                             <div class="gpk-team__photo">
                                 <img src="{{ asset('guest/assets/img/' . $d['img']) }}" alt="{{ $d['name'] }}"
                                     draggable="false" oncontextmenu="return false">
                             </div>
                             <div class="gpk-team__name">{{ $d['name'] }}</div>
-                            <div class="gpk-team__role gpk-team__role--gold">{{ $d['region'] }}</div>
+                            <div class="gpk-team__role gpk-team__role--gold">{{ $regions[$index] }}</div>
                         </a>
                     @endforeach
                 </div>
@@ -1276,7 +1273,7 @@
                         </div>
                         <div>
                             <div class="gpk-sec-card__name">Erwin Tunas</div>
-                            <div class="gpk-sec-card__role">Direktur Eksekutif</div>
+                            <div class="gpk-sec-card__role">{{ __('global.direkturEksekutif') }}</div>
                         </div>
                     </a>
 
@@ -1286,7 +1283,7 @@
                         </div>
                         <div>
                             <div class="gpk-sec-card__name">Uhendi Haris</div>
-                            <div class="gpk-sec-card__role">Asisten Direktur Eksekutif</div>
+                            <div class="gpk-sec-card__role">{{ __('global.asistenDirekturEksekutif') }}</div>
                         </div>
                     </a>
                 </div>

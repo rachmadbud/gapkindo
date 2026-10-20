@@ -13,7 +13,7 @@
 
 @extends('guest.layouts.master')
 
-@section('title', 'Sejarah | GAPKINDO')
+@section('title', __('global.guest.historyTitle') . ' | GAPKINDO')
 
 @push('styles')
 <style>
@@ -620,14 +620,12 @@
     <section class="sejarah-hero">
         <div class="gpk-container">
             <div class="sejarah-hero__inner">
-                <div class="sejarah-hero__eyebrow">Heritage Sejak 1971</div>
+                <div class="sejarah-hero__eyebrow">{{ __('global.guest.heritageSince1971') }}</div>
                 <h1 class="sejarah-hero__title">
-                    Sejarah <em>GAPKINDO</em>
+                    {{ __('global.guest.historyTitle') }} <em>GAPKINDO</em>
                 </h1>
                 <p class="sejarah-hero__lead">
-                    Perjalanan panjang Gabungan Perusahaan Karet Indonesia—dari kebijakan
-                    Menteri Perdagangan tahun 1967, lahirnya PPKSTI di tahun 1971, hingga menjadi
-                    perkumpulan berbadan hukum yang menaungi industri karet alam nasional.
+                    {{ __('global.guest.historyLead') }}
                 </p>
             </div>
         </div>
@@ -642,14 +640,15 @@
     <section class="sejarah-timeline">
         <div class="gpk-container">
             <div class="sejarah-timeline__head">
-                <div class="sejarah-timeline__num">— 01 / Timeline</div>
-                <span class="sejarah-timeline__eyebrow">Perjalanan Organisasi</span>
+                <div class="sejarah-timeline__num">— 01 / {{ __('global.guest.timeline') }}</div>
+                <span class="sejarah-timeline__eyebrow">{{ __('global.guest.organizationJourney') }}</span>
                 <h2 class="sejarah-timeline__title">
-                    8 milestone <em>penting</em> sejak 1967
+                    {{ __('global.guest.importantMilestones') }}
                 </h2>
             </div>
 
             @php
+                $milestoneTranslations = __('global.guest.historyMilestones');
                 $milestones = [
                     [
                         'year' => '1967',
@@ -735,8 +734,8 @@
                                 </div>
                             </div>
                             <div class="timeline-content">
-                                <h3 class="timeline-content__title">{{ $m['title'] }}</h3>
-                                <p class="timeline-content__desc">{{ $m['desc'] }}</p>
+                                <h3 class="timeline-content__title">{{ $milestoneTranslations[$idx]['title'] }}</h3>
+                                <p class="timeline-content__desc">{{ $milestoneTranslations[$idx]['description'] }}</p>
                             </div>
                             <div class="timeline-number">0{{ $idx + 1 }}</div>
                         </div>
@@ -744,7 +743,7 @@
                 </div>
             </div>
 
-            <div class="timeline-scroll-hint">⟵ Geser horizontal untuk lihat semua milestone ⟶</div>
+            <div class="timeline-scroll-hint">⟵ {{ __('global.guest.horizontalTimelineHint') }} ⟶</div>
         </div>
     </section>
 
@@ -756,10 +755,10 @@
         <div class="gpk-container">
 
             <div class="sejarah-detail__head">
-                <div class="sejarah-timeline__num">— 02 / Detail</div>
-                <span class="sejarah-timeline__eyebrow">Sejarah Lengkap</span>
+                <div class="sejarah-timeline__num">— 02 / {{ __('global.detail') }}</div>
+                <span class="sejarah-timeline__eyebrow">{{ __('global.guest.completeHistory') }}</span>
                 <h2 class="sejarah-timeline__title">
-                    Mengenal <em>GAPKINDO</em> lebih dalam
+                    {{ __('global.guest.learnMoreAboutGapkindo') }}
                 </h2>
             </div>
 
@@ -772,13 +771,11 @@
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
                             <polyline points="1 4 1 10 7 10"/><path d="M3.51 15a9 9 0 1 0 .49-4.95"/>
                         </svg>
-                        <h3 class="sj-card__title">Sebelum GAPKINDO</h3>
+                        <h3 class="sj-card__title">{{ __('global.guest.beforeGapkindo') }}</h3>
                     </div>
                     <div class="sj-card__body">
                         <p class="sj-card__text">
-                            Cikal bakal organisasi GAPKINDO telah ada pada <b>era 1950-an</b> yang dibentuk oleh pelaku
-                            usaha industri Remilling Karet. Pada saat itu organisasi ini bernama <b>GARKI</b>
-                            (Gabungan Remilling Karet Indonesia).
+                            {{ __('global.guest.beforeGapkindoDescription') }}
                         </p>
                     </div>
                 </div>
@@ -790,14 +787,14 @@
                             <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/>
                             <line x1="4" y1="22" x2="4" y2="15"/>
                         </svg>
-                        <h3 class="sj-card__title">Pendirian</h3>
+                        <h3 class="sj-card__title">{{ __('global.guest.founding') }}</h3>
                     </div>
                     <div class="sj-card__body">
                         <ol class="sj-list-alpha">
-                            <li>Didirikan oleh Anggota pada tanggal <b>21 Mei 1971</b></li>
-                            <li>Melalui mekanisme <b>Kongres</b></li>
-                            <li>Kepengurusan dipilih setiap <b>3 tahun</b> melalui Kongres</li>
-                            <li>Anggaran Dasar dan Anggaran Rumah Tangga dibuat sebagai dasar penyelenggaraan</li>
+                            <li>{{ __('global.guest.foundedByMembers') }}</li>
+                            <li>{{ __('global.guest.throughCongress') }}</li>
+                            <li>{{ __('global.guest.boardElectedEveryThreeYears') }}</li>
+                            <li>{{ __('global.guest.bylawsCreated') }}</li>
                         </ol>
                     </div>
                 </div>
@@ -810,13 +807,11 @@
                             <circle cx="12" cy="12" r="6"/>
                             <circle cx="12" cy="12" r="2"/>
                         </svg>
-                        <h3 class="sj-card__title">Tujuan</h3>
+                        <h3 class="sj-card__title">{{ __('global.guest.purpose') }}</h3>
                     </div>
                     <div class="sj-card__body">
                         <p class="sj-card__text">
-                            Untuk <b>memelihara, mengembangkan dan meningkatkan bisnis karet</b> baik secara kuantitatif
-                            maupun kualitatif dalam hal produksi, pengolahan, dan pemasaran — sebagai suatu jalur
-                            dukungan utama dalam pengembangan ekonomi bangsa menuju masyarakat yang adil dan makmur.
+                            {{ __('global.guest.purposeDescription') }}
                         </p>
                     </div>
                 </div>
@@ -830,10 +825,11 @@
                         <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/>
                         <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>
                     </svg>
-                    <h3 class="sj-card__title">Lingkup Kegiatan</h3>
+                    <h3 class="sj-card__title">{{ __('global.guest.scopeOfActivities') }}</h3>
                 </div>
                 <div class="sj-card__body">
                     @php
+                        $scopeTranslations = __('global.guest.historyScope');
                         $lingkup = [
                             ['color' => 'var(--m1)', 'icon' => '<path d="M20.42 4.58a5.4 5.4 0 0 0-7.65 0l-.77.78-.77-.78a5.4 5.4 0 0 0-7.65 7.65l.78.77L12 21l7.64-7.64.78-.77a5.4 5.4 0 0 0 0-7.65z"/>', 'text' => 'Menjalin kemitraan dan hubungan baik dengan pemerintah maupun sektor swasta di dalam dan luar negeri.'],
                             ['color' => 'var(--m3)', 'icon' => '<circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>', 'text' => 'Membantu bisnis anggota dalam perizinan, produksi, kualitas, perdagangan, kepelabuhanan, bea cukai, karantina, pajak, lingkungan hidup, dan ketenagakerjaan.'],
@@ -848,14 +844,14 @@
                     @endphp
 
                     <ul class="sj-lingkup">
-                        @foreach($lingkup as $lk)
+                        @foreach($lingkup as $idx => $lk)
                             <li class="sj-lingkup__item" style="--accent: {{ $lk['color'] }};">
                                 <div class="sj-lingkup__icon">
                                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                         {!! $lk['icon'] !!}
                                     </svg>
                                 </div>
-                                <div class="sj-lingkup__text">{{ $lk['text'] }}</div>
+                                <div class="sj-lingkup__text">{{ $scopeTranslations[$idx] }}</div>
                             </li>
                         @endforeach
                     </ul>
@@ -872,7 +868,7 @@
     <section class="sejarah-cta">
         <div class="gpk-container">
             <a href="{{ url('/') }}" class="sejarah-cta__btn">
-                <span>Kembali ke Beranda</span>
+                <span>{{ __('global.guest.backHome') }}</span>
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
                     <path d="M5 12h14"/>
                     <path d="M13 6l6 6-6 6"/>

@@ -15,8 +15,10 @@ class SetLocaleFromSession
      */
     public function handle($request, Closure $next)
     {
-        // Cek cookie locale, kalau tidak ada pakai default 'id'
-        $locale = Cookie::get('locale', config('app.locale', 'id'));
+        $requestedLocale = $request->cookie('locale');
+        $locale = in_array($requestedLocale, ['en', 'id'], true)
+            ? $requestedLocale
+            : 'id';
 
         App::setLocale($locale);
 

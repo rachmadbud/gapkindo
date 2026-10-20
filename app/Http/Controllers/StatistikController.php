@@ -9,21 +9,6 @@ use Illuminate\Http\Request;
 
 class StatistikController extends Controller
 {
-    private const MONTHS = [
-        1 => 'Januari',
-        2 => 'Februari',
-        3 => 'Maret',
-        4 => 'April',
-        5 => 'Mei',
-        6 => 'Juni',
-        7 => 'Juli',
-        8 => 'Agustus',
-        9 => 'September',
-        10 => 'Oktober',
-        11 => 'November',
-        12 => 'Desember',
-    ];
-
     public function index()
     {
         $exportYear = ExportDataset::query()->max('year');
@@ -91,7 +76,7 @@ class StatistikController extends Controller
         $chartMaximum = max(1, max(array_column($exportDestinations, 'volume') ?: [0]));
 
         return view('guest.statistik.tujuan-ekspor', [
-            'months' => self::MONTHS,
+            'months' => $this->localizedMonths(),
             'years' => $years,
             'selectedMonth' => $selectedMonth,
             'selectedYear' => $selectedYear,
@@ -147,7 +132,7 @@ class StatistikController extends Controller
             : [];
 
         return view('guest.statistik.produksi-indonesia', [
-            'months' => self::MONTHS,
+            'months' => $this->localizedMonths(),
             'years' => $years,
             'selectedMonth' => $selectedMonth,
             'selectedYear' => $selectedYear,
@@ -155,5 +140,10 @@ class StatistikController extends Controller
             'totalProduction' => array_sum(array_column($productions, 'production_ton')),
             'chartMaximum' => max(1, max(array_column($productions, 'production_ton') ?: [0])),
         ]);
+    }
+
+    private function localizedMonths(): array
+    {
+        return array_combine(range(1, 12), trans('global.guest.months'));
     }
 }

@@ -1,6 +1,6 @@
 @extends('guest.layouts.master')
 
-@section('title', 'Regulasi | GAPKINDO')
+@section('title', __('global.regulasi') . ' | GAPKINDO')
 
 @section('content')
     <div class="page-head">
@@ -32,7 +32,7 @@
                             <table class="table table-bordered ">
                                 <thead>
                                     <tr>
-                                        <th>Link</th>
+                                        <th>{{ __('global.guest.link') }}</th>
                                     </tr>
                                 </thead>
                                 <tbody id="tableBody">
@@ -42,9 +42,9 @@
 
                             <!-- Pagination -->
                             <div class="d-flex justify-content-between">
-                                <button id="prevBtn" class="btn btn-primary">Previous</button>
+                                <button id="prevBtn" class="btn btn-primary">{{ __('global.guest.previous') }}</button>
                                 <span id="pageInfo"></span>
-                                <button id="nextBtn" class="btn btn-primary">Next</button>
+                                <button id="nextBtn" class="btn btn-primary">{{ __('global.guest.next') }}</button>
                             </div>
                         </div>
                     </div>
@@ -59,7 +59,7 @@
                         </div>
                         <div class="panel-body">
                             <div class="input-group">
-                                <input class="form-control" placeholder="Search" type="text" id="searchInput">
+                                <input class="form-control" placeholder="{{ __('global.guest.search') }}" type="text" id="searchInput">
                                 <span class="input-group-btn">
                                     <button type="submit" class="btn btn-smal">
                                         <i class="fa fa-search"></i>

@@ -12,7 +12,7 @@
 
 @extends('guest.layouts.master')
 
-@section('title', 'Galeri | GAPKINDO')
+@section('title', __('global.guest.gallery') . ' | GAPKINDO')
 
 @push('styles')
 <style>
@@ -531,7 +531,7 @@
 @php
     $totalGaleri = count($data ?? []);
     $latestDate = $totalGaleri > 0
-        ? \Carbon\Carbon::parse($data[0]->created_at)->locale('id')->isoFormat('D MMM Y')
+        ? \Carbon\Carbon::parse($data[0]->created_at)->locale(app()->getLocale())->isoFormat('D MMM Y')
         : '-';
     $perPage = 8; // 8 galeri per halaman (4 col × 2 row = sempurna)
     $totalPages = max(1, ceil($totalGaleri / $perPage));
@@ -545,13 +545,12 @@
     <section class="gal-hero">
         <div class="gpk-container">
             <div class="gal-hero__inner">
-                <div class="gal-hero__eyebrow">Dokumentasi Kegiatan</div>
+                <div class="gal-hero__eyebrow">{{ __('global.guest.documentation') }}</div>
                 <h1 class="gal-hero__title">
-                    Galeri <em>GAPKINDO</em>
+                    {{ __('global.guest.gallery') }} <em>GAPKINDO</em>
                 </h1>
                 <p class="gal-hero__lead">
-                    Dokumentasi kongres, kegiatan, pertemuan, dan momen penting GAPKINDO bersama
-                    anggota, pemerintah, dan mitra industri karet alam Indonesia.
+                    {{ __('global.guest.galleryDescription') }}
                 </p>
             </div>
         </div>
@@ -568,15 +567,15 @@
             <div class="gal-stats__grid">
                 <div class="gal-stat">
                     <div class="gal-stat__num">{{ $totalGaleri }}</div>
-                    <div class="gal-stat__label">Total Galeri</div>
+                    <div class="gal-stat__label">{{ __('global.guest.totalGallery') }}</div>
                 </div>
                 <div class="gal-stat">
                     <div class="gal-stat__num">{{ $totalPages }}</div>
-                    <div class="gal-stat__label">Halaman</div>
+                    <div class="gal-stat__label">{{ __('global.guest.page') }}</div>
                 </div>
                 <div class="gal-stat">
                     <div class="gal-stat__num" style="font-size: clamp(1.2rem, 2.5vw, 1.8rem); padding-top: 0.5rem;">{{ $latestDate }}</div>
-                    <div class="gal-stat__label">Update Terakhir</div>
+                    <div class="gal-stat__label">{{ __('global.guest.lastUpdated') }}</div>
                 </div>
             </div>
         </div>
@@ -589,10 +588,10 @@
     <section class="gal-grid-section">
         <div class="gpk-container">
             <div class="gal-grid-section__head">
-                <div class="gal-section__num">— Dokumentasi</div>
-                <span class="gal-section__eyebrow">Photo Gallery</span>
+                <div class="gal-section__num">— {{ __('global.guest.documentation') }}</div>
+                <span class="gal-section__eyebrow">{{ __('global.guest.photoGallery') }}</span>
                 <h2 class="gal-section__title">
-                    Momen <em>terbaik</em> GAPKINDO
+                    {{ __('global.guest.bestMoments') }}
                 </h2>
             </div>
 
@@ -603,14 +602,14 @@
                         <circle cx="8.5" cy="8.5" r="1.5"/>
                         <polyline points="21 15 16 10 5 21"/>
                     </svg>
-                    <p>Belum ada galeri yang dipublikasikan.</p>
+                    <p>{{ __('global.guest.noGallery') }}</p>
                 </div>
             @else
                 <div class="gal-grid" id="galGrid">
                     @foreach ($data as $idx => $item)
                         @php
                             $createdAt = \Carbon\Carbon::parse($item->created_at);
-                            $formattedDate = $createdAt->locale('id')->isoFormat('D MMM Y');
+                            $formattedDate = $createdAt->locale(app()->getLocale())->isoFormat('D MMM Y');
                             $pageNum = floor($idx / $perPage) + 1;
                         @endphp
                         <a href="{{ route('detailGaleri', app(\App\Helpers\Helper::class)->enkrip($item->id)) }}"
@@ -624,7 +623,7 @@
                                      onerror="this.style.opacity='0.3';this.parentElement.style.background='linear-gradient(135deg,#F4EFE3,#D4B355)';">
                                 <div class="gal-card__overlay"></div>
                                 <span class="gal-card__view-badge">
-                                    Lihat
+                                    {{ __('global.guest.view') }}
                                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
                                         <path d="M5 12h14M13 6l6 6-6 6"/>
                                     </svg>
@@ -658,9 +657,9 @@
                 {{-- PAGINATION --}}
                 <div class="gal-pagination" id="galPagination" data-total-pages="{{ $totalPages }}">
                     <div class="gal-pagination__info">
-                        Menampilkan <strong><span id="galPgFrom">1</span>–<span id="galPgTo">{{ min($perPage, $totalGaleri) }}</span></strong>
-                        dari <strong>{{ $totalGaleri }}</strong> galeri
-                        @if($totalPages > 1) • Halaman <strong><span id="galPgCurr">1</span></strong> dari <strong>{{ $totalPages }}</strong>@endif
+                        {{ __('global.guest.showing') }} <strong><span id="galPgFrom">1</span>–<span id="galPgTo">{{ min($perPage, $totalGaleri) }}</span></strong>
+                        {{ __('global.guest.of') }} <strong>{{ $totalGaleri }}</strong> {{ __('global.guest.gallery') }}
+                        @if($totalPages > 1) • {{ __('global.guest.page') }} <strong><span id="galPgCurr">1</span></strong> {{ __('global.guest.of') }} <strong>{{ $totalPages }}</strong>@endif
                     </div>
                     {{-- Buttons di-generate via JS --}}
                 </div>
@@ -675,7 +674,7 @@
     <section class="gal-cta">
         <div class="gpk-container">
             <a href="{{ url('/') }}" class="gal-cta__btn">
-                <span>Kembali ke Beranda</span>
+                <span>{{ __('global.guest.backHome') }}</span>
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
                     <path d="M5 12h14"/>
                     <path d="M13 6l6 6-6 6"/>
@@ -692,6 +691,12 @@
 <script>
 (function() {
     'use strict';
+
+    const paginationLabels = {
+        previous: @json(__('global.guest.previous')),
+        next: @json(__('global.guest.next')),
+        page: @json(__('global.guest.page')),
+    };
 
     const grid = document.getElementById('galGrid');
     const pagWrap = document.getElementById('galPagination');
@@ -720,7 +725,7 @@
         prev.type = 'button';
         prev.className = 'gal-pg-btn gal-pg-btn--arrow';
         prev.disabled = active === 1;
-        prev.innerHTML = arrowLeft + ' <span>Prev</span>';
+        prev.innerHTML = arrowLeft + ' <span>' + paginationLabels.previous + '</span>';
         prev.addEventListener('click', () => goPage(active - 1));
         container.appendChild(prev);
 
@@ -737,7 +742,7 @@
                 btn.type = 'button';
                 btn.className = 'gal-pg-btn' + (p === active ? ' is-active' : '');
                 btn.textContent = p;
-                btn.setAttribute('aria-label', 'Halaman ' + p);
+                btn.setAttribute('aria-label', paginationLabels.page + ' ' + p);
                 if (p === active) btn.setAttribute('aria-current', 'page');
                 btn.addEventListener('click', () => goPage(p));
                 container.appendChild(btn);
@@ -749,7 +754,7 @@
         next.type = 'button';
         next.className = 'gal-pg-btn gal-pg-btn--arrow';
         next.disabled = active === totalPages;
-        next.innerHTML = '<span>Next</span> ' + arrowRight;
+        next.innerHTML = '<span>' + paginationLabels.next + '</span> ' + arrowRight;
         next.addEventListener('click', () => goPage(active + 1));
         container.appendChild(next);
 

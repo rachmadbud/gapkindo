@@ -17,7 +17,7 @@
 
 @extends('guest.layouts.master')
 
-@section('title', 'Anggota | GAPKINDO')
+@section('title', __('global.anggota') . ' | GAPKINDO')
 
 @push('styles')
     <style>
@@ -733,13 +733,12 @@
         <section class="ang-hero">
             <div class="gpk-container">
                 <div class="ang-hero__inner">
-                    <div class="ang-hero__eyebrow">Direktori Keanggotaan</div>
+                    <div class="ang-hero__eyebrow">{{ __('global.guest.memberDirectory') }}</div>
                     <h1 class="ang-hero__title">
-                        Anggota <em>GAPKINDO</em>
+                        {{ __('global.guest.membersOf') }} <em>GAPKINDO</em>
                     </h1>
                     <p class="ang-hero__lead">
-                        Daftar lengkap anggota perusahaan karet alam Indonesia berdasarkan kategori—
-                        Estate, Latex, RSS, TSR, Brown Crape, dan Trader.
+                        {{ __('global.guest.membersLead') }}
                     </p>
                 </div>
             </div>
@@ -755,9 +754,9 @@
             <div class="gpk-container">
                 <div class="ang-stats__grid">
                     <div class="ang-stat ang-stat--teal">
-                        <div class="ang-stat__label">Kategori Anggota</div>
+                        <div class="ang-stat__label">{{ __('global.guest.memberCategories') }}</div>
                         <div class="ang-stat__num">6</div>
-                        <div class="ang-stat__unit">jenis produsen karet</div>
+                        <div class="ang-stat__unit">{{ __('global.guest.rubberProducerTypes') }}</div>
                         <div class="ang-stat__icon">
                             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
                                 <rect x="3" y="3" width="7" height="7" rx="1" />
@@ -769,9 +768,9 @@
                     </div>
 
                     <div class="ang-stat ang-stat--purple">
-                        <div class="ang-stat__label">Cakupan Wilayah</div>
+                        <div class="ang-stat__label">{{ __('global.guest.regionalCoverage') }}</div>
                         <div class="ang-stat__num">16</div>
-                        <div class="ang-stat__unit">provinsi di Indonesia</div>
+                        <div class="ang-stat__unit">{{ __('global.guest.provincesInIndonesia') }}</div>
                         <div class="ang-stat__icon">
                             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
                                 <path d="M12 2C8 2 5 5 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-4-3-7-7-7z" />
@@ -781,9 +780,9 @@
                     </div>
 
                     <div class="ang-stat ang-stat--amber">
-                        <div class="ang-stat__label">Negara Tujuan Ekspor</div>
+                        <div class="ang-stat__label">{{ __('global.guest.exportDestinations') }}</div>
                         <div class="ang-stat__num">100+</div>
-                        <div class="ang-stat__unit">destinasi global</div>
+                        <div class="ang-stat__unit">{{ __('global.guest.globalDestinations') }}</div>
                         <div class="ang-stat__icon">
                             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
                                 <circle cx="12" cy="12" r="10" />
@@ -882,10 +881,10 @@
                                 <line x1="21" y1="21" x2="16.65" y2="16.65" />
                             </svg>
                             <input type="text" class="ang-search__input" id="angSearch"
-                                placeholder="Cari perusahaan, cabang, atau email...">
+                                placeholder="{{ __('global.guest.searchMembers') }}">
                         </div>
                         <div class="ang-toolbar__info" id="angInfo">
-                            <span id="angInfoText">Memuat data...</span>
+                            <span id="angInfoText">{{ __('global.guest.loading') }}</span>
                         </div>
                     </div>
 
@@ -898,7 +897,7 @@
                                 <table class="ang-table">
                                     <thead>
                                         <tr>
-                                            <th>No</th>
+                                            <th>{{ __('global.guest.number') }}</th>
                                             <th>{{ __('global.cabang') }}</th>
                                             <th>{{ __('global.perusahaan') }}</th>
                                             <th>{{ __('global.email') }}</th>
@@ -1151,7 +1150,7 @@
         <section class="ang-cta">
             <div class="gpk-container">
                 <a href="{{ url('/') }}" class="ang-cta__btn">
-                    <span>Kembali ke Beranda</span>
+                    <span>{{ __('global.guest.backHome') }}</span>
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
                         stroke-linecap="round" stroke-linejoin="round">
                         <path d="M5 12h14" />
@@ -1179,6 +1178,38 @@
                 tab5: "{{ __('global.brown') }}",
                 tab6: "{{ __('global.traders') }}",
             };
+            const MEMBER_UI = {
+                loading: @json(__('global.guest.loading')),
+                loadError: @json(__('global.guest.loadError')),
+                noMembers: @json(__('global.guest.noMembers')),
+                noSearchResults: @json(__('global.guest.filteredNoResults')),
+                previous: @json(__('global.guest.previous')),
+                next: @json(__('global.guest.next')),
+                membersIn: @json(__('global.guest.membersIn')),
+                labels: {
+                    number: @json(__('global.guest.number')),
+                    branch: @json(__('global.guest.branch')),
+                    company: @json(__('global.guest.company')),
+                    email: @json(__('global.guest.email')),
+                    rssProducer: @json(__('global.guest.rssProducer')),
+                    productType: @json(__('global.guest.productType')),
+                    productCode: @json(__('global.guest.productCode')),
+                },
+            };
+
+            const staticLabels = {
+                No: MEMBER_UI.labels.number,
+                Cabang: MEMBER_UI.labels.branch,
+                Perusahaan: MEMBER_UI.labels.company,
+                Email: MEMBER_UI.labels.email,
+                'RSS Producer': MEMBER_UI.labels.rssProducer,
+                'Tipe Produk': MEMBER_UI.labels.productType,
+                'Kode Produsen': MEMBER_UI.labels.productCode,
+            };
+            document.querySelectorAll('.ang-table td[data-label]').forEach(cell => {
+                const label = cell.getAttribute('data-label');
+                if (staticLabels[label]) cell.setAttribute('data-label', staticLabels[label]);
+            });
 
             // ====== SVG helpers for pagination buttons ======
             const arrowLeft =
@@ -1210,10 +1241,10 @@
                     url: '/estate',
                     colCount: 4,
                     rowRenderer: (item, index, currentPage, perPage) => `
-                <td data-label="No">${(currentPage-1)*perPage + index + 1}</td>
-                <td data-label="Cabang"><span class="badge-prov">${escapeHtml(item.prov)}</span></td>
-                <td data-label="Perusahaan" class="col-perusahaan">${escapeHtml(item.company)}</td>
-                <td data-label="Email"><a href="mailto:${escapeHtml(item.email)}">${escapeHtml(item.email)}</a></td>
+                <td data-label="${MEMBER_UI.labels.number}">${(currentPage-1)*perPage + index + 1}</td>
+                <td data-label="${MEMBER_UI.labels.branch}"><span class="badge-prov">${escapeHtml(item.prov)}</span></td>
+                <td data-label="${MEMBER_UI.labels.company}" class="col-perusahaan">${escapeHtml(item.company)}</td>
+                <td data-label="${MEMBER_UI.labels.email}"><a href="mailto:${escapeHtml(item.email)}">${escapeHtml(item.email)}</a></td>
             `
                 },
                 tab2: {
@@ -1222,10 +1253,10 @@
                     url: '/centrifuged',
                     colCount: 4,
                     rowRenderer: (item, index, currentPage, perPage) => `
-                <td data-label="No">${(currentPage-1)*perPage + index + 1}</td>
-                <td data-label="Cabang"><span class="badge-prov">${escapeHtml(item.prov)}</span></td>
-                <td data-label="Perusahaan" class="col-perusahaan">${escapeHtml(item.company)}</td>
-                <td data-label="Email"><a href="mailto:${escapeHtml(item.email)}">${escapeHtml(item.email)}</a></td>
+                <td data-label="${MEMBER_UI.labels.number}">${(currentPage-1)*perPage + index + 1}</td>
+                <td data-label="${MEMBER_UI.labels.branch}"><span class="badge-prov">${escapeHtml(item.prov)}</span></td>
+                <td data-label="${MEMBER_UI.labels.company}" class="col-perusahaan">${escapeHtml(item.company)}</td>
+                <td data-label="${MEMBER_UI.labels.email}"><a href="mailto:${escapeHtml(item.email)}">${escapeHtml(item.email)}</a></td>
             `
                 },
                 tab3: {
@@ -1234,11 +1265,11 @@
                     url: '/rss-producers',
                     colCount: 5,
                     rowRenderer: (item, index, currentPage, perPage) => `
-                <td data-label="No">${(currentPage-1)*perPage + index + 1}</td>
-                <td data-label="Cabang"><span class="badge-prov">${escapeHtml(item.prov)}</span></td>
-                <td data-label="Perusahaan" class="col-perusahaan">${escapeHtml(item.company)}</td>
-                <td data-label="RSS Producer">${escapeHtml(item.rss_product || '-')}</td>
-                <td data-label="Email"><a href="mailto:${escapeHtml(item.email)}">${escapeHtml(item.email)}</a></td>
+                <td data-label="${MEMBER_UI.labels.number}">${(currentPage-1)*perPage + index + 1}</td>
+                <td data-label="${MEMBER_UI.labels.branch}"><span class="badge-prov">${escapeHtml(item.prov)}</span></td>
+                <td data-label="${MEMBER_UI.labels.company}" class="col-perusahaan">${escapeHtml(item.company)}</td>
+                <td data-label="${MEMBER_UI.labels.rssProducer}">${escapeHtml(item.rss_product || '-')}</td>
+                <td data-label="${MEMBER_UI.labels.email}"><a href="mailto:${escapeHtml(item.email)}">${escapeHtml(item.email)}</a></td>
             `
                 },
                 tab4: {
@@ -1252,12 +1283,12 @@
 
                         // Mengembalikan string HTML LANGSUNG berupa kumpulan <td> (Tanpa bungkus <tr>)
                         return `
-                <td data-label="No">${rowNumber}</td>
-                <td data-label="Cabang"><span class="badge-prov">${escapeHtml(item.prov)}</span></td>
-                <td data-label="Perusahaan" class="col-perusahaan">${escapeHtml(item.company)}</td>
-                <td data-label="Tipe Produk">${escapeHtml(item.tsr_product)}</td>
-                <td data-label="Kode Produsen">${escapeHtml(item.product_code)}</td>
-                <td data-label="Email">${item.email ? `<a href="mailto:${escapeHtml(item.email)}">${escapeHtml(item.email)}</a>` : '-'}</td>
+                <td data-label="${MEMBER_UI.labels.number}">${rowNumber}</td>
+                <td data-label="${MEMBER_UI.labels.branch}"><span class="badge-prov">${escapeHtml(item.prov)}</span></td>
+                <td data-label="${MEMBER_UI.labels.company}" class="col-perusahaan">${escapeHtml(item.company)}</td>
+                <td data-label="${MEMBER_UI.labels.productType}">${escapeHtml(item.tsr_product)}</td>
+                <td data-label="${MEMBER_UI.labels.productCode}">${escapeHtml(item.product_code)}</td>
+                <td data-label="${MEMBER_UI.labels.email}">${item.email ? `<a href="mailto:${escapeHtml(item.email)}">${escapeHtml(item.email)}</a>` : '-'}</td>
             `;
                     }
                 },
@@ -1267,10 +1298,10 @@
                     url: '/brownCrapeProducer',
                     colCount: 4,
                     rowRenderer: (item, index, currentPage, perPage) => `
-                <td data-label="No">${(currentPage-1)*perPage + index + 1}</td>
-                <td data-label="Cabang"><span class="badge-prov">${escapeHtml(item.prov)}</span></td>
-                <td data-label="Perusahaan" class="col-perusahaan">${escapeHtml(item.company)}</td>
-                <td data-label="Email"><a href="mailto:${escapeHtml(item.email)}">${escapeHtml(item.email)}</a></td>
+                <td data-label="${MEMBER_UI.labels.number}">${(currentPage-1)*perPage + index + 1}</td>
+                <td data-label="${MEMBER_UI.labels.branch}"><span class="badge-prov">${escapeHtml(item.prov)}</span></td>
+                <td data-label="${MEMBER_UI.labels.company}" class="col-perusahaan">${escapeHtml(item.company)}</td>
+                <td data-label="${MEMBER_UI.labels.email}"><a href="mailto:${escapeHtml(item.email)}">${escapeHtml(item.email)}</a></td>
             `
                 },
                 tab6: {
@@ -1279,10 +1310,10 @@
                     url: '/traders',
                     colCount: 4,
                     rowRenderer: (item, index, currentPage, perPage) => `
-                <td data-label="No">${(currentPage-1)*perPage + index + 1}</td>
-                <td data-label="Cabang"><span class="badge-prov">${escapeHtml(item.prov)}</span></td>
-                <td data-label="Perusahaan" class="col-perusahaan">${escapeHtml(item.company)}</td>
-                <td data-label="Email"><a href="mailto:${escapeHtml(item.email)}">${escapeHtml(item.email)}</a></td>
+                <td data-label="${MEMBER_UI.labels.number}">${(currentPage-1)*perPage + index + 1}</td>
+                <td data-label="${MEMBER_UI.labels.branch}"><span class="badge-prov">${escapeHtml(item.prov)}</span></td>
+                <td data-label="${MEMBER_UI.labels.company}" class="col-perusahaan">${escapeHtml(item.company)}</td>
+                <td data-label="${MEMBER_UI.labels.email}"><a href="mailto:${escapeHtml(item.email)}">${escapeHtml(item.email)}</a></td>
             `
                 },
             };
@@ -1308,7 +1339,7 @@
                 const pag = document.getElementById(cfg.paginationId);
                 if (!tbody) return;
 
-                tbody.innerHTML = `<tr><td colspan="${cfg.colCount}" class="ang-loading">Memuat data...</td></tr>`;
+                tbody.innerHTML = `<tr><td colspan="${cfg.colCount}" class="ang-loading">${MEMBER_UI.loading}</td></tr>`;
 
                 fetch(`${cfg.url}?page=${page}`)
                     .then(res => res.json())
@@ -1320,7 +1351,7 @@
                     })
                     .catch(err => {
                         tbody.innerHTML =
-                            `<tr><td colspan="${cfg.colCount}" class="ang-empty">Gagal memuat data. Silakan refresh halaman.</td></tr>`;
+                            `<tr><td colspan="${cfg.colCount}" class="ang-empty">${MEMBER_UI.loadError}</td></tr>`;
                         console.error('Anggota fetch error:', err);
                     });
             }
@@ -1333,7 +1364,7 @@
 
                 if (!data.data || data.data.length === 0) {
                     tbody.innerHTML =
-                        `<tr><td colspan="${cfg.colCount}" class="ang-empty">Belum ada data anggota di kategori ini.</td></tr>`;
+                        `<tr><td colspan="${cfg.colCount}" class="ang-empty">${MEMBER_UI.noMembers}</td></tr>`;
                     return;
                 }
 
@@ -1353,7 +1384,7 @@
 
                 if (filtered.length === 0) {
                     tbody.innerHTML =
-                        `<tr><td colspan="${cfg.colCount}" class="ang-empty">Tidak ada hasil untuk pencarian "${escapeHtml(search)}".</td></tr>`;
+                        `<tr><td colspan="${cfg.colCount}" class="ang-empty">${MEMBER_UI.noSearchResults}</td></tr>`;
                     return;
                 }
 
@@ -1380,7 +1411,7 @@
                 prev.type = 'button';
                 prev.className = 'ang-pg-btn';
                 prev.disabled = active === 1;
-                prev.innerHTML = arrowLeft + ' Prev';
+                prev.innerHTML = arrowLeft + ' ' + MEMBER_UI.previous;
                 if (!prev.disabled) prev.onclick = () => renderTable(tabId, active - 1);
                 pag.appendChild(prev);
 
@@ -1408,7 +1439,7 @@
                 next.type = 'button';
                 next.className = 'ang-pg-btn';
                 next.disabled = active === total;
-                next.innerHTML = 'Next ' + arrowRight;
+                next.innerHTML = MEMBER_UI.next + ' ' + arrowRight;
                 if (!next.disabled) next.onclick = () => renderTable(tabId, active + 1);
                 pag.appendChild(next);
             }
@@ -1418,7 +1449,7 @@
                 if (!info || !data) return;
                 const label = TAB_LABELS[tabId] || '';
                 const total = data.total || (data.data ? data.data.length : 0);
-                info.innerHTML = `<strong>${total}</strong> anggota di ${label}`;
+                info.innerHTML = `<strong>${total}</strong> ${MEMBER_UI.membersIn} ${label}`;
             }
 
             // ====== Tab Switching ======
