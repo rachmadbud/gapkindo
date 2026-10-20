@@ -7,8 +7,10 @@ use App\Models\IndonesiaProductionDataset;
 use App\Services\IndonesiaProductionSpreadsheetImporter;
 use Illuminate\Http\Request;
 use Illuminate\Http\UploadedFile;
+use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Schema;
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 use Tests\TestCase;
@@ -33,6 +35,21 @@ class IndonesiaProductionTest extends TestCase
             '--path' => 'database/migrations/2026_10_20_000000_create_indonesia_production_tables.php',
             '--force' => true,
         ]);
+    }
+
+    public function test_migration_resumes_when_table_creation_succeeded_before_index_failure(): void
+    {
+        Schema::table('indonesia_productions', function (Blueprint $table) {
+            $table->dropIndex('indonesia_productions_dataset_position_idx');
+        });
+
+        $migration = require database_path('migrations/2026_10_20_000000_create_indonesia_production_tables.php');
+        $migration->up();
+
+        $this->assertTrue(Schema::hasIndex(
+            'indonesia_productions',
+            'indonesia_productions_dataset_position_idx'
+        ));
     }
 
     public function test_public_production_page_displays_database_data_for_selected_period(): void
