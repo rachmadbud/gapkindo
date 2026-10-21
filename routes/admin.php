@@ -31,3 +31,7 @@ Route::get('export-destinations/template', 'Admin\\ExportDestinationController@d
 Route::get('indonesia-production', 'Admin\\IndonesiaProductionController@index')->name('indonesiaProduction');
 Route::post('indonesia-production/upload', 'Admin\\IndonesiaProductionController@upload')->name('indonesiaProduction.upload');
 Route::get('indonesia-production/template', 'Admin\\IndonesiaProductionController@downloadTemplate')->name('indonesiaProduction.template');
+
+Route::get('global-production', 'Admin\\GlobalProductionController@index')->name('globalProduction');
+Route::post('global-production/upload', 'Admin\\GlobalProductionController@upload')->name('globalProduction.upload');
+Route::get('global-production/template', 'Admin\\GlobalProductionController@downloadTemplate')->name('globalProduction.template');

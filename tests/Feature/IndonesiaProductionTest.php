@@ -11,6 +11,7 @@ use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Schema;
+use Illuminate\Validation\ValidationException;
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 use Tests\TestCase;
@@ -127,6 +128,69 @@ class IndonesiaProductionTest extends TestCase
             $this->assertCount(2, $dataset->productions);
             $this->assertSame('Sumatera Utara', $dataset->productions->first()->province);
             $this->assertEquals(12345.678, $dataset->productions->first()->production_ton);
+        } finally {
+            @unlink($path);
+        }
+    }
+
+    public function test_invalid_production_error_identifies_the_column_and_cell(): void
+    {
+        $spreadsheet = new Spreadsheet();
+        $spreadsheet->getActiveSheet()->fromArray([
+            ['PROVINSI', 'PRODUKSI (TON)'],
+            ['Jawa Barat', 'bukan angka'],
+        ]);
+
+        $this->assertImporterErrorContains($spreadsheet, ['B2', 'Ton', 'bukan angka']);
+    }
+
+    public function test_missing_production_header_error_names_the_missing_column(): void
+    {
+        $spreadsheet = new Spreadsheet();
+        $spreadsheet->getActiveSheet()->fromArray([
+            ['PROVINSI', 'JUMLAH'],
+            ['Jawa Barat', 100],
+        ]);
+
+        $this->assertImporterErrorContains($spreadsheet, ['Produksi (Ton)']);
+    }
+
+    public function test_duplicate_province_error_identifies_the_duplicate_cell(): void
+    {
+        $spreadsheet = new Spreadsheet();
+        $spreadsheet->getActiveSheet()->fromArray([
+            ['PROVINSI', 'PRODUKSI (TON)'],
+            ['Jawa Barat', 100],
+            ['Jawa Barat', 200],
+        ]);
+
+        $this->assertImporterErrorContains($spreadsheet, ['Jawa Barat', 'A3']);
+    }
+
+    private function assertImporterErrorContains(Spreadsheet $spreadsheet, array $expectedFragments): void
+    {
+        $path = tempnam(sys_get_temp_dir(), 'production-invalid-');
+        (new Xlsx($spreadsheet))->save($path);
+        $spreadsheet->disconnectWorksheets();
+
+        try {
+            $file = new UploadedFile(
+                $path,
+                'invalid.xlsx',
+                'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
+                null,
+                true
+            );
+
+            try {
+                (new IndonesiaProductionSpreadsheetImporter())->import($file);
+                $this->fail('Expected the Excel importer to reject invalid data.');
+            } catch (ValidationException $exception) {
+                $message = $exception->errors()['excel'][0];
+                foreach ($expectedFragments as $fragment) {
+                    $this->assertStringContainsString($fragment, $message);
+                }
+            }
         } finally {
             @unlink($path);
         }

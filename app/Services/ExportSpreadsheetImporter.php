@@ -4,6 +4,7 @@ namespace App\Services;
 
 use Illuminate\Http\UploadedFile;
 use Illuminate\Validation\ValidationException;
+use PhpOffice\PhpSpreadsheet\Cell\Coordinate;
 use PhpOffice\PhpSpreadsheet\IOFactory;
 
 class ExportSpreadsheetImporter
@@ -17,7 +18,7 @@ class ExportSpreadsheetImporter
         $spreadsheet = $reader->load($file->getRealPath());
         $sheet = $spreadsheet->getActiveSheet();
         $highestColumnIndex = min(
-            \PhpOffice\PhpSpreadsheet\Cell\Coordinate::columnIndexFromString($sheet->getHighestDataColumn()),
+            Coordinate::columnIndexFromString($sheet->getHighestDataColumn()),
             26
         );
         $highestRow = $sheet->getHighestDataRow();
@@ -25,6 +26,9 @@ class ExportSpreadsheetImporter
         $headerEndRow = 0;
 
         for ($row = 1; $row <= min($highestRow, 10); $row++) {
+            $rowHeaders = [];
+            $rowHeaderCells = [];
+
             for ($column = 1; $column <= $highestColumnIndex; $column++) {
                 $header = $this->normalizeHeader($sheet->getCell([$column, $row])->getValue());
 
@@ -32,30 +36,59 @@ class ExportSpreadsheetImporter
                     continue;
                 }
 
+                $headerType = null;
                 if (str_contains($header, 'negara') || str_contains($header, 'country')) {
-                    $headers['country'] = $column;
+                    $headerType = 'country';
                 } elseif (str_contains($header, 'volume')) {
-                    $headers['volume'] = $column;
+                    $headerType = 'volume';
                 } elseif (str_contains($header, 'nilai') || str_contains($header, 'value')) {
-                    $headers['value'] = $column;
+                    $headerType = 'value';
                 }
 
-                if (count($headers) === 3) {
-                    $headerEndRow = $row;
-                    break 2;
+                if ($headerType !== null) {
+                    $cell = Coordinate::stringFromColumnIndex($column) . $row;
+
+                    if (isset($rowHeaderCells[$headerType])) {
+                        throw ValidationException::withMessages([
+                            'excel' => __('global.guest.spreadsheetDuplicateHeader', [
+                                'column' => $this->headerLabel($headerType),
+                                'firstCell' => $rowHeaderCells[$headerType],
+                                'duplicateCell' => $cell,
+                            ]),
+                        ]);
+                    }
+
+                    $rowHeaders[$headerType] = $column;
+                    $rowHeaderCells[$headerType] = $cell;
                 }
+            }
+
+            $headers = array_merge($headers, $rowHeaders);
+
+            if (count($headers) === 3) {
+                $headerEndRow = $row;
+                break;
             }
         }
 
         if (count($headers) !== 3) {
+            $missingHeaders = [];
+            foreach (['country', 'volume', 'value'] as $header) {
+                if (!isset($headers[$header])) {
+                    $missingHeaders[] = $this->headerLabel($header);
+                }
+            }
+
             throw ValidationException::withMessages([
-                'excel' => 'Kolom Excel harus memuat Negara Tujuan, Volume (KG), dan Nilai (US$).',
+                'excel' => __('global.guest.spreadsheetMissingHeaders', [
+                    'columns' => implode(__('global.guest.spreadsheetHeaderSeparator'), $missingHeaders),
+                ]),
             ]);
         }
 
         if ($highestRow - $headerEndRow > self::MAX_DESTINATIONS + 1) {
             throw ValidationException::withMessages([
-                'excel' => 'File Excel melebihi batas 1.000 negara tujuan.',
+                'excel' => __('global.guest.exportDestinationsExcelRowLimit'),
             ]);
         }
 
@@ -63,11 +96,36 @@ class ExportSpreadsheetImporter
         $seenCountries = [];
 
         for ($row = $headerEndRow + 1; $row <= $highestRow; $row++) {
+            $countryCell = Coordinate::stringFromColumnIndex($headers['country']) . $row;
+            $volumeCell = Coordinate::stringFromColumnIndex($headers['volume']) . $row;
+            $valueCell = Coordinate::stringFromColumnIndex($headers['value']) . $row;
             $countryValue = $sheet->getCell([$headers['country'], $row])->getValue();
+            $volumeValue = $sheet->getCell([$headers['volume'], $row])->getValue();
+            $valueValue = $sheet->getCell([$headers['value'], $row])->getValue();
             $country = trim((string) ($countryValue ?? ''));
 
-            if ($country === '' || str_starts_with($country, '=')) {
+            if ($country === ''
+                && $this->isEmptyNumber($volumeValue)
+                && $this->isEmptyNumber($valueValue)) {
                 continue;
+            }
+
+            if ($country === '') {
+                throw ValidationException::withMessages([
+                    'excel' => __('global.guest.exportDestinationExcelCountryRequired', [
+                        'cell' => $countryCell,
+                        'volumeCell' => $volumeCell,
+                        'valueCell' => $valueCell,
+                    ]),
+                ]);
+            }
+
+            if (str_starts_with($country, '=')) {
+                throw ValidationException::withMessages([
+                    'excel' => __('global.guest.exportDestinationExcelInvalidCountry', [
+                        'cell' => $countryCell,
+                    ]),
+                ]);
             }
 
             if (preg_match('/^total\b/i', $country)) {
@@ -77,12 +135,15 @@ class ExportSpreadsheetImporter
             $countryKey = mb_strtolower($country);
             if (isset($seenCountries[$countryKey])) {
                 throw ValidationException::withMessages([
-                    'excel' => "Negara tujuan {$country} tercantum lebih dari sekali.",
+                    'excel' => __('global.guest.exportDestinationExcelDuplicateCountry', [
+                        'country' => $country,
+                        'cell' => $countryCell,
+                    ]),
                 ]);
             }
 
-            $volume = $this->parseNumber($sheet->getCell([$headers['volume'], $row])->getValue(), $row, 'Volume');
-            $value = $this->parseNumber($sheet->getCell([$headers['value'], $row])->getValue(), $row, 'Nilai');
+            $volume = $this->parseNumber($volumeValue, $volumeCell, __('global.guest.exportVolume'));
+            $value = $this->parseNumber($valueValue, $valueCell, __('global.guest.exportValue'));
 
             $seenCountries[$countryKey] = true;
             $destinations[] = [
@@ -94,14 +155,14 @@ class ExportSpreadsheetImporter
 
             if (count($destinations) > self::MAX_DESTINATIONS) {
                 throw ValidationException::withMessages([
-                    'excel' => 'File Excel melebihi batas 1.000 negara tujuan.',
+                    'excel' => __('global.guest.exportDestinationsExcelRowLimit'),
                 ]);
             }
         }
 
         if ($destinations === []) {
             throw ValidationException::withMessages([
-                'excel' => 'File Excel tidak berisi baris negara tujuan.',
+                'excel' => __('global.guest.exportDestinationsExcelEmpty'),
             ]);
         }
 
@@ -113,9 +174,25 @@ class ExportSpreadsheetImporter
         return strtolower(trim((string) $value));
     }
 
-    private function parseNumber(mixed $value, int $row, string $column): ?float
+    private function headerLabel(string $header): string
     {
-        if ($value === null || trim((string) $value) === '' || in_array(trim((string) $value), ['-', '–', '—'], true)) {
+        return match ($header) {
+            'country' => __('global.guest.exportDestinationCountry'),
+            'volume' => __('global.guest.exportVolume'),
+            'value' => __('global.guest.exportValue'),
+        };
+    }
+
+    private function isEmptyNumber(mixed $value): bool
+    {
+        return $value === null
+            || trim((string) $value) === ''
+            || in_array(trim((string) $value), ['-', '–', '—'], true);
+    }
+
+    private function parseNumber(mixed $value, string $cell, string $column): ?float
+    {
+        if ($this->isEmptyNumber($value)) {
             return null;
         }
 
@@ -125,7 +202,11 @@ class ExportSpreadsheetImporter
             $normalized = str_replace([',', ' '], '', trim((string) $value));
             if (!preg_match('/^-?\d+(?:\.\d+)?$/', $normalized)) {
                 throw ValidationException::withMessages([
-                    'excel' => "Nilai {$column} pada baris {$row} bukan angka yang valid.",
+                    'excel' => __('global.guest.spreadsheetNumberInvalid', [
+                        'column' => $column,
+                        'cell' => $cell,
+                        'value' => (string) $value,
+                    ]),
                 ]);
             }
 
@@ -134,7 +215,11 @@ class ExportSpreadsheetImporter
 
         if (!is_finite($number) || $number < 0) {
             throw ValidationException::withMessages([
-                'excel' => "Nilai {$column} pada baris {$row} harus berupa angka positif.",
+                'excel' => __('global.guest.spreadsheetNumberNegative', [
+                    'column' => $column,
+                    'cell' => $cell,
+                    'value' => (string) $value,
+                ]),
             ]);
         }
 

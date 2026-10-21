@@ -13,11 +13,7 @@
     <div class="gpk-sidebar-title">{{ $sidebarTitle ?? __('global.guest.statistics') }}</div>
 
     <ul class="gpk-sidebar-menu">
-        @foreach ($sidebarItems ?? [
-            ['route' => 'statistik', 'icon' => 'fa-tachometer-alt', 'label' => __('global.guest.dashboard')],
-            ['route' => 'tujuan-ekspor', 'icon' => 'fa-shipping-fast', 'label' => __('global.guest.exportDestinations')],
-            ['route' => 'produksi-indonesia', 'icon' => 'fa-flag', 'label' => __('global.guest.productionInIndonesia')],
-        ] as $item)
+        @foreach ($sidebarItems ?? [['route' => 'statistik', 'icon' => 'fa-tachometer-alt', 'label' => __('global.guest.dashboard')], ['route' => 'tujuan-ekspor', 'icon' => 'fa-shipping-fast', 'label' => __('global.guest.exportDestinations')], ['route' => 'produksi-indonesia', 'icon' => 'fa-flag', 'label' => __('global.guest.productionInIndonesia')], ['route' => 'produksi-global', 'icon' => 'fas fa-industry', 'label' => __('global.guest.productionGlobal')]] as $item)
             <li>
                 <a href="{{ route($item['route']) }}" class="{{ request()->routeIs($item['route']) ? 'active' : '' }}">
                     <i class="nav-icon fas {{ $item['icon'] }}"></i> {{ $item['label'] }}
