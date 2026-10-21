@@ -26,7 +26,8 @@
             <section class="gpk-stat-cards" aria-label="{{ __('global.guest.chartSummary') }}">
                 <article class="gpk-stat-card">
                     <div class="gpk-stat-card-top">
-                        <span class="gpk-stat-label">{{ __('global.guest.lastPrice') }} · {{ __('global.guest.october') }} 2026</span>
+                        <span class="gpk-stat-label">{{ __('global.guest.lastPrice') }} · {{ __('global.guest.october') }}
+                            2026</span>
                         <span class="gpk-stat-icon"><i class="fas fa-dollar-sign" aria-hidden="true"></i></span>
                     </div>
                     <p class="gpk-stat-value">258,2 <span class="gpk-stat-unit">US$/kg</span></p>
@@ -47,19 +48,22 @@
                         <span class="gpk-stat-label">{{ __('global.guest.tradingViewSymbol') }}</span>
                         <span class="gpk-stat-icon"><i class="fas fa-chart-line" aria-hidden="true"></i></span>
                     </div>
-                    <p class="gpk-stat-value">SGX:TF1!</p>
+                    <p class="gpk-stat-value">SICOM TSR20</p>
                     <p class="gpk-stat-caption">Singapore Exchange · TSR20</p>
                 </article>
             </section>
 
-            <section class="gpk-stat-main-grid gpk-stat-main-grid--single" aria-label="{{ __('global.guest.priceTrends') }}">
+            <section class="gpk-stat-main-grid gpk-stat-main-grid--single"
+                aria-label="{{ __('global.guest.priceTrends') }}">
                 <article class="gpk-stat-panel">
                     <div class="gpk-stat-panel-heading">
                         <div>
                             <h2>{{ __('global.guest.sicomChartTitle') }}</h2>
                             <p>{{ __('global.guest.estimatedMonthlyLevels') }}</p>
                         </div>
-                        <span class="gpk-stat-tag">{{ strtoupper(__('global.guest.january')) }}–{{ strtoupper(__('global.guest.october')) }} 2026</span>
+                        <span
+                            class="gpk-stat-tag">{{ strtoupper(__('global.guest.january')) }}–{{ strtoupper(__('global.guest.october')) }}
+                            2026</span>
                     </div>
                     <div class="gpk-price-overview-chart">
                         <div class="gpk-price-overview-chart">
@@ -72,7 +76,8 @@
 
                         <a class="gpk-price-chart-action" href="https://id.tradingview.com/chart/?symbol=SGX%3ATF1%21"
                             target="_blank" rel="noopener noreferrer">
-                            {{ __('global.guest.viewTradingView') }} <i class="fas fa-external-link-alt" aria-hidden="true"></i>
+                            {{ __('global.guest.viewTradingView') }} <i class="fas fa-external-link-alt"
+                                aria-hidden="true"></i>
                         </a>
                 </article>
             </section>

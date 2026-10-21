@@ -108,7 +108,7 @@ return [
   'sumber' => 'Sumber',
   'deskripsi' => 'Deskripsi',
   'detail' => 'Detail',
-  'regulasi' => 'Regulasi',
+  'external' => 'Tautan Eksternal',
   'tanggal' => 'Tanggal',
 
   'tentangKami' => 'Tentang Kami',

@@ -103,7 +103,7 @@ return [
   'sumber' => 'Source',
   'deskripsi' => 'Description',
   'detail' => 'Details',
-  'regulasi' => 'Regulations',
+  'external' => 'External Links',
   'sekretaris' => 'Secretary General',
 
   'tanggal' => 'Date',

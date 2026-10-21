@@ -818,7 +818,7 @@
 
                 <li class="gpk-nav__item gpk-nav__item--dropdown">
                     <a class="gpk-nav__link" href="#" role="button" aria-expanded="false">
-                        <i class="fas fa-book"></i>{{ __('global.regulasi') }}
+                        <i class="fas fa-book"></i>{{ __('global.external') }}
                         <i class="fas fa-chevron-down gpk-nav__caret"></i>
                     </a>
                     <div class="gpk-nav__dropdown gpk-nav__dropdown--wide">
