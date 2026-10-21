@@ -871,11 +871,26 @@
                     </div>
                 </li>
 
-                <li class="gpk-nav__item">
-                    <a class="gpk-nav__link {{ request()->routeIs('harga', 'sicom-tsr20') ? 'is-active' : '' }}"
-                        href="{{ route('harga') }}">
-                        <i class="fas fa-dollar-sign"></i>{{ __('global.guest.price') }}
+                <li class="gpk-nav__item gpk-nav__item--dropdown {{ request()->routeIs('harga', 'sicom-tsr20', 'sustainability-rubber') ? 'is-active' : '' }}"
+                    data-dropdown>
+                    <a class="gpk-nav__link" href="#" role="button" aria-expanded="false">
+                        <i class="fas fa-address-card"></i>{{ __('global.guest.information') }}
+                        <i class="fas fa-chevron-down gpk-nav__caret"></i>
                     </a>
+                    <ul class="gpk-nav__dropdown">
+                        <li>
+                            <a class="gpk-nav__dropdown-item {{ request()->routeIs('harga', 'sicom-tsr20') ? 'is-active' : '' }}"
+                                href="{{ route('harga') }}">
+                                <i class="fas fa-dollar-sign"></i>{{ __('global.guest.price') }}
+                            </a>
+                        </li>
+                        <li>
+                            <a class="gpk-nav__dropdown-item {{ request()->routeIs('sustainability-rubber') ? 'is-active' : '' }}"
+                                href="{{ route('sustainability-rubber') }}">
+                                <i class="fas fa-leaf me-1"></i>{{ __('global.guest.sustainabilityRubberTitle') }}
+                            </a>
+                        </li>
+                    </ul>
                 </li>
 
             </ul>

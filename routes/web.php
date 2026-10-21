@@ -123,6 +123,9 @@ Route::get('/produksi-indonesia', 'StatistikController@produksiIndonesia')->name
 // produksi global
 Route::get('/produksi-global', 'StatistikController@produksiGlobal')->name('produksi-global');
 
+// Sustainability Rubber
+Route::view('/sustainability-rubber', 'guest.sustainability-rubber')->name('sustainability-rubber');
+
 // prices dashboard and SICOM TSR20 chart
 Route::view('/harga', 'guest.harga.index')->name('harga');
 Route::view('/sicom-tsr20', 'guest.harga.sicom-tsr20')->name('sicom-tsr20');
