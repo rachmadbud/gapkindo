@@ -871,7 +871,7 @@
                     </div>
                 </li>
 
-                <li class="gpk-nav__item gpk-nav__item--dropdown {{ request()->routeIs('harga', 'sicom-tsr20', 'sustainability-rubber') ? 'is-active' : '' }}"
+                <li class="gpk-nav__item gpk-nav__item--dropdown {{ request()->routeIs('harga', 'sicom-tsr20', 'sustainability-rubber', 'hs-code') ? 'is-active' : '' }}"
                     data-dropdown>
                     <a class="gpk-nav__link" href="#" role="button" aria-expanded="false">
                         <i class="fas fa-address-card"></i>{{ __('global.guest.information') }}
@@ -888,6 +888,12 @@
                             <a class="gpk-nav__dropdown-item {{ request()->routeIs('sustainability-rubber') ? 'is-active' : '' }}"
                                 href="{{ route('sustainability-rubber') }}">
                                 <i class="fas fa-leaf me-1"></i>{{ __('global.guest.sustainabilityRubberTitle') }}
+                            </a>
+                        </li>
+                        <li>
+                            <a class="gpk-nav__dropdown-item {{ request()->routeIs('hs-code') ? 'is-active' : '' }}"
+                                href="{{ route('hs-code') }}">
+                                <i class="fas fa-barcode"></i>{{ __('global.guest.kode-hs') }}
                             </a>
                         </li>
                     </ul>
