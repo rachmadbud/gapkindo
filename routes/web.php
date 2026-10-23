@@ -121,7 +121,7 @@ Route::get('/tujuan-ekspor', 'StatistikController@tujuanEkspor')->name('tujuan-e
 Route::get('/produksi-indonesia', 'StatistikController@produksiIndonesia')->name('produksi-indonesia');
 
 // produksi global
-Route::get('/produksi-global', 'StatistikController@produksiGlobal')->name('produksi-global');
+Route::view('/produksi-global', 'guest.statistik.produksi-global')->name('produksi-global');
 
 // Sustainability Rubber
 Route::view('/sustainability-rubber', 'guest.sustainability-rubber')->name('sustainability-rubber');

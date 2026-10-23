@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Data\IndonesiaRubberProductionData;
 use App\Models\ExportDataset;
 use App\Models\ExportDestination;
 use App\Models\GlobalProductionDataset;
@@ -131,6 +132,38 @@ class StatistikController extends Controller
                 'production_ton' => (float) $production->production_ton,
             ])->all()
             : [];
+        $historicalProduction = IndonesiaRubberProductionData::all();
+        $historicalProduction['series'] = array_map(function ($series) {
+            $series['label'] = trans('global.guest.productionHistorySeries.' . $series['key']);
+
+            return $series;
+        }, $historicalProduction['series']);
+        $historicalProduction['labels'] = [
+            'thousandTonnes' => __('global.guest.thousandTonnes'),
+            'thousandTonnesShort' => __('global.guest.thousandTonnesShort'),
+            'year' => __('global.guest.year'),
+            'productionAxis' => __('global.guest.productionHistoryAxis'),
+        ];
+        $yearTotals = [];
+        foreach ($historicalProduction['years'] as $index => $year) {
+            $yearTotals[$year] = array_sum(array_map(
+                fn($series) => $series['values'][$index],
+                $historicalProduction['series']
+            ));
+        }
+        $totalProductionHistory = array_sum($yearTotals);
+        $peakProduction = max($yearTotals);
+        $historicalProduction['summary'] = [
+            'period' => count($yearTotals),
+            'peakYear' => (string) array_search($peakProduction, $yearTotals, true),
+            'peakProduction' => $peakProduction,
+            'averageProduction' => $totalProductionHistory / count($yearTotals),
+            'shares' => [],
+        ];
+        foreach ($historicalProduction['series'] as $series) {
+            $historicalProduction['summary']['shares'][$series['key']] =
+                array_sum($series['values']) / $totalProductionHistory * 100;
+        }
 
         return view('guest.statistik.produksi-indonesia', [
             'months' => $this->localizedMonths(),
@@ -140,6 +173,7 @@ class StatistikController extends Controller
             'productions' => $productions,
             'totalProduction' => array_sum(array_column($productions, 'production_ton')),
             'chartMaximum' => max(1, max(array_column($productions, 'production_ton') ?: [0])),
+            'historicalProduction' => $historicalProduction,
         ]);
     }
 

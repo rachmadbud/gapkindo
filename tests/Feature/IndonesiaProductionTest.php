@@ -2,6 +2,7 @@
 
 namespace Tests\Feature;
 
+use App\Data\IndonesiaRubberProductionData;
 use App\Http\Controllers\Admin\IndonesiaProductionController;
 use App\Models\IndonesiaProductionDataset;
 use App\Services\IndonesiaProductionSpreadsheetImporter;
@@ -22,6 +23,7 @@ class IndonesiaProductionTest extends TestCase
     {
         parent::setUp();
 
+        app()->setLocale('id');
         config([
             'database.default' => 'sqlite',
             'database.connections.sqlite.database' => ':memory:',
@@ -65,13 +67,43 @@ class IndonesiaProductionTest extends TestCase
             ['province' => 'Jawa Barat', 'production_ton' => 2655, 'position' => 2],
         ]);
 
-        $this->get('/produksi-indonesia?month=5&year=2025')
+        $this->withCookie('locale', 'id')
+            ->get('/produksi-indonesia?month=5&year=2025')
             ->assertOk()
             ->assertSee('Produksi Indonesia')
             ->assertSee('Mei')
             ->assertSee('Sumatera Utara')
-            ->assertSee('12.345,500 ton')
+            ->assertSee('12.345,500')
             ->assertSee('15.000,500');
+    }
+
+    public function test_public_production_page_displays_historical_chart_data_and_hover_points(): void
+    {
+        $historicalProduction = IndonesiaRubberProductionData::all();
+        $this->assertCount(57, $historicalProduction['years']);
+        foreach ($historicalProduction['series'] as $series) {
+            $this->assertCount(57, $series['values']);
+        }
+        $this->assertEquals(3111.253, $historicalProduction['series'][0]['values'][48]);
+        $this->assertEquals(3680.428, array_sum(array_map(
+            fn($series) => $series['values'][47],
+            $historicalProduction['series']
+        )));
+
+        $this->get('/produksi-indonesia')
+            ->assertOk()
+            ->assertSee('Produksi Karet Indonesia')
+            ->assertSee('PR (Perkebunan Rakyat)')
+            ->assertSee('PBN (Perkebunan Besar Negara)')
+            ->assertSee('PBS (Perkebunan Besar Swasta)')
+            ->assertSee('2025*)')
+            ->assertSee('2026**)')
+            ->assertSee('Direktorat Jenderal Perkebunan')
+            ->assertSee('Dashboard Analitik Produksi Karet Indonesia')
+            ->assertSee('3.680,4')
+            ->assertSee('79,7%')
+            ->assertDontSee('Mode area')
+            ->assertSee('gpk-history-point', false);
     }
 
     public function test_admin_upload_replaces_production_data_for_the_selected_period(): void

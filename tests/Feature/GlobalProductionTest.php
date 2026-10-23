@@ -40,7 +40,7 @@ class GlobalProductionTest extends TestCase
         ]);
     }
 
-    public function test_public_production_page_displays_data_for_selected_period(): void
+    public function test_public_production_page_displays_coming_soon_notice(): void
     {
         $dataset = GlobalProductionDataset::create([
             'month' => 5,
@@ -55,12 +55,9 @@ class GlobalProductionTest extends TestCase
         $this->get('/produksi-global?month=5&year=2025')
             ->assertOk()
             ->assertSee('Produksi Global')
-            ->assertSee('Negara tercatat')
-            ->assertSee('Produksi berdasarkan negara')
-            ->assertSee('Mei')
-            ->assertSee('Indonesia')
-            ->assertSee('12.345,500 ton')
-            ->assertSee('15.000,500');
+            ->assertSee('Segera Hadir')
+            ->assertSee('Nantikan sesuatu yang menarik!')
+            ->assertSee('Kembali ke Dasbor');
     }
 
     public function test_admin_upload_replaces_data_for_the_selected_period(): void
